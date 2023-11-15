@@ -1,3 +1,8 @@
+---
+tags:
+  - ComputerScience
+  - Sort
+---
 
 https://gmlwjd9405.github.io/2018/05/08/algorithm-shell-sort.html
 # Shell sort란 무엇인가
@@ -19,7 +24,38 @@ https://gmlwjd9405.github.io/2018/05/08/algorithm-shell-sort.html
 
 - 이후 각 그룹별로 삽입정렬
 -  간격을 줄여가면서 간격 1까지 하면 정렬완료
-#### 간격을 마지막엔 반드시 1로 해해야함
+
+#### 간격을 마지막엔 반드시 1로 해야함
 - 왜냐하면 다른 그룹에 속해 서로 비교되지않은 숫자가 있을 수 있기 때문
 -  모든원소를 1개의 그룹으로 여기는 것이고 이는 ,삽입정렬 그 자체
 
+## Time Complexity
+
+- 사용하는 간격에 따라 분석해야 함
+- 최악의 경우 : 히바드의 간격 O(^1.5)
+- 아직 풀리지 않은문제다
+-  가장좋은 간격을 알아내야하는것이 선행되어야 하기 때문
+
+# 쉘 정렬의 특성
+- 입력의 크기가 매우 크지 않은 경우에 매우 좋은 성능을 보임
+- 임베디드 시스템에서 주로 사용 
+  - 간격에따른 그룹별 정렬 방식이 H/W로 정렬알고리즘을 구현하는 데 매우 적합함
+
+# 실습코드
+
+``` python
+A=[30,60,90,10,40,80,40,20,10,60,50,30,40,90,80]
+n=len(A)
+
+for h in range(5,0,-1): # h == each_gap
+    for i in range(h, n):
+        CurrentElement=A[i]
+        j=i
+        while j>=h and A[j-h]>CurrentElement:
+            A[j]=A[j-h]
+            j=j-h
+
+        A[j]=CurrentElement
+
+print(A)
+```

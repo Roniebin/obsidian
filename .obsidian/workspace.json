@@ -86,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "53782f952c545f52",
@@ -156,6 +157,7 @@
   },
   "active": "fb65395d5f434d14",
   "lastOpenFiles": [
+    "Pasted image 20231115165004.png",
     "1. Computer science/알고리즘/Sort/Sorting Algorithm.md",
     "1. Computer science/알고리즘/Sort/Shell Sort.md",
     "1. Computer science/알고리즘/Sort/Heap Sort.md",
@@ -182,7 +184,6 @@
     "1. Computer science/코틀린/클래스/오브젝트 클래스.md",
     "1. Computer science/코틀린/클래스/생성자.md",
     "1. Computer science/코틀린/클래스/상속.md",
-    "1. Computer science/코틀린/클래스/데이터 클래스.md",
     "1. Computer science/임배디드 시스템/아두이노/전기전자기초",
     "1. Computer science/임배디드 시스템/아두이노/이론",
     "1. Computer science/임배디드 시스템/아두이노/센서",

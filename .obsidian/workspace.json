@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Index/To-do list.md",
+                "file": "1. Computer science/알고리즘/Sort/Shell_Sort.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Index/To-do list.md"
+                "file": "1. Computer science/알고리즘/Sort/Shell_Sort.md"
               }
             }
           },
@@ -138,7 +138,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 205.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -153,8 +154,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cbf9507727815cfd",
+  "active": "f7a55f8fca209795",
   "lastOpenFiles": [
+    "1. Computer science/알고리즘/Sort/Bubble Sort.md",
+    "1. Computer science/알고리즘/Sort/Shell_Sort.md",
+    "0. Index/To-do list.md",
     "README.md",
     "1. Computer science/임배디드 시스템/아두이노/전기전자기초/전압분배공식.md",
     "1. Computer science/임배디드 시스템/아두이노/전기전자기초/전압과 전류.md",
@@ -178,9 +182,6 @@
     "1. Computer science/코틀린/클래스/데이터 클래스.md",
     "1. Computer science/코틀린/컬렉션 타입/List,Set,Map.md",
     "1. Computer science/코틀린/컬렉션 타입/Array.md",
-    "1. Computer science/코틀린/이벤트/이벤트처리.md",
-    "1. Computer science/코틀린/안드로이드/컴포넌트.md",
-    "1. Computer science/코틀린/안드로이드/안드로이드란.md",
     "1. Computer science/임배디드 시스템/아두이노/전기전자기초",
     "1. Computer science/임배디드 시스템/아두이노/이론",
     "1. Computer science/임배디드 시스템/아두이노/센서",

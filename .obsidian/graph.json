@@ -1,0 +1,37 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#English  ",
+      "color": {
+        "a": 1,
+        "rgb": 16595524
+      }
+    },
+    {
+      "query": "tag:#ComputerScience  ",
+      "color": {
+        "a": 1,
+        "rgb": 16644184
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -1.1,
+  "nodeSizeMultiplier": 0.675571725571726,
+  "lineSizeMultiplier": 0.695945945945946,
+  "collapse-forces": false,
+  "centerStrength": 0.504158004158004,
+  "repelStrength": 9.75051975051975,
+  "linkStrength": 1,
+  "linkDistance": 275,
+  "scale": 0.4452910818991697,
+  "close": false
+}

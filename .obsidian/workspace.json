@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "d4370addc83ac8c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce64bd770bf348fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb65395d5f434d14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Index/To-do list.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb0ca46d6ed03cbb",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "672ca6f1c14f22c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c014ccec409af66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7a55f8fca209795",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cf8c86af894b4a8b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#ComputerScience",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e59e1d75dfd163fc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "f07020a7ed52e39b",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "53782f952c545f52",
+    "type": "split",
+    "children": [
+      {
+        "id": "813eb2279ef699e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e61133dad988d63f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5d71f0875e58c28f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "0. Index/To-do list.md"
+              }
+            }
+          },
+          {
+            "id": "fe4d493780cdbcfd",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "cbf9507727815cfd",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "random-note:랜덤 노트 열기": false,
+      "markdown-importer:마크다운 형식 가져오기 열기": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "f7a55f8fca209795",
+  "lastOpenFiles": [
+    "README.md",
+    "1. Computer science/코틀린/이벤트/이벤트처리.md",
+    "1. Computer science/코틀린/클래스/오브젝트 클래스.md",
+    "0. Index/To-do list.md",
+    "2. English Notes/words/Low-key.md",
+    "1. Computer science/머신러닝/CNN.md",
+    "1. Computer science/알고리즘/다이나믹 프로그래밍/DP.md",
+    "1. Computer science/알고리즘/다이나믹 프로그래밍/kanpsack 배낭문제.md",
+    "1. Computer science/알고리즘/다이나믹 프로그래밍/편집거리 알고리즘.md",
+    "1. Computer science/알고리즘/다이나믹 프로그래밍/연쇄행렬 최소곱셈.md",
+    "2. English Notes/words/Ivy+Bean.md",
+    "1. Computer science/코틀린/이벤트",
+    "Pasted image 20231105173410.png",
+    "Excalidraw/Drawing 2023-11-11 17.08.58.excalidraw.md",
+    "Excalidraw",
+    "1. Computer science/머신러닝/MLP.md",
+    "Pasted image 20231111144937.png",
+    "Pasted image 20231111144627.png",
+    "Pasted image 20231111144610.png",
+    "Pasted image 20231111144449.png",
+    "Pasted image 20231111144424.png",
+    "Pasted image 20231111144224.png",
+    "Pasted image 20231111143605.png",
+    "1. Computer science/머신러닝/gradient descent.md",
+    "Pasted image 20231111142542.png",
+    "1. Computer science/알고리즘/Sort/Insertion Sort.md",
+    "Pasted image 20231110141726.png",
+    "1. Computer science/알고리즘/Sort/Selection Sort.md",
+    "1. Computer science/알고리즘/Sort/Bubble Sort.md",
+    "1. Computer science/알고리즘/Sort/.md",
+    "1. Computer science/알고리즘/Sort/Sorting_Algorithm.md",
+    "1. Computer science/알고리즘/Sort/Merge Sort.md",
+    "1. Computer science/알고리즘/Sort/Quick sort.md",
+    "1. Computer science/멀티미디어/DCT.md",
+    "1. Computer science/멀티미디어/JPEG,GIF,PNG.md",
+    "1. Computer science/멀티미디어/YIQ.md",
+    "1. Computer science/멀티미디어/SGML,HTML,XML.md",
+    "1. Computer science/멀티미디어/학교수업/비디오압축.md",
+    "1. Computer science/파이썬",
+    "1. Computer science/알고리즘/다이나믹 프로그래밍",
+    "Context/spacesLastSync.log",
+    "Context",
+    "2. English Notes/words",
+    "2. English Notes/diffrence between similar words",
+    ".md",
+    "1. Computer science/멀티미디어/학교수업",
+    "무제 파일.canvas",
+    "무제 파일 1.canvas"
+  ]
+}

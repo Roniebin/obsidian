@@ -138,7 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 205.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -153,7 +153,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f7a55f8fca209795",
+  "active": "cbf9507727815cfd",
   "lastOpenFiles": [
     "1. Computer science/임배디드 시스템/아두이노/전기전자기초/전압분배공식.md",
     "1. Computer science/임배디드 시스템/아두이노/전기전자기초/전압과 전류.md",

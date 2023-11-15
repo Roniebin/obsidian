@@ -86,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "53782f952c545f52",
@@ -154,7 +155,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f7a55f8fca209795",
+  "active": "fb65395d5f434d14",
   "lastOpenFiles": [
     "1. Computer science/알고리즘/Sort/Bubble Sort.md",
     "1. Computer science/알고리즘/Sort/Shell_Sort.md",

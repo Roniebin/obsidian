@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Computer science/머신러닝/VGG-16.md",
+                "file": "0. Index/To-do list.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "53782f952c545f52",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Computer science/머신러닝/VGG-16.md"
+                "file": "0. Index/To-do list.md"
               }
             }
           },
@@ -157,10 +156,10 @@
   },
   "active": "fb65395d5f434d14",
   "lastOpenFiles": [
+    "1. Computer science/머신러닝/VGG-16.md",
     "Pasted image 20231116161007.png",
     "Pasted image 20231116154148.png",
     "1. Computer science/머신러닝/Basecode_Simplified_VGG_CIFAR10.md",
-    "1. Computer science/머신러닝/VGG-16.md",
     "1. Computer science/알고리즘/Sort/Heap Sort.md",
     "1. Computer science/머신러닝/MLP.md",
     "1. Computer science/머신러닝/CNN.md",
@@ -202,7 +201,6 @@
     "Images/Pasted image 20231105173333.png",
     "Images/Pasted image 20231105172326.png",
     "Images/Pasted image 20231111144937.png",
-    "Images/Pasted image 20231111144627.png",
     "무제 파일.canvas",
     "무제 파일 1.canvas"
   ]

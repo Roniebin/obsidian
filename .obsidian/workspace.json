@@ -11,8 +11,13 @@
             "id": "fb65395d5f434d14",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1. Computer science/알고리즘/Sort/Heap Sort.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           },
           {
@@ -107,7 +112,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1. Computer science/알고리즘/Sort/Heap Sort.md"
+              }
             }
           },
           {

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Computer science/머신러닝/Basecode_Simplified_VGG_CIFAR10.md",
+                "file": "1. Computer science/머신러닝/SGD(확률적 경사하강법).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Computer science/머신러닝/Basecode_Simplified_VGG_CIFAR10.md"
+                "file": "1. Computer science/머신러닝/SGD(확률적 경사하강법).md"
               }
             }
           },
@@ -156,14 +156,14 @@
   },
   "active": "fb65395d5f434d14",
   "lastOpenFiles": [
+    "1. Computer science/머신러닝/CNN.md",
+    "1. Computer science/머신러닝/Basecode_Simplified_VGG_CIFAR10.md",
     "0. Index/To-do list.md",
     "1. Computer science/머신러닝/VGG-16.md",
     "Pasted image 20231116161007.png",
     "Pasted image 20231116154148.png",
-    "1. Computer science/머신러닝/Basecode_Simplified_VGG_CIFAR10.md",
     "1. Computer science/알고리즘/Sort/Heap Sort.md",
     "1. Computer science/머신러닝/MLP.md",
-    "1. Computer science/머신러닝/CNN.md",
     "1. Computer science/머신러닝/gradient descent.md",
     "1. Computer science/머신러닝/SGD(확률적 경사하강법).md",
     "Pasted image 20231116152055.png",

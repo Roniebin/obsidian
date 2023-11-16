@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Computer science/알고리즘/Sort/Heap Sort.md",
+                "file": "1. Computer science/머신러닝/SimplifiedVGG_dense.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "53782f952c545f52",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Computer science/알고리즘/Sort/Heap Sort.md"
+                "file": "1. Computer science/머신러닝/SimplifiedVGG_dense.md"
               }
             }
           },
@@ -155,12 +154,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fb65395d5f434d14",
+  "active": "f7a55f8fca209795",
   "lastOpenFiles": [
+    "1. Computer science/머신러닝/Basecode_Simplified_VGG_CIFAR10.md",
+    "1. Computer science/머신러닝/SimplifiedVGG_dense.md",
+    "1. Computer science/알고리즘/Sort/Heap Sort.md",
     "Pasted image 20231115165004.png",
     "1. Computer science/알고리즘/Sort/Sorting Algorithm.md",
     "1. Computer science/알고리즘/Sort/Shell Sort.md",
-    "1. Computer science/알고리즘/Sort/Heap Sort.md",
     "Pasted image 20231115163414.png",
     "1. Computer science/알고리즘/Sort/Bubble Sort.md",
     "0. Index/To-do list.md",
@@ -183,7 +184,6 @@
     "1. Computer science/코틀린/클래스/컴패니언 클래스.md",
     "1. Computer science/코틀린/클래스/오브젝트 클래스.md",
     "1. Computer science/코틀린/클래스/생성자.md",
-    "1. Computer science/코틀린/클래스/상속.md",
     "1. Computer science/임배디드 시스템/아두이노/전기전자기초",
     "1. Computer science/임배디드 시스템/아두이노/이론",
     "1. Computer science/임배디드 시스템/아두이노/센서",
@@ -202,7 +202,6 @@
     "Images/Pasted image 20231111144627.png",
     "Images/Pasted image 20231111144610.png",
     "Images/Pasted image 20231111144449.png",
-    "Images/Pasted image 20231111144424.png",
     "무제 파일.canvas",
     "무제 파일 1.canvas"
   ]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Computer science/머신러닝/gradient descent.md",
+                "file": "1. Computer science/알고리즘/Sort/Heap Sort.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Computer science/머신러닝/gradient descent.md"
+                "file": "1. Computer science/알고리즘/Sort/Heap Sort.md"
               }
             }
           },
@@ -156,8 +156,10 @@
   },
   "active": "fb65395d5f434d14",
   "lastOpenFiles": [
-    "1. Computer science/머신러닝/SimplifiedVGG_dense.md",
+    "1. Computer science/알고리즘/유클리드 최대공약수.md",
+    "1. Computer science/알고리즘/분할 정복 알고리즘.md",
     "1. Computer science/머신러닝/gradient descent.md",
+    "1. Computer science/머신러닝/SimplifiedVGG_dense.md",
     "1. Computer science/머신러닝/Basecode_Simplified_VGG_CIFAR10.md",
     "0. Index/To-do list.md",
     "1. Computer science/알고리즘/Sort/Heap Sort.md",
@@ -182,8 +184,6 @@
     "1. Computer science/코틀린/함수/고차함수(Higher-order functions).md",
     "1. Computer science/코틀린/함수/CallBack 함수.md",
     "1. Computer science/코틀린/클래스/클래스선언.md",
-    "1. Computer science/코틀린/클래스/컴패니언 클래스.md",
-    "1. Computer science/코틀린/클래스/오브젝트 클래스.md",
     "1. Computer science/임배디드 시스템/아두이노/전기전자기초",
     "1. Computer science/임배디드 시스템/아두이노/이론",
     "1. Computer science/임배디드 시스템/아두이노/센서",

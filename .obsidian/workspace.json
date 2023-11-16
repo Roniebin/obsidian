@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Computer science/알고리즘/Sort/Heap Sort.md",
+                "file": "1. Computer science/머신러닝/gradient descent.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Computer science/알고리즘/Sort/Heap Sort.md"
+                "file": "1. Computer science/머신러닝/gradient descent.md"
               }
             }
           },
@@ -156,16 +156,16 @@
   },
   "active": "fb65395d5f434d14",
   "lastOpenFiles": [
-    "1. Computer science/머신러닝/Basecode_Simplified_VGG_CIFAR10.md",
-    "1. Computer science/머신러닝/gradient descent.md",
     "1. Computer science/머신러닝/SimplifiedVGG_dense.md",
+    "1. Computer science/머신러닝/gradient descent.md",
+    "1. Computer science/머신러닝/Basecode_Simplified_VGG_CIFAR10.md",
+    "0. Index/To-do list.md",
     "1. Computer science/알고리즘/Sort/Heap Sort.md",
     "Pasted image 20231115165004.png",
     "1. Computer science/알고리즘/Sort/Sorting Algorithm.md",
     "1. Computer science/알고리즘/Sort/Shell Sort.md",
     "Pasted image 20231115163414.png",
     "1. Computer science/알고리즘/Sort/Bubble Sort.md",
-    "0. Index/To-do list.md",
     "README.md",
     "1. Computer science/임배디드 시스템/아두이노/전기전자기초/전압분배공식.md",
     "1. Computer science/임배디드 시스템/아두이노/전기전자기초/전압과 전류.md",

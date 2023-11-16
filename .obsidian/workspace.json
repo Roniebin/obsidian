@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Computer science/머신러닝/CNN.md",
+                "file": "1. Computer science/머신러닝/gradient descent.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Computer science/머신러닝/CNN.md"
+                "file": "1. Computer science/머신러닝/gradient descent.md"
               }
             }
           },
@@ -156,6 +156,7 @@
   },
   "active": "fb65395d5f434d14",
   "lastOpenFiles": [
+    "1. Computer science/머신러닝/CNN.md",
     "1. Computer science/알고리즘/Sort/Heap Sort.md",
     "1. Computer science/알고리즘/유클리드 최대공약수.md",
     "1. Computer science/알고리즘/분할 정복 알고리즘.md",
@@ -183,7 +184,6 @@
     "1. Computer science/코틀린/함수/람다함수.md",
     "1. Computer science/코틀린/함수/고차함수(Higher-order functions).md",
     "1. Computer science/코틀린/함수/CallBack 함수.md",
-    "1. Computer science/코틀린/클래스/클래스선언.md",
     "1. Computer science/임배디드 시스템/아두이노/전기전자기초",
     "1. Computer science/임배디드 시스템/아두이노/이론",
     "1. Computer science/임배디드 시스템/아두이노/센서",

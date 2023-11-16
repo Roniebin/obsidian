@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Computer science/머신러닝/gradient descent.md",
+                "file": "1. Computer science/머신러닝/SGD(확률적 경사하강법).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Computer science/머신러닝/gradient descent.md"
+                "file": "1. Computer science/머신러닝/SGD(확률적 경사하강법).md"
               }
             }
           },
@@ -156,11 +156,13 @@
   },
   "active": "fb65395d5f434d14",
   "lastOpenFiles": [
+    "1. Computer science/머신러닝/gradient descent.md",
+    "1. Computer science/머신러닝/SGD(확률적 경사하강법).md",
+    "Pasted image 20231116152055.png",
     "1. Computer science/머신러닝/CNN.md",
     "1. Computer science/알고리즘/Sort/Heap Sort.md",
     "1. Computer science/알고리즘/유클리드 최대공약수.md",
     "1. Computer science/알고리즘/분할 정복 알고리즘.md",
-    "1. Computer science/머신러닝/gradient descent.md",
     "1. Computer science/머신러닝/SimplifiedVGG_dense.md",
     "1. Computer science/머신러닝/Basecode_Simplified_VGG_CIFAR10.md",
     "0. Index/To-do list.md",
@@ -183,7 +185,6 @@
     "1. Computer science/코틀린/함수/일반함수.md",
     "1. Computer science/코틀린/함수/람다함수.md",
     "1. Computer science/코틀린/함수/고차함수(Higher-order functions).md",
-    "1. Computer science/코틀린/함수/CallBack 함수.md",
     "1. Computer science/임배디드 시스템/아두이노/전기전자기초",
     "1. Computer science/임배디드 시스템/아두이노/이론",
     "1. Computer science/임배디드 시스템/아두이노/센서",
@@ -201,7 +202,6 @@
     "Images/Pasted image 20231111144937.png",
     "Images/Pasted image 20231111144627.png",
     "Images/Pasted image 20231111144610.png",
-    "Images/Pasted image 20231111144449.png",
     "무제 파일.canvas",
     "무제 파일 1.canvas"
   ]

@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -120,7 +120,7 @@
             }
           },
           {
-            "id": "1182be28cfb085d9",
+            "id": "d54ffc4ff5f6c05d",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -147,7 +147,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1182be28cfb085d9",
+  "active": "cf8c86af894b4a8b",
   "lastOpenFiles": [
     "1. Computer science/알고리즘/트리/사이클 검사.md",
     "1. Computer science/알고리즘/Sort/Quick sort.md",

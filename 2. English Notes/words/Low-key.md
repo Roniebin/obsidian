@@ -23,6 +23,7 @@ we are planning a low-key birtday party for my friend, just a few of us getting 
 i prefer a low-key lifestyle, where i can relax and spend time with close friends without attracting too much attention
 난 내가 편하게 쉴수있고 많은 관심을 받기보다는 가까운 친구들과 시간을 보내는 절제된 라이프스타일을 선호한다.
 
+
 the party last night was really low-key, with just a few people hanging out and chatting over drinks
 어제 밤 파티는 정말 조용한, 작은 파티였어요, 몇명이 만나서 술마시며 수다떠는 그런자리였어요
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. English Notes/words/Low-key.md",
+                "file": "2. English Notes/words/무제 파일.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. English Notes/words/Low-key.md"
+                "file": "2. English Notes/words/무제 파일.md"
               }
             }
           },
@@ -153,8 +153,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fb65395d5f434d14",
+  "active": "f7a55f8fca209795",
   "lastOpenFiles": [
+    "2. English Notes/words/hold something back.md",
+    "2. English Notes/words/gym words.md",
+    "2. English Notes/words/Low-key.md",
     "2. English Notes/words/무제 파일.md",
     "1. Computer science/알고리즘/트리/사이클 검사.md",
     "1. Computer science/알고리즘/Sort/Quick sort.md",
@@ -166,7 +169,7 @@
     "1. Computer science/알고리즘/Sort/Shell Sort.md",
     "1. Computer science/알고리즘/Sort/Heap Sort.md",
     "1. Computer science/알고리즘/Sort/Insertion Sort.md",
-    "2. English Notes/phrasal_verb.md",
+    "2. English Notes/words/phrasal_verb.md",
     "0. Index/To-do list.md",
     "1. Computer science/머신러닝/Basecode_Simplified_VGG_CIFAR10.md",
     "1. Computer science/머신러닝/SGD(확률적 경사하강법).md",
@@ -185,9 +188,6 @@
     "1. Computer science/알고리즘/Sort/Bubble Sort.md",
     "README.md",
     "1. Computer science/임배디드 시스템/아두이노/전기전자기초/전압분배공식.md",
-    "1. Computer science/임배디드 시스템/아두이노/전기전자기초/전압과 전류.md",
-    "1. Computer science/임배디드 시스템/아두이노/전기전자기초/전기 저항.md",
-    "1. Computer science/임배디드 시스템/아두이노/전기전자기초/전극.md",
     "1. Computer science/임배디드 시스템/아두이노/전기전자기초",
     "1. Computer science/임배디드 시스템/아두이노/이론",
     "1. Computer science/임배디드 시스템/아두이노/센서",

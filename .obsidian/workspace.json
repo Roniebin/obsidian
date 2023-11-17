@@ -11,8 +11,13 @@
             "id": "fb65395d5f434d14",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2. English Notes/words/Low-key.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           },
           {
@@ -77,8 +82,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -108,7 +112,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2. English Notes/words/Low-key.md"
+              }
             }
           },
           {
@@ -147,8 +153,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cf8c86af894b4a8b",
+  "active": "fb65395d5f434d14",
   "lastOpenFiles": [
+    "2. English Notes/words/무제 파일.md",
     "1. Computer science/알고리즘/트리/사이클 검사.md",
     "1. Computer science/알고리즘/Sort/Quick sort.md",
     "1. Computer science/알고리즘/Sort/External Sort.md",
@@ -181,7 +188,6 @@
     "1. Computer science/임배디드 시스템/아두이노/전기전자기초/전압과 전류.md",
     "1. Computer science/임배디드 시스템/아두이노/전기전자기초/전기 저항.md",
     "1. Computer science/임배디드 시스템/아두이노/전기전자기초/전극.md",
-    "1. Computer science/임배디드 시스템/아두이노/이론/INPUT_PULLUP.md",
     "1. Computer science/임배디드 시스템/아두이노/전기전자기초",
     "1. Computer science/임배디드 시스템/아두이노/이론",
     "1. Computer science/임배디드 시스템/아두이노/센서",

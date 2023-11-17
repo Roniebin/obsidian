@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. English Notes/phrasal_verb.md",
+                "file": "1. Computer science/알고리즘/Sort/Shell Sort.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. English Notes/phrasal_verb.md"
+                "file": "1. Computer science/알고리즘/Sort/Shell Sort.md"
               }
             }
           },
@@ -156,6 +156,9 @@
   },
   "active": "fb65395d5f434d14",
   "lastOpenFiles": [
+    "1. Computer science/알고리즘/Sort/Heap Sort.md",
+    "1. Computer science/알고리즘/Sort/Insertion Sort.md",
+    "2. English Notes/phrasal_verb.md",
     "0. Index/To-do list.md",
     "1. Computer science/머신러닝/Basecode_Simplified_VGG_CIFAR10.md",
     "1. Computer science/머신러닝/SGD(확률적 경사하강법).md",
@@ -163,7 +166,6 @@
     "1. Computer science/머신러닝/VGG-16.md",
     "Pasted image 20231116161007.png",
     "Pasted image 20231116154148.png",
-    "1. Computer science/알고리즘/Sort/Heap Sort.md",
     "1. Computer science/머신러닝/MLP.md",
     "1. Computer science/머신러닝/gradient descent.md",
     "Pasted image 20231116152055.png",
@@ -185,7 +187,6 @@
     "1. Computer science/임배디드 시스템/아두이노/센서/조이스틱.md",
     "1. Computer science/임배디드 시스템/아두이노/센서/아날로그 수위센서.md",
     "1. Computer science/임배디드 시스템/아두이노/센서/마이크로폰 모듈.md",
-    "1. Computer science/임배디드 시스템/아두이노/센서/Cds 센서.md",
     "1. Computer science/임배디드 시스템/아두이노/전기전자기초",
     "1. Computer science/임배디드 시스템/아두이노/이론",
     "1. Computer science/임배디드 시스템/아두이노/센서",

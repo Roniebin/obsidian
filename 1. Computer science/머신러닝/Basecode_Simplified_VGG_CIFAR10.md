@@ -66,7 +66,7 @@ class SimplifiedVGG_Skip(nn.Module):
 
 
   def forward(self, x):
-    #-----------------------------------------------------------------
+    
     # Convolution, ReLU, MaxPool layer
     skip_y=self.conv_skip1(x)
     y = self.relu(self.conv1_1(x))

@@ -11,13 +11,8 @@
             "id": "fb65395d5f434d14",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. English Notes/words/무제 파일.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -112,9 +107,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2. English Notes/words/무제 파일.md"
-              }
+              "state": {}
             }
           },
           {
@@ -153,12 +146,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f7a55f8fca209795",
+  "active": "fb65395d5f434d14",
   "lastOpenFiles": [
+    "2. English Notes/words/무제 파일.md",
     "2. English Notes/words/hold something back.md",
     "2. English Notes/words/gym words.md",
     "2. English Notes/words/Low-key.md",
-    "2. English Notes/words/무제 파일.md",
     "1. Computer science/알고리즘/트리/사이클 검사.md",
     "1. Computer science/알고리즘/Sort/Quick sort.md",
     "1. Computer science/알고리즘/Sort/External Sort.md",

@@ -10,12 +10,11 @@ tags:
 
 - Bob: Can you come to dinner tomorrow? 
 	내일 저녁자리에 올래?  
-  
 - Jane: By all means. I'd love to.  
 	ㅇㅇ! 물론이지!  
 - If you can find a use for this old computer, by all means keep it.  
 	이 오래된 컴퓨터의 용도를 찾을 수 있다면 꼭 갖고있어!  
-  
+
 - Hey you gotta come see the play by all means!  
 	너 공연 꼭 보러 와야해!
 

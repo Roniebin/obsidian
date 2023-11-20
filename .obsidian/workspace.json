@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. English Notes/words/phrasel_verb2.md",
+                "file": "0. Index/To-do list.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. English Notes/words/phrasel_verb2.md"
+                "file": "0. Index/To-do list.md"
               }
             }
           },
@@ -153,8 +153,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f7a55f8fca209795",
+  "active": "fb65395d5f434d14",
   "lastOpenFiles": [
+    "2. English Notes/words/phrasel_verb2.md",
     "1. Computer science/머신러닝/skip,dense,channel attention.md",
     "1. Computer science/머신러닝/VGG-16.md",
     "1. Computer science/멀티미디어/DCT.md",
@@ -164,7 +165,6 @@
     "1. Computer science/머신러닝/Basecode_Simplified_VGG_CIFAR10.md",
     "1. Computer science/머신러닝/SGD(확률적 경사하강법).md",
     "1. Computer science/머신러닝/MLP.md",
-    "2. English Notes/words/phrasel_verb2.md",
     "2. English Notes/words/hold something back.md",
     "2. English Notes/words/gym words.md",
     "2. English Notes/words/Low-key.md",

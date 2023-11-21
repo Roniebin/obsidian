@@ -45,7 +45,6 @@ tags:
 - he turned down the job offer because it didnt align with his career goals
   그는 본인 커리어의 목표와 맞지 않는다는 이유로 채용제의를 거절했다.
 
-
 # just carry on and do your best
 
 계속해서 최선을 다해!

@@ -42,4 +42,12 @@ be fed up with: 참을 수 없을 정도로 지긋지긋함을 느낄때 사용�
 - B: come, you gotta watch this. it is such a neck and neck competition
     빨리와서 너도봐! 완전 막상막하 경기야
 
+- how is she feeling?
+- i think she got nervous a lot. you know, they've always been neck and neck.
+    엄청 긴장하고있어, 너도 알다시피 얘들 항상 막상막하잖아
 
+- no one knows who's gonna get it in the end
+    마지막에 누가 웃을지는 모르는거지
+
+- you are right ,. they all are neck and neck
+    맞아. 다들 막상막하라서

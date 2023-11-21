@@ -19,3 +19,27 @@ be fed up with: 참을 수 없을 정도로 지긋지긋함을 느낄때 사용�
 
 - we are fed up with the constant noise from the construction
     우리는 지속적인 공사 소음에 진저리가 나요
+
+
+---------------------------
+
+# Neck and Neck
+
+- 막상막하로 ,대등하게
+
+- they were neck and neck in the polls
+    그들은 여론조사에서 막상 막하였다.
+  
+- the are running neck and neck
+    그들은 앞서거니 뒤서거니 달리고 있어요
+
+- this is a neck and neck race
+    이것은 막상막하의 경주이다
+
+------------------------------------------------------------------
+
+- A: how is it going 
+- B: come, you gotta watch this. it is such a neck and neck competition
+    빨리와서 너도봐! 완전 막상막하 경기야
+
+

@@ -28,7 +28,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,9 +113,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2. English Notes/words/hold something back.md"
-              }
+              "state": {}
             }
           },
           {
@@ -153,15 +152,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fb65395d5f434d14",
+  "active": "cb0ca46d6ed03cbb",
   "lastOpenFiles": [
+    "2. English Notes/words/hold something back.md",
     "2. English Notes/words/gym words.md",
     "2. English Notes/words/fed up with.md",
     "2. English Notes/Simple_Expression/better yet.md",
     "2. English Notes/Simple_Expression/by all means.md",
     "2. English Notes/Simple_Expression/is it just me.md",
     "2. English Notes/Simple_Expression/that's not my bag.md",
-    "2. English Notes/words/hold something back.md",
     "2. English Notes/words/Ivy+Bean.md",
     "2. English Notes/words/Low-key.md",
     "2. English Notes/words/phrasal_verb.md",

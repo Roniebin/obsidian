@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Computer science/코틀린/이벤트/intent.md",
+                "file": "1. Computer science/코틀린/이벤트/무제 파일.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "53782f952c545f52",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Computer science/코틀린/이벤트/intent.md"
+                "file": "1. Computer science/코틀린/이벤트/무제 파일.md"
               }
             }
           },
@@ -156,8 +155,9 @@
   },
   "active": "fb65395d5f434d14",
   "lastOpenFiles": [
-    "0. Index/To-do list.md",
     "1. Computer science/코틀린/이벤트/intent.md",
+    "1. Computer science/코틀린/이벤트/무제 파일.md",
+    "0. Index/To-do list.md",
     "1. Computer science/머신러닝/Basecode_Simplified_VGG_CIFAR10.md",
     "1. Computer science/머신러닝/VGG-16.md",
     "1. Computer science/머신러닝/skip,dense,channel attention.md",
@@ -181,7 +181,6 @@
     "1. Computer science/머신러닝/gradient descent.md",
     "1. Computer science/알고리즘/트리/사이클 검사.md",
     "1. Computer science/알고리즘/Sort/Quick sort.md",
-    "1. Computer science/알고리즘/Sort/External Sort.md",
     "Pasted image 20231117094240.png",
     "Pasted image 20231117094158.png",
     "Pasted image 20231116161007.png",

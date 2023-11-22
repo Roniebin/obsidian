@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Index/To-do list.md",
+                "file": "1. Computer science/코틀린/이벤트/intent.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "53782f952c545f52",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Index/To-do list.md"
+                "file": "1. Computer science/코틀린/이벤트/intent.md"
               }
             }
           },
@@ -155,6 +156,8 @@
   },
   "active": "fb65395d5f434d14",
   "lastOpenFiles": [
+    "0. Index/To-do list.md",
+    "1. Computer science/코틀린/이벤트/intent.md",
     "1. Computer science/머신러닝/Basecode_Simplified_VGG_CIFAR10.md",
     "1. Computer science/머신러닝/VGG-16.md",
     "1. Computer science/머신러닝/skip,dense,channel attention.md",
@@ -173,14 +176,12 @@
     "2. English Notes/words/Low-key.md",
     "2. English Notes/words/phrasal_verb.md",
     "2. English Notes/words/phrasel_verb2.md",
-    "0. Index/To-do list.md",
     "README.md",
     "1. Computer science/멀티미디어/DCT.md",
     "1. Computer science/머신러닝/gradient descent.md",
     "1. Computer science/알고리즘/트리/사이클 검사.md",
     "1. Computer science/알고리즘/Sort/Quick sort.md",
     "1. Computer science/알고리즘/Sort/External Sort.md",
-    "1. Computer science/알고리즘/Sort/Radix Sort.md",
     "Pasted image 20231117094240.png",
     "Pasted image 20231117094158.png",
     "Pasted image 20231116161007.png",

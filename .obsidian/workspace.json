@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Computer science/코틀린/이벤트/객체 불러오기.md",
+                "file": "1. Computer science/코틀린/이벤트/intent.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Computer science/코틀린/이벤트/객체 불러오기.md"
+                "file": "1. Computer science/코틀린/이벤트/intent.md"
               }
             }
           },
@@ -156,8 +156,8 @@
   },
   "active": "fb65395d5f434d14",
   "lastOpenFiles": [
-    "1. Computer science/코틀린/이벤트/intent.md",
     "1. Computer science/코틀린/이벤트/객체 불러오기.md",
+    "1. Computer science/코틀린/이벤트/intent.md",
     "0. Index/To-do list.md",
     "1. Computer science/머신러닝/Basecode_Simplified_VGG_CIFAR10.md",
     "1. Computer science/머신러닝/VGG-16.md",

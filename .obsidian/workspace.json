@@ -11,8 +11,13 @@
             "id": "fb65395d5f434d14",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1. Computer science/코틀린/데이터베이스.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           },
           {
@@ -107,7 +112,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1. Computer science/코틀린/데이터베이스.md"
+              }
             }
           },
           {
@@ -148,6 +155,7 @@
   },
   "active": "fb65395d5f434d14",
   "lastOpenFiles": [
+    "1. Computer science/코틀린/데이터베이스.md",
     "2. English Notes/Simple_Expression/by all means.md",
     "2. English Notes/Simple_Expression/is it just me.md",
     "2. English Notes/diffrence between similar words/readiness, willingness.md",
@@ -173,7 +181,6 @@
     "2. English Notes/words/Ivy+Bean.md",
     "2. English Notes/words/Low-key.md",
     "2. English Notes/words/phrasal_verb.md",
-    "2. English Notes/words/phrasel_verb2.md",
     "Pasted image 20231117094240.png",
     "Pasted image 20231117094158.png",
     "Pasted image 20231116161007.png",

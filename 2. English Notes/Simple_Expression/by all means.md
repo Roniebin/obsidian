@@ -31,7 +31,7 @@ By any means 는 "어떤 수를 써서라도" 라는 뜻으로 가장 많이 쓰
 병에 남은 한 방울 한 방울을 어떤 수를 써서라도 다 마셔야해!
 
 - I must win this contest by any means, fair or unfair.  
-공정하든 아니던 상관 없이 이 경기는 어떤 수를 써서라도 이겨야 한다.
+공정하든 아니던 상관 없이 이 경기는 어떤 수 를 써서라도 이겨야 한다.
 
 I have to post up this video by today by any means.  
 이 영상 무슨 수를 써서라도 오늘 올려야해  

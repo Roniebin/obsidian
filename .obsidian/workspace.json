@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Computer science/코틀린/데이터베이스.md",
+                "file": "1. Computer science/머신러닝/Basecode_Simplified_VGG_CIFAR10.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "53782f952c545f52",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Computer science/코틀린/데이터베이스.md"
+                "file": "1. Computer science/머신러닝/Basecode_Simplified_VGG_CIFAR10.md"
               }
             }
           },

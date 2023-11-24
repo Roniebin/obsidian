@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Computer science/머신러닝/Basecode_Simplified_VGG_CIFAR10.md",
+                "file": "1. Computer science/알고리즘/np complete.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Computer science/머신러닝/Basecode_Simplified_VGG_CIFAR10.md"
+                "file": "1. Computer science/알고리즘/np complete.md"
               }
             }
           },
@@ -126,7 +126,7 @@
             }
           },
           {
-            "id": "d54ffc4ff5f6c05d",
+            "id": "1ed0849b9d936161",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -138,8 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,6 +155,9 @@
   },
   "active": "fb65395d5f434d14",
   "lastOpenFiles": [
+    "0. Index/To-do list.md",
+    "1. Computer science/알고리즘/np complete.md",
+    "1. Computer science/머신러닝/Basecode_Simplified_VGG_CIFAR10.md",
     "1. Computer science/코틀린/데이터베이스.md",
     "2. English Notes/Simple_Expression/by all means.md",
     "2. English Notes/Simple_Expression/is it just me.md",
@@ -165,10 +167,8 @@
     "2. English Notes/diffrence between similar words/Suggest , propose.md",
     "2. English Notes/diffrence between similar words/keep,continue.md",
     "2. English Notes/diffrence between similar words/go over , go through.md",
-    "0. Index/To-do list.md",
     "1. Computer science/코틀린/이벤트/intent.md",
     "1. Computer science/코틀린/이벤트/객체 불러오기.md",
-    "1. Computer science/머신러닝/Basecode_Simplified_VGG_CIFAR10.md",
     "1. Computer science/머신러닝/VGG-16.md",
     "1. Computer science/머신러닝/skip,dense,channel attention.md",
     "1. Computer science/머신러닝/SGD(확률적 경사하강법).md",
@@ -181,7 +181,6 @@
     "2. English Notes/Simple_Expression/that's not my bag.md",
     "2. English Notes/words/Ivy+Bean.md",
     "2. English Notes/words/Low-key.md",
-    "2. English Notes/words/phrasal_verb.md",
     "Pasted image 20231117094240.png",
     "Pasted image 20231117094158.png",
     "Pasted image 20231116161007.png",

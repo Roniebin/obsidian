@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Computer science/알고리즘/np complete.md",
+                "file": "1. Computer science/코틀린/데이터베이스.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Computer science/알고리즘/np complete.md"
+                "file": "1. Computer science/코틀린/데이터베이스.md"
               }
             }
           },
@@ -153,10 +153,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f7a55f8fca209795",
+  "active": "fb65395d5f434d14",
   "lastOpenFiles": [
-    "0. Index/To-do list.md",
+    "1. Computer science/코틀린/이벤트/intent.md",
     "1. Computer science/알고리즘/np complete.md",
+    "0. Index/To-do list.md",
     "1. Computer science/머신러닝/Basecode_Simplified_VGG_CIFAR10.md",
     "1. Computer science/코틀린/데이터베이스.md",
     "2. English Notes/Simple_Expression/by all means.md",
@@ -167,7 +168,6 @@
     "2. English Notes/diffrence between similar words/Suggest , propose.md",
     "2. English Notes/diffrence between similar words/keep,continue.md",
     "2. English Notes/diffrence between similar words/go over , go through.md",
-    "1. Computer science/코틀린/이벤트/intent.md",
     "1. Computer science/코틀린/이벤트/객체 불러오기.md",
     "1. Computer science/머신러닝/VGG-16.md",
     "1. Computer science/머신러닝/skip,dense,channel attention.md",

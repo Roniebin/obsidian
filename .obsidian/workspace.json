@@ -82,7 +82,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -126,7 +127,7 @@
             }
           },
           {
-            "id": "1ed0849b9d936161",
+            "id": "5eeaf739993fb098",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -153,7 +154,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fb65395d5f434d14",
+  "active": "5eeaf739993fb098",
   "lastOpenFiles": [
     "1. Computer science/코틀린/이벤트/intent.md",
     "1. Computer science/알고리즘/np complete.md",

@@ -11,9 +11,17 @@
             "id": "fb65395d5f434d14",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "9ca93e3c33c4e187",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Computer science/코틀린/데이터베이스.md",
+                "file": "알고리즘 경우의수.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -28,7 +36,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -82,8 +91,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -114,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Computer science/코틀린/데이터베이스.md"
+                "file": "알고리즘 경우의수.md"
               }
             }
           },
@@ -154,13 +162,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5eeaf739993fb098",
+  "active": "9ca93e3c33c4e187",
   "lastOpenFiles": [
+    "알고리즘 경우의수.md",
+    "1. Computer science/코틀린/데이터베이스.md",
     "1. Computer science/코틀린/이벤트/intent.md",
     "1. Computer science/알고리즘/np complete.md",
     "0. Index/To-do list.md",
     "1. Computer science/머신러닝/Basecode_Simplified_VGG_CIFAR10.md",
-    "1. Computer science/코틀린/데이터베이스.md",
     "2. English Notes/Simple_Expression/by all means.md",
     "2. English Notes/Simple_Expression/is it just me.md",
     "2. English Notes/diffrence between similar words/readiness, willingness.md",
@@ -181,7 +190,6 @@
     "2. English Notes/words/fed up with.md",
     "2. English Notes/Simple_Expression/that's not my bag.md",
     "2. English Notes/words/Ivy+Bean.md",
-    "2. English Notes/words/Low-key.md",
     "Pasted image 20231117094240.png",
     "Pasted image 20231117094158.png",
     "Pasted image 20231116161007.png",

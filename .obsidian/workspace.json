@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘 경우의수.md",
+                "file": "0. Index/To-do list.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘 경우의수.md"
+                "file": "0. Index/To-do list.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             }
           },
           {
-            "id": "5eeaf739993fb098",
+            "id": "8f4ff384fc82f299",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",

@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Computer science/머신러닝/SVM 실습.md",
+                "file": "알고리즘 경우의수.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Computer science/머신러닝/SVM 실습.md"
+                "file": "알고리즘 경우의수.md"
               }
             }
           },
@@ -164,8 +164,8 @@
   },
   "active": "9ca93e3c33c4e187",
   "lastOpenFiles": [
-    "1. Computer science/머신러닝/무제 파일.md",
     "1. Computer science/머신러닝/SVM 실습.md",
+    "1. Computer science/머신러닝/무제 파일.md",
     "1. Computer science/머신러닝/CNN.md",
     "1. Computer science/머신러닝/skip,dense,channel attention.md",
     "1. Computer science/머신러닝/SGD(확률적 경사하강법).md",

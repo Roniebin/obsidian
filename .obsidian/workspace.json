@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Index/To-do list.md",
+                "file": "1. Computer science/머신러닝/SVM 실습.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Index/To-do list.md"
+                "file": "1. Computer science/머신러닝/SVM 실습.md"
               }
             }
           },
@@ -164,8 +164,15 @@
   },
   "active": "9ca93e3c33c4e187",
   "lastOpenFiles": [
-    "1. Computer science/코틀린/함수/CallBack 함수.md",
+    "1. Computer science/머신러닝/무제 파일.md",
+    "1. Computer science/머신러닝/SVM 실습.md",
+    "1. Computer science/머신러닝/CNN.md",
+    "1. Computer science/머신러닝/skip,dense,channel attention.md",
+    "1. Computer science/머신러닝/SGD(확률적 경사하강법).md",
+    "1. Computer science/머신러닝/gradient descent.md",
+    "1. Computer science/머신러닝/무제 파일 1.md",
     "0. Index/To-do list.md",
+    "1. Computer science/코틀린/함수/CallBack 함수.md",
     "알고리즘 경우의수.md",
     "1. Computer science/코틀린/데이터베이스.md",
     "1. Computer science/코틀린/이벤트/intent.md",
@@ -181,15 +188,8 @@
     "2. English Notes/diffrence between similar words/go over , go through.md",
     "1. Computer science/코틀린/이벤트/객체 불러오기.md",
     "1. Computer science/머신러닝/VGG-16.md",
-    "1. Computer science/머신러닝/skip,dense,channel attention.md",
-    "1. Computer science/머신러닝/SGD(확률적 경사하강법).md",
-    "1. Computer science/머신러닝/무제 파일.md",
     "1. Computer science/머신러닝/MLP.md",
-    "1. Computer science/머신러닝/CNN.md",
     "2. English Notes/words/hold something back.md",
-    "2. English Notes/words/gym words.md",
-    "2. English Notes/words/fed up with.md",
-    "2. English Notes/Simple_Expression/that's not my bag.md",
     "Pasted image 20231117094240.png",
     "Pasted image 20231117094158.png",
     "Pasted image 20231116161007.png",

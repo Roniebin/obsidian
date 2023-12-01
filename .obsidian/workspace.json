@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Index/To-do list.md",
+                "file": "1. Computer science/알고리즘/다이나믹 프로그래밍/편집거리 알고리즘.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Index/To-do list.md"
+                "file": "1. Computer science/알고리즘/다이나믹 프로그래밍/편집거리 알고리즘.md"
               }
             }
           },
@@ -164,13 +164,14 @@
   },
   "active": "9ca93e3c33c4e187",
   "lastOpenFiles": [
+    "1. Computer science/알고리즘/트리/최단경로 찾기.md",
+    "0. Index/To-do list.md",
     "1. Computer science/머신러닝/CNN.md",
     "1. Computer science/머신러닝/MLP.md",
     "1. Computer science/머신러닝/skip,dense,channel attention.md",
     "1. Computer science/머신러닝/SVM 실습.md",
     "1. Computer science/머신러닝/SGD(확률적 경사하강법).md",
     "1. Computer science/머신러닝/VGG-16.md",
-    "0. Index/To-do list.md",
     "1. Computer science/머신러닝/gradient descent.md",
     "알고리즘 경우의수.md",
     "1. Computer science/머신러닝/무제 파일.md",
@@ -189,7 +190,6 @@
     "2. English Notes/diffrence between similar words/keep,continue.md",
     "2. English Notes/diffrence between similar words/go over , go through.md",
     "1. Computer science/코틀린/이벤트/객체 불러오기.md",
-    "2. English Notes/words/hold something back.md",
     "Pasted image 20231117094240.png",
     "Pasted image 20231117094158.png",
     "Pasted image 20231116161007.png",

@@ -1,3 +1,6 @@
+---
+tags: 머신러닝
+---
 
 
 # Support Vector Machine (GD Method)

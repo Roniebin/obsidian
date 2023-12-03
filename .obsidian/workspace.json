@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Index/To-do list.md",
+                "file": "1. Computer science/코틀린/액티비티/startActivityForResult.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Index/To-do list.md"
+                "file": "1. Computer science/코틀린/액티비티/startActivityForResult.md"
               }
             }
           },
@@ -165,7 +165,10 @@
   },
   "active": "9ca93e3c33c4e187",
   "lastOpenFiles": [
+    "Pasted image 20231203161215.png",
     "1. Computer science/코틀린/이벤트/intent.md",
+    "1. Computer science/코틀린/액티비티/startActivityForResult.md",
+    "1. Computer science/코틀린/액티비티",
     "0. Index/To-do list.md",
     "1. Computer science/알고리즘/Sort/Quick sort.md",
     "1. Computer science/알고리즘/Sort/Merge Sort.md",
@@ -189,8 +192,6 @@
     "1. Computer science/머신러닝/Basecode_Simplified_VGG_CIFAR10.md",
     "2. English Notes/Simple_Expression/by all means.md",
     "2. English Notes/Simple_Expression/is it just me.md",
-    "2. English Notes/diffrence between similar words/readiness, willingness.md",
-    "2. English Notes/diffrence between similar words/start, begin.md",
     "Pasted image 20231117094240.png",
     "Pasted image 20231117094158.png",
     "Pasted image 20231116161007.png",
@@ -207,7 +208,6 @@
     "1. Computer science/코틀린/이벤트",
     "1. Computer science/코틀린/안드로이드",
     "1. Computer science/임배디드 시스템/아두이노",
-    "1. Computer science/알고리즘/트리",
     "Images/Pasted image 20231105173453.png",
     "Images/Pasted image 20231105173410.png",
     "Images/Pasted image 20231105173333.png",

@@ -91,7 +91,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -135,7 +136,7 @@
             }
           },
           {
-            "id": "d8c744d0550a08ec",
+            "id": "02c6a91068e51f19",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -162,7 +163,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9ca93e3c33c4e187",
+  "active": "02c6a91068e51f19",
   "lastOpenFiles": [
     "1. Computer science/알고리즘/Sort/Quick sort.md",
     "1. Computer science/알고리즘/Sort/Merge Sort.md",

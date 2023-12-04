@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. English Notes/words/무제 파일.md",
+                "file": "1. Computer science/머신러닝/Basecode_Simplified_VGG_CIFAR10.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. English Notes/words/무제 파일.md"
+                "file": "1. Computer science/머신러닝/Basecode_Simplified_VGG_CIFAR10.md"
               }
             }
           },
@@ -164,8 +164,16 @@
   },
   "active": "9ca93e3c33c4e187",
   "lastOpenFiles": [
-    "1. Computer science/코틀린/이벤트/intent.md",
+    "1. Computer science/머신러닝/gradient descent.md",
+    "1. Computer science/머신러닝/skip,dense,channel attention.md",
+    "1. Computer science/머신러닝/SGD(확률적 경사하강법).md",
+    "1. Computer science/머신러닝/MLP.md",
+    "1. Computer science/머신러닝/Basecode_Simplified_VGG_CIFAR10.md",
+    "1. Computer science/머신러닝/VGG-16.md",
+    "1. Computer science/머신러닝/SVM 실습.md",
+    "1. Computer science/머신러닝/CNN.md",
     "2. English Notes/words/무제 파일.md",
+    "1. Computer science/코틀린/이벤트/intent.md",
     "Pasted image 20231203161215.png",
     "1. Computer science/코틀린/액티비티/startActivityForResult.md",
     "1. Computer science/코틀린/액티비티",
@@ -176,20 +184,12 @@
     "1. Computer science/알고리즘/Sort/Insertion Sort.md",
     "1. Computer science/알고리즘/다이나믹 프로그래밍/편집거리 알고리즘.md",
     "1. Computer science/알고리즘/트리/최단경로 찾기.md",
-    "1. Computer science/머신러닝/CNN.md",
-    "1. Computer science/머신러닝/MLP.md",
-    "1. Computer science/머신러닝/skip,dense,channel attention.md",
-    "1. Computer science/머신러닝/SVM 실습.md",
-    "1. Computer science/머신러닝/SGD(확률적 경사하강법).md",
-    "1. Computer science/머신러닝/VGG-16.md",
-    "1. Computer science/머신러닝/gradient descent.md",
     "알고리즘 경우의수.md",
     "1. Computer science/머신러닝/무제 파일.md",
     "1. Computer science/머신러닝/무제 파일 1.md",
     "1. Computer science/코틀린/함수/CallBack 함수.md",
     "1. Computer science/코틀린/데이터베이스.md",
     "1. Computer science/알고리즘/np complete.md",
-    "1. Computer science/머신러닝/Basecode_Simplified_VGG_CIFAR10.md",
     "2. English Notes/Simple_Expression/by all means.md",
     "2. English Notes/Simple_Expression/is it just me.md",
     "Pasted image 20231117094240.png",

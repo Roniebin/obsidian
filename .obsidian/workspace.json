@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Computer science/코틀린/액티비티/startActivityForResult.md",
+                "file": "2. English Notes/words/무제 파일.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Computer science/코틀린/액티비티/startActivityForResult.md"
+                "file": "2. English Notes/words/무제 파일.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             }
           },
           {
-            "id": "02c6a91068e51f19",
+            "id": "91532eeeb571b5cc",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -147,8 +147,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,8 +164,9 @@
   },
   "active": "9ca93e3c33c4e187",
   "lastOpenFiles": [
-    "Pasted image 20231203161215.png",
     "1. Computer science/코틀린/이벤트/intent.md",
+    "2. English Notes/words/무제 파일.md",
+    "Pasted image 20231203161215.png",
     "1. Computer science/코틀린/액티비티/startActivityForResult.md",
     "1. Computer science/코틀린/액티비티",
     "0. Index/To-do list.md",
@@ -210,7 +210,6 @@
     "1. Computer science/임배디드 시스템/아두이노",
     "Images/Pasted image 20231105173453.png",
     "Images/Pasted image 20231105173410.png",
-    "Images/Pasted image 20231105173333.png",
     "무제 파일.canvas",
     "무제 파일 1.canvas"
   ]

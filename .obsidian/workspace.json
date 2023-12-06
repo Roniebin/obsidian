@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. English Notes/Simple_Expression/better yet.md",
+                "file": "0. Index/To-do list.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. English Notes/Simple_Expression/better yet.md"
+                "file": "0. Index/To-do list.md"
               }
             }
           },
@@ -162,8 +162,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f7a55f8fca209795",
+  "active": "9ca93e3c33c4e187",
   "lastOpenFiles": [
+    "2. English Notes/Simple_Expression/better yet.md",
     "알고리즘 경우의수.md",
     "2. English Notes/diffrence between similar words/specially, especially.md",
     "2. English Notes/words/hold something back.md",
@@ -191,7 +192,6 @@
     "1. Computer science/알고리즘/트리/최단경로 찾기.md",
     "1. Computer science/머신러닝/무제 파일 1.md",
     "1. Computer science/코틀린/함수/CallBack 함수.md",
-    "1. Computer science/코틀린/데이터베이스.md",
     "Pasted image 20231117094240.png",
     "Pasted image 20231117094158.png",
     "Pasted image 20231116161007.png",

@@ -19,8 +19,13 @@
             "id": "9ca93e3c33c4e187",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1. Computer science/코틀린/액티비티/브로드캐스트 리시버.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           },
           {
@@ -116,7 +121,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1. Computer science/코틀린/액티비티/브로드캐스트 리시버.md"
+              }
             }
           },
           {
@@ -157,6 +164,9 @@
   },
   "active": "9ca93e3c33c4e187",
   "lastOpenFiles": [
+    "1. Computer science/코틀린/액티비티/startActivityForResult.md",
+    "1. Computer science/코틀린/액티비티/브로드캐스트 리시버.md",
+    "1. Computer science/코틀린/액티비티/무제 폴더",
     "다이나믹 프로그래밍.md",
     "전압분배방식.md",
     "1. Computer science/머신러닝/SGD(확률적 경사하강법).md",
@@ -190,9 +200,7 @@
     "1. Computer science/머신러닝/VGG-16.md",
     "1. Computer science/머신러닝/SVM 실습.md",
     "1. Computer science/머신러닝/CNN.md",
-    "1. Computer science/코틀린/이벤트/intent.md",
     "Pasted image 20231203161215.png",
-    "1. Computer science/코틀린/액티비티/startActivityForResult.md",
     "1. Computer science/코틀린/액티비티",
     "Pasted image 20231117094240.png",
     "1. Computer science/임배디드 시스템/아두이노/전기전자기초",
@@ -202,7 +210,6 @@
     "1. Computer science/코틀린/클래스",
     "1. Computer science/코틀린/컬렉션 타입",
     "1. Computer science/코틀린/이벤트",
-    "1. Computer science/코틀린/안드로이드",
     "무제 파일.canvas",
     "무제 파일 1.canvas"
   ]

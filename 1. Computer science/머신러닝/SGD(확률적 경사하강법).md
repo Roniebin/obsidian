@@ -1,3 +1,6 @@
+---
+tags: 머신러닝, ComputerScience
+---
 # SGD (Stochastic Gradient Descent)란
 
 - 배치 크기가 1인 경사하강법 알고리즘

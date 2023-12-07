@@ -1,3 +1,6 @@
+---
+tags: 머신러닝
+---
 # K Nearest Neighbors (KNN)
 
 import pandas as pd

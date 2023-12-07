@@ -19,13 +19,8 @@
             "id": "9ca93e3c33c4e187",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. Index/To-do list.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -121,9 +116,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "0. Index/To-do list.md"
-              }
+              "state": {}
             }
           },
           {
@@ -135,7 +128,7 @@
             }
           },
           {
-            "id": "91532eeeb571b5cc",
+            "id": "56a2de21915ee3c4",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -164,17 +157,35 @@
   },
   "active": "9ca93e3c33c4e187",
   "lastOpenFiles": [
+    "다이나믹 프로그래밍.md",
+    "전압분배방식.md",
+    "1. Computer science/머신러닝/SGD(확률적 경사하강법).md",
+    "1. Computer science/알고리즘/np complete.md",
+    "1. Computer science/머신러닝/KNN.md",
+    "Excalidraw/Drawing 2023-11-11 17.08.58.excalidraw.md",
+    "Images/Pasted image 20231116152055.png",
+    "Images/Pasted image 20231115165004.png",
+    "Images/Pasted image 20231115163414.png",
+    "Images/Pasted image 20231203161215.png",
+    "Images/Pasted image 20231117094240.png",
+    "Images/Pasted image 20231117094158.png",
+    "Images/Pasted image 20231116161007.png",
+    "Images/Pasted image 20231116154148.png",
+    "2. English Notes/Grammar/목적어로 동명사.md",
+    "2. English Notes/Grammar/목적어로 to 부정사.md",
+    "2. English Notes/Grammar/To verb.md",
+    "2. English Notes/Grammar",
+    "2. English Notes/Simple_Expression/Grammar/목적어로 동명사.md",
+    "0. Index/To-do list.md",
     "2. English Notes/Simple_Expression/better yet.md",
     "알고리즘 경우의수.md",
     "2. English Notes/diffrence between similar words/specially, especially.md",
     "2. English Notes/words/hold something back.md",
     "2. English Notes/words/fed up with.md",
     "2. English Notes/words/resilient.md",
-    "1. Computer science/머신러닝/KNN.md",
     "1. Computer science/머신러닝/Basecode_Simplified_VGG_CIFAR10.md",
     "1. Computer science/머신러닝/gradient descent.md",
     "1. Computer science/머신러닝/skip,dense,channel attention.md",
-    "1. Computer science/머신러닝/SGD(확률적 경사하강법).md",
     "1. Computer science/머신러닝/MLP.md",
     "1. Computer science/머신러닝/VGG-16.md",
     "1. Computer science/머신러닝/SVM 실습.md",
@@ -183,22 +194,7 @@
     "Pasted image 20231203161215.png",
     "1. Computer science/코틀린/액티비티/startActivityForResult.md",
     "1. Computer science/코틀린/액티비티",
-    "0. Index/To-do list.md",
-    "1. Computer science/알고리즘/Sort/Quick sort.md",
-    "1. Computer science/알고리즘/Sort/Merge Sort.md",
-    "1. Computer science/알고리즘/Sort/Selection Sort.md",
-    "1. Computer science/알고리즘/Sort/Insertion Sort.md",
-    "1. Computer science/알고리즘/다이나믹 프로그래밍/편집거리 알고리즘.md",
-    "1. Computer science/알고리즘/트리/최단경로 찾기.md",
-    "1. Computer science/머신러닝/무제 파일 1.md",
-    "1. Computer science/코틀린/함수/CallBack 함수.md",
     "Pasted image 20231117094240.png",
-    "Pasted image 20231117094158.png",
-    "Pasted image 20231116161007.png",
-    "Pasted image 20231116154148.png",
-    "Pasted image 20231116152055.png",
-    "Pasted image 20231115165004.png",
-    "Pasted image 20231115163414.png",
     "1. Computer science/임배디드 시스템/아두이노/전기전자기초",
     "1. Computer science/임배디드 시스템/아두이노/이론",
     "1. Computer science/임배디드 시스템/아두이노/센서",
@@ -207,9 +203,6 @@
     "1. Computer science/코틀린/컬렉션 타입",
     "1. Computer science/코틀린/이벤트",
     "1. Computer science/코틀린/안드로이드",
-    "1. Computer science/임배디드 시스템/아두이노",
-    "Images/Pasted image 20231105173453.png",
-    "Images/Pasted image 20231105173410.png",
     "무제 파일.canvas",
     "무제 파일 1.canvas"
   ]

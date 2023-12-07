@@ -11,8 +11,13 @@
             "id": "fb65395d5f434d14",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘 경우의수.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           },
           {
@@ -36,8 +41,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,8 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "53782f952c545f52",
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Computer science/코틀린/액티비티/브로드캐스트 리시버.md"
+                "file": "알고리즘 경우의수.md"
               }
             }
           },
@@ -136,7 +139,7 @@
             }
           },
           {
-            "id": "56a2de21915ee3c4",
+            "id": "f2c202f398681d80",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -163,10 +166,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9ca93e3c33c4e187",
+  "active": "fb65395d5f434d14",
   "lastOpenFiles": [
-    "1. Computer science/코틀린/액티비티/startActivityForResult.md",
     "1. Computer science/코틀린/액티비티/브로드캐스트 리시버.md",
+    "Context/spacesLastSync.log",
+    "Context",
+    "1. Computer science/코틀린/액티비티/startActivityForResult.md",
     "1. Computer science/코틀린/액티비티/무제 폴더",
     "다이나믹 프로그래밍.md",
     "전압분배방식.md",
@@ -200,7 +205,6 @@
     "1. Computer science/머신러닝/MLP.md",
     "1. Computer science/머신러닝/VGG-16.md",
     "1. Computer science/머신러닝/SVM 실습.md",
-    "1. Computer science/머신러닝/CNN.md",
     "Pasted image 20231203161215.png",
     "1. Computer science/코틀린/액티비티",
     "Pasted image 20231117094240.png",
@@ -209,8 +213,6 @@
     "1. Computer science/임배디드 시스템/아두이노/센서",
     "1. Computer science/코틀린/함수",
     "1. Computer science/코틀린/클래스",
-    "1. Computer science/코틀린/컬렉션 타입",
-    "1. Computer science/코틀린/이벤트",
     "무제 파일.canvas",
     "무제 파일 1.canvas"
   ]

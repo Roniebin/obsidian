@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘 경우의수.md",
+                "file": "0. Index/To-do list.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘 경우의수.md"
+                "file": "0. Index/To-do list.md"
               }
             }
           },
@@ -139,7 +139,7 @@
             }
           },
           {
-            "id": "f2c202f398681d80",
+            "id": "bbcf5c1fcc3e8b1b",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -168,6 +168,7 @@
   },
   "active": "fb65395d5f434d14",
   "lastOpenFiles": [
+    "알고리즘 경우의수.md",
     "1. Computer science/코틀린/액티비티/브로드캐스트 리시버.md",
     "Context/spacesLastSync.log",
     "Context",
@@ -194,7 +195,6 @@
     "2. English Notes/Simple_Expression/Grammar/목적어로 동명사.md",
     "0. Index/To-do list.md",
     "2. English Notes/Simple_Expression/better yet.md",
-    "알고리즘 경우의수.md",
     "2. English Notes/diffrence between similar words/specially, especially.md",
     "2. English Notes/words/hold something back.md",
     "2. English Notes/words/fed up with.md",

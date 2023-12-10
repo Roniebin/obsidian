@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Index/To-do list.md",
+                "file": "1. Computer science/머신러닝/CNN.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Index/To-do list.md"
+                "file": "1. Computer science/머신러닝/CNN.md"
               }
             }
           },
@@ -169,11 +169,11 @@
   "active": "fb65395d5f434d14",
   "lastOpenFiles": [
     "1. Computer science/머신러닝/Basecode_Simplified_VGG_CIFAR10.md",
+    "0. Index/To-do list.md",
     "1. Computer science/머신러닝/skip,dense,channel attention.md",
     "1. Computer science/머신러닝/VGG-16.md",
     "1. Computer science/머신러닝/SVM 실습.md",
     "1. Computer science/머신러닝/KNN.md",
-    "0. Index/To-do list.md",
     "알고리즘 경우의수.md",
     "1. Computer science/코틀린/액티비티/브로드캐스트 리시버.md",
     "Context/spacesLastSync.log",

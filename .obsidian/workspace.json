@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Computer science/코틀린/이벤트/intent.md",
+                "file": "1. Computer science/코틀린/액티비티/브로드캐스트 리시버.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Computer science/코틀린/이벤트/intent.md"
+                "file": "1. Computer science/코틀린/액티비티/브로드캐스트 리시버.md"
               }
             }
           },

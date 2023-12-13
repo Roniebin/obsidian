@@ -46,17 +46,39 @@ tags: ComputerScience, 코틀린
 
 
 
-```
+``` kotlin
+
+// 메인 액티비티에서 다른 액티비티를 시작하는 코드
+val intent = Intent(this, OtherActivity::class.java)
+val requestCode = 123 // 양의 정수로 지정
+startActivityForResult(intent, requestCode)
 ```
 
 
+```kotlin
+// OtherActivity에서 결과를 설정하는 코드
+val resultIntent = Intent()
+resultIntent.putExtra("resultKey", "Hello from OtherActivity!")
+setResult(Activity.RESULT_OK, resultIntent)
+finish()
 ```
 
-```
-
-```
-```
-
-```
+```kotlin
+// 메인 액티비티에서의 onActivityResult 메서드
+override fun onActivityResult(requestCode: Int, resultCode: Int, data: Intent?) {
+    super.onActivityResult(requestCode, resultCode, data)
+    
+    if (requestCode == 123) { // 요청 코드가 일치하는지 확인
+        if (resultCode == Activity.RESULT_OK) {
+            // 결과가 성공적으로 돌아왔을 때의 처리
+            val resultData = data // 여기서 resultData에 결과 데이터가 들어 있습니다.
+            val resultValue = data?.getStringExtra("resultKey")
+            // 결과값을 사용하여 처리
+            Log.d("MainActivity", "Result from OtherActivity: $resultValue")
+        } else {
+            // 결과가 실패했거나 취소된 경우의 처리
+        }
+    }
+}
 
 ```

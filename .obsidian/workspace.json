@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Computer science/코틀린/액티비티/브로드캐스트 리시버.md",
+                "file": "1. Computer science/코틀린/액티비티/manifest.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Computer science/코틀린/액티비티/브로드캐스트 리시버.md"
+                "file": "1. Computer science/코틀린/액티비티/manifest.md"
               }
             }
           },
@@ -169,9 +169,9 @@
   },
   "active": "fb65395d5f434d14",
   "lastOpenFiles": [
-    "1. Computer science/코틀린/액티비티/manifest.md",
-    "1. Computer science/코틀린/액티비티/브로드캐스트 리시버.md",
     "1. Computer science/코틀린/액티비티/startActivityForResult.md",
+    "1. Computer science/코틀린/액티비티/브로드캐스트 리시버.md",
+    "1. Computer science/코틀린/액티비티/manifest.md",
     "1. Computer science/코틀린/이벤트/intent.md",
     "1. Computer science/코틀린/이벤트/이벤트처리.md",
     "2. English Notes/diffrence between similar words/start, begin.md",

@@ -37,11 +37,17 @@
             "id": "cb0ca46d6ed03cbb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1. Computer science/코틀린/액티비티/startActivityForResult.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Index/To-do list.md"
+                "file": "1. Computer science/코틀린/액티비티/startActivityForResult.md"
               }
             }
           },
@@ -151,7 +157,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,10 +173,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fb65395d5f434d14",
+  "active": "cb0ca46d6ed03cbb",
   "lastOpenFiles": [
-    "1. Computer science/코틀린/이벤트/이벤트처리.md",
     "0. Index/To-do list.md",
+    "1. Computer science/코틀린/이벤트/이벤트처리.md",
     "1. Computer science/코틀린/액티비티/브로드캐스트 리시버.md",
     "1. Computer science/코틀린/액티비티/manifest.md",
     "1. Computer science/코틀린/액티비티/startActivityForResult.md",

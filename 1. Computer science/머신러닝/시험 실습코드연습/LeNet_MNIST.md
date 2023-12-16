@@ -1,3 +1,6 @@
+---
+tags: ComputerScience, 머신러닝
+---
 ```python
 class LeNet5(nn.Module):
   def __init__(self):

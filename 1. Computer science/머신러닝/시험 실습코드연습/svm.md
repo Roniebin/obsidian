@@ -1,3 +1,6 @@
+---
+tags: ComputerScience, 머신러닝
+---
 ``` python
 class SVM:
 
@@ -20,7 +23,18 @@ class SVM:
 				condition=y_[idx]*(np.dot(x_i,self.w)+self.b)>=1
 
 				if not condition:
-				  self.w-=lr*np.dot()
+				  self.w-=lr*(-np.dot(x_i,y_[idx]))
+				  self.b-=lr*(-y_[idx])
+
+    def predict(self,X):
+       prediction=np.dot(X.self.w)+self.b
+       prediction=np.sign(prediction)
+       return prediction
 
 
+```
+
+``` python
+
+margin=2/sqrt(np.dot(model.w.T,model.w))
 ```

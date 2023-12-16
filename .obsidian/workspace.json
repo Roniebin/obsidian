@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Computer science/머신러닝/시험 실습코드연습/svm.md",
+                "file": "1. Computer science/머신러닝/시험 실습코드연습/KNN.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Computer science/머신러닝/시험 실습코드연습/svm.md"
+                "file": "1. Computer science/머신러닝/시험 실습코드연습/KNN.md"
               }
             }
           },
@@ -174,11 +174,12 @@
   },
   "active": "fb65395d5f434d14",
   "lastOpenFiles": [
+    "1. Computer science/머신러닝/시험 실습코드연습/선형회귀.md",
     "1. Computer science/머신러닝/시험 실습코드연습/LeNet_MNIST.md",
+    "1. Computer science/머신러닝/시험 실습코드연습/KNN.md",
     "1. Computer science/머신러닝/시험 실습코드연습/svm.md",
     "1. Computer science/머신러닝/시험 실습코드연습/MLP.md",
     "0. Index/To-do list.md",
-    "1. Computer science/머신러닝/시험 실습코드연습/선형회귀.md",
     "1. Computer science/머신러닝/시험 실습코드연습",
     "1. Computer science/멀티미디어/학교수업/시험 메모.md",
     "1. Computer science/코틀린/액티비티/브로드캐스트 리시버.md",
@@ -203,7 +204,6 @@
     "다이나믹 프로그래밍.md",
     "전압분배방식.md",
     "1. Computer science/머신러닝/SGD(확률적 경사하강법).md",
-    "1. Computer science/알고리즘/np complete.md",
     "Images/Pasted image 20231116152055.png",
     "Images/Pasted image 20231115165004.png",
     "Images/Pasted image 20231115163414.png",

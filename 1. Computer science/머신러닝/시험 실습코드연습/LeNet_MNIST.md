@@ -35,7 +35,7 @@ class LeNet5(nn.Module):
 
 class LeNet5(nn.Module):
 
-  def __init__(self):
+ def __init__(self):
 
     super(LeNet5, self).__init__()
 
@@ -51,18 +51,26 @@ class LeNet5(nn.Module):
 	self.fc3=nn.Linear(in_features=84,out_features=10)
 
  def forward(self,x):
- y=self.conv1(x)
- y=self.relu(y)
- y=max_pool(y)
+	 y=self.conv1(x)
+	 y=self.relu(y)
+	 y=max_pool(y)
+	
+	 y=self.conv2(y)
+	 y=self.relu(y)
+	 y=max_pool(y)
+	
+	 y=y.view(-1,400)
+	
+	 y=self.fc1(y)
+	 y=self.relu(y)
+	
+	 y=self.fc2(y)
+	 y=self.relu(y)
+	
+	 y=self.fc3(y)
+	 y=self.relu(y)
 
- y=self.conv2(y)
- y=self.relu(y)
- y=max_pool(y)
-
- y=y.view(-1,400)
-
- y=self.fc1(y)
- y=self.relu(y)
+ return y
 
 
 ```

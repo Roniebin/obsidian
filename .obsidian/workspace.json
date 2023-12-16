@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Index/To-do list.md",
+                "file": "1. Computer science/머신러닝/시험 실습코드연습/MLP.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -46,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Computer science/머신러닝/시험 실습코드연습/선형회귀.md"
+                "file": "1. Computer science/머신러닝/시험 실습코드연습/MLP.md"
               }
             }
           },
@@ -173,12 +172,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cb0ca46d6ed03cbb",
+  "active": "fb65395d5f434d14",
   "lastOpenFiles": [
+    "0. Index/To-do list.md",
+    "1. Computer science/머신러닝/시험 실습코드연습/MLP.md",
+    "1. Computer science/머신러닝/시험 실습코드연습/선형회귀.md",
     "1. Computer science/머신러닝/시험 실습코드연습",
     "1. Computer science/멀티미디어/학교수업/시험 메모.md",
-    "1. Computer science/머신러닝/시험 실습코드연습/선형회귀.md",
-    "0. Index/To-do list.md",
     "1. Computer science/코틀린/액티비티/브로드캐스트 리시버.md",
     "1. Computer science/코틀린/이벤트/intent.md",
     "1. Computer science/코틀린/액티비티/manifest.md",
@@ -220,7 +220,6 @@
     "1. Computer science/임배디드 시스템/아두이노/이론",
     "1. Computer science/임배디드 시스템/아두이노/센서",
     "1. Computer science/코틀린/함수",
-    "1. Computer science/코틀린/클래스",
     "무제 파일.canvas",
     "무제 파일 1.canvas"
   ]

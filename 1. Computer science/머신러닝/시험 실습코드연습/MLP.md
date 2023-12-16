@@ -20,10 +20,39 @@ class MLP(nn.Module):
   def __init__(self):
     super(MLP, self).__init__()
 	self.fc1=nn.Linear(in_features=784,out_features=300)
+	self.fc2=nn.Linear(in_feaures=300,in_features=10)
+
+	self.sigmoid=nn.Sigmoid()
+	self.relu=nn.ReLU()
  
 
   def forward(self, x):
+	x=x.view(-1,28*28)
+	y=self.relu(self.fc1(x))
+	y=self.relu(self.fc2(y))
 
+	return y
 
   
+```
+
+# Perceptron 학습을 위한 반복문
+
+```python
+for epoch in range(training_epochs):
+  avg_cost = 0
+  total_batch = len(data_loader)
+
+
+  for img, label in data_loader:
+    pred=network(img)
+    loss=loss_function(pred,label)
+    optimizer.zero_grad()
+    loss.backward()
+    optimizer.step()
+
+    avg_cost += loss / total_batch
+
+
+  print('Epoch: %d Loss = %f'%(epoch+1, avg_cost))
 ```

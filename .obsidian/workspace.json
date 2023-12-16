@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Computer science/머신러닝/시험 실습코드연습/MLP.md",
+                "file": "1. Computer science/머신러닝/시험 실습코드연습/LeNet_MNIST.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -104,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "53782f952c545f52",
@@ -131,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Computer science/머신러닝/시험 실습코드연습/MLP.md"
+                "file": "1. Computer science/머신러닝/시험 실습코드연습/LeNet_MNIST.md"
               }
             }
           },
@@ -173,8 +174,9 @@
   },
   "active": "fb65395d5f434d14",
   "lastOpenFiles": [
-    "0. Index/To-do list.md",
     "1. Computer science/머신러닝/시험 실습코드연습/MLP.md",
+    "1. Computer science/머신러닝/시험 실습코드연습/LeNet_MNIST.md",
+    "0. Index/To-do list.md",
     "1. Computer science/머신러닝/시험 실습코드연습/선형회귀.md",
     "1. Computer science/머신러닝/시험 실습코드연습",
     "1. Computer science/멀티미디어/학교수업/시험 메모.md",
@@ -210,7 +212,6 @@
     "Images/Pasted image 20231117094158.png",
     "Images/Pasted image 20231116161007.png",
     "Images/Pasted image 20231116154148.png",
-    "2. English Notes/Grammar/목적어로 동명사.md",
     "2. English Notes/Grammar",
     "Pasted image 20231203161215.png",
     "1. Computer science/코틀린/액티비티",

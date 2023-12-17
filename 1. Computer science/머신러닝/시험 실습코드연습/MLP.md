@@ -56,3 +56,45 @@ for epoch in range(training_epochs):
 
   print('Epoch: %d Loss = %f'%(epoch+1, avg_cost))
 ```
+
+
+---------------------------
+# 두번째 빽빽이
+
+# single layre perceptron
+
+```python
+
+class SLP(nn.Module):
+
+  def __init__(self):
+    super(SLP, self).__init__()
+    self.fc=nn.Linear(in_features=784,out_features=10)
+  
+
+  def forward(self, x):
+     x=x.view(-1,28*28)
+     y=self.fc(x)
+     return y
+
+```
+
+
+``` python
+class MLP(nn.Module):
+
+  def __init__(self):
+    super(MLP, self).__init__()
+		self.fc1=nn.Linear(in_features=784,out_features=300)
+		self.fc2=nn.Linear(in_features=300,out_featuers=10)
+		self.sigmoid=nn.Sigmoid()
+		self.relu=nn.ReLU()
+
+  def forward(self, x):
+	x=x.view(-1,784)
+	y=self.fc1(x)
+	y=self.
+
+
+    return y
+```

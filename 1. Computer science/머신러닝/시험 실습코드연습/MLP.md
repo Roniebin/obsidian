@@ -140,6 +140,7 @@ class MLP(nn.Module):
 	x=x.view(-1,784)
 	y=self.relu(self.fc1(x))
 	y=self.relu(self.fc2(y))
+	return y
   
 
 ```

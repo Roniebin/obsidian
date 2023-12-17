@@ -11,13 +11,8 @@
             "id": "fb65395d5f434d14",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Computer science/머신러닝/시험 실습코드연습/선형회귀.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -130,9 +125,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1. Computer science/머신러닝/시험 실습코드연습/선형회귀.md"
-              }
+              "state": {}
             }
           },
           {
@@ -174,11 +167,12 @@
   },
   "active": "fb65395d5f434d14",
   "lastOpenFiles": [
-    "1. Computer science/머신러닝/시험 실습코드연습/KNN.md",
-    "1. Computer science/머신러닝/시험 실습코드연습/svm.md",
+    "1. Computer science/머신러닝/시험 실습코드연습/skip,dense,attention.md",
     "1. Computer science/머신러닝/시험 실습코드연습/MLP.md",
+    "1. Computer science/머신러닝/시험 실습코드연습/svm.md",
     "1. Computer science/머신러닝/시험 실습코드연습/LeNet_MNIST.md",
     "1. Computer science/머신러닝/시험 실습코드연습/선형회귀.md",
+    "1. Computer science/머신러닝/시험 실습코드연습/KNN.md",
     "0. Index/To-do list.md",
     "1. Computer science/머신러닝/시험 실습코드연습",
     "1. Computer science/멀티미디어/학교수업/시험 메모.md",
@@ -203,7 +197,6 @@
     "1. Computer science/코틀린/액티비티/무제 폴더",
     "다이나믹 프로그래밍.md",
     "전압분배방식.md",
-    "1. Computer science/머신러닝/SGD(확률적 경사하강법).md",
     "Images/Pasted image 20231116152055.png",
     "Images/Pasted image 20231115165004.png",
     "Images/Pasted image 20231115163414.png",

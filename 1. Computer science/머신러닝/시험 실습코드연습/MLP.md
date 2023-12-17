@@ -1,3 +1,6 @@
+---
+tags: ComputerScience, 머신러닝
+---
 # Single layer perceptron
 
 ```python

@@ -38,3 +38,34 @@ class SVM:
 
 margin=2/sqrt(np.dot(model.w.T,model.w))
 ```
+
+
+
+----------------------------
+```python
+class SVM:
+
+    def __init__(self, learning_rate=0.001, n_iters=1000):
+        # initializatio
+        self.lr=learning_reate
+        self.n_iters=n_iters
+        self.w=None
+        self.b=None
+        
+    def fit(self, X, y):
+       y_=np.where(y<=0,-1,1)
+       n_samples,n_features=x.shape
+       self.w=np.zeros(n_features)
+       self.b=0
+
+       for i in range()
+
+ 
+
+  
+
+    def predict(self, X):
+
+        
+
+```

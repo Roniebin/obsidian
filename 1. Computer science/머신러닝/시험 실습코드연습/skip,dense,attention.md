@@ -215,3 +215,24 @@ class SimplifiedVGG_dense(nn.Module):
       return y
         
 ```
+
+``` python
+class ChannelAttention(nn.Module):
+
+  def __init__(self, channels, reducation):
+    super(ChannelAttention, self).__init__()
+	self.gap=nn.AdaptiveAvgPool2d((1,1))
+	self.conv1=nn.Conv2d(in_channels=channels, out_channels=channels//reducation,kernel_size=1)
+    self.conv2=nn.Conv2d(in_channels=channels//reducation,out_channels=channels,kernel_size=1)
+    self.relu=nn.ReLU()
+    self.sigmoid=nn.Sigmoid()
+
+  def forward(self,x):
+	ca_out=self.gap(x)
+	ca_out=self.relu(self.conv1(ca_out))
+	ca_out=self.sigmoid(self.conv2(ca_out))
+	ca_out=self.ca_out.expend_as(x)
+    y=x*ca_out
+    return y
+
+```

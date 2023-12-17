@@ -93,8 +93,9 @@ class MLP(nn.Module):
   def forward(self, x):
 	x=x.view(-1,784)
 	y=self.fc1(x)
-	y=self.
-
-
+	y=self.relu(y)
+	
+	y=self.fc2(y)
+	y=self.relu(y)
     return y
 ```

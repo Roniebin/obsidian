@@ -77,3 +77,43 @@ class LeNet5(nn.Module):
 
 
 ```
+
+--------------
+
+``` python
+class LeNet5(nn.Module):
+
+  
+
+  def __init__(self):
+
+    super(LeNet5, self).__init__()
+
+    # 신경망 파라미터 초기화 (Conv 2개, FC 3개, ReLU, MaxPool)
+
+	self.conv1=nn.Conv2d(in_channels=1,out_channels=6,kernel_size=5,stride=1,padding=0)
+	self.conv2=nn.Conv2d(in_channels=6,out_channels=16,kernel_size=5,stride=1,padding=0)
+	self.relu=nn.ReLU()
+	self.max_pool=nn.MaxPool2d(2,2)
+	  
+  
+
+  def forward(self, x):
+
+    #-----------------------------------------------------------------
+
+
+
+    #-----------------------------------------------------------------
+
+
+
+    #-----------------------------------------------------------------
+  
+
+    #-----------------------------------------------------------------
+
+  
+
+    return y
+```

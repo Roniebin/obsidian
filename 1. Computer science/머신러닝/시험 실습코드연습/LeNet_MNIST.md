@@ -95,14 +95,29 @@ class LeNet5(nn.Module):
 	self.conv2=nn.Conv2d(in_channels=6,out_channels=16,kernel_size=5,stride=1,padding=0)
 	self.relu=nn.ReLU()
 	self.max_pool=nn.MaxPool2d(2,2)
-	  
+	self.avg_pool=nn.AvgPool2d(2,2)
+
+    self.fc1=nn.Linear(in_features=256,out_feautures=120)
+    self.fc2=nn.Linear(in_features=120,out_feautures=84)
+    self.fc3=nn.Linear(in_features=84,out_feautures=10)
   
 
   def forward(self, x):
 
     #-----------------------------------------------------------------
+     y=self.conv1(x)
+     y=self.relu(y)
+     y=self.max_pool(y)
+ 
+	 y=self.conv2(y)
+     y=self.relu(y)
+     y=self.max_pool(y)
 
-
+     y=y.view(-1,256)
+     
+     y=self.relu(self.fc1(y))
+     y=self.relu(self.fc2(y))
+     y=self.relu(self.fc3(y))
 
     #-----------------------------------------------------------------
 

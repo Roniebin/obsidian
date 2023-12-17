@@ -168,3 +168,16 @@ class SimplifiedVGG_skip(nn.Module):
 	 y=self.fc3(y)
 	 return y
 ```
+
+``` python
+class SimplifiedVGG_dense(nn.Module):
+    def __init__(self):
+      super(SimplifiedVGG_dense, self).__init__()
+
+      
+  
+
+    def forward(self,x):
+
+        
+```

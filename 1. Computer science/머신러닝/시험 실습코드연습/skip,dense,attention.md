@@ -116,7 +116,6 @@ class SimplifiedVGG_dense(nn.Module):
 
 class SimplifiedVGG_skip(nn.Module):
 
-  
 
   def __init__(self):
 
@@ -139,12 +138,33 @@ class SimplifiedVGG_skip(nn.Module):
     self.conv_skip2=nn.Conv2d(in_channels=32,out_channels=64,kernel_size=3,stride=1,padding=1)
 	self.conv_skip3=nn.Conv2d(in_channels=64,out_channels=256,kernel_size=3,stride=1,padding=1)
 
-	self.fc1=nn.Linear(in_features=4096,)
-  
+	self.fc1=nn.Linear(in_features=4096,out_features=512)
+	self.fc2=nn.Linear(in_features=512,out_features=256)
+	self.fc3=nn.Linear(in_features=256,out_features=10)
 
   def forward(self,x):
+     skip_y=self.conv_skip1(x)
+     y=self.relu(self.conv1_1(x))
+     y=self.relu(self.conv1_2(y))
+     y=y+skip_y
+     y=max_pool(y)
 
-      
+	 skip_y=self.conv_skip2(y)
+	 y=self.relu(self.conv2_1(x))
+     y=self.relu(self.conv2_2(y))
+     y=y+skip_y
+     y=max_pool(y)
 
-        return y
+     skip_y=self.conv_skip3(y)
+     y=self.relu(self.conv3_1(y))
+     y=self.relu(self.conv3_2(y))
+     y=y+skip_y
+     y=max_pool(y)
+
+     y=y.view(-1,4096)
+     
+	 y=self.relu(self.fc1(y))
+	 y=self.relu(self.fc2(y))
+	 y=self.fc3(y)
+	 return y
 ```

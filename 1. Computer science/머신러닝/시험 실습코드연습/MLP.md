@@ -107,6 +107,39 @@ class MLP(nn.Module):
 
 # 세번째
 
+# single
+
 ``` python
+class SLP(nn.Module):
+
+  def __init__(self):
+
+    super(SLP, self).__init__()
+	self.fc=nn.Linear(in_features=784,out_features=10)
+	
+
+  def forward(self, x):
+	x=x.view(-1,784)
+	y=self.fc(x)
+	return y
+```
+
+# Multi
+
+``` python
+class MLP(nn.Module):
+
+  
+  def __init__(self):
+	self.fc1=nn.Linear(in_feautres=784,out_features=300)
+	self.fc2=nn.Linear(in_features=300,out_features=10)
+	  
+    self.sigmoid=nn.Sigmoid()
+    self.relu=nn.ReLU()
+  def forward(self, x):
+	x=x.view(-1,784)
+	y=self.relu(self.fc1(x))
+	y=self.relu(self.fc2(y))
+  
 
 ```

@@ -97,11 +97,14 @@ class SVM:
 
 	  for i in range(n_iters):
 	     for idx,x_i in enumerate(X):
-	         condition=y_[idx]*np.dot(x,self.w)+bias
-  
-  
+	         condition=y_[idx]*(np.dot(x,self.w)+self.b)>=1
+			 if not condition:
+			    self.w-=lr*(-np.dot(x_i,y_[idx]))
+			    self.b-=lr*y_[idx]
 
     def predict(self, X):
-
+       prediction=np.dot(X,self.w)+b
+       prediction=np.sign(prediction)
+	   return prediction
 
 ```

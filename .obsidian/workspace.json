@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Computer science/머신러닝/시험 실습코드연습/MLP.md",
+                "file": "1. Computer science/머신러닝/시험 실습코드연습/svm.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Computer science/머신러닝/시험 실습코드연습/MLP.md"
+                "file": "1. Computer science/머신러닝/시험 실습코드연습/svm.md"
               }
             }
           },
@@ -174,9 +174,9 @@
   },
   "active": "fb65395d5f434d14",
   "lastOpenFiles": [
+    "1. Computer science/머신러닝/시험 실습코드연습/MLP.md",
     "1. Computer science/머신러닝/시험 실습코드연습/선형회귀.md",
     "1. Computer science/머신러닝/시험 실습코드연습/skip,dense,attention.md",
-    "1. Computer science/머신러닝/시험 실습코드연습/MLP.md",
     "1. Computer science/머신러닝/시험 실습코드연습/svm.md",
     "1. Computer science/머신러닝/시험 실습코드연습/LeNet_MNIST.md",
     "1. Computer science/머신러닝/시험 실습코드연습/KNN.md",

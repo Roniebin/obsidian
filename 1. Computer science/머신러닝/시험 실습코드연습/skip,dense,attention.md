@@ -338,3 +338,12 @@ class SimplifiedVGG_dense(nn.Module):
         y=self.fc3(y)
         return y
 ```
+
+```python
+self.channel_attention=ChannelAttention(channels=64,reducation=1)
+
+class ChannelAttention(nn.Module):
+   def __init__(self,channels,reducation):
+      super(ChannelAttention,self).__init__()
+      
+```

@@ -202,29 +202,27 @@ class SVM:
 
         # initialization
         self.lr=learning_rate
-
         self.n_iters=n_iters
-
         self.w=None
-
         self.b=None
-
-  
 
     def fit(self, X, y):
         # Update parameters
 		y_=np.where(y<=0,-1,+1)
-		n_samples,n_features=x.shape
+		n_samples,n_features=X.shape
 		self.w=np.zeros(n_features)
 		self.b=0
 		for i in range(self.n_iters):
 		   for idx,x_i in enumerate(X):
-		      condition=y_[idx]*(np.dot(x,self.w)+self.b)>=1
+		      condition=y_[idx]*(np.dot(x_i,self.w)+self.b)>=1
 		      if not condition:
 		         self.w-=lr*(-np.dot(x_i,y_[idx]))
 		         self.b-=lr*(-y[idx])  
 
     def predict(self, X):
+      prediction=np.dot(X,self.w)+self.b
+      prediction=np.sign(prediction)
+      return perdiction
 
     
 ```

@@ -35,8 +35,6 @@ class MLP(nn.Module):
 	y=self.relu(self.fc2(y))
 
 	return y
-
-  
 ```
 
 # Perceptron 학습을 위한 반복문

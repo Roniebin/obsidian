@@ -91,3 +91,31 @@ class KNN: # 모델이아니기때문에 그냥 매개변수값 저장만 해도
    
 	 return y_pred
 ```
+
+--------------
+
+``` python
+def L2_distance(x1, x2):
+  return np.sqrt(np.sum((x1 - x2) ** 2))
+  
+
+class KNN: # 모델이아니기때문에 그냥 매개변수값 저장만 해도됨
+
+  def __init__(self, k=3):
+
+
+  def fit(self, X, y): # 테스트데이터로 들어오는거?
+    # Storage training datas
+
+
+  def predict(self, X):
+    # Prediction
+
+  
+
+   
+
+  
+
+    return y_pred
+```

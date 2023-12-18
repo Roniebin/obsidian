@@ -174,6 +174,10 @@ class MLP(nn.Module):
     self.relu=nn.ReLU()
 
   def forward(self, x):
+    x=x.view(-1,784)
+    y=self.relu(self.fc1(x))
+    y=self.relu(self.fc2(y))
+    return y
 
 
 

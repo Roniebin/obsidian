@@ -355,7 +355,7 @@ class ChannelAttention(nn.Module):
 	  ca_out=self.gap(x)
 	  ca_out=self.relu(self.conv1(ca_out))
 	  ca_out=self.sigmoid(self.conv2(ca_out))
-	  ca_out=ca.out.expand_as(x)
+	  ca_out=ca_out.expand_as(x)
 	  y=x*ca_out
 	  return y
 	  

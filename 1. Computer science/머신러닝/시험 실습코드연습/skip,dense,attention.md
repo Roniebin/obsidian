@@ -345,5 +345,18 @@ self.channel_attention=ChannelAttention(channels=64,reducation=1)
 class ChannelAttention(nn.Module):
    def __init__(self,channels,reducation):
       super(ChannelAttention,self).__init__()
-      
+      self.gap=nn.AdaptiveAvgPool2d((1,1))
+      self.conv1=nn.Conv2d(in_channels=channels,out_channels=channels//reducation,kernel_size=1)
+      self.conv2=nn.Conv2d(in_channels=channels//reducation,out_channels=channels,kernel_size=1)
+      self.sigmoid=nn.Sigmoid()
+      self.relu=nn.ReLU()
+
+	def forward(self,x):
+	  ca_out=self.gap(x)
+	  ca_out=self.relu(self.conv1(ca_out))
+	  ca_out=self.sigmoid(self.conv2(ca_out))
+	  ca_out=ca.out.expand_as(x)
+	  y=x*ca_out
+	  return y
+	  
 ```

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Computer science/머신러닝/시험 실습코드연습/KNN.md",
+                "file": "1. Computer science/머신러닝/시험 실습코드연습/svm.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Computer science/머신러닝/시험 실습코드연습/KNN.md"
+                "file": "1. Computer science/머신러닝/시험 실습코드연습/svm.md"
               }
             }
           },

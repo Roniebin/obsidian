@@ -192,6 +192,42 @@ class SVM:
 		prediction=np.dot(X,self.w)+self.b
 		prediction=np.sign(prediction)
 		return prediction
-		
      
+```
+
+``` python
+class SVM:
+
+    def __init__(self, learning_rate=0.001, n_iters=1000):
+
+        # initialization
+        self.lr=learning_rate
+
+        self.n_iters=n_iters
+
+        self.w=None
+
+        self.b=None
+
+  
+
+    def fit(self, X, y):
+        # Update parameters
+		y_=np.where(y<=0,-1,+1)
+		n_samples,n_features=x.shape
+		self.w=np.zeros(n_features)
+		self.b=0
+		for i in range(self.n_iters):
+		   
+     
+
+  
+
+   
+
+  
+
+    def predict(self, X):
+
+    
 ```

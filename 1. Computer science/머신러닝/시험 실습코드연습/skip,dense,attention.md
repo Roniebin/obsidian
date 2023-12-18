@@ -316,6 +316,25 @@ class SimplifiedVGG_dense(nn.Module):
   
 
    def forward(self,x):
-		
+		dense_y=x
+		y=self.relu(self.conv1_1(x))
+		y=self.relu(self.conv1_2(y))
+		y=torch.cat([y,dense_y],dim=1)
+		y=self.max_pool(y)
 
+        dense_y=y
+        y=self.relu(self.conv2_1(y))
+		y=self.relu(self.conv2_2(y))
+		y=torch.cat([y,dense_y],dim=1)
+		y=self.max_pool(y)
+		
+		y=self.relu(self.conv3_1(y))
+		y=self.relu(self.conv3_2(y))
+		y=self.max_pool(y)
+
+        y=y.view(-1,4096)
+        y=self.relu(self.fc1(y))
+        y=self.relu(self.fc2(y))
+        y=self.fc3(y)
+        return y
 ```

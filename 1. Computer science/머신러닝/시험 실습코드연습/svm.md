@@ -116,13 +116,21 @@ class SVM:
 		self.b=None
       
     def fit(self, X, y):
+        y_=np.where(y<=0,-1,+1)
         # Update parameters
         n_sampels,n_features=X.shape
         self.w=np.zeros(n_features)
+        self.b=0
+        for i in range(self.n_iters):
+           for idx,x_i in enumerate(X):
+              condition=y_[idx]*(np.dot(x,self.w)+self.b)>=1
+              if not condition:
+                 self.w-=lr*(-np.dot(x_i,y_[idx]))
+			     self.b-=lr*(-y_[idx])              
         
-        
-		
-  
-.b
+   def predict(self,X):
+     prediction=np.dot(X,self.w)+self.b
+     prediction=np.sign(prediction)
+     return prediction
 
 ```

@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Computer science/코틀린/이벤트/intent.md",
+                "file": "1. Computer science/코틀린/액티비티/startActivityForResult.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Computer science/코틀린/이벤트/intent.md"
+                "file": "1. Computer science/코틀린/액티비티/startActivityForResult.md"
               }
             }
           },
@@ -174,6 +174,7 @@
   },
   "active": "9ca93e3c33c4e187",
   "lastOpenFiles": [
+    "1. Computer science/코틀린/이벤트/intent.md",
     "1. Computer science/코틀린/안드로이드/gradle설명.md",
     "1. Computer science/코틀린/클래스/생성자.md",
     "1. Computer science/코틀린/액티비티/startActivityForResult.md",
@@ -199,7 +200,6 @@
     "0. Index/To-do list.md",
     "1. Computer science/머신러닝/시험 실습코드연습",
     "1. Computer science/멀티미디어/학교수업/시험 메모.md",
-    "1. Computer science/코틀린/이벤트/intent.md",
     "1. Computer science/코틀린/액티비티/manifest.md",
     "Context/spacesLastSync.log",
     "Context",

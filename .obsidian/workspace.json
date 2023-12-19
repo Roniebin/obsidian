@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Computer science/머신러닝/시험 실습코드연습/KNN.md",
+                "file": "1. Computer science/알고리즘/트리/프림 알고리즘.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Computer science/코틀린/액티비티/브로드캐스트 리시버.md",
+                "file": "1. Computer science/코틀린/액티비티/startActivityForResult.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -46,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -131,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Computer science/머신러닝/시험 실습코드연습/KNN.md"
+                "file": "1. Computer science/코틀린/액티비티/startActivityForResult.md"
               }
             }
           },
@@ -144,7 +145,7 @@
             }
           },
           {
-            "id": "191b0ec413867294",
+            "id": "5a403f5c8ea95be1",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -156,8 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,38 +172,38 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fb65395d5f434d14",
+  "active": "9ca93e3c33c4e187",
   "lastOpenFiles": [
+    "1. Computer science/코틀린/액티비티/브로드캐스트 리시버.md",
+    "1. Computer science/알고리즘/트리/프림 알고리즘.md",
+    "1. Computer science/알고리즘/트리/최소신장트리(Minimum Spanning Tree).md",
+    "1. Computer science/알고리즘/트리/크루스칼 알고리즘.md",
+    "1. Computer science/알고리즘/트리/플로이드 알고리즘.md",
+    "1. Computer science/알고리즘/트리/최단경로 찾기.md",
+    "1. Computer science/알고리즘/분할 정복 알고리즘.md",
+    "1. Computer science/코틀린/클래스/컴패니언 클래스.md",
+    "1. Computer science/알고리즘/Sort/Sorting Algorithm.md",
+    "1. Computer science/멀티미디어/학교수업/이미지와 그래픽.md",
+    "1. Computer science/코틀린/함수/CallBack 함수.md",
+    "1. Computer science/코틀린/이벤트/이벤트처리.md",
+    "1. Computer science/코틀린/이벤트/객체 불러오기.md",
+    "1. Computer science/머신러닝/시험 실습코드연습/KNN.md",
     "1. Computer science/머신러닝/시험 실습코드연습/skip,dense,attention.md",
     "1. Computer science/머신러닝/시험 실습코드연습/선형회귀.md",
-    "1. Computer science/머신러닝/시험 실습코드연습/KNN.md",
     "1. Computer science/머신러닝/시험 실습코드연습/LeNet_MNIST.md",
     "1. Computer science/머신러닝/시험 실습코드연습/MLP.md",
     "1. Computer science/머신러닝/시험 실습코드연습/svm.md",
     "0. Index/To-do list.md",
     "1. Computer science/머신러닝/시험 실습코드연습",
     "1. Computer science/멀티미디어/학교수업/시험 메모.md",
-    "1. Computer science/코틀린/액티비티/브로드캐스트 리시버.md",
     "1. Computer science/코틀린/이벤트/intent.md",
     "1. Computer science/코틀린/액티비티/manifest.md",
     "1. Computer science/코틀린/액티비티/startActivityForResult.md",
-    "1. Computer science/코틀린/이벤트/이벤트처리.md",
     "2. English Notes/diffrence between similar words/start, begin.md",
     "2. English Notes/diffrence between similar words/go over , go through.md",
-    "2. English Notes/Simple_Expression/by all means.md",
-    "2. English Notes/Simple_Expression/is it just me.md",
-    "1. Computer science/머신러닝/CNN.md",
-    "1. Computer science/머신러닝/Basecode_Simplified_VGG_CIFAR10.md",
-    "1. Computer science/머신러닝/skip,dense,channel attention.md",
-    "1. Computer science/머신러닝/VGG-16.md",
-    "1. Computer science/머신러닝/SVM 실습.md",
-    "1. Computer science/머신러닝/KNN.md",
-    "알고리즘 경우의수.md",
     "Context/spacesLastSync.log",
     "Context",
     "1. Computer science/코틀린/액티비티/무제 폴더",
-    "다이나믹 프로그래밍.md",
-    "전압분배방식.md",
     "Images/Pasted image 20231116152055.png",
     "Images/Pasted image 20231115165004.png",
     "Images/Pasted image 20231115163414.png",

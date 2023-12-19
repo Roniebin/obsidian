@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Computer science/코틀린/액티비티/startActivityForResult.md",
+                "file": "1. Computer science/코틀린/클래스/생성자.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Computer science/코틀린/액티비티/startActivityForResult.md"
+                "file": "1. Computer science/코틀린/클래스/생성자.md"
               }
             }
           },
@@ -174,6 +174,7 @@
   },
   "active": "9ca93e3c33c4e187",
   "lastOpenFiles": [
+    "1. Computer science/코틀린/액티비티/startActivityForResult.md",
     "1. Computer science/코틀린/액티비티/브로드캐스트 리시버.md",
     "1. Computer science/알고리즘/트리/프림 알고리즘.md",
     "1. Computer science/알고리즘/트리/최소신장트리(Minimum Spanning Tree).md",
@@ -198,7 +199,6 @@
     "1. Computer science/멀티미디어/학교수업/시험 메모.md",
     "1. Computer science/코틀린/이벤트/intent.md",
     "1. Computer science/코틀린/액티비티/manifest.md",
-    "1. Computer science/코틀린/액티비티/startActivityForResult.md",
     "2. English Notes/diffrence between similar words/start, begin.md",
     "2. English Notes/diffrence between similar words/go over , go through.md",
     "Context/spacesLastSync.log",

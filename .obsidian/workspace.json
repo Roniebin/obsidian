@@ -101,7 +101,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -145,7 +146,7 @@
             }
           },
           {
-            "id": "5a403f5c8ea95be1",
+            "id": "47617cd10b62e72c",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -172,7 +173,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9ca93e3c33c4e187",
+  "active": "47617cd10b62e72c",
   "lastOpenFiles": [
     "1. Computer science/코틀린/액티비티/startActivityForResult.md",
     "1. Computer science/코틀린/이벤트/intent.md",

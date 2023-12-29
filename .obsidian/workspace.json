@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Index/To-do list.md",
+                "file": "1. Computer science/javascript/객체선언.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -118,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "53782f952c545f52",
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Index/To-do list.md"
+                "file": "1. Computer science/javascript/객체선언.md"
               }
             }
           },
@@ -158,7 +159,7 @@
             }
           },
           {
-            "id": "17244b47a31cfbd5",
+            "id": "448c5d5271bdf7f4",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -187,6 +188,9 @@
   },
   "active": "b87345d61e803aba",
   "lastOpenFiles": [
+    "0. Index/To-do list.md",
+    "1. Computer science/javascript/객체선언.md",
+    "1. Computer science/javascript",
     "1. Computer science/코틀린/액티비티/startActivityForResult.md",
     "1. Computer science/코틀린/이벤트/intent.md",
     "1. Computer science/코틀린/안드로이드/gradle설명.md",
@@ -210,10 +214,8 @@
     "1. Computer science/머신러닝/시험 실습코드연습/LeNet_MNIST.md",
     "1. Computer science/머신러닝/시험 실습코드연습/MLP.md",
     "1. Computer science/머신러닝/시험 실습코드연습/svm.md",
-    "0. Index/To-do list.md",
     "1. Computer science/머신러닝/시험 실습코드연습",
     "1. Computer science/멀티미디어/학교수업/시험 메모.md",
-    "1. Computer science/코틀린/액티비티/manifest.md",
     "Context/spacesLastSync.log",
     "Context",
     "1. Computer science/코틀린/액티비티/무제 폴더",
@@ -232,7 +234,6 @@
     "1. Computer science/임배디드 시스템/아두이노/전기전자기초",
     "1. Computer science/임배디드 시스템/아두이노/이론",
     "1. Computer science/임배디드 시스템/아두이노/센서",
-    "1. Computer science/코틀린/함수",
     "무제 파일.canvas",
     "무제 파일 1.canvas"
   ]

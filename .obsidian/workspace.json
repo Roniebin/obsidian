@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Computer science/javascript/객체선언.md",
+                "file": "1. Computer science/javascript/객체.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Computer science/javascript/객체선언.md"
+                "file": "1. Computer science/javascript/객체.md"
               }
             }
           },
@@ -171,7 +171,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,7 +190,7 @@
   "active": "b87345d61e803aba",
   "lastOpenFiles": [
     "0. Index/To-do list.md",
-    "1. Computer science/javascript/객체선언.md",
+    "1. Computer science/javascript/객체.md",
     "1. Computer science/javascript",
     "1. Computer science/코틀린/액티비티/startActivityForResult.md",
     "1. Computer science/코틀린/이벤트/intent.md",

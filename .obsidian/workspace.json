@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Computer science/javascript/객체.md",
+                "file": "1. Computer science/javascript/자료형.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Computer science/javascript/객체.md"
+                "file": "1. Computer science/javascript/자료형.md"
               }
             }
           },
@@ -189,8 +189,13 @@
   },
   "active": "b87345d61e803aba",
   "lastOpenFiles": [
-    "0. Index/To-do list.md",
+    "Pasted image 20231229144956.png",
+    "Pasted image 20231229144927.png",
+    "Pasted image 20231229144724.png",
+    "Pasted image 20231229144709.png",
     "1. Computer science/javascript/객체.md",
+    "1. Computer science/javascript/자료형.md",
+    "0. Index/To-do list.md",
     "1. Computer science/javascript",
     "1. Computer science/코틀린/액티비티/startActivityForResult.md",
     "1. Computer science/코틀린/이벤트/intent.md",
@@ -214,9 +219,7 @@
     "1. Computer science/머신러닝/시험 실습코드연습/선형회귀.md",
     "1. Computer science/머신러닝/시험 실습코드연습/LeNet_MNIST.md",
     "1. Computer science/머신러닝/시험 실습코드연습/MLP.md",
-    "1. Computer science/머신러닝/시험 실습코드연습/svm.md",
     "1. Computer science/머신러닝/시험 실습코드연습",
-    "1. Computer science/멀티미디어/학교수업/시험 메모.md",
     "Context/spacesLastSync.log",
     "Context",
     "1. Computer science/코틀린/액티비티/무제 폴더",
@@ -227,11 +230,8 @@
     "Images/Pasted image 20231117094240.png",
     "Images/Pasted image 20231117094158.png",
     "Images/Pasted image 20231116161007.png",
-    "Images/Pasted image 20231116154148.png",
     "2. English Notes/Grammar",
-    "Pasted image 20231203161215.png",
     "1. Computer science/코틀린/액티비티",
-    "Pasted image 20231117094240.png",
     "1. Computer science/임배디드 시스템/아두이노/전기전자기초",
     "1. Computer science/임배디드 시스템/아두이노/이론",
     "1. Computer science/임배디드 시스템/아두이노/센서",

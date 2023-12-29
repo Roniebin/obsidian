@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Computer science/javascript/이벤트.md",
+                "file": "0. Index/To-do list.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Computer science/javascript/이벤트.md"
+                "file": "0. Index/To-do list.md"
               }
             }
           },
@@ -187,9 +187,9 @@
   },
   "active": "fb65395d5f434d14",
   "lastOpenFiles": [
+    "1. Computer science/javascript/이벤트.md",
     "1. Computer science/javascript/객체.md",
     "1. Computer science/javascript/자료형.md",
-    "1. Computer science/javascript/이벤트.md",
     "알고리즘 경우의수.md",
     "Images/Pasted image 20231229150751.png",
     "1. Computer science/알고리즘/트리/프림 알고리즘.md",

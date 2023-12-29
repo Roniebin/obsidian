@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. English Notes/Simple_Expression/better yet.md",
+                "file": "1. Computer science/javascript/객체.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 227.5
   },
   "right": {
     "id": "53782f952c545f52",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. English Notes/Simple_Expression/better yet.md"
+                "file": "1. Computer science/javascript/객체.md"
               }
             }
           },
@@ -147,17 +147,21 @@
   },
   "active": "2d550565075ee390",
   "lastOpenFiles": [
+    "1. Computer science/javascript/이벤트.md",
+    "1. Computer science/javascript/자료형.md",
+    "1. Computer science/javascript/객체.md",
+    "2. English Notes/words/fed up with.md",
+    "2. English Notes/words/gym words.md",
+    "2. English Notes/Grammar/목적어로 to 부정사.md",
+    "2. English Notes/Grammar/To verb.md",
+    "2. English Notes/Simple_Expression/better yet.md",
     "2. English Notes/Simple_Expression/by all means.md",
     "2. English Notes/Simple_Expression/is it just me.md",
     "2. English Notes/Simple_Expression/that's not my bag.md",
-    "2. English Notes/words/gym words.md",
     "2. English Notes/Grammar/목적어로 동명사.md",
     "2. English Notes/diffrence between similar words/readiness, willingness.md",
     "0. Index/To-do list.md",
     "1. Computer science/머신러닝/시험 실습코드연습/선형회귀.md",
-    "1. Computer science/javascript/자료형.md",
-    "1. Computer science/javascript/이벤트.md",
-    "1. Computer science/javascript/객체.md",
     "알고리즘 경우의수.md",
     "Images/Pasted image 20231229150751.png",
     "1. Computer science/알고리즘/트리/프림 알고리즘.md",
@@ -175,10 +179,6 @@
     "1. Computer science/알고리즘/트리/크루스칼 알고리즘.md",
     "1. Computer science/알고리즘/트리/플로이드 알고리즘.md",
     "1. Computer science/알고리즘/트리/최단경로 찾기.md",
-    "1. Computer science/알고리즘/분할 정복 알고리즘.md",
-    "1. Computer science/코틀린/클래스/컴패니언 클래스.md",
-    "1. Computer science/알고리즘/Sort/Sorting Algorithm.md",
-    "1. Computer science/멀티미디어/학교수업/이미지와 그래픽.md",
     "1. Computer science/머신러닝/시험 실습코드연습",
     "Context/spacesLastSync.log",
     "Context",

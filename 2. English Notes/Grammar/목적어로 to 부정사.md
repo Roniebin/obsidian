@@ -16,7 +16,6 @@ ex ) Before becoming president, George H. W. Bush **served** as US ambassador 
 
 ---------
 
-
 ####  동사 + 목적어 + to부정사
 want, need, expect,invite, encourage , persuade, convince, cause,ask
 force, compel, get, tell ,require, allow, permit, enable, forbid, remind

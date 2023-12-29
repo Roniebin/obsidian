@@ -4,50 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ce64bd770bf348fb",
+        "id": "0c117bdb57e0c198",
         "type": "tabs",
         "children": [
           {
-            "id": "fb65395d5f434d14",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "9ca93e3c33c4e187",
+            "id": "2d550565075ee390",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Index/To-do list.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb0ca46d6ed03cbb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Computer science/머신러닝/시험 실습코드연습/선형회귀.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b87345d61e803aba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Computer science/javascript/자료형.md",
+                "file": "2. English Notes/Simple_Expression/better yet.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -112,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "53782f952c545f52",
@@ -139,7 +104,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2. English Notes/Simple_Expression/better yet.md"
+              }
             }
           },
           {
@@ -151,7 +118,7 @@
             }
           },
           {
-            "id": "448c5d5271bdf7f4",
+            "id": "5d806ed558c3ccfd",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -163,8 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,12 +145,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fb65395d5f434d14",
+  "active": "2d550565075ee390",
   "lastOpenFiles": [
+    "2. English Notes/Simple_Expression/by all means.md",
+    "2. English Notes/Simple_Expression/is it just me.md",
+    "2. English Notes/Simple_Expression/that's not my bag.md",
+    "2. English Notes/words/gym words.md",
+    "2. English Notes/Grammar/목적어로 동명사.md",
+    "2. English Notes/diffrence between similar words/readiness, willingness.md",
     "0. Index/To-do list.md",
+    "1. Computer science/머신러닝/시험 실습코드연습/선형회귀.md",
+    "1. Computer science/javascript/자료형.md",
     "1. Computer science/javascript/이벤트.md",
     "1. Computer science/javascript/객체.md",
-    "1. Computer science/javascript/자료형.md",
     "알고리즘 경우의수.md",
     "Images/Pasted image 20231229150751.png",
     "1. Computer science/알고리즘/트리/프림 알고리즘.md",
@@ -206,13 +179,6 @@
     "1. Computer science/코틀린/클래스/컴패니언 클래스.md",
     "1. Computer science/알고리즘/Sort/Sorting Algorithm.md",
     "1. Computer science/멀티미디어/학교수업/이미지와 그래픽.md",
-    "1. Computer science/코틀린/함수/CallBack 함수.md",
-    "1. Computer science/코틀린/이벤트/이벤트처리.md",
-    "1. Computer science/코틀린/이벤트/객체 불러오기.md",
-    "1. Computer science/머신러닝/시험 실습코드연습/KNN.md",
-    "1. Computer science/머신러닝/시험 실습코드연습/skip,dense,attention.md",
-    "1. Computer science/머신러닝/시험 실습코드연습/선형회귀.md",
-    "1. Computer science/머신러닝/시험 실습코드연습/LeNet_MNIST.md",
     "1. Computer science/머신러닝/시험 실습코드연습",
     "Context/spacesLastSync.log",
     "Context",

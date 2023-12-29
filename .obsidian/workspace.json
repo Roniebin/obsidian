@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Computer science/알고리즘/트리/프림 알고리즘.md",
+                "file": "1. Computer science/javascript/이벤트.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -59,8 +59,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,8 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "53782f952c545f52",
@@ -146,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Computer science/javascript/자료형.md"
+                "file": "1. Computer science/javascript/이벤트.md"
               }
             }
           },
@@ -187,14 +185,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b87345d61e803aba",
+  "active": "fb65395d5f434d14",
   "lastOpenFiles": [
-    "Pasted image 20231229144956.png",
-    "Pasted image 20231229144927.png",
-    "Pasted image 20231229144724.png",
-    "Pasted image 20231229144709.png",
     "1. Computer science/javascript/객체.md",
     "1. Computer science/javascript/자료형.md",
+    "1. Computer science/javascript/이벤트.md",
+    "알고리즘 경우의수.md",
+    "Images/Pasted image 20231229150751.png",
+    "1. Computer science/알고리즘/트리/프림 알고리즘.md",
+    "Images/Pasted image 20231229144956.png",
+    "Images/Pasted image 20231229144927.png",
+    "Images/Pasted image 20231229144724.png",
+    "Images/Pasted image 20231229144709.png",
     "0. Index/To-do list.md",
     "1. Computer science/javascript",
     "1. Computer science/코틀린/액티비티/startActivityForResult.md",
@@ -202,7 +204,6 @@
     "1. Computer science/코틀린/안드로이드/gradle설명.md",
     "1. Computer science/코틀린/클래스/생성자.md",
     "1. Computer science/코틀린/액티비티/브로드캐스트 리시버.md",
-    "1. Computer science/알고리즘/트리/프림 알고리즘.md",
     "1. Computer science/알고리즘/트리/최소신장트리(Minimum Spanning Tree).md",
     "1. Computer science/알고리즘/트리/크루스칼 알고리즘.md",
     "1. Computer science/알고리즘/트리/플로이드 알고리즘.md",
@@ -218,7 +219,6 @@
     "1. Computer science/머신러닝/시험 실습코드연습/skip,dense,attention.md",
     "1. Computer science/머신러닝/시험 실습코드연습/선형회귀.md",
     "1. Computer science/머신러닝/시험 실습코드연습/LeNet_MNIST.md",
-    "1. Computer science/머신러닝/시험 실습코드연습/MLP.md",
     "1. Computer science/머신러닝/시험 실습코드연습",
     "Context/spacesLastSync.log",
     "Context",
@@ -228,8 +228,6 @@
     "Images/Pasted image 20231115163414.png",
     "Images/Pasted image 20231203161215.png",
     "Images/Pasted image 20231117094240.png",
-    "Images/Pasted image 20231117094158.png",
-    "Images/Pasted image 20231116161007.png",
     "2. English Notes/Grammar",
     "1. Computer science/코틀린/액티비티",
     "1. Computer science/임배디드 시스템/아두이노/전기전자기초",

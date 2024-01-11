@@ -14,3 +14,10 @@ tags: ComputerScience, react
 
 - 컴포넌트와 Context가 연동되면 재사용성이떨어짐
 - 그렇기에 레벨이 많이 깊지 않은경우, 기존방식대로 props로 주는게 더 적합
+
+# Context.Provider
+- 이걸로 하위컴포넌트를 감싸면 모든 하위컴포넌트는 해당 context에 접근가능
+
+``` jsx
+<
+```

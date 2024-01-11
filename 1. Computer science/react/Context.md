@@ -22,3 +22,5 @@ tags: ComputerScience, react
 <MyContext.Provider value={}>
 ```
 
+
+Provider 컴포넌트가 재 렌더링 될때마다 모든 하위 consumer 컴포넌트가 재렌더링됨

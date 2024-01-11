@@ -10,5 +10,7 @@ tags: ComputerScience, react
 - 여러 개의 component 들이 접근해야하는 데이터
 - 로그인 여부, 로그인정보,현재언어, ui 테마
 
+# Context를 사용하기전에 고려할때
 
-# Context를 사용하기전에 고렿
+- 컴포넌트와 Context가 연동되면 재사용성이떨어짐
+- 그렇기에 레벨이 많이 깊지 않은경우, 기존방식대로 props로 주는게 더 적합

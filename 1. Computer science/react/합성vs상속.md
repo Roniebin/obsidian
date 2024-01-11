@@ -17,4 +17,5 @@ Containment
 - 하위 컴포넌트를 포함하는 형태의 합성방법
 - children 속성사용
 
-Spe
+Specialization
+- 전문화,특수화

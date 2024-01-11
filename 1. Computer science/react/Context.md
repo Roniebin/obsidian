@@ -18,6 +18,7 @@ tags: ComputerScience, react
 # Context.Provider
 - 이걸로 하위컴포넌트를 감싸면 모든 하위컴포넌트는 해당 context에 접근가능
 
-``` jsx
-<
+``` javascript
+<MyContext.Provider value={}>
 ```
+

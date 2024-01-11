@@ -11,3 +11,4 @@ tags: ComputerScience, react
 - 로그인 여부, 로그인정보,현재언어, ui 테마
 
 
+# Context를 사용하기전에 고렿

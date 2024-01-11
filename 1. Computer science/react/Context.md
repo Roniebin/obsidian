@@ -1,3 +1,6 @@
+---
+tags: ComputerScience, react
+---
 # Context?
 
 - 컴포넌트의 props를 통한 데이터 전달

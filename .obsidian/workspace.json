@@ -24,13 +24,8 @@
             "id": "23c99ff2a6141529",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Computer science/react/무제 파일.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -118,9 +113,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1. Computer science/react/무제 파일.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,8 +162,8 @@
   },
   "active": "23c99ff2a6141529",
   "lastOpenFiles": [
+    "1. Computer science/react/Context.md",
     "1. Computer science/react/합성vs상속.md",
-    "1. Computer science/react/무제 파일.md",
     "1. Computer science/react/생명주기.md",
     "1. Computer science/react/Hooks.md",
     "1. Computer science/react/조건부 랜더링.md",

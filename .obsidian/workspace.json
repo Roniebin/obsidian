@@ -88,7 +88,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -140,7 +141,7 @@
             }
           },
           {
-            "id": "e0afb5ea6a337f5f",
+            "id": "207391fc52c90d2e",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",

@@ -65,6 +65,26 @@ h1.medium{
 
 ```CSS
 h1{
-color:black}
+color:black
+}
 
+h2{
+ color:black
+}
+
+p{
+color:pink
+}
 ```
+
+```CSS
+h1,h2,p{
+color:black
+}
+```
+
+# Element 의 상태와 관련된 selector
+
+1. hover
+	
+1. activ

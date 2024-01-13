@@ -44,5 +44,18 @@ h1 {
 p.medium{
    font-size :20px;
 }
+
+h1.medium{
+	font-size:20px
+}
+```
+
+1. Universal selector
+	- 전체 element
+```
+*{
+   font-size:20px;
+   color:blue;
+}
 ```
 

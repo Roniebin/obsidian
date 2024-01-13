@@ -17,7 +17,7 @@ selector 나오고 style 나온다
 1. Element selector
 	1. 선택자의 이름을 선택
 
-``` css
+``` CSS
 h1 {
    color:green;
    }
@@ -26,5 +26,14 @@ h1 {
 1. ID selector
 
 ``` CSS
-fd
+#section{
+	background-color:black
+}
+```
+
+1. Class selector
+```CSS
+ .medium{
+ font-size:20px
+ }
 ```

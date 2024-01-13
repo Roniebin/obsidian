@@ -37,3 +37,12 @@ h1 {
  font-size:20px
  }
 ```
+
+#### element selector 와 Class selector를 함께 사용할수도있음
+
+``` CSS
+p.medium{
+   font-size :20px;
+}
+```
+

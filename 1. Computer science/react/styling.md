@@ -52,10 +52,19 @@ h1.medium{
 
 1. Universal selector
 	- 전체 element
-```
+```Css
 *{
    font-size:20px;
    color:blue;
 }
 ```
 
+
+1 . Grouping selector
+- 여러선택자를 그룹으로 묶어 하나의 스타일을 적용
+
+```CSS
+h1{
+color:black}
+
+```

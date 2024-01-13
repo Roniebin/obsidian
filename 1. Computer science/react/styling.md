@@ -8,4 +8,10 @@
 
 크게 selector 와 style로 구성
 
-h1 {color : g}
+h1 {color : green;font-size ;16px}
+selector 나오고 style 나온다
+
+
+# selector 의 유형
+
+1. Element select

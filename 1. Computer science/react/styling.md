@@ -86,5 +86,8 @@ color:black
 # Element 의 상태와 관련된 selector
 
 1. hover
+	1. 마우스 커서가 element위에 올라왔을때,
+2. active
+	1. 주로 <a> 태그 (link)에 사용되는데, element가 클릭됬을때를 의미
+3.  focus
 	
-1. activ

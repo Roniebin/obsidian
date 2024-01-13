@@ -1,3 +1,6 @@
+---
+tags: ComputerScience, react
+---
 # Css 란
 
 - Cascading style sheets (스타일링을 위한 언어)
@@ -94,4 +97,4 @@ color:black
 4. checked
 	 radio button이나 checkbox같은 유형의 input 태그가 체크되어있는경우를 의미
 5. first-child , : last-child
-	 상위 element를 기준으로 각각 첫 번째c
+	 상위 element를 기준으로 각각 첫 번째child, 마지막 child일 경우를 의미

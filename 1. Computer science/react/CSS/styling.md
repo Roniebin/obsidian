@@ -87,7 +87,7 @@ h1,h2,p{
 color:black
 }
 ```
-
+--------------------
 # Element 의 상태와 관련된 selector
 
  hover : 마우스 커서가 element위에 올라왔을때
@@ -95,6 +95,5 @@ active : 주로 <a> 태그 (link)에 사용되는데, element가 클릭됬을때
  focus : 주로 input 태그에 사용되는데 element가 초점을 갖고있을 경우를 의미
 checked :  radio button이나 checkbox같은 유형의 input 태그가 체크되어있는경우를 의미
  first-child , : last-child : 상위 element를 기준으로 각각 첫 번째child, 마지막 child일 경우를 의미
-
 
 

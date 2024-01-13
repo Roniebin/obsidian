@@ -14,4 +14,17 @@ selector 나오고 style 나온다
 
 # selector 의 유형
 
-1. Element select
+1. Element selector
+	1. 선택자의 이름을 선택
+
+``` css
+h1 {
+   color:green;
+   }
+```
+
+1. ID selector
+
+``` CSS
+fd
+```

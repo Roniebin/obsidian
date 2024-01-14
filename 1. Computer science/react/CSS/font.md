@@ -1,3 +1,6 @@
+---
+tags: ComputerScience, react
+---
 # font 와 관련된 대표적인 속성
 
 ``` CSS

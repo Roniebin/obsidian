@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Computer science/react/CSS/styled-components.md",
+                "file": "1. Computer science/react/미니프로젝트/미니블로그만들기.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -91,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "53782f952c545f52",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Computer science/react/CSS/styled-components.md"
+                "file": "1. Computer science/react/미니프로젝트/미니블로그만들기.md"
               }
             }
           },
@@ -169,10 +168,13 @@
   },
   "active": "2d550565075ee390",
   "lastOpenFiles": [
-    "1. Computer science/react/CSS/레이아웃.md",
-    "1. Computer science/react/CSS/styled-components.md",
-    "1. Computer science/react/CSS/font.md",
+    "1. Computer science/react/설치.md",
+    "1. Computer science/react/미니프로젝트/미니블로그만들기.md",
     "1. Computer science/react/CSS/styling.md",
+    "1. Computer science/react/CSS/styled-components.md",
+    "1. Computer science/react/CSS/레이아웃.md",
+    "1. Computer science/react/CSS/font.md",
+    "1. Computer science/react/미니프로젝트",
     "1. Computer science/react/컴포넌트.md",
     "Pasted image 20240113213508.png",
     "0. Index/To-do list.md",
@@ -183,7 +185,6 @@
     "Pasted image 20240113211113.png",
     "1. Computer science/react/CSS",
     "1. Computer science/react/생명주기.md",
-    "1. Computer science/react/설치.md",
     "1. Computer science/react/이벤트.md",
     "1. Computer science/react/조건부 랜더링.md",
     "1. Computer science/react/함수.md",
@@ -205,7 +206,6 @@
     "1. Computer science/Jquery",
     "1. Computer science/javascript/이벤트.md",
     "1. Computer science/javascript/자료형.md",
-    "2. English Notes/words/fed up with.md",
     "Images/Pasted image 20231229150751.png",
     "Images/Pasted image 20231229144956.png",
     "Images/Pasted image 20231229144927.png",
@@ -214,7 +214,6 @@
     "1. Computer science/머신러닝/시험 실습코드연습",
     "Context/spacesLastSync.log",
     "Context",
-    "1. Computer science/코틀린/액티비티/무제 폴더",
     "무제 파일.canvas",
     "무제 파일 1.canvas"
   ]

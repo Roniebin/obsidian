@@ -11,8 +11,13 @@
             "id": "2d550565075ee390",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "0. Index/To-do list.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           },
           {
@@ -112,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "0. Index/To-do list.md"
+              }
             }
           },
           {
@@ -132,7 +139,7 @@
             }
           },
           {
-            "id": "fafa6f291255074e",
+            "id": "7729f17bfead23a1",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -161,6 +168,7 @@
   },
   "active": "2d550565075ee390",
   "lastOpenFiles": [
+    "1. Computer science/react/미니프로젝트/빌드.md",
     "0. Index/To-do list.md",
     "1. Computer science/알고리즘/다이나믹 프로그래밍/연쇄행렬 최소곱셈.md",
     "1. Computer science/알고리즘/다이나믹 프로그래밍/편집거리 알고리즘.md",
@@ -188,7 +196,6 @@
     "1. Computer science/react/미니프로젝트",
     "1. Computer science/react/컴포넌트.md",
     "Pasted image 20240113213508.png",
-    "README.md",
     "Pasted image 20240113211922.png",
     "Pasted image 20240113211200.png",
     "Pasted image 20240113211113.png",

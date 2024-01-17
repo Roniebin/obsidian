@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Index/To-do list.md",
+                "file": "3. 코딩애플/React/react쓰는 이유.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Index/To-do list.md"
+                "file": "3. 코딩애플/React/react쓰는 이유.md"
               }
             }
           },
@@ -168,8 +168,11 @@
   },
   "active": "2d550565075ee390",
   "lastOpenFiles": [
-    "1. Computer science/react/미니프로젝트/빌드.md",
     "0. Index/To-do list.md",
+    "3. 코딩애플/React/react쓰는 이유.md",
+    "3. 코딩애플/React",
+    "3. 코딩애플",
+    "1. Computer science/react/미니프로젝트/빌드.md",
     "1. Computer science/알고리즘/다이나믹 프로그래밍/연쇄행렬 최소곱셈.md",
     "1. Computer science/알고리즘/다이나믹 프로그래밍/편집거리 알고리즘.md",
     "1. Computer science/알고리즘/다이나믹 프로그래밍/DP.md",
@@ -194,7 +197,6 @@
     "1. Computer science/react/설치.md",
     "1. Computer science/react/CSS/styling.md",
     "1. Computer science/react/미니프로젝트",
-    "1. Computer science/react/컴포넌트.md",
     "Pasted image 20240113213508.png",
     "Pasted image 20240113211922.png",
     "Pasted image 20240113211200.png",
@@ -212,8 +214,6 @@
     "Images/Pasted image 20231229144724.png",
     "1. Computer science/javascript",
     "1. Computer science/머신러닝/시험 실습코드연습",
-    "Context/spacesLastSync.log",
-    "Context",
     "무제 파일.canvas",
     "무제 파일 1.canvas"
   ]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. 코딩애플/React/7. 동적 UI.md",
+                "file": "3. 코딩애플/React/10. input.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. 코딩애플/React/7. 동적 UI.md"
+                "file": "3. 코딩애플/React/10. input.md"
               }
             }
           },
@@ -168,13 +168,14 @@
   },
   "active": "2d550565075ee390",
   "lastOpenFiles": [
+    "3. 코딩애플/React/7. 동적 UI.md",
+    "3. 코딩애플/React/10. input.md",
     "3. 코딩애플/React/8. map.md",
     "3. 코딩애플/React/9. props.md",
     "3. 코딩애플/React/4.State.md",
     "3. 코딩애플/React/3.JSX.md",
     "3. 코딩애플/React/5.버튼이벤트.md",
     "3. 코딩애플/React/6.컴포넌트.md",
-    "3. 코딩애플/React/7. 동적 UI.md",
     "3. 코딩애플/React/1. react쓰는 이유.md",
     "0. Index/To-do list.md",
     "3. 코딩애플/React",
@@ -195,7 +196,6 @@
     "1. Computer science/알고리즘/트리/최소신장트리(Minimum Spanning Tree).md",
     "1. Computer science/알고리즘/트리/사이클 검사.md",
     "1. Computer science/알고리즘/트리/다엑스트라 알고리즘.md",
-    "1. Computer science/멀티미디어/이미지처리.md",
     "1. Computer science/react/미니프로젝트",
     "Pasted image 20240113213508.png",
     "Pasted image 20240113211922.png",

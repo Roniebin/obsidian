@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. 코딩애플/React/간단한 기능.md",
+                "file": "3. 코딩애플/React/버튼이벤트.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -91,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "53782f952c545f52",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. 코딩애플/React/간단한 기능.md"
+                "file": "3. 코딩애플/React/버튼이벤트.md"
               }
             }
           },
@@ -169,8 +168,9 @@
   },
   "active": "2d550565075ee390",
   "lastOpenFiles": [
+    "3. 코딩애플/React/State.md",
+    "3. 코딩애플/React/버튼이벤트.md",
     "3. 코딩애플/React/JSX.md",
-    "3. 코딩애플/React/간단한 기능.md",
     "3. 코딩애플/React/react쓰는 이유.md",
     "0. Index/To-do list.md",
     "3. 코딩애플/React",
@@ -196,7 +196,6 @@
     "1. Computer science/react/CSS/레이아웃.md",
     "1. Computer science/react/CSS/font.md",
     "1. Computer science/react/CSS/styled-components.md",
-    "1. Computer science/react/미니프로젝트/미니블로그만들기.md",
     "1. Computer science/react/미니프로젝트",
     "Pasted image 20240113213508.png",
     "Pasted image 20240113211922.png",

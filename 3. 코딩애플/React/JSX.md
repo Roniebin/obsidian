@@ -1,0 +1,9 @@
+# class -> className
+
+# 변수를 사용할때 {} == 데이터 바인딩
+
+# style 넣을떈 style={{이름 :'값'}}
+
+``` 
+ <h4 id={post} style={{color:'red',fontSize:'16px'}}>블로그임</h4>
+```

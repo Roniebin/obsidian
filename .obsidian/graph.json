@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#ComputerScience  ",
+      "color": {
+        "a": 1,
+        "rgb": 16248578
+      }
+    },
+    {
+      "query": "tag:#English  ",
+      "color": {
+        "a": 1,
+        "rgb": 14494764
+      }
+    },
+    {
+      "query": "tag:#코딩애플  ",
+      "color": {
+        "a": 1,
+        "rgb": 11346158
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -1.1,
+  "nodeSizeMultiplier": 0.469282744282744,
+  "lineSizeMultiplier": 0.448908523908524,
+  "collapse-forces": false,
+  "centerStrength": 0.487006237006237,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.11446177651211414,
+  "close": true
+}

@@ -11,13 +11,8 @@
             "id": "2d550565075ee390",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. 코딩애플/React/10. input.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -87,7 +82,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -117,9 +113,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "3. 코딩애플/React/10. input.md"
-              }
+              "state": {}
             }
           },
           {
@@ -151,7 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 201.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,16 +160,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2d550565075ee390",
+  "active": "cf8c86af894b4a8b",
   "lastOpenFiles": [
-    "3. 코딩애플/React/7. 동적 UI.md",
     "3. 코딩애플/React/10. input.md",
+    "3. 코딩애플/React/무제 파일.md",
     "3. 코딩애플/React/8. map.md",
-    "3. 코딩애플/React/9. props.md",
-    "3. 코딩애플/React/4.State.md",
-    "3. 코딩애플/React/3.JSX.md",
+    "1. Computer science/react/조건부 랜더링.md",
+    "1. Computer science/react/함수.md",
+    "1. Computer science/멀티미디어/DCT.md",
+    "1. Computer science/멀티미디어/학교수업/이미지와 그래픽.md",
+    "1. Computer science/멀티미디어/인터페이스카드.md",
+    "1. Computer science/알고리즘/Sort/Bubble Sort.md",
     "3. 코딩애플/React/5.버튼이벤트.md",
+    "3. 코딩애플/React/3.JSX.md",
+    "3. 코딩애플/React/9. props.md",
+    "1. Computer science/머신러닝/시험 실습코드연습/skip,dense,attention.md",
+    "3. 코딩애플/React/7. 동적 UI.md",
     "3. 코딩애플/React/6.컴포넌트.md",
+    "3. 코딩애플/React/4.State.md",
     "3. 코딩애플/React/1. react쓰는 이유.md",
     "0. Index/To-do list.md",
     "3. 코딩애플/React",
@@ -188,14 +190,6 @@
     "1. Computer science/알고리즘/Sort/Shell Sort.md",
     "1. Computer science/알고리즘/Sort/Sorting Algorithm.md",
     "1. Computer science/알고리즘/Sort/Radix Sort.md",
-    "1. Computer science/알고리즘/Sort/Quick sort.md",
-    "1. Computer science/알고리즘/Sort/Insertion Sort.md",
-    "1. Computer science/알고리즘/Sort/External Sort.md",
-    "1. Computer science/알고리즘/트리/플로이드 알고리즘.md",
-    "1. Computer science/알고리즘/트리/크루스칼 알고리즘.md",
-    "1. Computer science/알고리즘/트리/최소신장트리(Minimum Spanning Tree).md",
-    "1. Computer science/알고리즘/트리/사이클 검사.md",
-    "1. Computer science/알고리즘/트리/다엑스트라 알고리즘.md",
     "1. Computer science/react/미니프로젝트",
     "Pasted image 20240113213508.png",
     "Pasted image 20240113211922.png",

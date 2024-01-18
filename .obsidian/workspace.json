@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2d550565075ee390",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. 코딩애플/React/무제 파일 1.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "23c99ff2a6141529",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Computer science/react/CSS/font.md",
+                "file": "3. 코딩애플/React/무제 파일.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -118,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. 코딩애플/React/무제 파일 1.md"
+                "file": "3. 코딩애플/React/무제 파일.md"
               }
             }
           },
@@ -166,36 +153,37 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2d550565075ee390",
+  "active": "23c99ff2a6141529",
   "lastOpenFiles": [
-    "3. 코딩애플/React/5.버튼이벤트.md",
     "3. 코딩애플/React/무제 파일 1.md",
+    "3. 코딩애플/React/무제 파일.md",
+    "1. Computer science/react/CSS/font.md",
+    "fdsfdsf/벤치.md",
+    "fdsfdsf/후인하강.md",
+    "1. Computer science/react/Hooks.md",
+    "fdsfdsf",
+    "1. Computer science/임배디드 시스템/아두이노/전기전자기초/전압과 전류.md",
+    "1. Computer science/임배디드 시스템/아두이노/전기전자기초/전극.md",
+    "1. Computer science/임배디드 시스템/아두이노/센서/조이스틱.md",
+    "2. English Notes/Grammar/To verb.md",
+    "2. English Notes/Grammar/목적어로 동명사.md",
+    "2. English Notes/Grammar/목적어로 to 부정사.md",
+    "2. English Notes/Simple_Expression/better yet.md",
+    "0. Index/To-do list.md",
+    "1. Computer science/알고리즘/Sort/Heap Sort.md",
+    "1. Computer science/알고리즘/Sort/External Sort.md",
+    "1. Computer science/react/form.md",
+    "1. Computer science/react/합성vs상속.md",
+    "1. Computer science/react/함수.md",
+    "3. 코딩애플/React/5.버튼이벤트.md",
     "3. 코딩애플/React/6.컴포넌트.md",
     "3. 코딩애플/React/7. 동적 UI.md",
     "3. 코딩애플/React/8. map.md",
     "3. 코딩애플/React/9. props.md",
     "3. 코딩애플/React/10. input.md",
     "1. Computer science/멀티미디어/저작도구.md",
-    "3. 코딩애플/React/bootstrap.md",
-    "1. Computer science/react/조건부 랜더링.md",
-    "1. Computer science/react/함수.md",
-    "1. Computer science/멀티미디어/DCT.md",
-    "1. Computer science/멀티미디어/학교수업/이미지와 그래픽.md",
-    "1. Computer science/멀티미디어/인터페이스카드.md",
-    "1. Computer science/알고리즘/Sort/Bubble Sort.md",
-    "3. 코딩애플/React/3.JSX.md",
-    "1. Computer science/머신러닝/시험 실습코드연습/skip,dense,attention.md",
-    "3. 코딩애플/React/4.State.md",
-    "3. 코딩애플/React/1. react쓰는 이유.md",
-    "0. Index/To-do list.md",
     "3. 코딩애플/React",
     "3. 코딩애플",
-    "1. Computer science/react/미니프로젝트/빌드.md",
-    "1. Computer science/알고리즘/다이나믹 프로그래밍/연쇄행렬 최소곱셈.md",
-    "1. Computer science/알고리즘/다이나믹 프로그래밍/편집거리 알고리즘.md",
-    "1. Computer science/알고리즘/다이나믹 프로그래밍/DP.md",
-    "1. Computer science/알고리즘/다이나믹 프로그래밍/kanpsack 배낭문제.md",
-    "1. Computer science/알고리즘/Sort/Shell Sort.md",
     "1. Computer science/react/미니프로젝트",
     "Pasted image 20240113213508.png",
     "Pasted image 20240113211922.png",
@@ -213,7 +201,6 @@
     "Images/Pasted image 20231229144927.png",
     "Images/Pasted image 20231229144724.png",
     "1. Computer science/javascript",
-    "1. Computer science/머신러닝/시험 실습코드연습",
     "무제 파일.canvas",
     "무제 파일 1.canvas"
   ]

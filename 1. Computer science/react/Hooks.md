@@ -145,3 +145,5 @@ const refContainer=useRef(초기값);
 
 1. <mark style="background: #FF5582A6;">리엑트 함수 컴포넌트에서만 호출</mark>
 - 일반 자바스크립트 함수 X
+
+

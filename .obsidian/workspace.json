@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. 코딩애플/React/무제 파일.md",
+                "file": "3. 코딩애플/React/3.JSX.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. 코딩애플/React/무제 파일.md"
+                "file": "3. 코딩애플/React/3.JSX.md"
               }
             }
           },
@@ -155,7 +155,9 @@
   },
   "active": "23c99ff2a6141529",
   "lastOpenFiles": [
-    "3. 코딩애플/React/무제 파일 1.md",
+    "3. 코딩애플/React/8. map.md",
+    "3. 코딩애플/React/9. props.md",
+    "3. 코딩애플/React/object 자료.md",
     "3. 코딩애플/React/무제 파일.md",
     "1. Computer science/react/CSS/font.md",
     "fdsfdsf/벤치.md",
@@ -178,8 +180,6 @@
     "3. 코딩애플/React/5.버튼이벤트.md",
     "3. 코딩애플/React/6.컴포넌트.md",
     "3. 코딩애플/React/7. 동적 UI.md",
-    "3. 코딩애플/React/8. map.md",
-    "3. 코딩애플/React/9. props.md",
     "3. 코딩애플/React/10. input.md",
     "1. Computer science/멀티미디어/저작도구.md",
     "3. 코딩애플/React",

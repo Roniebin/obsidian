@@ -11,8 +11,13 @@
             "id": "23c99ff2a6141529",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "3. 코딩애플/React/애니메이션.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -99,7 +104,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "3. 코딩애플/React/애니메이션.md"
+              }
             }
           },
           {
@@ -146,8 +153,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "23c99ff2a6141529",
+  "active": "f7a55f8fca209795",
   "lastOpenFiles": [
+    "3. 코딩애플/React/애니메이션.md",
     "3. 코딩애플/React/bootstrap.md",
     "3. 코딩애플/React/AJAX.md",
     "3. 코딩애플/React/이미지추가.md",
@@ -174,7 +182,6 @@
     "2. English Notes/Grammar/To verb.md",
     "2. English Notes/Grammar/목적어로 동명사.md",
     "2. English Notes/Grammar/목적어로 to 부정사.md",
-    "2. English Notes/Simple_Expression/better yet.md",
     "3. 코딩애플/React",
     "3. 코딩애플",
     "1. Computer science/react/미니프로젝트",

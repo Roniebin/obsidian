@@ -47,3 +47,16 @@ createSlice({
     initialState: '값'
 })
 ```
+
+
+# Redux store 안에 모든걸넣지 마라
+
+컴포넌트간 공유가필요없으면 useState 써라
+
+
+# redux state 변경하려면
+
+1. state 변경함수 만들기
+2. export
+3. dispatch(status 변경함수())
+

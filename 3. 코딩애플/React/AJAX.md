@@ -1,3 +1,8 @@
+---
+tags:
+  - react
+  - 코딩애플
+---
 # AJAX 개념설명
 
 
@@ -25,3 +30,30 @@ AJAX로 get요청가능
   })
  }}>버튼</button>
 ```
+
+
+-------------------------------
+# post 할떄
+
+``` javascript
+   axios.post('/satdfds',{name : 'kim'})
+```
+
+# 많은 url에 한번에 보낼때
+
+``` javascript
+ Promise.all([axios.get('/url1'),axios.get('/url2')]).then(()=>{})
+```
+
+
+- JSON 데이터는 문자 취급이라 object데이터라도 전송,get가능
+- 원래 문자데이터만 서버와 주고받을수있음
+
+
+- 도착시 axios 가 array 로 바꿔주는거임
+
+
+# fetch
+
+- 쓰면 array로 바꾸는 작업을 따로 필요로함
+- axios의 편리한점이 나타남

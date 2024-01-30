@@ -1,3 +1,6 @@
+---
+tags: react, 코딩애플
+---
 # Life Cycle
 
 - 페이지에 장착되다 (mount)

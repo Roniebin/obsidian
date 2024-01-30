@@ -60,3 +60,8 @@ createSlice({
 2. export
 3. dispatch(status 변경함수())
 
+
+# 장점
+
+- 사이즈가 커지면 한 state를 변경했을때 어디서 오류가낫는지 모름
+- redux식으로하면 store에 변경함수만 뒤지면 되서 오류찾기 쉬움

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Context/무제 파일.md",
+                "file": "3. 코딩애플/React/LocalStorage.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Context/무제 파일.md"
+                "file": "3. 코딩애플/React/LocalStorage.md"
               }
             }
           },
@@ -154,10 +154,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f7a55f8fca209795",
+  "active": "23c99ff2a6141529",
   "lastOpenFiles": [
-    "1. Computer science/알고리즘/다이나믹 프로그래밍/연쇄행렬 최소곱셈.md",
+    "3. 코딩애플/React/Redux.md",
+    "3. 코딩애플/React/LocalStorage.md",
+    "3. 코딩애플/무제 파일.md",
     "Context/무제 파일.md",
+    "1. Computer science/알고리즘/다이나믹 프로그래밍/연쇄행렬 최소곱셈.md",
     "1. Computer science/알고리즘/다이나믹 프로그래밍/편집거리 알고리즘.md",
     "1. Computer science/알고리즘/복잡도(Complexity)/시간 복잡도.md",
     "1. Computer science/알고리즘/트리/다엑스트라 알고리즘.md",
@@ -166,7 +169,6 @@
     "1. Computer science/알고리즘/트리/최소신장트리(Minimum Spanning Tree).md",
     "3. 코딩애플/React/5.버튼이벤트.md",
     "3. 코딩애플/React/4.State.md",
-    "3. 코딩애플/React/Redux.md",
     "3. 코딩애플/React/Context API.md",
     "3. 코딩애플/React/object 자료.md",
     "3. 코딩애플/React/bootstrap.md",
@@ -180,8 +182,6 @@
     "3. 코딩애플/React/9. props.md",
     "3. 코딩애플/React/7. 동적 UI.md",
     "0. Index/To-do list.md",
-    "3. 코딩애플/React/무제 파일 1.md",
-    "3. 코딩애플/React/무제 파일 2.md",
     "fdsfdsf",
     "3. 코딩애플/React",
     "3. 코딩애플",

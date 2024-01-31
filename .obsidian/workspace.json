@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. 코딩애플/React/5.버튼이벤트.md",
+                "file": "Context/무제 파일.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. 코딩애플/React/5.버튼이벤트.md"
+                "file": "Context/무제 파일.md"
               }
             }
           },
@@ -154,8 +154,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "23c99ff2a6141529",
+  "active": "f7a55f8fca209795",
   "lastOpenFiles": [
+    "1. Computer science/알고리즘/다이나믹 프로그래밍/연쇄행렬 최소곱셈.md",
+    "Context/무제 파일.md",
+    "1. Computer science/알고리즘/다이나믹 프로그래밍/편집거리 알고리즘.md",
+    "1. Computer science/알고리즘/복잡도(Complexity)/시간 복잡도.md",
+    "1. Computer science/알고리즘/트리/다엑스트라 알고리즘.md",
+    "1. Computer science/알고리즘/트리/사이클 검사.md",
+    "1. Computer science/알고리즘/트리/최단경로 찾기.md",
+    "1. Computer science/알고리즘/트리/최소신장트리(Minimum Spanning Tree).md",
+    "3. 코딩애플/React/5.버튼이벤트.md",
     "3. 코딩애플/React/4.State.md",
     "3. 코딩애플/React/Redux.md",
     "3. 코딩애플/React/Context API.md",
@@ -173,16 +182,7 @@
     "0. Index/To-do list.md",
     "3. 코딩애플/React/무제 파일 1.md",
     "3. 코딩애플/React/무제 파일 2.md",
-    "3. 코딩애플/React/3.JSX.md",
-    "3. 코딩애플/React/8. map.md",
-    "1. Computer science/react/CSS/font.md",
-    "fdsfdsf/벤치.md",
-    "fdsfdsf/후인하강.md",
-    "1. Computer science/react/Hooks.md",
     "fdsfdsf",
-    "1. Computer science/임배디드 시스템/아두이노/전기전자기초/전압과 전류.md",
-    "1. Computer science/임배디드 시스템/아두이노/전기전자기초/전극.md",
-    "1. Computer science/임배디드 시스템/아두이노/센서/조이스틱.md",
     "3. 코딩애플/React",
     "3. 코딩애플",
     "1. Computer science/react/미니프로젝트",

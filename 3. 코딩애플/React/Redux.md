@@ -1,3 +1,6 @@
+---
+tags: react, 코딩애플
+---
 # Redux?
 
 - 컴포넌트들이 props 없이 state 공유가능

@@ -1,5 +1,7 @@
 ---
-tags: []
+tags:
+  - 코딩애플
+  - react
 ---
 # [[AJAX]] 성공/실패시 html 보여주려면?
 
@@ -33,3 +35,11 @@ tags: []
  result.error : 실패시 true 가됨
 
 로딩중일때 로딩중입니다 띄우고 싶으면
+
+
+틈만나면 재요청해줌 == refetch
+
+state 공유 안해도됨 
+
+ajax 결과 캐싱기능
+

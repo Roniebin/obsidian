@@ -8,4 +8,7 @@
 # object를 json 으로
 
   - JSON.stringify(obj);
-  
+
+# JSON을 다시 object로
+
+- JSON.parse(꺼낸거).name

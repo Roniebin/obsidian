@@ -34,3 +34,10 @@ style > id > class > tag
 # box 에 그림자 주기
 
  box-shadow: 5px 5px 5px 5px grey ;
+
+
+-----------------------------------------------
+
+# a 태그 밑줄없애기
+
+    text-decoration : none;

@@ -17,3 +17,11 @@ display:inline-block 은 크기만큼만 차지
  vertical-align:top;
 
 baseline 이 옆에 존재하면 display:inline-block 요소들이 baseline위에 오려고함
+
+
+
+# 이렇게도 가능
+
+.navbar li{
+    display:inline-block;
+}

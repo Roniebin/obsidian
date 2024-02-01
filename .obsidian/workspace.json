@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. 코딩애플/html,css/float.md",
+                "file": "3. 코딩애플/html,css/html이란.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. 코딩애플/html,css/float.md"
+                "file": "3. 코딩애플/html,css/html이란.md"
               }
             }
           },
@@ -155,9 +155,10 @@
   },
   "active": "23c99ff2a6141529",
   "lastOpenFiles": [
+    "3. 코딩애플/html,css/inline-block.md",
+    "3. 코딩애플/html,css/float.md",
     "3. 코딩애플/html,css/css.md",
     "3. 코딩애플/html,css/html이란.md",
-    "3. 코딩애플/html,css/float.md",
     "3. 코딩애플/React/1. react쓰는 이유.md",
     "3. 코딩애플/React/무제 파일.md",
     "3. 코딩애플/html,css",
@@ -181,7 +182,6 @@
     "1. Computer science/알고리즘/복잡도(Complexity)/시간 복잡도.md",
     "1. Computer science/알고리즘/트리/다엑스트라 알고리즘.md",
     "1. Computer science/알고리즘/트리/사이클 검사.md",
-    "1. Computer science/알고리즘/트리/최단경로 찾기.md",
     "fdsfdsf",
     "3. 코딩애플/React",
     "3. 코딩애플",

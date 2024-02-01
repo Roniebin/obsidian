@@ -10,3 +10,8 @@
 # 밝기 필터
 
 -  filter :brightness(70%);
+
+
+# 배경에 검은색 틴트 주기
+
+ background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../img/shoes.jpg);

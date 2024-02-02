@@ -28,3 +28,10 @@ position :absolute : 내 부모태그 기준으로 상대적으로 움직일때
 3. absolute - 부모태그가 기준 (relative 가진 부모)
 4. fixed - 현재 화면이 기준
 5. 공중에
+
+
+
+# z-index
+
+- 공중에 여러개떠있을때
+- 

@@ -1,3 +1,6 @@
+---
+tags: 코딩애플, html
+---
 # 예쁘게 주기
 
    background-image:url(../img/shoes.jpg);

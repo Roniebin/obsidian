@@ -1,3 +1,6 @@
+---
+tags: 코딩애플, html
+---
 # form 이란
 
 form 안에 input 생성
@@ -22,4 +25,17 @@ input
 # input[type=text]
 
 - type 이 text인 모든 input 선택자
+
+
+# label 태그에 for 과 input의 id와 이름이같으면
+
+label 누르면 input 누른효과를 준다
+
+
+
+# 꿀팁
+
+- 셀렉터에 콤마쓰면 여러개 동시 선택가능
+- 클래스명 사용할때 재사용을 할수있게 짜보자
+- input 디자인할때 label태그 유용하다
 - 

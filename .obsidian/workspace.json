@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. 코딩애플/html,css/form.md",
+                "file": "3. 코딩애플/html,css/table.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. 코딩애플/html,css/form.md"
+                "file": "3. 코딩애플/html,css/table.md"
               }
             }
           },
@@ -155,8 +155,11 @@
   },
   "active": "23c99ff2a6141529",
   "lastOpenFiles": [
-    "3. 코딩애플/html,css/max-width.md",
+    "3. 코딩애플/html,css/table.md",
+    "3. 코딩애플/html,css/가운데 정렬법.md",
+    "Pasted image 20240202142645.png",
     "3. 코딩애플/html,css/form.md",
+    "3. 코딩애플/html,css/max-width.md",
     "3. 코딩애플/html,css/background.md",
     "3. 코딩애플/html,css/css.md",
     "3. 코딩애플/html,css/float.md",
@@ -180,8 +183,6 @@
     "3. 코딩애플/React/Redux.md",
     "3. 코딩애플/React/React Query.md",
     "3. 코딩애플/React/object 자료.md",
-    "3. 코딩애플/React/LocalStorage.md",
-    "Context/무제 파일.md",
     "fdsfdsf",
     "3. 코딩애플/React",
     "3. 코딩애플",
@@ -200,7 +201,6 @@
     "Images/Pasted image 20231229150751.png",
     "Images/Pasted image 20231229144956.png",
     "Images/Pasted image 20231229144927.png",
-    "Images/Pasted image 20231229144724.png",
     "무제 파일.canvas",
     "무제 파일 1.canvas"
   ]

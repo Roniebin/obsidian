@@ -11,8 +11,13 @@
             "id": "23c99ff2a6141529",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "3. 코딩애플/html,css/form.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -99,7 +104,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "3. 코딩애플/html,css/form.md"
+              }
             }
           },
           {
@@ -119,7 +126,7 @@
             }
           },
           {
-            "id": "75e4f2be13f76c04",
+            "id": "a19b9d533dd00165",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -127,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -149,6 +156,7 @@
   "active": "23c99ff2a6141529",
   "lastOpenFiles": [
     "3. 코딩애플/html,css/max-width.md",
+    "3. 코딩애플/html,css/form.md",
     "3. 코딩애플/html,css/background.md",
     "3. 코딩애플/html,css/css.md",
     "3. 코딩애플/html,css/float.md",
@@ -174,7 +182,6 @@
     "3. 코딩애플/React/object 자료.md",
     "3. 코딩애플/React/LocalStorage.md",
     "Context/무제 파일.md",
-    "1. Computer science/알고리즘/다이나믹 프로그래밍/연쇄행렬 최소곱셈.md",
     "fdsfdsf",
     "3. 코딩애플/React",
     "3. 코딩애플",

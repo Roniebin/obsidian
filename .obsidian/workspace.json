@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. 코딩애플/html,css/flexbox.md",
+                "file": "3. 코딩애플/html,css/반응형 레이아웃.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. 코딩애플/html,css/flexbox.md"
+                "file": "3. 코딩애플/html,css/반응형 레이아웃.md"
               }
             }
           },
@@ -155,14 +155,17 @@
   },
   "active": "23c99ff2a6141529",
   "lastOpenFiles": [
-    "Pasted image 20240203160827.png",
-    "3. 코딩애플/html,css/css.md",
-    "3. 코딩애플/html,css/max-width.md",
-    "3. 코딩애플/html,css/OOCSS,BEM.md",
-    "3. 코딩애플/html,css/Position.md",
     "3. 코딩애플/html,css/flexbox.md",
-    "3. 코딩애플/html,css/inline-block.md",
     "3. 코딩애플/html,css/폰트첨부.md",
+    "3. 코딩애플/html,css/반응형 레이아웃.md",
+    "3. 코딩애플/html,css/background.md",
+    "3. 코딩애플/html,css/css.md",
+    "3. 코딩애플/html,css/float.md",
+    "3. 코딩애플/html,css/OOCSS,BEM.md",
+    "Pasted image 20240203160827.png",
+    "3. 코딩애플/html,css/max-width.md",
+    "3. 코딩애플/html,css/Position.md",
+    "3. 코딩애플/html,css/inline-block.md",
     "3. 코딩애플/React/7. 동적 UI.md",
     "0. Index/To-do list.md",
     "3. 코딩애플/html,css/pseudo-class.md",
@@ -170,8 +173,6 @@
     "3. 코딩애플/html,css/table.md",
     "Pasted image 20240202142645.png",
     "3. 코딩애플/html,css/form.md",
-    "3. 코딩애플/html,css/background.md",
-    "3. 코딩애플/html,css/float.md",
     "3. 코딩애플/html,css/html이란.md",
     "3. 코딩애플/React/1. react쓰는 이유.md",
     "3. 코딩애플/React/무제 파일.md",
@@ -200,7 +201,6 @@
     "1. Computer science/Jquery",
     "Images/Pasted image 20231229150751.png",
     "Images/Pasted image 20231229144956.png",
-    "Images/Pasted image 20231229144927.png",
     "무제 파일.canvas",
     "무제 파일 1.canvas"
   ]

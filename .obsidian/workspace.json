@@ -11,8 +11,13 @@
             "id": "23c99ff2a6141529",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "3. 코딩애플/html,css/flexbox.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#코딩애플",
+                "query": "box-s",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -100,7 +104,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "3. 코딩애플/html,css/flexbox.md"
+              }
             }
           },
           {
@@ -120,7 +126,7 @@
             }
           },
           {
-            "id": "a19b9d533dd00165",
+            "id": "849099c706ff3118",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -149,20 +155,24 @@
   },
   "active": "23c99ff2a6141529",
   "lastOpenFiles": [
+    "Pasted image 20240203160827.png",
+    "3. 코딩애플/html,css/css.md",
+    "3. 코딩애플/html,css/max-width.md",
     "3. 코딩애플/html,css/OOCSS,BEM.md",
+    "3. 코딩애플/html,css/Position.md",
+    "3. 코딩애플/html,css/flexbox.md",
+    "3. 코딩애플/html,css/inline-block.md",
+    "3. 코딩애플/html,css/폰트첨부.md",
+    "3. 코딩애플/React/7. 동적 UI.md",
+    "0. Index/To-do list.md",
     "3. 코딩애플/html,css/pseudo-class.md",
     "3. 코딩애플/html,css/가운데정렬.md",
     "3. 코딩애플/html,css/table.md",
     "Pasted image 20240202142645.png",
     "3. 코딩애플/html,css/form.md",
-    "3. 코딩애플/html,css/max-width.md",
     "3. 코딩애플/html,css/background.md",
-    "3. 코딩애플/html,css/css.md",
     "3. 코딩애플/html,css/float.md",
-    "3. 코딩애플/html,css/Position.md",
-    "3. 코딩애플/html,css/inline-block.md",
     "3. 코딩애플/html,css/html이란.md",
-    "0. Index/To-do list.md",
     "3. 코딩애플/React/1. react쓰는 이유.md",
     "3. 코딩애플/React/무제 파일.md",
     "3. 코딩애플/html,css",
@@ -173,10 +183,6 @@
     "3. 코딩애플/React/AJAX.md",
     "3. 코딩애플/React/bootstrap.md",
     "3. 코딩애플/React/Context API.md",
-    "3. 코딩애플/React/Life Cycle.md",
-    "3. 코딩애플/React/URl 파라미터.md",
-    "3. 코딩애플/React/styled-components.md",
-    "3. 코딩애플/React/Redux.md",
     "fdsfdsf",
     "3. 코딩애플/React",
     "3. 코딩애플",

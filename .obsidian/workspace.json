@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. 코딩애플/html,css/flexbox.md",
+                "file": "3. 코딩애플/html,css/bootstrap.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. 코딩애플/html,css/flexbox.md"
+                "file": "3. 코딩애플/html,css/bootstrap.md"
               }
             }
           },
@@ -153,8 +153,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "23c99ff2a6141529",
+  "active": "f7a55f8fca209795",
   "lastOpenFiles": [
+    "3. 코딩애플/html,css/transition.md",
+    "3. 코딩애플/html,css/bootstrap.md",
+    "3. 코딩애플/html,css/form.md",
+    "3. 코딩애플/html,css/flexbox.md",
     "3. 코딩애플/html,css/Position.md",
     "3. 코딩애플/html,css/가운데정렬.md",
     "3. 코딩애플/html,css/반응형 레이아웃.md",
@@ -163,15 +167,12 @@
     "3. 코딩애플/html,css/max-width.md",
     "3. 코딩애플/html,css/OOCSS,BEM.md",
     "3. 코딩애플/html,css/pseudo-class.md",
-    "3. 코딩애플/html,css/flexbox.md",
     "3. 코딩애플/html,css/css.md",
     "3. 코딩애플/html,css/background.md",
-    "3. 코딩애플/html,css/form.md",
     "3. 코딩애플/html,css/html이란.md",
     "3. 코딩애플/html,css/inline-block.md",
     "3. 코딩애플/html,css/table.md",
     "3. 코딩애플/html,css/float.md",
-    "3. 코딩애플/html,css/transition.md",
     "3. 코딩애플/React/Life Cycle.md",
     "3. 코딩애플/React/bootstrap.md",
     "3. 코딩애플/React/AJAX.md",
@@ -181,7 +182,6 @@
     "3. 코딩애플/React/성능개선.md",
     "Pasted image 20240203160827.png",
     "3. 코딩애플/React/7. 동적 UI.md",
-    "0. Index/To-do list.md",
     "Pasted image 20240202142645.png",
     "3. 코딩애플/html,css",
     "fdsfdsf",

@@ -12,6 +12,10 @@
 2. transition 애니메이션
 - opaicty 주고 transition 속성으로 애니메이션
 
+####     transition-timing-function:
+
+- 애니메이션 속도를 내맘대로
+
 
 
 

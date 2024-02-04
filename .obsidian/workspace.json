@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. 코딩애플/html,css/bootstrap.md",
+                "file": "3. 코딩애플/html,css/css 덮어쓰기.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. 코딩애플/html,css/bootstrap.md"
+                "file": "3. 코딩애플/html,css/css 덮어쓰기.md"
               }
             }
           },
@@ -153,10 +153,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f7a55f8fca209795",
+  "active": "23c99ff2a6141529",
   "lastOpenFiles": [
-    "3. 코딩애플/html,css/transition.md",
     "3. 코딩애플/html,css/bootstrap.md",
+    "3. 코딩애플/html,css/css 덮어쓰기.md",
+    "3. 코딩애플/html,css/transition.md",
     "3. 코딩애플/html,css/form.md",
     "3. 코딩애플/html,css/flexbox.md",
     "3. 코딩애플/html,css/Position.md",
@@ -181,7 +182,6 @@
     "3. 코딩애플/React/애니메이션.md",
     "3. 코딩애플/React/성능개선.md",
     "Pasted image 20240203160827.png",
-    "3. 코딩애플/React/7. 동적 UI.md",
     "Pasted image 20240202142645.png",
     "3. 코딩애플/html,css",
     "fdsfdsf",

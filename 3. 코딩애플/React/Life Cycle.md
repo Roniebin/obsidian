@@ -42,7 +42,6 @@ tags: react, 코딩애플
 - 함수의 핵심기능과 상관없는 부가기능
 
 
-
 ``` javascript
   useEffect(()=> {
     setTimeout(()=>{

@@ -11,8 +11,13 @@
             "id": "23c99ff2a6141529",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "3. 코딩애플/html,css/SASS.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -99,7 +104,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "3. 코딩애플/html,css/SASS.md"
+              }
             }
           },
           {
@@ -148,6 +155,12 @@
   },
   "active": "23c99ff2a6141529",
   "lastOpenFiles": [
+    "3. 코딩애플/html,css/가운데정렬.md",
+    "3. 코딩애플/html,css/SASS.md",
+    "3. 코딩애플/html,css/shadow DOM.md",
+    "3. 코딩애플/html,css/pseudo-element.md",
+    "3. 코딩애플/html,css/pseudo-class.md",
+    "3. 코딩애플/html,css/Position.md",
     "3. 코딩애플/html,css/bootstrap.md",
     "3. 코딩애플/html,css/css.md",
     "3. 코딩애플/html,css/아이콘 넣기.md",
@@ -163,13 +176,10 @@
     "Images/Pasted image 20231010202827.png",
     "3. 코딩애플/html,css/transition.md",
     "3. 코딩애플/html,css/flexbox.md",
-    "3. 코딩애플/html,css/Position.md",
-    "3. 코딩애플/html,css/가운데정렬.md",
     "3. 코딩애플/html,css/반응형 레이아웃.md",
     "3. 코딩애플/html,css/폰트첨부.md",
     "3. 코딩애플/html,css/max-width.md",
     "3. 코딩애플/html,css/OOCSS,BEM.md",
-    "3. 코딩애플/html,css/pseudo-class.md",
     "3. 코딩애플/html,css/background.md",
     "3. 코딩애플/html,css/html이란.md",
     "3. 코딩애플/html,css/inline-block.md",
@@ -179,8 +189,6 @@
     "3. 코딩애플/React/bootstrap.md",
     "3. 코딩애플/React/AJAX.md",
     "3. 코딩애플/React/Context API.md",
-    "3. 코딩애플/React/이미지추가.md",
-    "3. 코딩애플/React/애니메이션.md",
     "Pasted image 20240203160827.png",
     "Pasted image 20240202142645.png",
     "3. 코딩애플/html,css",

@@ -11,13 +11,8 @@
             "id": "23c99ff2a6141529",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. 코딩애플/html,css/css 덮어쓰기.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -104,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "3. 코딩애플/html,css/css 덮어쓰기.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,8 +148,15 @@
   },
   "active": "23c99ff2a6141529",
   "lastOpenFiles": [
-    "3. 코딩애플/html,css/bootstrap.md",
+    "Images/Pasted image 20231117094240.png",
+    "Images/Pasted image 20231011163854.png",
+    "Images/Pasted image 20231011164133.png",
+    "Images/Pasted image 20231105172326.png",
+    "Images/Pasted image 20231011155421.png",
+    "Images/Pasted image 20231011154606.png",
+    "Images/Pasted image 20231010202827.png",
     "3. 코딩애플/html,css/css 덮어쓰기.md",
+    "3. 코딩애플/html,css/bootstrap.md",
     "3. 코딩애플/html,css/transition.md",
     "3. 코딩애플/html,css/form.md",
     "3. 코딩애플/html,css/flexbox.md",
@@ -180,7 +180,6 @@
     "3. 코딩애플/React/Context API.md",
     "3. 코딩애플/React/이미지추가.md",
     "3. 코딩애플/React/애니메이션.md",
-    "3. 코딩애플/React/성능개선.md",
     "Pasted image 20240203160827.png",
     "Pasted image 20240202142645.png",
     "3. 코딩애플/html,css",
@@ -190,17 +189,11 @@
     "1. Computer science/react/미니프로젝트",
     "Pasted image 20240113213508.png",
     "Pasted image 20240113211922.png",
-    "Pasted image 20240113211200.png",
-    "Pasted image 20240113211113.png",
     "1. Computer science/react/CSS",
     "Excalidraw",
     "1. Computer science/react",
     "1. Computer science/node.js",
-    "Pasted image 20231231170348.png",
-    "Pasted image 20231231170346.png",
     "1. Computer science/Jquery",
-    "Images/Pasted image 20231229150751.png",
-    "Images/Pasted image 20231229144956.png",
     "무제 파일.canvas",
     "무제 파일 1.canvas"
   ]

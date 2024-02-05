@@ -32,7 +32,7 @@
       "query": "",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 5431473
       }
     }
   ],
@@ -46,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.11446177651211592,
+  "scale": 0.1144617765121162,
   "close": true
 }

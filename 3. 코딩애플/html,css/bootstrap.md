@@ -44,3 +44,21 @@ lg - 1200px, lg- > 992 px
 ``` CSS
   <div class="col-md-6">안녕하세요</div>
 ```
+
+
+
+# 그리드 나누기
+
+``` CSS
+ <div class="row">
+            <div class="col-md-3">
+                <div class="white-box">sdsd</div>
+            </div>
+            <div class="col-md-6">
+                  <div class="white-box">dssd</div>
+            </div>
+            <div class="col-md-3">
+                  <div class="white-box">dsd</div>
+            </div>
+        </div>
+```

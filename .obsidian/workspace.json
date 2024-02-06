@@ -11,8 +11,13 @@
             "id": "23c99ff2a6141529",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "3. 코딩애플/html,css/SASS/SASS 2.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -99,7 +104,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "3. 코딩애플/html,css/SASS/SASS 2.md"
+              }
             }
           },
           {

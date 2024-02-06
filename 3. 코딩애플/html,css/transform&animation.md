@@ -68,4 +68,8 @@ a- > b
 - > 그래서 animation 할떄 transfomr 써라
 - transform 이런건 다른쓰레드에서 처리해줌
 - 원래 웹브라우저는 쓰레드 1 개만 사용(html,css javascript 다)
-- 
+
+
+# 크기 키우기
+
+ scale(2)

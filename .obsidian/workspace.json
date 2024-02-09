@@ -11,13 +11,8 @@
             "id": "23c99ff2a6141529",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. 코딩애플/Git/9. 브랜치로 협업하기.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -104,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "3. 코딩애플/Git/9. 브랜치로 협업하기.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,6 +149,10 @@
   },
   "active": "23c99ff2a6141529",
   "lastOpenFiles": [
+    "3. 코딩애플/Git/11. git stash.md",
+    "3. 코딩애플/Git/10. git flow,trunk-based.md",
+    "Pasted image 20240209152513.png",
+    "Pasted image 20240209152449.png",
     "3. 코딩애플/Git/9. 브랜치로 협업하기.md",
     "3. 코딩애플/Git/8. 타인과 협업하기.md",
     "3. 코딩애플/Git/7. github 사용법.md",
@@ -185,8 +182,6 @@
     "3. 코딩애플/html,css/grid.md",
     "3. 코딩애플/html,css/sticky.md",
     "3. 코딩애플/html,css/Position.md",
-    "3. 코딩애플/html,css/max-width.md",
-    "3. 코딩애플/html,css/html이란.md",
     "3. 코딩애플/html,css/SASS/무제 폴더",
     "3. 코딩애플/html,css/SASS",
     "무제 파일.canvas",
@@ -194,8 +189,6 @@
     "Images/Pasted image 20231011163854.png",
     "Images/Pasted image 20231011164133.png",
     "Images/Pasted image 20231105172326.png",
-    "Images/Pasted image 20231011155421.png",
-    "Images/Pasted image 20231011154606.png",
     "3. 코딩애플/html,css",
     "fdsfdsf",
     "3. 코딩애플/React",

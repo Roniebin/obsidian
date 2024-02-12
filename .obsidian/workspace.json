@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. 코딩애플/Git/7. github 사용법.md",
+                "file": "3. 코딩애플/html,css/background.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fam",
+                "query": "url",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,12 +74,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "53782f952c545f52",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. 코딩애플/Git/7. github 사용법.md"
+                "file": "3. 코딩애플/html,css/background.md"
               }
             }
           },
@@ -157,6 +157,8 @@
   },
   "active": "23c99ff2a6141529",
   "lastOpenFiles": [
+    "3. 코딩애플/React/이미지추가.md",
+    "3. 코딩애플/Git/7. github 사용법.md",
     "3. 코딩애플/React/6.컴포넌트.md",
     "3. 코딩애플/React/8. map.md",
     "3. 코딩애플/React/10. input.md",
@@ -179,12 +181,10 @@
     "Pasted image 20240209152449.png",
     "3. 코딩애플/Git/9. 브랜치로 협업하기.md",
     "3. 코딩애플/Git/8. 타인과 협업하기.md",
-    "3. 코딩애플/Git/7. github 사용법.md",
     "3. 코딩애플/Git/6. revert,reset,restore.md",
     "3. 코딩애플/Git/5. 다양한 merge방법.md",
     "3. 코딩애플/Git/4. git branch.md",
     "3. 코딩애플/Git/3. add,commit 쉽게.md",
-    "3. 코딩애플/Git/2. add,commit.md",
     "Pasted image 20240208175037.png",
     "Pasted image 20240208172024.png",
     "Pasted image 20240208171958.png",

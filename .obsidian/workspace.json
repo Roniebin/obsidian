@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. 코딩애플/React/6.컴포넌트.md",
+                "file": "3. 코딩애플/Git/7. github 사용법.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "53782f952c545f52",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. 코딩애플/React/6.컴포넌트.md"
+                "file": "3. 코딩애플/Git/7. github 사용법.md"
               }
             }
           },
@@ -156,6 +157,7 @@
   },
   "active": "23c99ff2a6141529",
   "lastOpenFiles": [
+    "3. 코딩애플/React/6.컴포넌트.md",
     "3. 코딩애플/React/8. map.md",
     "3. 코딩애플/React/10. input.md",
     "3. 코딩애플/React/9. props.md",
@@ -168,7 +170,6 @@
     "3. 코딩애플/React/성능개선.md",
     "3. 코딩애플/React/무제 파일.md",
     "3. 코딩애플/React/7. 동적 UI.md",
-    "3. 코딩애플/React/6.컴포넌트.md",
     "3. 코딩애플/React/5.버튼이벤트.md",
     "3. 코딩애플/React/3.JSX.md",
     "3. 코딩애플/React/1. react쓰는 이유.md",

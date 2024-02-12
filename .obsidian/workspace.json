@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Computer science/react/CSS/styled-components.md",
+                "file": "3. 코딩애플/React/애니메이션.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "styled",
+                "query": "fade",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Computer science/react/CSS/styled-components.md"
+                "file": "3. 코딩애플/React/애니메이션.md"
               }
             }
           },
@@ -157,6 +157,9 @@
   },
   "active": "23c99ff2a6141529",
   "lastOpenFiles": [
+    "1. Computer science/react/설치.md",
+    "3. 코딩애플/React/7. 동적 UI.md",
+    "1. Computer science/react/CSS/styled-components.md",
     "3. 코딩애플/React/styled-components.md",
     "3. 코딩애플/html,css/transform&animation.md",
     "3. 코딩애플/html,css/transition.md",
@@ -175,7 +178,6 @@
     "3. 코딩애플/React/애니메이션.md",
     "3. 코딩애플/React/성능개선.md",
     "3. 코딩애플/React/무제 파일.md",
-    "3. 코딩애플/React/7. 동적 UI.md",
     "3. 코딩애플/React/5.버튼이벤트.md",
     "3. 코딩애플/React/3.JSX.md",
     "3. 코딩애플/React/1. react쓰는 이유.md",
@@ -183,8 +185,6 @@
     "3. 코딩애플/Git/10. git flow,trunk-based.md",
     "Pasted image 20240209152513.png",
     "Pasted image 20240209152449.png",
-    "3. 코딩애플/Git/9. 브랜치로 협업하기.md",
-    "3. 코딩애플/Git/8. 타인과 협업하기.md",
     "Pasted image 20240208175037.png",
     "Pasted image 20240208172024.png",
     "Pasted image 20240208171958.png",

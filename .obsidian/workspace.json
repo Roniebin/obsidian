@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. 코딩애플/html,css/프로필 돌아가는 에니메이션.md",
+                "file": "3. 코딩애플/React/URl 파라미터.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "background url",
+                "query": "props",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,12 +74,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "53782f952c545f52",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. 코딩애플/html,css/프로필 돌아가는 에니메이션.md"
+                "file": "3. 코딩애플/React/URl 파라미터.md"
               }
             }
           },
@@ -157,32 +157,32 @@
   },
   "active": "23c99ff2a6141529",
   "lastOpenFiles": [
+    "1. Computer science/react/CSS/styled-components.md",
+    "3. 코딩애플/React/styled-components.md",
+    "1. Computer science/react/조건부 랜더링.md",
+    "3. 코딩애플/React/성능개선.md",
+    "3. 코딩애플/React/9. props.md",
+    "3. 코딩애플/html,css/프로필 돌아가는 에니메이션.md",
     "3. 코딩애플/html,css/transform&animation.md",
     "3. 코딩애플/html,css/background.md",
     "1. Computer science/react/CSS/font.md",
     "3. 코딩애플/html,css/폰트첨부.md",
     "3. 코딩애플/React/3.JSX.md",
-    "3. 코딩애플/html,css/프로필 돌아가는 에니메이션.md",
     "3. 코딩애플/React/애니메이션.md",
     "1. Computer science/react/설치.md",
     "3. 코딩애플/React/7. 동적 UI.md",
-    "1. Computer science/react/CSS/styled-components.md",
-    "3. 코딩애플/React/styled-components.md",
     "3. 코딩애플/html,css/transition.md",
     "3. 코딩애플/Git/7. github 사용법.md",
     "3. 코딩애플/React/이미지추가.md",
     "3. 코딩애플/React/6.컴포넌트.md",
     "3. 코딩애플/React/8. map.md",
     "3. 코딩애플/React/10. input.md",
-    "3. 코딩애플/React/9. props.md",
     "3. 코딩애플/React/4.State.md",
     "3. 코딩애플/React/bootstrap.md",
     "3. 코딩애플/html,css/bootstrap.md",
-    "3. 코딩애플/React/성능개선.md",
     "3. 코딩애플/React/무제 파일.md",
     "3. 코딩애플/React/5.버튼이벤트.md",
     "3. 코딩애플/React/1. react쓰는 이유.md",
-    "3. 코딩애플/Git/11. git stash.md",
     "Pasted image 20240209152513.png",
     "Pasted image 20240209152449.png",
     "Pasted image 20240208175037.png",

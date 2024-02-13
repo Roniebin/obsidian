@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. 코딩애플/html,css/아이콘 넣기.md",
+                "file": "3. 코딩애플/html,css/inline-block.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "font aw",
+                "query": "vertical",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. 코딩애플/html,css/아이콘 넣기.md"
+                "file": "3. 코딩애플/html,css/inline-block.md"
               }
             }
           },
@@ -157,6 +157,7 @@
   },
   "active": "23c99ff2a6141529",
   "lastOpenFiles": [
+    "3. 코딩애플/html,css/아이콘 넣기.md",
     "3. 코딩애플/html,css/grid.md",
     "3. 코딩애플/html,css/html이란.md",
     "3. 코딩애플/html,css/프로필 돌아가는 에니메이션.md",
@@ -182,7 +183,6 @@
     "3. 코딩애플/React/8. map.md",
     "3. 코딩애플/React/10. input.md",
     "3. 코딩애플/React/4.State.md",
-    "3. 코딩애플/React/bootstrap.md",
     "Pasted image 20240209152513.png",
     "Pasted image 20240209152449.png",
     "Pasted image 20240208175037.png",

@@ -7,7 +7,7 @@ tags: 코딩애플, html
     
     grid-template-columns: 100px 100px 100px; //세로
 
-	    grid-template-rows: 100px 100px;//가로
+	grid-template-rows: 100px 100px;//가로
 
 }
 ```

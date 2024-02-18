@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Index/To-do list.md",
+                "file": "3. 코딩애플/React/무제 파일.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Index/To-do list.md"
+                "file": "3. 코딩애플/React/무제 파일.md"
               }
             }
           },
@@ -153,8 +153,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f7a55f8fca209795",
+  "active": "415ee3d847d1c8c7",
   "lastOpenFiles": [
+    "0. Index/To-do list.md",
+    "3. 코딩애플/React/무제 파일 1.md",
     "3. 코딩애플/React/이미지추가.md",
     "3. 코딩애플/React/애니메이션.md",
     "3. 코딩애플/React/7. 동적 UI.md",
@@ -162,7 +164,6 @@
     "3. 코딩애플/Git/7. github 사용법.md",
     "3. 코딩애플/Git/5. 다양한 merge방법.md",
     "3. 코딩애플/Git/3. add,commit 쉽게.md",
-    "0. Index/To-do list.md",
     "3. 코딩애플/Git/2. add,commit.md",
     "1. Computer science/코틀린/이벤트/intent.md",
     "1. Computer science/코틀린/데이터베이스.md",
@@ -180,7 +181,6 @@
     "1. Computer science/react/조건부 랜더링.md",
     "3. 코딩애플/React/성능개선.md",
     "3. 코딩애플/React/9. props.md",
-    "3. 코딩애플/html,css/transform&animation.md",
     "Pasted image 20240209152513.png",
     "Pasted image 20240209152449.png",
     "Pasted image 20240208175037.png",

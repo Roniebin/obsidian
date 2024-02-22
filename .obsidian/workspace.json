@@ -11,13 +11,8 @@
             "id": "415ee3d847d1c8c7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. Index/To-do list.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -104,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "0. Index/To-do list.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,6 +149,7 @@
   },
   "active": "415ee3d847d1c8c7",
   "lastOpenFiles": [
+    "0. Index/To-do list.md",
     "3. 코딩애플/React/1. react쓰는 이유.md",
     "3. 코딩애플/React/3.JSX.md",
     "3. 코딩애플/html,css/pseudo-element.md",
@@ -172,7 +166,6 @@
     "3. 코딩애플/Git/4. git branch.md",
     "3. 코딩애플/Git/3. add,commit 쉽게.md",
     "3. 코딩애플/React/무제 파일.md",
-    "0. Index/To-do list.md",
     "3. 코딩애플/React/무제 파일 1.md",
     "3. 코딩애플/React/이미지추가.md",
     "3. 코딩애플/React/애니메이션.md",

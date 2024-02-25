@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3aa2e65f909e69e6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,7 +165,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "415ee3d847d1c8c7",
+  "active": "3aa2e65f909e69e6",
   "lastOpenFiles": [
     "0. Index/To-do list.md",
     "3. 코딩애플/React/1. react쓰는 이유.md",

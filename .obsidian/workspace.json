@@ -13,25 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Index/To-do list.md",
+                "file": "3. 코딩애플/Next js/3. 여러페이지(라우팅).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "3aa2e65f909e69e6",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "53782f952c545f52",
@@ -116,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Index/To-do list.md"
+                "file": "3. 코딩애플/Next js/3. 여러페이지(라우팅).md"
               }
             }
           },
@@ -137,7 +127,7 @@
             }
           },
           {
-            "id": "92377b641c57611d",
+            "id": "e857037225318999",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -149,8 +139,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,15 +154,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3aa2e65f909e69e6",
+  "active": "415ee3d847d1c8c7",
   "lastOpenFiles": [
+    "Pasted image 20240225172948.png",
+    "3. 코딩애플/Next js/2.페이지 레이아웃 만들기.md",
+    "3. 코딩애플/Next js/3. 여러페이지(라우팅).md",
     "0. Index/To-do list.md",
+    "3. 코딩애플/Next js/1.설치 및 개발환경.md",
+    "3. 코딩애플/Next js/0. 사용하는 이유.md",
+    "3. 코딩애플/html,css/가운데정렬.md",
+    "3. 코딩애플/Next js",
     "3. 코딩애플/React/1. react쓰는 이유.md",
     "3. 코딩애플/React/3.JSX.md",
     "3. 코딩애플/html,css/pseudo-element.md",
     "3. 코딩애플/html,css/flexbox.md",
     "3. 코딩애플/html,css/SASS/SASS 2.md",
-    "3. 코딩애플/html,css/가운데정렬.md",
     "3. 코딩애플/html,css/아이콘 넣기.md",
     "3. 코딩애플/html,css/폰트첨부.md",
     "3. 코딩애플/Git/6. revert,reset,restore.md",
@@ -188,11 +183,6 @@
     "3. 코딩애플/React/이미지추가.md",
     "3. 코딩애플/React/애니메이션.md",
     "3. 코딩애플/React/7. 동적 UI.md",
-    "3. 코딩애플/React/5.버튼이벤트.md",
-    "3. 코딩애플/Git/2. add,commit.md",
-    "1. Computer science/코틀린/이벤트/intent.md",
-    "1. Computer science/코틀린/데이터베이스.md",
-    "1. Computer science/코틀린/액티비티/startActivityForResult.md",
     "Pasted image 20240209152513.png",
     "Pasted image 20240209152449.png",
     "Pasted image 20240208175037.png",
@@ -213,7 +203,6 @@
     "3. 코딩애플",
     "1. Computer science/react/미니프로젝트",
     "1. Computer science/react/CSS",
-    "Excalidraw",
     "무제 파일 1.canvas"
   ]
 }

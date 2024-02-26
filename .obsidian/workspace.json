@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. 코딩애플/Next js/8..md",
+                "file": "3. 코딩애플/Next js/1.설치 및 개발환경.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. 코딩애플/Next js/8..md"
+                "file": "3. 코딩애플/Next js/1.설치 및 개발환경.md"
               }
             }
           },
@@ -155,8 +155,9 @@
   },
   "active": "415ee3d847d1c8c7",
   "lastOpenFiles": [
-    "3. 코딩애플/Next js/7. props.md",
+    "3. 코딩애플/Next js/0. 사용하는 이유.md",
     "3. 코딩애플/Next js/8..md",
+    "3. 코딩애플/Next js/7. props.md",
     "3. 코딩애플/Next js/6. client,server component,import.md",
     "3. 코딩애플/React/6.컴포넌트.md",
     "3. 코딩애플/Next js/5. 이미지넣는법.md",
@@ -167,7 +168,6 @@
     "3. 코딩애플/Next js/2.페이지 레이아웃 만들기.md",
     "0. Index/To-do list.md",
     "3. 코딩애플/Next js/1.설치 및 개발환경.md",
-    "3. 코딩애플/Next js/0. 사용하는 이유.md",
     "3. 코딩애플/html,css/가운데정렬.md",
     "3. 코딩애플/Next js",
     "3. 코딩애플/React/1. react쓰는 이유.md",

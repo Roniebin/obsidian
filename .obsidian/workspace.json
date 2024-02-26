@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. 코딩애플/Next js/1.설치 및 개발환경.md",
+                "file": "3. 코딩애플/Next js/part2/0. Mongdb.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. 코딩애플/Next js/1.설치 및 개발환경.md"
+                "file": "3. 코딩애플/Next js/part2/0. Mongdb.md"
               }
             }
           },
@@ -155,6 +155,11 @@
   },
   "active": "415ee3d847d1c8c7",
   "lastOpenFiles": [
+    "Pasted image 20240226154329.png",
+    "Pasted image 20240226154317.png",
+    "3. 코딩애플/Next js/1.설치 및 개발환경.md",
+    "3. 코딩애플/Next js/part2/0. Mongdb.md",
+    "3. 코딩애플/Next js/part2",
     "3. 코딩애플/Next js/0. 사용하는 이유.md",
     "3. 코딩애플/Next js/8..md",
     "3. 코딩애플/Next js/7. props.md",
@@ -167,7 +172,6 @@
     "Pasted image 20240225172948.png",
     "3. 코딩애플/Next js/2.페이지 레이아웃 만들기.md",
     "0. Index/To-do list.md",
-    "3. 코딩애플/Next js/1.설치 및 개발환경.md",
     "3. 코딩애플/html,css/가운데정렬.md",
     "3. 코딩애플/Next js",
     "3. 코딩애플/React/1. react쓰는 이유.md",
@@ -181,8 +185,6 @@
     "3. 코딩애플/Git/10. git flow,trunk-based.md",
     "3. 코딩애플/Git/8. 타인과 협업하기.md",
     "3. 코딩애플/Git/7. github 사용법.md",
-    "3. 코딩애플/Git/5. 다양한 merge방법.md",
-    "3. 코딩애플/Git/4. git branch.md",
     "Pasted image 20240209152513.png",
     "Pasted image 20240209152449.png",
     "Pasted image 20240208175037.png",
@@ -195,13 +197,11 @@
     "무제 파일.canvas",
     "Images/Pasted image 20231117094240.png",
     "Images/Pasted image 20231011163854.png",
-    "Images/Pasted image 20231011164133.png",
     "3. 코딩애플/html,css",
     "fdsfdsf",
     "3. 코딩애플/React",
     "3. 코딩애플",
     "1. Computer science/react/미니프로젝트",
-    "1. Computer science/react/CSS",
     "무제 파일 1.canvas"
   ]
 }

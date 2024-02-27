@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. 코딩애플/Next js/part2/6. 글작성 기능 2.md",
+                "file": "3. 코딩애플/Next js/part2/7. 글 수정기능.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. 코딩애플/Next js/part2/6. 글작성 기능 2.md"
+                "file": "3. 코딩애플/Next js/part2/7. 글 수정기능.md"
               }
             }
           },
@@ -153,8 +153,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "415ee3d847d1c8c7",
+  "active": "f7a55f8fca209795",
   "lastOpenFiles": [
+    "3. 코딩애플/Next js/part2/6. 글작성 기능 2.md",
+    "3. 코딩애플/Next js/part2/7. 글 수정기능.md",
     "3. 코딩애플/Next js/part2/5. 글작성기능.md",
     "3. 코딩애플/Next js/part2/4. 상세페이지만들기 2.md",
     "3. 코딩애플/Next js/part2/3. 상세페이지만들기 1.md",
@@ -171,7 +173,6 @@
     "3. 코딩애플/Next js/3. 여러페이지(라우팅).md",
     "3. 코딩애플/Next js/2.페이지 레이아웃 만들기.md",
     "3. 코딩애플/Next js/1.설치 및 개발환경.md",
-    "3. 코딩애플/Next js/part2/6. 글작성 기능 2.md",
     "0. Index/To-do list.md",
     "Pasted image 20240226154329.png",
     "Pasted image 20240226154317.png",
@@ -185,7 +186,6 @@
     "3. 코딩애플/html,css/pseudo-element.md",
     "3. 코딩애플/html,css/flexbox.md",
     "3. 코딩애플/html,css/SASS/SASS 2.md",
-    "3. 코딩애플/html,css/아이콘 넣기.md",
     "Pasted image 20240209152513.png",
     "Pasted image 20240209152449.png",
     "Pasted image 20240208175037.png",

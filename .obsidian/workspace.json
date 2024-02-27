@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. 코딩애플/Next js/part2/10. 삭제기능 3.md",
+                "file": "3. 코딩애플/Next js/part2/12. JWT,session.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. 코딩애플/Next js/part2/10. 삭제기능 3.md"
+                "file": "3. 코딩애플/Next js/part2/12. JWT,session.md"
               }
             }
           },
@@ -138,7 +138,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,8 +156,10 @@
   },
   "active": "415ee3d847d1c8c7",
   "lastOpenFiles": [
-    "3. 코딩애플/Next js/part2/9. 삭제기능 2.md",
+    "3. 코딩애플/Next js/part2/11. static rendering.md",
+    "3. 코딩애플/Next js/part2/12. JWT,session.md",
     "3. 코딩애플/Next js/part2/10. 삭제기능 3.md",
+    "3. 코딩애플/Next js/part2/9. 삭제기능 2.md",
     "3. 코딩애플/Next js/part2/8. 글 삭제.md",
     "3. 코딩애플/Next js/part2/7. 글 수정기능.md",
     "3. 코딩애플/Next js/part2/6. 글작성 기능 2.md",
@@ -183,9 +186,7 @@
     "3. 코딩애플/React/6.컴포넌트.md",
     "3. 코딩애플/React/8. map.md",
     "Pasted image 20240225172948.png",
-    "3. 코딩애플/html,css/가운데정렬.md",
     "3. 코딩애플/Next js",
-    "3. 코딩애플/React/3.JSX.md",
     "Pasted image 20240209152513.png",
     "Pasted image 20240209152449.png",
     "Pasted image 20240208175037.png",

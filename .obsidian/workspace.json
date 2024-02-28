@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. 코딩애플/Next js/part3/3. 댓글기능.md",
+                "file": "3. 코딩애플/Next js/part2/8. 글 삭제.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cover",
+                "query": "json.s",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. 코딩애플/Next js/part3/3. 댓글기능.md"
+                "file": "3. 코딩애플/Next js/part2/8. 글 삭제.md"
               }
             }
           },
@@ -154,10 +155,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f7a55f8fca209795",
+  "active": "415ee3d847d1c8c7",
   "lastOpenFiles": [
-    "3. 코딩애플/Next js/part3/2. 아이디,비번+JWT.md",
+    "3. 코딩애플/Next js/3. 여러페이지(라우팅).md",
+    "3. 코딩애플/Next js/2.페이지 레이아웃 만들기.md",
     "3. 코딩애플/Next js/part3/3. 댓글기능.md",
+    "3. 코딩애플/Next js/part3/2. 아이디,비번+JWT.md",
     "3. 코딩애플/Next js/part3/1. OAuth+session.md",
     "3. 코딩애플/Next js/part3/0. 회원기능1.md",
     "3. 코딩애플/Next js/part2/9. 삭제기능 2.md",
@@ -183,8 +186,6 @@
     "3. 코딩애플/Next js/7. props.md",
     "3. 코딩애플/Next js/6. client,server component,import.md",
     "3. 코딩애플/Next js/5. 이미지넣는법.md",
-    "3. 코딩애플/Next js/4. 반복문 map.md",
-    "3. 코딩애플/Next js/3. 여러페이지(라우팅).md",
     "Pasted image 20240226154329.png",
     "Pasted image 20240226154317.png",
     "3. 코딩애플/Next js/part2",

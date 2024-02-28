@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. 코딩애플/Next js/part3/회원기능1.md",
+                "file": "3. 코딩애플/Next js/part2/9. 삭제기능 2.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. 코딩애플/Next js/part3/회원기능1.md"
+                "file": "3. 코딩애플/Next js/part2/9. 삭제기능 2.md"
               }
             }
           },
@@ -156,15 +156,16 @@
   },
   "active": "415ee3d847d1c8c7",
   "lastOpenFiles": [
+    "3. 코딩애플/Next js/part2/10. 삭제기능 3.md",
+    "3. 코딩애플/Next js/part3/OAuth+session.md",
+    "3. 코딩애플/Next js/part3/회원기능1.md",
     "Pasted image 20240228155043.png",
     "Pasted image 20240228155012.png",
     "3. 코딩애플/Next js/part2/9. 삭제기능 2.md",
-    "3. 코딩애플/Next js/part3/회원기능1.md",
     "0. Index/To-do list.md",
     "3. 코딩애플/Next js/part3",
     "3. 코딩애플/Next js/part2/12. JWT,session.md",
     "3. 코딩애플/Next js/part2/11. static rendering.md",
-    "3. 코딩애플/Next js/part2/10. 삭제기능 3.md",
     "3. 코딩애플/Next js/part2/8. 글 삭제.md",
     "3. 코딩애플/Next js/part2/7. 글 수정기능.md",
     "3. 코딩애플/Next js/part2/6. 글작성 기능 2.md",
@@ -194,7 +195,6 @@
     "Pasted image 20240208175037.png",
     "Pasted image 20240208172024.png",
     "Pasted image 20240208171958.png",
-    "Pasted image 20240208171938.png",
     "3. 코딩애플/Git",
     "3. 코딩애플/html,css/SASS/무제 폴더",
     "3. 코딩애플/html,css/SASS",

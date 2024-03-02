@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. 코딩애플/React/styled-components.md",
+                "file": "3. 코딩애플/Next js/part1/6. client,server component,import.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "json.s",
+                "query": "hydra",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. 코딩애플/React/styled-components.md"
+                "file": "3. 코딩애플/Next js/part1/6. client,server component,import.md"
               }
             }
           },
@@ -155,6 +156,8 @@
   },
   "active": "415ee3d847d1c8c7",
   "lastOpenFiles": [
+    "3. 코딩애플/html,css/video.audio.md",
+    "3. 코딩애플/React/styled-components.md",
     "3. 코딩애플/Next js/part1/3. 여러페이지(라우팅).md",
     "0. Index/To-do list.md",
     "3. 코딩애플/Next js/part1/8..md",
@@ -192,8 +195,6 @@
     "3. 코딩애플/Next js/part3/2. 아이디,비번+JWT.md",
     "3. 코딩애플/Next js/part3/1. OAuth+session.md",
     "3. 코딩애플/Next js/part3/0. 회원기능1.md",
-    "3. 코딩애플/Next js/part2/9. 삭제기능 2.md",
-    "3. 코딩애플/Next js/part2/10. 삭제기능 3.md",
     "3. 코딩애플/Next js/part3",
     "3. 코딩애플/Next js/part2",
     "3. 코딩애플/Next js",

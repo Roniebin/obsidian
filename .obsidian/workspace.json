@@ -11,13 +11,8 @@
             "id": "415ee3d847d1c8c7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. 코딩애플/Git/7. github 사용법.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -104,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "3. 코딩애플/Git/7. github 사용법.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,6 +148,7 @@
   },
   "active": "415ee3d847d1c8c7",
   "lastOpenFiles": [
+    "3. 코딩애플/Git/7. github 사용법.md",
     "3. 코딩애플/Git/8. 타인과 협업하기.md",
     "3. 코딩애플/Git/4. git branch.md",
     "3. 코딩애플/Git/3. add,commit 쉽게.md",
@@ -193,7 +187,6 @@
     "3. 코딩애플/Next js/part3/9.middleware.md",
     "3. 코딩애플/Next js/part3/8. 다크모드2.md",
     "3. 코딩애플/Next js/part3/7. 다크모드1.md",
-    "3. 코딩애플/Next js/part3/6. AWS 배포.md",
     "3. 코딩애플/Next js/part3",
     "3. 코딩애플/Next js/part2",
     "3. 코딩애플/Next js",

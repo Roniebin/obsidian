@@ -1,7 +1,7 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
@@ -15,23 +15,30 @@
       }
     },
     {
-      "query": "",
+      "query": "tag:#코딩애플  ",
       "color": {
         "a": 1,
-        "rgb": 14069084
+        "rgb": 11419385
+      }
+    },
+    {
+      "query": "tag:#English  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
+  "nodeSizeMultiplier": 0.7890625,
+  "lineSizeMultiplier": 0.7890625,
+  "collapse-forces": false,
+  "centerStrength": 0.502604166666667,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5087618855792592,
+  "scale": 0.3628873693012121,
   "close": false
 }

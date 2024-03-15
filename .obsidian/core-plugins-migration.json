@@ -3,6 +3,7 @@
   "global-search": true,
   "switcher": true,
   "graph": true,
+<<<<<<< HEAD
   "backlink": true,
   "canvas": true,
   "outgoing-link": true,
@@ -19,6 +20,24 @@
   "markdown-importer": false,
   "zk-prefixer": false,
   "random-note": false,
+=======
+  "backlink": false,
+  "canvas": true,
+  "outgoing-link": false,
+  "tag-pane": true,
+  "properties": false,
+  "page-preview": true,
+  "daily-notes": false,
+  "templates": true,
+  "note-composer": false,
+  "command-palette": true,
+  "slash-command": true,
+  "editor-status": true,
+  "bookmarks": true,
+  "markdown-importer": true,
+  "zk-prefixer": false,
+  "random-note": true,
+>>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
   "outline": true,
   "word-count": true,
   "slides": false,
@@ -26,5 +45,9 @@
   "workspaces": false,
   "file-recovery": true,
   "publish": false,
+<<<<<<< HEAD
   "sync": false
+=======
+  "sync": true
+>>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
 }

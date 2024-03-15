@@ -1,5 +1,6 @@
 [
   "table-editor-obsidian",
+<<<<<<< HEAD
   "dataview",
   "obsidian-excalidraw-plugin",
   "calendar",
@@ -8,4 +9,16 @@
   "highlightr-plugin",
   "obsidian-plugin-tagged-documents-viewer",
   "colored-tags"
+=======
+  "calendar",
+  "obsidian-excalidraw-plugin",
+  "dataview",
+  "obsidian-tasks-plugin",
+  "obsidian-outliner",
+  "tag-wrangler",
+  "highlightr-plugin",
+  "make-md",
+  "smart-connections",
+  "obsidian-git"
+>>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
 ]

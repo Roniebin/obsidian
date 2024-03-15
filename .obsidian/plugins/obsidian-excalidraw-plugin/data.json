@@ -1,6 +1,9 @@
 {
   "folder": "Excalidraw",
+<<<<<<< HEAD
   "cropFolder": "",
+=======
+>>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
   "embedUseExcalidrawFolder": false,
   "templateFilePath": "Excalidraw/Template.excalidraw",
   "scriptFolderPath": "Excalidraw/Scripts",
@@ -14,13 +17,19 @@
   "drawingFilnameEmbedPostfix": " ",
   "drawingFilenameDateTime": "YYYY-MM-DD HH.mm.ss",
   "useExcalidrawExtension": true,
+<<<<<<< HEAD
   "cropPrefix": "cropped_",
+=======
+>>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
   "previewImageType": "SVGIMG",
   "allowImageCache": true,
   "displayExportedImageIfAvailable": false,
   "previewMatchObsidianTheme": false,
   "width": "400",
+<<<<<<< HEAD
   "height": "",
+=======
+>>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
   "dynamicStyling": "colorful",
   "isLeftHanded": false,
   "iframeMatchExcalidrawTheme": true,
@@ -42,8 +51,11 @@
   "hoverPreviewWithoutCTRL": false,
   "linkOpacity": 1,
   "openInAdjacentPane": false,
+<<<<<<< HEAD
   "showSecondOrderLinks": true,
   "focusOnFileTab": false,
+=======
+>>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
   "openInMainWorkspace": true,
   "showLinkBrackets": true,
   "allowCtrlClick": true,
@@ -62,7 +74,10 @@
   "autoExportLightAndDark": false,
   "autoexportExcalidraw": false,
   "embedType": "excalidraw",
+<<<<<<< HEAD
   "embedMarkdownCommentLinks": true,
+=======
+>>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
   "embedWikiLink": true,
   "syncExcalidraw": false,
   "experimentalFileType": false,
@@ -77,7 +92,11 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
+<<<<<<< HEAD
     "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.24",
+=======
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.23",
+>>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     "libraryItems": []
   },
   "imageElementNotice": true,
@@ -89,9 +108,16 @@
   "mdCSS": "",
   "scriptEngineSettings": {},
   "defaultTrayMode": true,
+<<<<<<< HEAD
   "previousRelease": "2.0.24",
   "showReleaseNotes": true,
   "showNewVersionNotification": true,
+=======
+  "previousRelease": "1.9.23",
+  "showReleaseNotes": true,
+  "showNewVersionNotification": true,
+  "mathjaxSourceURL": "https://cdn.jsdelivr.net/npm/mathjax@3.2.1/es5/tex-svg.js",
+>>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
   "latexBoilerplate": "\\color{blue}",
   "taskboneEnabled": false,
   "taskboneAPIkey": "",
@@ -412,6 +438,7 @@
   "pdfScale": 4,
   "pdfBorderBox": true,
   "pdfGapSize": 20,
+<<<<<<< HEAD
   "pdfGroupPages": false,
   "pdfLockAfterImport": true,
   "pdfNumColumns": 1,
@@ -730,4 +757,9 @@
   },
   "slidingPanesSupport": false,
   "areaZoomLimit": 1
+=======
+  "pdfLockAfterImport": true,
+  "pdfNumColumns": 1,
+  "pdfImportScale": 0.3
+>>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
 }

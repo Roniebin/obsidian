@@ -3,6 +3,7 @@
   "global-search",
   "switcher",
   "graph",
+<<<<<<< HEAD
   "backlink",
   "canvas",
   "outgoing-link",
@@ -17,4 +18,20 @@
   "outline",
   "word-count",
   "file-recovery"
+=======
+  "canvas",
+  "tag-pane",
+  "page-preview",
+  "templates",
+  "command-palette",
+  "slash-command",
+  "editor-status",
+  "bookmarks",
+  "markdown-importer",
+  "random-note",
+  "outline",
+  "word-count",
+  "file-recovery",
+  "sync"
+>>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
 ]

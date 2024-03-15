@@ -11,6 +11,7 @@
       "query": "tag:#ComputerScience  ",
       "color": {
         "a": 1,
+<<<<<<< HEAD
         "rgb": 15618899
       }
     },
@@ -19,18 +20,33 @@
       "color": {
         "a": 1,
         "rgb": 11419385
+=======
+        "rgb": 16248578
+>>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
       }
     },
     {
       "query": "tag:#English  ",
       "color": {
         "a": 1,
+<<<<<<< HEAD
         "rgb": 11392604
+=======
+        "rgb": 14494764
+      }
+    },
+    {
+      "query": "tag:#코딩애플  ",
+      "color": {
+        "a": 1,
+        "rgb": 11346158
+>>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
       }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
+<<<<<<< HEAD
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 0.7890625,
   "lineSizeMultiplier": 0.7890625,
@@ -41,4 +57,16 @@
   "linkDistance": 258,
   "scale": 0.1316872427983546,
   "close": false
+=======
+  "textFadeMultiplier": -0.5,
+  "nodeSizeMultiplier": 0.431081081081081,
+  "lineSizeMultiplier": 0.448908523908524,
+  "collapse-forces": false,
+  "centerStrength": 0.470893970893971,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.15024111371691207,
+  "close": true
+>>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
 }

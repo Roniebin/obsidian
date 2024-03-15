@@ -1,0 +1,45 @@
+{
+  "palette": {
+    "seed": 0,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "excalidraw": 1,
+    "ComputerScience": 2,
+    "jquery": 3,
+    "javascript": 4,
+    "react": 5,
+    "node_js": 6,
+    "문제해결기법": 7,
+    "머신러닝": 8,
+    "멀티미디어": 9,
+    "알고리즘": 10,
+    "코틀린": 11,
+    "git": 12,
+    "코딩애플": 13,
+    "html": 14,
+    "English": 15,
+    "w": 16,
+    "Grammar": 17,
+    "Sort": 18,
+    "다이나믹프로그래밍": 19,
+    "안드로이드": 20,
+    "트리": 21,
+    "그리디알고리즘": 22,
+    "함수": 23,
+    "클래스": 24,
+    "컬렉션타입": 25,
+    "python": 26,
+    "Nextjs": 27,
+    "아두이노": 28,
+    "임베디드시스템": 29,
+    "전기전자기초": 30
+  },
+  "_version": 3
+}

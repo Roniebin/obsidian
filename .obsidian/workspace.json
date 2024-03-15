@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "38189410dce5f36d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3d932a53e910a77",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47844cb618b566cf",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d483809d7a989dc5",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f5db3b2051fbfb6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5bf4790e9cc28b25",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "686ec344ecace081",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eee25ffea4b78491",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ed3ada640fd6a8fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd7f6c44c066b10d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48450ca485e6576f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8058bafcc28b7f1c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "99fdffbcd13c1447",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e3a29cd7196e485d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "503a31dfad5775eb",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-plugin-tagged-documents-viewer:Tagged Documents Viewer": false
+    }
+  },
+  "active": "47844cb618b566cf",
+  "lastOpenFiles": [
+    "obsidian/1. Computer science/멀티미디어/저작도구.md",
+    "obsidian/1. Computer science/멀티미디어/이미지처리.md",
+    "obsidian/1. Computer science/멀티미디어/학교수업/비디오압축.md",
+    "obsidian/1. Computer science/멀티미디어/학교수업/시험 메모.md",
+    "obsidian/1. Computer science/멀티미디어/학교수업/이미지와 그래픽.md",
+    "obsidian/1. Computer science/멀티미디어/학교수업/텍스트 파트.md",
+    "obsidian/1. Computer science/기본개념/기본개념.md",
+    "obsidian/1. Computer science/기본개념/무제 파일.md",
+    "obsidian/1. Computer science/기본개념/동기와 비동기.md",
+    "obsidian/3. 코딩애플/React/무제 파일.md",
+    "obsidian/3. 코딩애플/React/8. map.md",
+    "obsidian/3. 코딩애플/React/5.버튼이벤트.md",
+    "obsidian/3. 코딩애플/React/3.JSX.md",
+    "obsidian/3. 코딩애플/3. 코딩애플.md",
+    "obsidian/3. 코딩애플/html,css/video.audio.md",
+    "obsidian/3. 코딩애플/html,css/transition.md",
+    "obsidian/3. 코딩애플/html,css/table.md",
+    "obsidian/3. 코딩애플/html,css/sticky.md",
+    "obsidian/3. 코딩애플/html,css/shadow DOM.md",
+    "obsidian/3. 코딩애플/html,css/pseudo-class.md",
+    "obsidian/3. 코딩애플/html,css/inline-block.md",
+    "obsidian/3. 코딩애플/html,css/form.md",
+    "obsidian/3. 코딩애플/html,css/폰트첨부.md",
+    "obsidian/3. 코딩애플/html,css/아이콘 넣기.md",
+    "obsidian/3. 코딩애플/html,css/가운데정렬.md",
+    "obsidian/1. Computer science/멀티미디어/JPEG,GIF,PNG.md"
+  ]
+}

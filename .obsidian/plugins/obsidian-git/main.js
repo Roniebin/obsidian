@@ -678,11 +678,7 @@ var require_buffer = __commonJS({
       return slowToString.apply(this, arguments);
     };
     Buffer2.prototype.toLocaleString = Buffer2.prototype.toString;
-<<<<<<< HEAD
     Buffer2.prototype.equals = function equals3(b) {
-=======
-    Buffer2.prototype.equals = function equals2(b) {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
       if (!Buffer2.isBuffer(b))
         throw new TypeError("Argument must be a Buffer");
       if (this === b)
@@ -1943,15 +1939,9 @@ var init_polyfill_buffer = __esm({
   }
 });
 
-<<<<<<< HEAD
 // node_modules/.pnpm/async-lock@1.4.1/node_modules/async-lock/lib/index.js
 var require_lib = __commonJS({
   "node_modules/.pnpm/async-lock@1.4.1/node_modules/async-lock/lib/index.js"(exports2, module2) {
-=======
-// node_modules/.pnpm/async-lock@1.4.0/node_modules/async-lock/lib/index.js
-var require_lib = __commonJS({
-  "node_modules/.pnpm/async-lock@1.4.0/node_modules/async-lock/lib/index.js"(exports2, module2) {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     "use strict";
     init_polyfill_buffer();
     var AsyncLock2 = function(opts) {
@@ -2088,20 +2078,13 @@ var require_lib = __commonJS({
       if (self2.domainReentrant && !!process.domain) {
         exec = process.domain.bind(exec);
       }
-<<<<<<< HEAD
       var maxPending = opts.maxPending || self2.maxPending;
-=======
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
       if (!self2.queues[key2]) {
         self2.queues[key2] = [];
         exec(true);
       } else if (self2.domainReentrant && !!process.domain && process.domain === self2.domains[key2]) {
         exec(false);
-<<<<<<< HEAD
       } else if (self2.queues[key2].length >= maxPending) {
-=======
-      } else if (self2.queues[key2].length >= self2.maxPending) {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
         done(false, new Error("Too many pending tasks in queue " + key2));
       } else {
         var taskFn = function() {
@@ -2182,15 +2165,9 @@ var require_lib = __commonJS({
   }
 });
 
-<<<<<<< HEAD
 // node_modules/.pnpm/async-lock@1.4.1/node_modules/async-lock/index.js
 var require_async_lock = __commonJS({
   "node_modules/.pnpm/async-lock@1.4.1/node_modules/async-lock/index.js"(exports2, module2) {
-=======
-// node_modules/.pnpm/async-lock@1.4.0/node_modules/async-lock/index.js
-var require_async_lock = __commonJS({
-  "node_modules/.pnpm/async-lock@1.4.0/node_modules/async-lock/index.js"(exports2, module2) {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     "use strict";
     init_polyfill_buffer();
     module2.exports = require_lib();
@@ -6824,15 +6801,9 @@ var require_pify = __commonJS({
   }
 });
 
-<<<<<<< HEAD
 // node_modules/.pnpm/ignore@5.3.1/node_modules/ignore/index.js
 var require_ignore = __commonJS({
   "node_modules/.pnpm/ignore@5.3.1/node_modules/ignore/index.js"(exports2, module2) {
-=======
-// node_modules/.pnpm/ignore@5.2.4/node_modules/ignore/index.js
-var require_ignore = __commonJS({
-  "node_modules/.pnpm/ignore@5.2.4/node_modules/ignore/index.js"(exports2, module2) {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     init_polyfill_buffer();
     function makeArray(subject) {
       return Array.isArray(subject) ? subject : [subject];
@@ -6864,7 +6835,6 @@ var require_ignore = __commonJS({
       return slashes.slice(0, length - length % 2);
     };
     var REPLACERS = [
-<<<<<<< HEAD
       [
         // remove BOM
         // TODO:
@@ -6872,8 +6842,6 @@ var require_ignore = __commonJS({
         /^\uFEFF/,
         () => EMPTY
       ],
-=======
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
       // > Trailing spaces are ignored unless they are quoted with backslash ("\")
       [
         // (a\ ) -> (a )
@@ -7384,24 +7352,14 @@ var require_diff3 = __commonJS({
     init_polyfill_buffer();
     var onp = require_onp();
     function longestCommonSubsequence(file1, file2) {
-<<<<<<< HEAD
       var diff3 = new onp(file1, file2);
       diff3.compose();
       var ses = diff3.getses();
-=======
-      var diff2 = new onp(file1, file2);
-      diff2.compose();
-      var ses = diff2.getses();
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
       var root2;
       var prev;
       var file1RevIdx = file1.length - 1, file2RevIdx = file2.length - 1;
       for (var i = ses.length - 1; i >= 0; --i) {
-<<<<<<< HEAD
         if (ses[i].t === diff3.SES_COMMON) {
-=======
-        if (ses[i].t === diff2.SES_COMMON) {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
           if (prev) {
             prev.chain = {
               file1index: file1RevIdx,
@@ -7419,15 +7377,9 @@ var require_diff3 = __commonJS({
           }
           file1RevIdx--;
           file2RevIdx--;
-<<<<<<< HEAD
         } else if (ses[i].t === diff3.SES_DELETE) {
           file1RevIdx--;
         } else if (ses[i].t === diff3.SES_ADD) {
-=======
-        } else if (ses[i].t === diff2.SES_DELETE) {
-          file1RevIdx--;
-        } else if (ses[i].t === diff2.SES_ADD) {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
           file2RevIdx--;
         }
       }
@@ -7890,11 +7842,7 @@ var require_browser = __commonJS({
     exports2.load = load;
     exports2.useColors = useColors;
     exports2.storage = localstorage();
-<<<<<<< HEAD
     exports2.destroy = /* @__PURE__ */ (() => {
-=======
-    exports2.destroy = (() => {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
       let warned = false;
       return () => {
         if (!warned) {
@@ -8905,7 +8853,6 @@ var require_object_keys = __commonJS({
   }
 });
 
-<<<<<<< HEAD
 // node_modules/.pnpm/es-errors@1.3.0/node_modules/es-errors/index.js
 var require_es_errors = __commonJS({
   "node_modules/.pnpm/es-errors@1.3.0/node_modules/es-errors/index.js"(exports2, module2) {
@@ -8969,8 +8916,6 @@ var require_uri = __commonJS({
   }
 });
 
-=======
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
 // node_modules/.pnpm/has-symbols@1.0.3/node_modules/has-symbols/shams.js
 var require_shams = __commonJS({
   "node_modules/.pnpm/has-symbols@1.0.3/node_modules/has-symbols/shams.js"(exports2, module2) {
@@ -9064,7 +9009,6 @@ var require_has_proto = __commonJS({
   }
 });
 
-<<<<<<< HEAD
 // node_modules/.pnpm/function-bind@1.1.2/node_modules/function-bind/implementation.js
 var require_implementation2 = __commonJS({
   "node_modules/.pnpm/function-bind@1.1.2/node_modules/function-bind/implementation.js"(exports2, module2) {
@@ -9107,39 +9051,17 @@ var require_implementation2 = __commonJS({
         throw new TypeError(ERROR_MESSAGE + target);
       }
       var args = slicy(arguments, 1);
-=======
-// node_modules/.pnpm/function-bind@1.1.1/node_modules/function-bind/implementation.js
-var require_implementation2 = __commonJS({
-  "node_modules/.pnpm/function-bind@1.1.1/node_modules/function-bind/implementation.js"(exports2, module2) {
-    "use strict";
-    init_polyfill_buffer();
-    var ERROR_MESSAGE = "Function.prototype.bind called on incompatible ";
-    var slice = Array.prototype.slice;
-    var toStr = Object.prototype.toString;
-    var funcType = "[object Function]";
-    module2.exports = function bind(that) {
-      var target = this;
-      if (typeof target !== "function" || toStr.call(target) !== funcType) {
-        throw new TypeError(ERROR_MESSAGE + target);
-      }
-      var args = slice.call(arguments, 1);
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
       var bound;
       var binder = function() {
         if (this instanceof bound) {
           var result = target.apply(
             this,
-<<<<<<< HEAD
             concatty(args, arguments)
-=======
-            args.concat(slice.call(arguments))
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
           );
           if (Object(result) === result) {
             return result;
           }
           return this;
-<<<<<<< HEAD
         }
         return target.apply(
           that,
@@ -9152,21 +9074,6 @@ var require_implementation2 = __commonJS({
         boundArgs[i] = "$" + i;
       }
       bound = Function("binder", "return function (" + joiny(boundArgs, ",") + "){ return binder.apply(this,arguments); }")(binder);
-=======
-        } else {
-          return target.apply(
-            that,
-            args.concat(slice.call(arguments))
-          );
-        }
-      };
-      var boundLength = Math.max(0, target.length - args.length);
-      var boundArgs = [];
-      for (var i = 0; i < boundLength; i++) {
-        boundArgs.push("$" + i);
-      }
-      bound = Function("binder", "return function (" + boundArgs.join(",") + "){ return binder.apply(this,arguments); }")(binder);
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
       if (target.prototype) {
         var Empty = function Empty2() {
         };
@@ -9179,15 +9086,9 @@ var require_implementation2 = __commonJS({
   }
 });
 
-<<<<<<< HEAD
 // node_modules/.pnpm/function-bind@1.1.2/node_modules/function-bind/index.js
 var require_function_bind = __commonJS({
   "node_modules/.pnpm/function-bind@1.1.2/node_modules/function-bind/index.js"(exports2, module2) {
-=======
-// node_modules/.pnpm/function-bind@1.1.1/node_modules/function-bind/index.js
-var require_function_bind = __commonJS({
-  "node_modules/.pnpm/function-bind@1.1.1/node_modules/function-bind/index.js"(exports2, module2) {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     "use strict";
     init_polyfill_buffer();
     var implementation = require_implementation2();
@@ -9195,7 +9096,6 @@ var require_function_bind = __commonJS({
   }
 });
 
-<<<<<<< HEAD
 // node_modules/.pnpm/hasown@2.0.1/node_modules/hasown/index.js
 var require_hasown = __commonJS({
   "node_modules/.pnpm/hasown@2.0.1/node_modules/hasown/index.js"(exports2, module2) {
@@ -9222,27 +9122,6 @@ var require_get_intrinsic = __commonJS({
     var $TypeError = require_type();
     var $URIError = require_uri();
     var $Function = Function;
-=======
-// node_modules/.pnpm/has@1.0.3/node_modules/has/src/index.js
-var require_src2 = __commonJS({
-  "node_modules/.pnpm/has@1.0.3/node_modules/has/src/index.js"(exports2, module2) {
-    "use strict";
-    init_polyfill_buffer();
-    var bind = require_function_bind();
-    module2.exports = bind.call(Function.call, Object.prototype.hasOwnProperty);
-  }
-});
-
-// node_modules/.pnpm/get-intrinsic@1.2.1/node_modules/get-intrinsic/index.js
-var require_get_intrinsic = __commonJS({
-  "node_modules/.pnpm/get-intrinsic@1.2.1/node_modules/get-intrinsic/index.js"(exports2, module2) {
-    "use strict";
-    init_polyfill_buffer();
-    var undefined2;
-    var $SyntaxError = SyntaxError;
-    var $Function = Function;
-    var $TypeError = TypeError;
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     var getEvalledConstructor = function(expressionSyntax) {
       try {
         return $Function('"use strict"; return (' + expressionSyntax + ").constructor;")();
@@ -9280,10 +9159,7 @@ var require_get_intrinsic = __commonJS({
     var needsEval = {};
     var TypedArray = typeof Uint8Array === "undefined" || !getProto ? undefined2 : getProto(Uint8Array);
     var INTRINSICS = {
-<<<<<<< HEAD
       __proto__: null,
-=======
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
       "%AggregateError%": typeof AggregateError === "undefined" ? undefined2 : AggregateError,
       "%Array%": Array,
       "%ArrayBuffer%": typeof ArrayBuffer === "undefined" ? undefined2 : ArrayBuffer,
@@ -9304,17 +9180,10 @@ var require_get_intrinsic = __commonJS({
       "%decodeURIComponent%": decodeURIComponent,
       "%encodeURI%": encodeURI,
       "%encodeURIComponent%": encodeURIComponent,
-<<<<<<< HEAD
       "%Error%": $Error,
       "%eval%": eval,
       // eslint-disable-line no-eval
       "%EvalError%": $EvalError,
-=======
-      "%Error%": Error,
-      "%eval%": eval,
-      // eslint-disable-line no-eval
-      "%EvalError%": EvalError,
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
       "%Float32Array%": typeof Float32Array === "undefined" ? undefined2 : Float32Array,
       "%Float64Array%": typeof Float64Array === "undefined" ? undefined2 : Float64Array,
       "%FinalizationRegistry%": typeof FinalizationRegistry === "undefined" ? undefined2 : FinalizationRegistry,
@@ -9336,13 +9205,8 @@ var require_get_intrinsic = __commonJS({
       "%parseInt%": parseInt,
       "%Promise%": typeof Promise === "undefined" ? undefined2 : Promise,
       "%Proxy%": typeof Proxy === "undefined" ? undefined2 : Proxy,
-<<<<<<< HEAD
       "%RangeError%": $RangeError,
       "%ReferenceError%": $ReferenceError,
-=======
-      "%RangeError%": RangeError,
-      "%ReferenceError%": ReferenceError,
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
       "%Reflect%": typeof Reflect === "undefined" ? undefined2 : Reflect,
       "%RegExp%": RegExp,
       "%Set%": typeof Set === "undefined" ? undefined2 : Set,
@@ -9359,11 +9223,7 @@ var require_get_intrinsic = __commonJS({
       "%Uint8ClampedArray%": typeof Uint8ClampedArray === "undefined" ? undefined2 : Uint8ClampedArray,
       "%Uint16Array%": typeof Uint16Array === "undefined" ? undefined2 : Uint16Array,
       "%Uint32Array%": typeof Uint32Array === "undefined" ? undefined2 : Uint32Array,
-<<<<<<< HEAD
       "%URIError%": $URIError,
-=======
-      "%URIError%": URIError,
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
       "%WeakMap%": typeof WeakMap === "undefined" ? undefined2 : WeakMap,
       "%WeakRef%": typeof WeakRef === "undefined" ? undefined2 : WeakRef,
       "%WeakSet%": typeof WeakSet === "undefined" ? undefined2 : WeakSet
@@ -9400,10 +9260,7 @@ var require_get_intrinsic = __commonJS({
       return value;
     };
     var LEGACY_ALIASES = {
-<<<<<<< HEAD
       __proto__: null,
-=======
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
       "%ArrayBufferPrototype%": ["ArrayBuffer", "prototype"],
       "%ArrayPrototype%": ["Array", "prototype"],
       "%ArrayProto_entries%": ["Array", "prototype", "entries"],
@@ -9457,11 +9314,7 @@ var require_get_intrinsic = __commonJS({
       "%WeakSetPrototype%": ["WeakSet", "prototype"]
     };
     var bind = require_function_bind();
-<<<<<<< HEAD
     var hasOwn = require_hasown();
-=======
-    var hasOwn = require_src2();
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     var $concat = bind.call(Function.call, Array.prototype.concat);
     var $spliceApply = bind.call(Function.apply, Array.prototype.splice);
     var $replace = bind.call(Function.call, String.prototype.replace);
@@ -9570,15 +9423,9 @@ var require_get_intrinsic = __commonJS({
   }
 });
 
-<<<<<<< HEAD
 // node_modules/.pnpm/has-property-descriptors@1.0.1/node_modules/has-property-descriptors/index.js
 var require_has_property_descriptors = __commonJS({
   "node_modules/.pnpm/has-property-descriptors@1.0.1/node_modules/has-property-descriptors/index.js"(exports2, module2) {
-=======
-// node_modules/.pnpm/has-property-descriptors@1.0.0/node_modules/has-property-descriptors/index.js
-var require_has_property_descriptors = __commonJS({
-  "node_modules/.pnpm/has-property-descriptors@1.0.0/node_modules/has-property-descriptors/index.js"(exports2, module2) {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     "use strict";
     init_polyfill_buffer();
     var GetIntrinsic = require_get_intrinsic();
@@ -9608,7 +9455,6 @@ var require_has_property_descriptors = __commonJS({
   }
 });
 
-<<<<<<< HEAD
 // node_modules/.pnpm/gopd@1.0.1/node_modules/gopd/index.js
 var require_gopd = __commonJS({
   "node_modules/.pnpm/gopd@1.0.1/node_modules/gopd/index.js"(exports2, module2) {
@@ -9688,31 +9534,17 @@ var require_define_data_property = __commonJS({
 // node_modules/.pnpm/define-properties@1.2.1/node_modules/define-properties/index.js
 var require_define_properties = __commonJS({
   "node_modules/.pnpm/define-properties@1.2.1/node_modules/define-properties/index.js"(exports2, module2) {
-=======
-// node_modules/.pnpm/define-properties@1.2.0/node_modules/define-properties/index.js
-var require_define_properties = __commonJS({
-  "node_modules/.pnpm/define-properties@1.2.0/node_modules/define-properties/index.js"(exports2, module2) {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     "use strict";
     init_polyfill_buffer();
     var keys = require_object_keys();
     var hasSymbols = typeof Symbol === "function" && typeof Symbol("foo") === "symbol";
     var toStr = Object.prototype.toString;
     var concat = Array.prototype.concat;
-<<<<<<< HEAD
     var defineDataProperty = require_define_data_property();
     var isFunction2 = function(fn) {
       return typeof fn === "function" && toStr.call(fn) === "[object Function]";
     };
     var supportsDescriptors = require_has_property_descriptors()();
-=======
-    var origDefineProperty = Object.defineProperty;
-    var isFunction2 = function(fn) {
-      return typeof fn === "function" && toStr.call(fn) === "[object Function]";
-    };
-    var hasPropertyDescriptors = require_has_property_descriptors()();
-    var supportsDescriptors = origDefineProperty && hasPropertyDescriptors;
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     var defineProperty = function(object, name, value, predicate) {
       if (name in object) {
         if (predicate === true) {
@@ -9724,20 +9556,9 @@ var require_define_properties = __commonJS({
         }
       }
       if (supportsDescriptors) {
-<<<<<<< HEAD
         defineDataProperty(object, name, value, true);
       } else {
         defineDataProperty(object, name, value);
-=======
-        origDefineProperty(object, name, {
-          configurable: true,
-          enumerable: false,
-          value,
-          writable: true
-        });
-      } else {
-        object[name] = value;
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
       }
     };
     var defineProperties = function(object, map) {
@@ -9755,7 +9576,6 @@ var require_define_properties = __commonJS({
   }
 });
 
-<<<<<<< HEAD
 // node_modules/.pnpm/set-function-length@1.2.1/node_modules/set-function-length/index.js
 var require_set_function_length = __commonJS({
   "node_modules/.pnpm/set-function-length@1.2.1/node_modules/set-function-length/index.js"(exports2, module2) {
@@ -9813,27 +9633,15 @@ var require_set_function_length = __commonJS({
 // node_modules/.pnpm/call-bind@1.0.6/node_modules/call-bind/index.js
 var require_call_bind = __commonJS({
   "node_modules/.pnpm/call-bind@1.0.6/node_modules/call-bind/index.js"(exports2, module2) {
-=======
-// node_modules/.pnpm/call-bind@1.0.2/node_modules/call-bind/index.js
-var require_call_bind = __commonJS({
-  "node_modules/.pnpm/call-bind@1.0.2/node_modules/call-bind/index.js"(exports2, module2) {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     "use strict";
     init_polyfill_buffer();
     var bind = require_function_bind();
     var GetIntrinsic = require_get_intrinsic();
-<<<<<<< HEAD
     var setFunctionLength = require_set_function_length();
     var $TypeError = require_type();
     var $apply = GetIntrinsic("%Function.prototype.apply%");
     var $call = GetIntrinsic("%Function.prototype.call%");
     var $reflectApply = GetIntrinsic("%Reflect.apply%", true) || bind.call($call, $apply);
-=======
-    var $apply = GetIntrinsic("%Function.prototype.apply%");
-    var $call = GetIntrinsic("%Function.prototype.call%");
-    var $reflectApply = GetIntrinsic("%Reflect.apply%", true) || bind.call($call, $apply);
-    var $gOPD = GetIntrinsic("%Object.getOwnPropertyDescriptor%", true);
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     var $defineProperty = GetIntrinsic("%Object.defineProperty%", true);
     var $max = GetIntrinsic("%Math.max%");
     if ($defineProperty) {
@@ -9844,7 +9652,6 @@ var require_call_bind = __commonJS({
       }
     }
     module2.exports = function callBind(originalFunction) {
-<<<<<<< HEAD
       if (typeof originalFunction !== "function") {
         throw new $TypeError("a function is required");
       }
@@ -9854,20 +9661,6 @@ var require_call_bind = __commonJS({
         1 + $max(0, originalFunction.length - (arguments.length - 1)),
         true
       );
-=======
-      var func = $reflectApply(bind, $call, arguments);
-      if ($gOPD && $defineProperty) {
-        var desc = $gOPD(func, "length");
-        if (desc.configurable) {
-          $defineProperty(
-            func,
-            "length",
-            { value: 1 + $max(0, originalFunction.length - (arguments.length - 1)) }
-          );
-        }
-      }
-      return func;
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     };
     var applyBind = function applyBind2() {
       return $reflectApply(bind, $apply, arguments);
@@ -9880,15 +9673,9 @@ var require_call_bind = __commonJS({
   }
 });
 
-<<<<<<< HEAD
 // node_modules/.pnpm/call-bind@1.0.6/node_modules/call-bind/callBound.js
 var require_callBound = __commonJS({
   "node_modules/.pnpm/call-bind@1.0.6/node_modules/call-bind/callBound.js"(exports2, module2) {
-=======
-// node_modules/.pnpm/call-bind@1.0.2/node_modules/call-bind/callBound.js
-var require_callBound = __commonJS({
-  "node_modules/.pnpm/call-bind@1.0.2/node_modules/call-bind/callBound.js"(exports2, module2) {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     "use strict";
     init_polyfill_buffer();
     var GetIntrinsic = require_get_intrinsic();
@@ -9904,15 +9691,9 @@ var require_callBound = __commonJS({
   }
 });
 
-<<<<<<< HEAD
 // node_modules/.pnpm/object.assign@4.1.5/node_modules/object.assign/implementation.js
 var require_implementation3 = __commonJS({
   "node_modules/.pnpm/object.assign@4.1.5/node_modules/object.assign/implementation.js"(exports2, module2) {
-=======
-// node_modules/.pnpm/object.assign@4.1.4/node_modules/object.assign/implementation.js
-var require_implementation3 = __commonJS({
-  "node_modules/.pnpm/object.assign@4.1.4/node_modules/object.assign/implementation.js"(exports2, module2) {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     "use strict";
     init_polyfill_buffer();
     var objectKeys = require_object_keys();
@@ -9956,15 +9737,9 @@ var require_implementation3 = __commonJS({
   }
 });
 
-<<<<<<< HEAD
 // node_modules/.pnpm/object.assign@4.1.5/node_modules/object.assign/polyfill.js
 var require_polyfill = __commonJS({
   "node_modules/.pnpm/object.assign@4.1.5/node_modules/object.assign/polyfill.js"(exports2, module2) {
-=======
-// node_modules/.pnpm/object.assign@4.1.4/node_modules/object.assign/polyfill.js
-var require_polyfill = __commonJS({
-  "node_modules/.pnpm/object.assign@4.1.4/node_modules/object.assign/polyfill.js"(exports2, module2) {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     "use strict";
     init_polyfill_buffer();
     var implementation = require_implementation3();
@@ -10012,15 +9787,9 @@ var require_polyfill = __commonJS({
   }
 });
 
-<<<<<<< HEAD
 // node_modules/.pnpm/object.assign@4.1.5/node_modules/object.assign/shim.js
 var require_shim = __commonJS({
   "node_modules/.pnpm/object.assign@4.1.5/node_modules/object.assign/shim.js"(exports2, module2) {
-=======
-// node_modules/.pnpm/object.assign@4.1.4/node_modules/object.assign/shim.js
-var require_shim = __commonJS({
-  "node_modules/.pnpm/object.assign@4.1.4/node_modules/object.assign/shim.js"(exports2, module2) {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     "use strict";
     init_polyfill_buffer();
     var define2 = require_define_properties();
@@ -10039,15 +9808,9 @@ var require_shim = __commonJS({
   }
 });
 
-<<<<<<< HEAD
 // node_modules/.pnpm/object.assign@4.1.5/node_modules/object.assign/index.js
 var require_object = __commonJS({
   "node_modules/.pnpm/object.assign@4.1.5/node_modules/object.assign/index.js"(exports2, module2) {
-=======
-// node_modules/.pnpm/object.assign@4.1.4/node_modules/object.assign/index.js
-var require_object = __commonJS({
-  "node_modules/.pnpm/object.assign@4.1.4/node_modules/object.assign/index.js"(exports2, module2) {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     "use strict";
     init_polyfill_buffer();
     var defineProperties = require_define_properties();
@@ -10102,7 +9865,6 @@ var require_functions_have_names = __commonJS({
   }
 });
 
-<<<<<<< HEAD
 // node_modules/.pnpm/set-function-name@2.0.1/node_modules/set-function-name/index.js
 var require_set_function_name = __commonJS({
   "node_modules/.pnpm/set-function-name@2.0.1/node_modules/set-function-name/index.js"(exports2, module2) {
@@ -10139,18 +9901,6 @@ var require_implementation4 = __commonJS({
     var $Object = Object;
     module2.exports = setFunctionName(function flags() {
       if (this == null || this !== $Object(this)) {
-=======
-// node_modules/.pnpm/regexp.prototype.flags@1.5.0/node_modules/regexp.prototype.flags/implementation.js
-var require_implementation4 = __commonJS({
-  "node_modules/.pnpm/regexp.prototype.flags@1.5.0/node_modules/regexp.prototype.flags/implementation.js"(exports2, module2) {
-    "use strict";
-    init_polyfill_buffer();
-    var functionsHaveConfigurableNames = require_functions_have_names().functionsHaveConfigurableNames();
-    var $Object = Object;
-    var $TypeError = TypeError;
-    module2.exports = function flags() {
-      if (this != null && this !== $Object(this)) {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
         throw new $TypeError("RegExp.prototype.flags getter called on non-object");
       }
       var result = "";
@@ -10179,7 +9929,6 @@ var require_implementation4 = __commonJS({
         result += "y";
       }
       return result;
-<<<<<<< HEAD
     }, "get flags", true);
   }
 });
@@ -10187,18 +9936,6 @@ var require_implementation4 = __commonJS({
 // node_modules/.pnpm/regexp.prototype.flags@1.5.2/node_modules/regexp.prototype.flags/polyfill.js
 var require_polyfill2 = __commonJS({
   "node_modules/.pnpm/regexp.prototype.flags@1.5.2/node_modules/regexp.prototype.flags/polyfill.js"(exports2, module2) {
-=======
-    };
-    if (functionsHaveConfigurableNames && Object.defineProperty) {
-      Object.defineProperty(module2.exports, "name", { value: "get flags" });
-    }
-  }
-});
-
-// node_modules/.pnpm/regexp.prototype.flags@1.5.0/node_modules/regexp.prototype.flags/polyfill.js
-var require_polyfill2 = __commonJS({
-  "node_modules/.pnpm/regexp.prototype.flags@1.5.0/node_modules/regexp.prototype.flags/polyfill.js"(exports2, module2) {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     "use strict";
     init_polyfill_buffer();
     var implementation = require_implementation4();
@@ -10230,15 +9967,9 @@ var require_polyfill2 = __commonJS({
   }
 });
 
-<<<<<<< HEAD
 // node_modules/.pnpm/regexp.prototype.flags@1.5.2/node_modules/regexp.prototype.flags/shim.js
 var require_shim2 = __commonJS({
   "node_modules/.pnpm/regexp.prototype.flags@1.5.2/node_modules/regexp.prototype.flags/shim.js"(exports2, module2) {
-=======
-// node_modules/.pnpm/regexp.prototype.flags@1.5.0/node_modules/regexp.prototype.flags/shim.js
-var require_shim2 = __commonJS({
-  "node_modules/.pnpm/regexp.prototype.flags@1.5.0/node_modules/regexp.prototype.flags/shim.js"(exports2, module2) {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     "use strict";
     init_polyfill_buffer();
     var supportsDescriptors = require_define_properties().supportsDescriptors;
@@ -10267,15 +9998,9 @@ var require_shim2 = __commonJS({
   }
 });
 
-<<<<<<< HEAD
 // node_modules/.pnpm/regexp.prototype.flags@1.5.2/node_modules/regexp.prototype.flags/index.js
 var require_regexp_prototype = __commonJS({
   "node_modules/.pnpm/regexp.prototype.flags@1.5.2/node_modules/regexp.prototype.flags/index.js"(exports2, module2) {
-=======
-// node_modules/.pnpm/regexp.prototype.flags@1.5.0/node_modules/regexp.prototype.flags/index.js
-var require_regexp_prototype = __commonJS({
-  "node_modules/.pnpm/regexp.prototype.flags@1.5.0/node_modules/regexp.prototype.flags/index.js"(exports2, module2) {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     "use strict";
     init_polyfill_buffer();
     var define2 = require_define_properties();
@@ -10293,15 +10018,9 @@ var require_regexp_prototype = __commonJS({
   }
 });
 
-<<<<<<< HEAD
 // node_modules/.pnpm/has-tostringtag@1.0.2/node_modules/has-tostringtag/shams.js
 var require_shams2 = __commonJS({
   "node_modules/.pnpm/has-tostringtag@1.0.2/node_modules/has-tostringtag/shams.js"(exports2, module2) {
-=======
-// node_modules/.pnpm/has-tostringtag@1.0.0/node_modules/has-tostringtag/shams.js
-var require_shams2 = __commonJS({
-  "node_modules/.pnpm/has-tostringtag@1.0.0/node_modules/has-tostringtag/shams.js"(exports2, module2) {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     "use strict";
     init_polyfill_buffer();
     var hasSymbols = require_shams();
@@ -10339,28 +10058,16 @@ var require_is_arguments = __commonJS({
   }
 });
 
-<<<<<<< HEAD
 // (disabled):node_modules/.pnpm/object-inspect@1.13.1/node_modules/object-inspect/util.inspect
 var require_util = __commonJS({
   "(disabled):node_modules/.pnpm/object-inspect@1.13.1/node_modules/object-inspect/util.inspect"() {
-=======
-// (disabled):node_modules/.pnpm/object-inspect@1.12.3/node_modules/object-inspect/util.inspect
-var require_util = __commonJS({
-  "(disabled):node_modules/.pnpm/object-inspect@1.12.3/node_modules/object-inspect/util.inspect"() {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     init_polyfill_buffer();
   }
 });
 
-<<<<<<< HEAD
 // node_modules/.pnpm/object-inspect@1.13.1/node_modules/object-inspect/index.js
 var require_object_inspect = __commonJS({
   "node_modules/.pnpm/object-inspect@1.13.1/node_modules/object-inspect/index.js"(exports2, module2) {
-=======
-// node_modules/.pnpm/object-inspect@1.12.3/node_modules/object-inspect/index.js
-var require_object_inspect = __commonJS({
-  "node_modules/.pnpm/object-inspect@1.12.3/node_modules/object-inspect/index.js"(exports2, module2) {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     init_polyfill_buffer();
     var hasMap = typeof Map === "function" && Map.prototype;
     var mapSizeDescriptor = Object.getOwnPropertyDescriptor && hasMap ? Object.getOwnPropertyDescriptor(Map.prototype, "size") : null;
@@ -10575,15 +10282,12 @@ var require_object_inspect = __commonJS({
       if (isString(obj)) {
         return markBoxed(inspect(String(obj)));
       }
-<<<<<<< HEAD
       if (typeof window !== "undefined" && obj === window) {
         return "{ [object Window] }";
       }
       if (obj === global) {
         return "{ [object globalThis] }";
       }
-=======
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
       if (!isDate(obj) && !isRegExp(obj)) {
         var ys = arrObjKeys(obj, inspect);
         var isPlainObject = gPO ? gPO(obj) === Object.prototype : obj instanceof Object || obj.constructor === Object;
@@ -10877,25 +10581,15 @@ var require_object_inspect = __commonJS({
   }
 });
 
-<<<<<<< HEAD
 // node_modules/.pnpm/side-channel@1.0.5/node_modules/side-channel/index.js
 var require_side_channel = __commonJS({
   "node_modules/.pnpm/side-channel@1.0.5/node_modules/side-channel/index.js"(exports2, module2) {
-=======
-// node_modules/.pnpm/side-channel@1.0.4/node_modules/side-channel/index.js
-var require_side_channel = __commonJS({
-  "node_modules/.pnpm/side-channel@1.0.4/node_modules/side-channel/index.js"(exports2, module2) {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     "use strict";
     init_polyfill_buffer();
     var GetIntrinsic = require_get_intrinsic();
     var callBound = require_callBound();
     var inspect = require_object_inspect();
-<<<<<<< HEAD
     var $TypeError = require_type();
-=======
-    var $TypeError = GetIntrinsic("%TypeError%");
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     var $WeakMap = GetIntrinsic("%WeakMap%", true);
     var $Map = GetIntrinsic("%Map%", true);
     var $weakMapGet = callBound("WeakMap.prototype.get", true);
@@ -10999,7 +10693,6 @@ var require_side_channel = __commonJS({
   }
 });
 
-<<<<<<< HEAD
 // node_modules/.pnpm/internal-slot@1.0.7/node_modules/internal-slot/index.js
 var require_internal_slot = __commonJS({
   "node_modules/.pnpm/internal-slot@1.0.7/node_modules/internal-slot/index.js"(exports2, module2) {
@@ -11008,17 +10701,6 @@ var require_internal_slot = __commonJS({
     var hasOwn = require_hasown();
     var channel = require_side_channel()();
     var $TypeError = require_type();
-=======
-// node_modules/.pnpm/internal-slot@1.0.5/node_modules/internal-slot/index.js
-var require_internal_slot = __commonJS({
-  "node_modules/.pnpm/internal-slot@1.0.5/node_modules/internal-slot/index.js"(exports2, module2) {
-    "use strict";
-    init_polyfill_buffer();
-    var GetIntrinsic = require_get_intrinsic();
-    var has = require_src2();
-    var channel = require_side_channel()();
-    var $TypeError = GetIntrinsic("%TypeError%");
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     var SLOT = {
       assert: function(O, slot) {
         if (!O || typeof O !== "object" && typeof O !== "function") {
@@ -11050,11 +10732,7 @@ var require_internal_slot = __commonJS({
           throw new $TypeError("`slot` must be a string");
         }
         var slots = channel.get(O);
-<<<<<<< HEAD
         return !!slots && hasOwn(slots, "$" + slot);
-=======
-        return !!slots && has(slots, "$" + slot);
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
       },
       set: function(O, slot, V) {
         if (!O || typeof O !== "object" && typeof O !== "function") {
@@ -11474,366 +11152,19 @@ var require_object_is = __commonJS({
   }
 });
 
-<<<<<<< HEAD
 // node_modules/.pnpm/is-array-buffer@3.0.4/node_modules/is-array-buffer/index.js
 var require_is_array_buffer = __commonJS({
   "node_modules/.pnpm/is-array-buffer@3.0.4/node_modules/is-array-buffer/index.js"(exports2, module2) {
-=======
-// node_modules/.pnpm/is-callable@1.2.7/node_modules/is-callable/index.js
-var require_is_callable = __commonJS({
-  "node_modules/.pnpm/is-callable@1.2.7/node_modules/is-callable/index.js"(exports2, module2) {
-    "use strict";
-    init_polyfill_buffer();
-    var fnToStr = Function.prototype.toString;
-    var reflectApply = typeof Reflect === "object" && Reflect !== null && Reflect.apply;
-    var badArrayLike;
-    var isCallableMarker;
-    if (typeof reflectApply === "function" && typeof Object.defineProperty === "function") {
-      try {
-        badArrayLike = Object.defineProperty({}, "length", {
-          get: function() {
-            throw isCallableMarker;
-          }
-        });
-        isCallableMarker = {};
-        reflectApply(function() {
-          throw 42;
-        }, null, badArrayLike);
-      } catch (_) {
-        if (_ !== isCallableMarker) {
-          reflectApply = null;
-        }
-      }
-    } else {
-      reflectApply = null;
-    }
-    var constructorRegex = /^\s*class\b/;
-    var isES6ClassFn = function isES6ClassFunction(value) {
-      try {
-        var fnStr = fnToStr.call(value);
-        return constructorRegex.test(fnStr);
-      } catch (e) {
-        return false;
-      }
-    };
-    var tryFunctionObject = function tryFunctionToStr(value) {
-      try {
-        if (isES6ClassFn(value)) {
-          return false;
-        }
-        fnToStr.call(value);
-        return true;
-      } catch (e) {
-        return false;
-      }
-    };
-    var toStr = Object.prototype.toString;
-    var objectClass = "[object Object]";
-    var fnClass = "[object Function]";
-    var genClass = "[object GeneratorFunction]";
-    var ddaClass = "[object HTMLAllCollection]";
-    var ddaClass2 = "[object HTML document.all class]";
-    var ddaClass3 = "[object HTMLCollection]";
-    var hasToStringTag = typeof Symbol === "function" && !!Symbol.toStringTag;
-    var isIE68 = !(0 in [,]);
-    var isDDA = function isDocumentDotAll() {
-      return false;
-    };
-    if (typeof document === "object") {
-      all = document.all;
-      if (toStr.call(all) === toStr.call(document.all)) {
-        isDDA = function isDocumentDotAll(value) {
-          if ((isIE68 || !value) && (typeof value === "undefined" || typeof value === "object")) {
-            try {
-              var str = toStr.call(value);
-              return (str === ddaClass || str === ddaClass2 || str === ddaClass3 || str === objectClass) && value("") == null;
-            } catch (e) {
-            }
-          }
-          return false;
-        };
-      }
-    }
-    var all;
-    module2.exports = reflectApply ? function isCallable(value) {
-      if (isDDA(value)) {
-        return true;
-      }
-      if (!value) {
-        return false;
-      }
-      if (typeof value !== "function" && typeof value !== "object") {
-        return false;
-      }
-      try {
-        reflectApply(value, null, badArrayLike);
-      } catch (e) {
-        if (e !== isCallableMarker) {
-          return false;
-        }
-      }
-      return !isES6ClassFn(value) && tryFunctionObject(value);
-    } : function isCallable(value) {
-      if (isDDA(value)) {
-        return true;
-      }
-      if (!value) {
-        return false;
-      }
-      if (typeof value !== "function" && typeof value !== "object") {
-        return false;
-      }
-      if (hasToStringTag) {
-        return tryFunctionObject(value);
-      }
-      if (isES6ClassFn(value)) {
-        return false;
-      }
-      var strClass = toStr.call(value);
-      if (strClass !== fnClass && strClass !== genClass && !/^\[object HTML/.test(strClass)) {
-        return false;
-      }
-      return tryFunctionObject(value);
-    };
-  }
-});
-
-// node_modules/.pnpm/for-each@0.3.3/node_modules/for-each/index.js
-var require_for_each = __commonJS({
-  "node_modules/.pnpm/for-each@0.3.3/node_modules/for-each/index.js"(exports2, module2) {
-    "use strict";
-    init_polyfill_buffer();
-    var isCallable = require_is_callable();
-    var toStr = Object.prototype.toString;
-    var hasOwnProperty = Object.prototype.hasOwnProperty;
-    var forEachArray = function forEachArray2(array, iterator, receiver) {
-      for (var i = 0, len = array.length; i < len; i++) {
-        if (hasOwnProperty.call(array, i)) {
-          if (receiver == null) {
-            iterator(array[i], i, array);
-          } else {
-            iterator.call(receiver, array[i], i, array);
-          }
-        }
-      }
-    };
-    var forEachString = function forEachString2(string, iterator, receiver) {
-      for (var i = 0, len = string.length; i < len; i++) {
-        if (receiver == null) {
-          iterator(string.charAt(i), i, string);
-        } else {
-          iterator.call(receiver, string.charAt(i), i, string);
-        }
-      }
-    };
-    var forEachObject = function forEachObject2(object, iterator, receiver) {
-      for (var k in object) {
-        if (hasOwnProperty.call(object, k)) {
-          if (receiver == null) {
-            iterator(object[k], k, object);
-          } else {
-            iterator.call(receiver, object[k], k, object);
-          }
-        }
-      }
-    };
-    var forEach2 = function forEach3(list, iterator, thisArg) {
-      if (!isCallable(iterator)) {
-        throw new TypeError("iterator must be a function");
-      }
-      var receiver;
-      if (arguments.length >= 3) {
-        receiver = thisArg;
-      }
-      if (toStr.call(list) === "[object Array]") {
-        forEachArray(list, iterator, receiver);
-      } else if (typeof list === "string") {
-        forEachString(list, iterator, receiver);
-      } else {
-        forEachObject(list, iterator, receiver);
-      }
-    };
-    module2.exports = forEach2;
-  }
-});
-
-// node_modules/.pnpm/available-typed-arrays@1.0.5/node_modules/available-typed-arrays/index.js
-var require_available_typed_arrays = __commonJS({
-  "node_modules/.pnpm/available-typed-arrays@1.0.5/node_modules/available-typed-arrays/index.js"(exports2, module2) {
-    "use strict";
-    init_polyfill_buffer();
-    var possibleNames = [
-      "BigInt64Array",
-      "BigUint64Array",
-      "Float32Array",
-      "Float64Array",
-      "Int16Array",
-      "Int32Array",
-      "Int8Array",
-      "Uint16Array",
-      "Uint32Array",
-      "Uint8Array",
-      "Uint8ClampedArray"
-    ];
-    var g = typeof globalThis === "undefined" ? global : globalThis;
-    module2.exports = function availableTypedArrays() {
-      var out = [];
-      for (var i = 0; i < possibleNames.length; i++) {
-        if (typeof g[possibleNames[i]] === "function") {
-          out[out.length] = possibleNames[i];
-        }
-      }
-      return out;
-    };
-  }
-});
-
-// node_modules/.pnpm/gopd@1.0.1/node_modules/gopd/index.js
-var require_gopd = __commonJS({
-  "node_modules/.pnpm/gopd@1.0.1/node_modules/gopd/index.js"(exports2, module2) {
-    "use strict";
-    init_polyfill_buffer();
-    var GetIntrinsic = require_get_intrinsic();
-    var $gOPD = GetIntrinsic("%Object.getOwnPropertyDescriptor%", true);
-    if ($gOPD) {
-      try {
-        $gOPD([], "length");
-      } catch (e) {
-        $gOPD = null;
-      }
-    }
-    module2.exports = $gOPD;
-  }
-});
-
-// node_modules/.pnpm/which-typed-array@1.1.11/node_modules/which-typed-array/index.js
-var require_which_typed_array = __commonJS({
-  "node_modules/.pnpm/which-typed-array@1.1.11/node_modules/which-typed-array/index.js"(exports2, module2) {
-    "use strict";
-    init_polyfill_buffer();
-    var forEach2 = require_for_each();
-    var availableTypedArrays = require_available_typed_arrays();
-    var callBind = require_call_bind();
-    var callBound = require_callBound();
-    var gOPD = require_gopd();
-    var $toString = callBound("Object.prototype.toString");
-    var hasToStringTag = require_shams2()();
-    var g = typeof globalThis === "undefined" ? global : globalThis;
-    var typedArrays = availableTypedArrays();
-    var $slice = callBound("String.prototype.slice");
-    var getPrototypeOf = Object.getPrototypeOf;
-    var $indexOf = callBound("Array.prototype.indexOf", true) || function indexOf(array, value) {
-      for (var i = 0; i < array.length; i += 1) {
-        if (array[i] === value) {
-          return i;
-        }
-      }
-      return -1;
-    };
-    var cache = { __proto__: null };
-    if (hasToStringTag && gOPD && getPrototypeOf) {
-      forEach2(typedArrays, function(typedArray) {
-        var arr = new g[typedArray]();
-        if (Symbol.toStringTag in arr) {
-          var proto = getPrototypeOf(arr);
-          var descriptor = gOPD(proto, Symbol.toStringTag);
-          if (!descriptor) {
-            var superProto = getPrototypeOf(proto);
-            descriptor = gOPD(superProto, Symbol.toStringTag);
-          }
-          cache["$" + typedArray] = callBind(descriptor.get);
-        }
-      });
-    } else {
-      forEach2(typedArrays, function(typedArray) {
-        var arr = new g[typedArray]();
-        cache["$" + typedArray] = callBind(arr.slice);
-      });
-    }
-    var tryTypedArrays = function tryAllTypedArrays(value) {
-      var found = false;
-      forEach2(cache, function(getter, typedArray) {
-        if (!found) {
-          try {
-            if ("$" + getter(value) === typedArray) {
-              found = $slice(typedArray, 1);
-            }
-          } catch (e) {
-          }
-        }
-      });
-      return found;
-    };
-    var trySlices = function tryAllSlices(value) {
-      var found = false;
-      forEach2(cache, function(getter, name) {
-        if (!found) {
-          try {
-            getter(value);
-            found = $slice(name, 1);
-          } catch (e) {
-          }
-        }
-      });
-      return found;
-    };
-    module2.exports = function whichTypedArray(value) {
-      if (!value || typeof value !== "object") {
-        return false;
-      }
-      if (!hasToStringTag) {
-        var tag2 = $slice($toString(value), 8, -1);
-        if ($indexOf(typedArrays, tag2) > -1) {
-          return tag2;
-        }
-        if (tag2 !== "Object") {
-          return false;
-        }
-        return trySlices(value);
-      }
-      if (!gOPD) {
-        return null;
-      }
-      return tryTypedArrays(value);
-    };
-  }
-});
-
-// node_modules/.pnpm/is-typed-array@1.1.12/node_modules/is-typed-array/index.js
-var require_is_typed_array = __commonJS({
-  "node_modules/.pnpm/is-typed-array@1.1.12/node_modules/is-typed-array/index.js"(exports2, module2) {
-    "use strict";
-    init_polyfill_buffer();
-    var whichTypedArray = require_which_typed_array();
-    module2.exports = function isTypedArray(value) {
-      return !!whichTypedArray(value);
-    };
-  }
-});
-
-// node_modules/.pnpm/is-array-buffer@3.0.2/node_modules/is-array-buffer/index.js
-var require_is_array_buffer = __commonJS({
-  "node_modules/.pnpm/is-array-buffer@3.0.2/node_modules/is-array-buffer/index.js"(exports2, module2) {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     "use strict";
     init_polyfill_buffer();
     var callBind = require_call_bind();
     var callBound = require_callBound();
     var GetIntrinsic = require_get_intrinsic();
-<<<<<<< HEAD
     var $ArrayBuffer = GetIntrinsic("%ArrayBuffer%", true);
     var $byteLength = callBound("ArrayBuffer.prototype.byteLength", true);
     var $toString = callBound("Object.prototype.toString");
     var abSlice = !!$ArrayBuffer && !$byteLength && new $ArrayBuffer(0).slice;
     var $abSlice = !!abSlice && callBind(abSlice);
-=======
-    var isTypedArray = require_is_typed_array();
-    var $ArrayBuffer = GetIntrinsic("ArrayBuffer", true);
-    var $Float32Array = GetIntrinsic("Float32Array", true);
-    var $byteLength = callBound("ArrayBuffer.prototype.byteLength", true);
-    var abSlice = $ArrayBuffer && !$byteLength && new $ArrayBuffer().slice;
-    var $abSlice = abSlice && callBind(abSlice);
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     module2.exports = $byteLength || $abSlice ? function isArrayBuffer(obj) {
       if (!obj || typeof obj !== "object") {
         return false;
@@ -11848,17 +11179,8 @@ var require_is_array_buffer = __commonJS({
       } catch (e) {
         return false;
       }
-<<<<<<< HEAD
     } : $ArrayBuffer ? function isArrayBuffer(obj) {
       return $toString(obj) === "[object ArrayBuffer]";
-=======
-    } : $Float32Array ? function IsArrayBuffer(obj) {
-      try {
-        return new $Float32Array(obj).buffer === obj && !isTypedArray(obj);
-      } catch (e) {
-        return typeof obj === "object" && e.name === "RangeError";
-      }
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     } : function isArrayBuffer(obj) {
       return false;
     };
@@ -12254,7 +11576,6 @@ var require_which_collection = __commonJS({
   }
 });
 
-<<<<<<< HEAD
 // node_modules/.pnpm/is-callable@1.2.7/node_modules/is-callable/index.js
 var require_is_callable = __commonJS({
   "node_modules/.pnpm/is-callable@1.2.7/node_modules/is-callable/index.js"(exports2, module2) {
@@ -12577,11 +11898,6 @@ var require_which_typed_array = __commonJS({
 // node_modules/.pnpm/array-buffer-byte-length@1.0.1/node_modules/array-buffer-byte-length/index.js
 var require_array_buffer_byte_length = __commonJS({
   "node_modules/.pnpm/array-buffer-byte-length@1.0.1/node_modules/array-buffer-byte-length/index.js"(exports2, module2) {
-=======
-// node_modules/.pnpm/array-buffer-byte-length@1.0.0/node_modules/array-buffer-byte-length/index.js
-var require_array_buffer_byte_length = __commonJS({
-  "node_modules/.pnpm/array-buffer-byte-length@1.0.0/node_modules/array-buffer-byte-length/index.js"(exports2, module2) {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     "use strict";
     init_polyfill_buffer();
     var callBound = require_callBound();
@@ -12596,15 +11912,9 @@ var require_array_buffer_byte_length = __commonJS({
   }
 });
 
-<<<<<<< HEAD
 // node_modules/.pnpm/deep-equal@2.2.3/node_modules/deep-equal/index.js
 var require_deep_equal = __commonJS({
   "node_modules/.pnpm/deep-equal@2.2.3/node_modules/deep-equal/index.js"(exports2, module2) {
-=======
-// node_modules/.pnpm/deep-equal@2.2.2/node_modules/deep-equal/index.js
-var require_deep_equal = __commonJS({
-  "node_modules/.pnpm/deep-equal@2.2.2/node_modules/deep-equal/index.js"(exports2, module2) {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     "use strict";
     init_polyfill_buffer();
     var assign2 = require_object();
@@ -13843,11 +13153,7 @@ var require_template = __commonJS({
         v: hoganEscape,
         // triple stache
         t: coerceToString,
-<<<<<<< HEAD
         render: function render(context, partials, indent2) {
-=======
-        render: function render2(context, partials, indent2) {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
           return this.ri([context], partials || {}, indent2);
         },
         // render internal -- a hook for overrides that catches partials too
@@ -14586,11 +13892,7 @@ var require_feather = __commonJS({
                 "./node_modules/core-js/internals/well-known-symbol.js"
               );
               var TO_STRING_TAG = wellKnownSymbol("toStringTag");
-<<<<<<< HEAD
               var CORRECT_ARGUMENTS = classofRaw(/* @__PURE__ */ function() {
-=======
-              var CORRECT_ARGUMENTS = classofRaw(function() {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
                 return arguments;
               }()) == "Arguments";
               var tryGet = function(it, key2) {
@@ -16404,11 +15706,7 @@ var require_feather = __commonJS({
             /***/
             function(module3, exports3) {
               var g;
-<<<<<<< HEAD
               g = /* @__PURE__ */ function() {
-=======
-              g = function() {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
                 return this;
               }();
               try {
@@ -16454,11 +15752,7 @@ var require_feather = __commonJS({
                 }
                 return target;
               };
-<<<<<<< HEAD
               var _createClass = /* @__PURE__ */ function() {
-=======
-              var _createClass = function() {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
                 function defineProperties(target, props) {
                   for (var i = 0; i < props.length; i++) {
                     var descriptor = props[i];
@@ -16746,11 +16040,7 @@ __export(main_exports, {
 module.exports = __toCommonJS(main_exports);
 init_polyfill_buffer();
 
-<<<<<<< HEAD
 // node_modules/.pnpm/isomorphic-git@1.25.3/node_modules/isomorphic-git/index.js
-=======
-// node_modules/.pnpm/isomorphic-git@1.24.5/node_modules/isomorphic-git/index.js
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
 init_polyfill_buffer();
 var import_async_lock = __toESM(require_async_lock(), 1);
 var import_sha1 = __toESM(require_sha1(), 1);
@@ -17661,7 +16951,6 @@ function compareRefNames(a, b) {
   }
   return tmp;
 }
-<<<<<<< HEAD
 var memo = /* @__PURE__ */ new Map();
 function normalizePath(path2) {
   let normalizedPath = memo.get(path2);
@@ -17686,10 +16975,6 @@ function normalizePathInternal(path2) {
   if (path2 === "")
     return ".";
   return path2;
-=======
-function normalizePath(path2) {
-  return path2.replace(/\/\.\//g, "/").replace(/\/{2,}/g, "/").replace(/^\/\.$/, "/").replace(/^\.\/$/, ".").replace(/^\.\//, "").replace(/\/\.$/, "").replace(/(.+)\/$/, "$1").replace(/^$/, ".");
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
 }
 function join(...parts) {
   return normalizePath(parts.map(normalizePath).join("/"));
@@ -18514,11 +17799,8 @@ var StreamReader = class {
     let { done, value } = await this.stream.next();
     if (done) {
       this._ended = true;
-<<<<<<< HEAD
       if (!value)
         return Buffer.alloc(0);
-=======
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     }
     if (value) {
       value = Buffer.from(value);
@@ -19228,25 +18510,16 @@ MergeNotSupportedError.code = "MergeNotSupportedError";
 var MergeConflictError = class _MergeConflictError extends BaseError {
   /**
    * @param {Array<string>} filepaths
-<<<<<<< HEAD
    * @param {Array<string>} bothModified
    * @param {Array<string>} deleteByUs
    * @param {Array<string>} deleteByTheirs
    */
   constructor(filepaths, bothModified, deleteByUs, deleteByTheirs) {
-=======
-   */
-  constructor(filepaths) {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     super(
       `Automatic merge failed with one or more merge conflicts in the following files: ${filepaths.toString()}. Fix conflicts then commit the result.`
     );
     this.code = this.name = _MergeConflictError.code;
-<<<<<<< HEAD
     this.data = { filepaths, bothModified, deleteByUs, deleteByTheirs };
-=======
-    this.data = { filepaths };
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
   }
 };
 MergeConflictError.code = "MergeConflictError";
@@ -21791,11 +21064,7 @@ var GitPktLine = class {
           return true;
         return buffer2;
       } catch (err) {
-<<<<<<< HEAD
         stream.error = err;
-=======
-        console.log("error", err);
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
         return true;
       }
     };
@@ -22170,13 +21439,8 @@ function filterCapabilities(server, client) {
 }
 var pkg = {
   name: "isomorphic-git",
-<<<<<<< HEAD
   version: "1.25.3",
   agent: "git/isomorphic-git@1.25.3"
-=======
-  version: "1.24.5",
-  agent: "git/isomorphic-git@1.24.5"
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
 };
 var FIFO = class {
   constructor() {
@@ -22203,13 +21467,8 @@ var FIFO = class {
     }
   }
   destroy(err) {
-<<<<<<< HEAD
     this.error = err;
     this.end();
-=======
-    this._ended = true;
-    this.error = err;
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
   }
   async next() {
     if (this._queue.length > 0) {
@@ -22276,11 +21535,7 @@ var GitSideBand = class {
       if (line === true) {
         packetlines.end();
         progress.end();
-<<<<<<< HEAD
         input.error ? packfile.destroy(input.error) : packfile.end();
-=======
-        packfile.end();
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
         return;
       }
       switch (line[0]) {
@@ -22295,20 +21550,13 @@ var GitSideBand = class {
         case 3: {
           const error = line.slice(1);
           progress.write(error);
-<<<<<<< HEAD
           packetlines.end();
           progress.end();
-=======
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
           packfile.destroy(new Error(error.toString("utf8")));
           return;
         }
         default: {
-<<<<<<< HEAD
           packetlines.write(line);
-=======
-          packetlines.write(line.slice(0));
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
         }
       }
       nextBit();
@@ -22418,7 +21666,6 @@ async function parseUploadPackResponse(stream) {
       } else if (line.startsWith("NAK")) {
         nak = true;
         done = true;
-<<<<<<< HEAD
       } else {
         done = true;
         nak = true;
@@ -22429,11 +21676,6 @@ async function parseUploadPackResponse(stream) {
     }).finally(() => {
       if (!done) {
         stream.error ? reject(stream.error) : resolve({ shallows, unshallows, acks, nak, packfile, progress });
-=======
-      }
-      if (done) {
-        resolve({ shallows, unshallows, acks, nak, packfile, progress });
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
       }
     });
   });
@@ -22722,11 +21964,8 @@ async function _fetch({
     });
   }
   const packfile = Buffer.from(await collect(response.packfile));
-<<<<<<< HEAD
   if (raw.body.error)
     throw raw.body.error;
-=======
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
   const packfileSha = packfile.slice(-20).toString("hex");
   const res = {
     defaultBranch: response.HEAD,
@@ -23257,12 +22496,9 @@ async function mergeTree({
   const baseTree = TREE({ ref: baseOid });
   const theirTree = TREE({ ref: theirOid });
   const unmergedFiles = [];
-<<<<<<< HEAD
   const bothModified = [];
   const deleteByUs = [];
   const deleteByTheirs = [];
-=======
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
   const results = await _walk({
     fs,
     cache,
@@ -23314,10 +22550,7 @@ async function mergeTree({
             }).then(async (r) => {
               if (!r.cleanMerge) {
                 unmergedFiles.push(filepath);
-<<<<<<< HEAD
                 bothModified.push(filepath);
-=======
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
                 if (!abortOnConflict) {
                   const baseOid2 = await base.oid();
                   const ourOid2 = await ours.oid();
@@ -23333,7 +22566,6 @@ async function mergeTree({
               return r.mergeResult;
             });
           }
-<<<<<<< HEAD
           if (base && !ours && theirs && await base.type() === "blob" && await theirs.type() === "blob") {
             unmergedFiles.push(filepath);
             deleteByUs.push(filepath);
@@ -23371,8 +22603,6 @@ async function mergeTree({
           if (base && !ours && !theirs && await base.type() === "blob") {
             return void 0;
           }
-=======
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
           throw new MergeNotSupportedError();
         }
       }
@@ -23421,16 +22651,12 @@ async function mergeTree({
         }
       });
     }
-<<<<<<< HEAD
     return new MergeConflictError(
       unmergedFiles,
       bothModified,
       deleteByUs,
       deleteByTheirs
     );
-=======
-    return new MergeConflictError(unmergedFiles);
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
   }
   return results.oid;
 }
@@ -26499,11 +25725,7 @@ var index = {
 var isomorphic_git_default = index;
 
 // src/main.ts
-<<<<<<< HEAD
 var import_obsidian31 = require("obsidian");
-=======
-var import_obsidian30 = require("obsidian");
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
 
 // src/lineAuthor/lineAuthorIntegration.ts
 init_polyfill_buffer();
@@ -29114,11 +28336,7 @@ var init_scheduler = __esm2({
   "src/lib/runners/scheduler.ts"() {
     init_utils();
     init_git_logger();
-<<<<<<< HEAD
     createScheduledTask = /* @__PURE__ */ (() => {
-=======
-    createScheduledTask = (() => {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
       let id = 0;
       return () => {
         id++;
@@ -29711,15 +28929,9 @@ var init_TagList = __esm2({
             return singleSorted(toNumber(partsA[0]), toNumber(partsB[0]));
           }
           for (let i = 0, l = Math.max(partsA.length, partsB.length); i < l; i++) {
-<<<<<<< HEAD
             const diff3 = sorted(toNumber(partsA[i]), toNumber(partsB[i]));
             if (diff3) {
               return diff3;
-=======
-            const diff2 = sorted(toNumber(partsA[i]), toNumber(partsB[i]));
-            if (diff2) {
-              return diff2;
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
             }
           }
           return 0;
@@ -30384,10 +29596,7 @@ var DEFAULT_SETTINGS = {
   disablePush: false,
   pullBeforePush: true,
   disablePopups: false,
-<<<<<<< HEAD
   disablePopupsForNoChanges: false,
-=======
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
   listChangedFilesInMessageBody: false,
   showStatusBar: true,
   updateSubmodules: false,
@@ -30406,11 +29615,8 @@ var DEFAULT_SETTINGS = {
   submoduleRecurseCheckout: false,
   gitDir: "",
   showFileMenu: true,
-<<<<<<< HEAD
   authorInHistoryView: "hide",
   dateInHistoryView: false,
-=======
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
   lineAuthor: {
     show: false,
     followMovement: "inactive",
@@ -30536,14 +29742,11 @@ function getDisplayPath(path2) {
     return path2;
   return path2.split("/").last().replace(".md", "");
 }
-<<<<<<< HEAD
 function formatMinutes(minutes) {
   if (minutes === 1)
     return "1 minute";
   return `${minutes} minutes`;
 }
-=======
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
 
 // src/gitManager/gitManager.ts
 init_polyfill_buffer();
@@ -30552,19 +29755,14 @@ var GitManager = class {
     this.plugin = plugin;
     this.app = plugin.app;
   }
-<<<<<<< HEAD
   // Constructs a path relative to the vault from a path relative to the git repository
   getRelativeVaultPath(path2) {
-=======
-  getVaultPath(path2) {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     if (this.plugin.settings.basePath) {
       return this.plugin.settings.basePath + "/" + path2;
     } else {
       return path2;
     }
   }
-<<<<<<< HEAD
   // Constructs a path relative to the git repository from a path relative to the vault
   //
   // @param doConversion - If false, the path is returned as is. This is added because that parameter is often passed on to functions where this method is called.
@@ -30575,10 +29773,6 @@ var GitManager = class {
       }
     }
     return path2;
-=======
-  asRepositoryRelativePath(path2, relativeToVault) {
-    return relativeToVault && this.plugin.settings.basePath.length > 0 ? path2.substring(this.plugin.settings.basePath.length + 1) : path2;
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
   }
   _getTreeStructure(children2, beginLength = 0) {
     const list = [];
@@ -30599,11 +29793,7 @@ var GitManager = class {
         list.push({
           title,
           path: path2,
-<<<<<<< HEAD
           vaultPath: this.getRelativeVaultPath(path2),
-=======
-          vaultPath: this.getVaultPath(path2),
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
           children: this._getTreeStructure(
             childrenWithSameTitle,
             (beginLength > 0 ? beginLength + title.length : title.length) + 1
@@ -30614,11 +29804,7 @@ var GitManager = class {
           title: restPath,
           data: first2,
           path: first2.path,
-<<<<<<< HEAD
           vaultPath: this.getRelativeVaultPath(first2.path)
-=======
-          vaultPath: this.getVaultPath(first2.path)
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
         });
         children2.remove(first2);
       }
@@ -30698,17 +29884,10 @@ var GitManager = class {
       const files = chunks.join(", ");
       template = template.replace("{{files}}", files);
     }
-<<<<<<< HEAD
     const moment6 = window.moment;
     template = template.replace(
       "{{date}}",
       moment6().format(this.plugin.settings.commitDateFormat)
-=======
-    const moment5 = window.moment;
-    template = template.replace(
-      "{{date}}",
-      moment5().format(this.plugin.settings.commitDateFormat)
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     );
     if (this.plugin.settings.listChangedFilesInMessageBody) {
       template = template + "\n\nAffected files:\n" + (status2 != null ? status2 : await this.status()).staged.map((e) => e.path).join("\n");
@@ -30766,7 +29945,6 @@ var SimpleGit = class extends GitManager {
     this.plugin.setState(1 /* status */);
     const status2 = await this.git.status((err) => this.onError(err));
     this.plugin.setState(0 /* idle */);
-<<<<<<< HEAD
     const allFilesFormatted = status2.files.map((e) => {
       const res = this.formatPath(e);
       return {
@@ -30783,38 +29961,13 @@ var SimpleGit = class extends GitManager {
       staged: allFilesFormatted.filter(
         (e) => e.index !== " " && e.index != "U"
       ),
-=======
-    return {
-      changed: status2.files.filter((e) => e.working_dir !== " ").map((e) => {
-        const res = this.formatPath(e);
-        return {
-          path: res.path,
-          from: res.from,
-          working_dir: e.working_dir === "?" ? "U" : e.working_dir,
-          vault_path: this.getVaultPath(res.path)
-        };
-      }),
-      staged: status2.files.filter((e) => e.index !== " " && e.index != "?").map((e) => {
-        const res = this.formatPath(e, e.index === "R");
-        return {
-          path: res.path,
-          from: res.from,
-          index: e.index,
-          vault_path: this.getVaultPath(res.path)
-        };
-      }),
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
       conflicted: status2.conflicted.map(
         (path2) => this.formatPath({ path: path2 }).path
       )
     };
   }
   async submoduleAwareHeadRevisonInContainingDirectory(filepath) {
-<<<<<<< HEAD
     const repoPath = this.getRelativeRepoPath(filepath);
-=======
-    const repoPath = this.asRepositoryRelativePath(filepath, true);
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     const containingDirectory = path.dirname(repoPath);
     const args = ["-C", containingDirectory, "rev-parse", "HEAD"];
     const result = this.git.raw(args);
@@ -30874,11 +30027,7 @@ var SimpleGit = class extends GitManager {
     }
   }
   async blame(path2, trackMovement, ignoreWhitespace) {
-<<<<<<< HEAD
     path2 = this.getRelativeRepoPath(path2);
-=======
-    path2 = this.asRepositoryRelativePath(path2, true);
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     if (!await this.isTracked(path2))
       return "untracked";
     const inSubmodule = await this.getSubmoduleOfFile(path2);
@@ -30936,7 +30085,6 @@ var SimpleGit = class extends GitManager {
     dispatchEvent(new CustomEvent("git-head-update"));
     return res.summary.changes;
   }
-<<<<<<< HEAD
   async commit({
     message,
     amend
@@ -30945,12 +30093,6 @@ var SimpleGit = class extends GitManager {
     const res = (await this.git.commit(
       await this.formatCommitMessage(message),
       amend ? ["--amend"] : [],
-=======
-  async commit(message) {
-    this.plugin.setState(4 /* commit */);
-    const res = (await this.git.commit(
-      await this.formatCommitMessage(message),
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
       (err) => this.onError(err)
     )).summary.changes;
     dispatchEvent(new CustomEvent("git-head-update"));
@@ -30959,11 +30101,7 @@ var SimpleGit = class extends GitManager {
   }
   async stage(path2, relativeToVault) {
     this.plugin.setState(3 /* add */);
-<<<<<<< HEAD
     path2 = this.getRelativeRepoPath(path2, relativeToVault);
-=======
-    path2 = this.asRepositoryRelativePath(path2, relativeToVault);
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     await this.git.add(["--", path2], (err) => this.onError(err));
     this.plugin.setState(0 /* idle */);
   }
@@ -30982,11 +30120,7 @@ var SimpleGit = class extends GitManager {
   }
   async unstage(path2, relativeToVault) {
     this.plugin.setState(3 /* add */);
-<<<<<<< HEAD
     path2 = this.getRelativeRepoPath(path2, relativeToVault);
-=======
-    path2 = this.asRepositoryRelativePath(path2, relativeToVault);
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     await this.git.reset(["--", path2], (err) => this.onError(err));
     this.plugin.setState(0 /* idle */);
   }
@@ -30996,11 +30130,7 @@ var SimpleGit = class extends GitManager {
     this.plugin.setState(0 /* idle */);
   }
   async hashObject(filepath) {
-<<<<<<< HEAD
     filepath = this.getRelativeRepoPath(filepath);
-=======
-    filepath = this.asRepositoryRelativePath(filepath, true);
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     const inSubmodule = await this.getSubmoduleOfFile(filepath);
     const args = inSubmodule ? ["-C", inSubmodule.submodule] : [];
     const relativeFilepath = inSubmodule ? inSubmodule.relativeFilepath : filepath;
@@ -31026,15 +30156,12 @@ var SimpleGit = class extends GitManager {
       [branchInfo.current],
       (err) => this.onError(err)
     );
-<<<<<<< HEAD
     if (!branchInfo.tracking && this.plugin.settings.updateSubmodules) {
       this.plugin.log(
         "No tracking branch found. Ignoring pull of main repo and updating submodules only."
       );
       return;
     }
-=======
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     await this.git.fetch((err) => this.onError(err));
     const upstreamCommit = await this.git.revparse(
       [branchInfo.tracking],
@@ -31086,11 +30213,7 @@ var SimpleGit = class extends GitManager {
         return {
           path: e,
           working_dir: "P",
-<<<<<<< HEAD
           vault_path: this.getRelativeVaultPath(e)
-=======
-          vault_path: this.getVaultPath(e)
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
         };
       });
     } else {
@@ -31098,23 +30221,9 @@ var SimpleGit = class extends GitManager {
     }
   }
   async push() {
-<<<<<<< HEAD
     this.plugin.setState(5 /* push */);
     if (this.plugin.settings.updateSubmodules) {
       const res = await this.git.env({ ...process.env, OBSIDIAN_GIT: 1 }).subModule(
-=======
-    this.plugin.setState(1 /* status */);
-    const status2 = await this.git.status();
-    const trackingBranch = status2.tracking;
-    const currentBranch2 = status2.current;
-    const remoteChangedFiles = (await this.git.diffSummary(
-      [currentBranch2, trackingBranch, "--"],
-      (err) => this.onError(err)
-    )).changed;
-    this.plugin.setState(5 /* push */);
-    if (this.plugin.settings.updateSubmodules) {
-      await this.git.env({ ...process.env, OBSIDIAN_GIT: 1 }).subModule(
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
         [
           "foreach",
           "--recursive",
@@ -31122,7 +30231,6 @@ var SimpleGit = class extends GitManager {
         ],
         (err) => this.onError(err)
       );
-<<<<<<< HEAD
       console.log(res);
     }
     const status2 = await this.git.status();
@@ -31138,9 +30246,6 @@ var SimpleGit = class extends GitManager {
       [currentBranch2, trackingBranch, "--"],
       (err) => this.onError(err)
     )).changed;
-=======
-    }
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     await this.git.env({ ...process.env, OBSIDIAN_GIT: 1 }).push((err) => this.onError(err));
     return remoteChangedFiles;
   }
@@ -31189,7 +30294,6 @@ var SimpleGit = class extends GitManager {
     };
   }
   async getRemoteUrl(remote) {
-<<<<<<< HEAD
     try {
       return await this.git.remote(["get-url", remote]) || void 0;
     } catch (error) {
@@ -31199,22 +30303,12 @@ var SimpleGit = class extends GitManager {
         this.onError(error);
       }
     }
-=======
-    return await this.git.remote(
-      ["get-url", remote],
-      (err, url) => this.onError(err)
-    ) || void 0;
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
   }
   // https://github.com/kometenstaub/obsidian-version-history-diff/issues/3
   async log(file, relativeToVault = true, limit) {
     let path2;
     if (file) {
-<<<<<<< HEAD
       path2 = this.getRelativeRepoPath(file, relativeToVault);
-=======
-      path2 = this.asRepositoryRelativePath(file, relativeToVault);
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     }
     const res = await this.git.log(
       {
@@ -31229,15 +30323,11 @@ var SimpleGit = class extends GitManager {
       var _a2, _b, _c, _d;
       return {
         ...e,
-<<<<<<< HEAD
         author: {
           name: e.author_name,
           email: e.author_email
         },
         refs: e.refs.split(", ").filter((e2) => e2.length > 0),
-=======
-        refs: e.refs.split(", "),
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
         diff: {
           ...e.diff,
           files: (_b = (_a2 = e.diff) == null ? void 0 : _a2.files.map((f) => ({
@@ -31245,11 +30335,7 @@ var SimpleGit = class extends GitManager {
             status: f.status,
             path: f.file,
             hash: e.hash,
-<<<<<<< HEAD
             vault_path: this.getRelativeVaultPath(f.file)
-=======
-            vault_path: this.getVaultPath(f.file)
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
           }))) != null ? _b : []
         },
         fileName: (_d = (_c = e.diff) == null ? void 0 : _c.files.first()) == null ? void 0 : _d.file
@@ -31257,11 +30343,7 @@ var SimpleGit = class extends GitManager {
     });
   }
   async show(commitHash, file, relativeToVault = true) {
-<<<<<<< HEAD
     const path2 = this.getRelativeRepoPath(file, relativeToVault);
-=======
-    const path2 = this.asRepositoryRelativePath(file, relativeToVault);
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     return this.git.show(
       [commitHash + ":" + path2],
       (err) => this.onError(err)
@@ -31350,11 +30432,6 @@ var SimpleGit = class extends GitManager {
       ["-r", "--list", `${remote}*`],
       (err) => this.onError(err)
     );
-<<<<<<< HEAD
-=======
-    console.log(remote);
-    console.log(res);
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     const list = [];
     for (const item in res.branches) {
       list.push(res.branches[item].name);
@@ -31665,20 +30742,13 @@ var import_obsidian8 = require("obsidian");
 // src/gitManager/isomorphicGit.ts
 init_polyfill_buffer();
 
-<<<<<<< HEAD
 // node_modules/.pnpm/diff@5.2.0/node_modules/diff/lib/index.mjs
-=======
-// node_modules/.pnpm/diff@5.1.0/node_modules/diff/lib/index.mjs
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
 init_polyfill_buffer();
 function Diff() {
 }
 Diff.prototype = {
   diff: function diff(oldString, newString) {
-<<<<<<< HEAD
     var _options$timeout;
-=======
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     var options = arguments.length > 2 && arguments[2] !== void 0 ? arguments[2] : {};
     var callback = options.callback;
     if (typeof options === "function") {
@@ -31707,7 +30777,6 @@ Diff.prototype = {
     if (options.maxEditLength) {
       maxEditLength = Math.min(maxEditLength, options.maxEditLength);
     }
-<<<<<<< HEAD
     var maxExecutionTime = (_options$timeout = options.timeout) !== null && _options$timeout !== void 0 ? _options$timeout : Infinity;
     var abortAfterTimestamp = Date.now() + maxExecutionTime;
     var bestPath = [{
@@ -31716,20 +30785,11 @@ Diff.prototype = {
     }];
     var newPos = this.extractCommon(bestPath[0], newString, oldString, 0);
     if (bestPath[0].oldPos + 1 >= oldLen && newPos + 1 >= newLen) {
-=======
-    var bestPath = [{
-      newPos: -1,
-      components: []
-    }];
-    var oldPos = this.extractCommon(bestPath[0], newString, oldString, 0);
-    if (bestPath[0].newPos + 1 >= newLen && oldPos + 1 >= oldLen) {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
       return done([{
         value: this.join(newString),
         count: newString.length
       }]);
     }
-<<<<<<< HEAD
     var minDiagonalToConsider = -Infinity, maxDiagonalToConsider = Infinity;
     function execEditLength() {
       for (var diagonalPath = Math.max(minDiagonalToConsider, -editLength); diagonalPath <= Math.min(maxDiagonalToConsider, editLength); diagonalPath += 2) {
@@ -31744,21 +30804,10 @@ Diff.prototype = {
           canAdd = addPath && 0 <= addPathNewPos && addPathNewPos < newLen;
         }
         var canRemove = removePath && removePath.oldPos + 1 < oldLen;
-=======
-    function execEditLength() {
-      for (var diagonalPath = -1 * editLength; diagonalPath <= editLength; diagonalPath += 2) {
-        var basePath = void 0;
-        var addPath = bestPath[diagonalPath - 1], removePath = bestPath[diagonalPath + 1], _oldPos = (removePath ? removePath.newPos : 0) - diagonalPath;
-        if (addPath) {
-          bestPath[diagonalPath - 1] = void 0;
-        }
-        var canAdd = addPath && addPath.newPos + 1 < newLen, canRemove = removePath && 0 <= _oldPos && _oldPos < oldLen;
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
         if (!canAdd && !canRemove) {
           bestPath[diagonalPath] = void 0;
           continue;
         }
-<<<<<<< HEAD
         if (!canRemove || canAdd && removePath.oldPos + 1 < addPath.oldPos) {
           basePath = self2.addToPath(addPath, true, void 0, 0);
         } else {
@@ -31775,21 +30824,6 @@ Diff.prototype = {
           if (newPos + 1 >= newLen) {
             minDiagonalToConsider = Math.max(minDiagonalToConsider, diagonalPath + 1);
           }
-=======
-        if (!canAdd || canRemove && addPath.newPos < removePath.newPos) {
-          basePath = clonePath(removePath);
-          self2.pushComponent(basePath.components, void 0, true);
-        } else {
-          basePath = addPath;
-          basePath.newPos++;
-          self2.pushComponent(basePath.components, true, void 0);
-        }
-        _oldPos = self2.extractCommon(basePath, newString, oldString, diagonalPath);
-        if (basePath.newPos + 1 >= newLen && _oldPos + 1 >= oldLen) {
-          return done(buildValues(self2, basePath.components, newString, oldString, self2.useLongestToken));
-        } else {
-          bestPath[diagonalPath] = basePath;
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
         }
       }
       editLength++;
@@ -31797,11 +30831,7 @@ Diff.prototype = {
     if (callback) {
       (function exec() {
         setTimeout(function() {
-<<<<<<< HEAD
           if (editLength > maxEditLength || Date.now() > abortAfterTimestamp) {
-=======
-          if (editLength > maxEditLength) {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
             return callback();
           }
           if (!execEditLength()) {
@@ -31810,11 +30840,7 @@ Diff.prototype = {
         }, 0);
       })();
     } else {
-<<<<<<< HEAD
       while (editLength <= maxEditLength && Date.now() <= abortAfterTimestamp) {
-=======
-      while (editLength <= maxEditLength) {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
         var ret = execEditLength();
         if (ret) {
           return ret;
@@ -31822,7 +30848,6 @@ Diff.prototype = {
       }
     }
   },
-<<<<<<< HEAD
   addToPath: function addToPath(path2, added, removed, oldPosInc) {
     var last2 = path2.lastComponent;
     if (last2 && last2.added === added && last2.removed === removed) {
@@ -31849,33 +30874,12 @@ Diff.prototype = {
   },
   extractCommon: function extractCommon(basePath, newString, oldString, diagonalPath) {
     var newLen = newString.length, oldLen = oldString.length, oldPos = basePath.oldPos, newPos = oldPos - diagonalPath, commonCount = 0;
-=======
-  pushComponent: function pushComponent(components, added, removed) {
-    var last2 = components[components.length - 1];
-    if (last2 && last2.added === added && last2.removed === removed) {
-      components[components.length - 1] = {
-        count: last2.count + 1,
-        added,
-        removed
-      };
-    } else {
-      components.push({
-        count: 1,
-        added,
-        removed
-      });
-    }
-  },
-  extractCommon: function extractCommon(basePath, newString, oldString, diagonalPath) {
-    var newLen = newString.length, oldLen = oldString.length, newPos = basePath.newPos, oldPos = newPos - diagonalPath, commonCount = 0;
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     while (newPos + 1 < newLen && oldPos + 1 < oldLen && this.equals(newString[newPos + 1], oldString[oldPos + 1])) {
       newPos++;
       oldPos++;
       commonCount++;
     }
     if (commonCount) {
-<<<<<<< HEAD
       basePath.lastComponent = {
         count: commonCount,
         previousComponent: basePath.lastComponent
@@ -31883,14 +30887,6 @@ Diff.prototype = {
     }
     basePath.oldPos = oldPos;
     return newPos;
-=======
-      basePath.components.push({
-        count: commonCount
-      });
-    }
-    basePath.newPos = newPos;
-    return oldPos;
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
   },
   equals: function equals(left, right) {
     if (this.options.comparator) {
@@ -31918,7 +30914,6 @@ Diff.prototype = {
     return chars.join("");
   }
 };
-<<<<<<< HEAD
 function buildValues(diff3, lastComponent, newString, oldString, useLongestToken) {
   var components = [];
   var nextComponent;
@@ -31929,9 +30924,6 @@ function buildValues(diff3, lastComponent, newString, oldString, useLongestToken
     lastComponent = nextComponent;
   }
   components.reverse();
-=======
-function buildValues(diff2, components, newString, oldString, useLongestToken) {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
   var componentPos = 0, componentLen = components.length, newPos = 0, oldPos = 0;
   for (; componentPos < componentLen; componentPos++) {
     var component = components[componentPos];
@@ -31942,26 +30934,16 @@ function buildValues(diff2, components, newString, oldString, useLongestToken) {
           var oldValue = oldString[oldPos + i];
           return oldValue.length > value2.length ? oldValue : value2;
         });
-<<<<<<< HEAD
         component.value = diff3.join(value);
       } else {
         component.value = diff3.join(newString.slice(newPos, newPos + component.count));
-=======
-        component.value = diff2.join(value);
-      } else {
-        component.value = diff2.join(newString.slice(newPos, newPos + component.count));
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
       }
       newPos += component.count;
       if (!component.added) {
         oldPos += component.count;
       }
     } else {
-<<<<<<< HEAD
       component.value = diff3.join(oldString.slice(oldPos, oldPos + component.count));
-=======
-      component.value = diff2.join(oldString.slice(oldPos, oldPos + component.count));
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
       oldPos += component.count;
       if (componentPos && components[componentPos - 1].added) {
         var tmp = components[componentPos - 1];
@@ -31970,33 +30952,14 @@ function buildValues(diff2, components, newString, oldString, useLongestToken) {
       }
     }
   }
-<<<<<<< HEAD
   var finalComponent = components[componentLen - 1];
   if (componentLen > 1 && typeof finalComponent.value === "string" && (finalComponent.added || finalComponent.removed) && diff3.equals("", finalComponent.value)) {
     components[componentLen - 2].value += finalComponent.value;
-=======
-  var lastComponent = components[componentLen - 1];
-  if (componentLen > 1 && typeof lastComponent.value === "string" && (lastComponent.added || lastComponent.removed) && diff2.equals("", lastComponent.value)) {
-    components[componentLen - 2].value += lastComponent.value;
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     components.pop();
   }
   return components;
 }
-<<<<<<< HEAD
 var characterDiff = new Diff();
-=======
-function clonePath(path2) {
-  return {
-    newPos: path2.newPos,
-    components: path2.components.slice(0)
-  };
-}
-var characterDiff = new Diff();
-function diffChars(oldStr, newStr, options) {
-  return characterDiff.diff(oldStr, newStr, options);
-}
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
 var extendedWordChars = /^[A-Za-z\xC0-\u02C6\u02C8-\u02D7\u02DE-\u02FF\u1E00-\u1EFF]+$/;
 var reWhitespace = /\S/;
 var wordDiff = new Diff();
@@ -32018,19 +30981,11 @@ wordDiff.tokenize = function(value) {
   }
   return tokens;
 };
-<<<<<<< HEAD
 var lineDiff = new Diff();
 lineDiff.tokenize = function(value) {
   if (this.options.stripTrailingCr) {
     value = value.replace(/\r\n/g, "\n");
   }
-=======
-function diffWordsWithSpace(oldStr, newStr, options) {
-  return wordDiff.diff(oldStr, newStr, options);
-}
-var lineDiff = new Diff();
-lineDiff.tokenize = function(value) {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
   var retLines = [], linesAndNewlines = value.split(/(\n|\r\n)/);
   if (!linesAndNewlines[linesAndNewlines.length - 1]) {
     linesAndNewlines.pop();
@@ -32182,19 +31137,11 @@ function structuredPatch(oldFileName, newFileName, oldStr, newStr, oldHeader, ne
   if (typeof options.context === "undefined") {
     options.context = 4;
   }
-<<<<<<< HEAD
   var diff3 = diffLines(oldStr, newStr, options);
   if (!diff3) {
     return;
   }
   diff3.push({
-=======
-  var diff2 = diffLines(oldStr, newStr, options);
-  if (!diff2) {
-    return;
-  }
-  diff2.push({
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     value: "",
     lines: []
   });
@@ -32206,20 +31153,12 @@ function structuredPatch(oldFileName, newFileName, oldStr, newStr, oldHeader, ne
   var hunks = [];
   var oldRangeStart = 0, newRangeStart = 0, curRange = [], oldLine = 1, newLine = 1;
   var _loop = function _loop2(i2) {
-<<<<<<< HEAD
     var current = diff3[i2], lines = current.lines || current.value.replace(/\n$/, "").split("\n");
-=======
-    var current = diff2[i2], lines = current.lines || current.value.replace(/\n$/, "").split("\n");
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     current.lines = lines;
     if (current.added || current.removed) {
       var _curRange;
       if (!oldRangeStart) {
-<<<<<<< HEAD
         var prev = diff3[i2 - 1];
-=======
-        var prev = diff2[i2 - 1];
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
         oldRangeStart = oldLine;
         newRangeStart = newLine;
         if (prev) {
@@ -32238,11 +31177,7 @@ function structuredPatch(oldFileName, newFileName, oldStr, newStr, oldHeader, ne
       }
     } else {
       if (oldRangeStart) {
-<<<<<<< HEAD
         if (lines.length <= options.context * 2 && i2 < diff3.length - 2) {
-=======
-        if (lines.length <= options.context * 2 && i2 < diff2.length - 2) {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
           var _curRange2;
           (_curRange2 = curRange).push.apply(_curRange2, _toConsumableArray(contextLines(lines)));
         } else {
@@ -32256,11 +31191,7 @@ function structuredPatch(oldFileName, newFileName, oldStr, newStr, oldHeader, ne
             newLines: newLine - newRangeStart + contextSize,
             lines: curRange
           };
-<<<<<<< HEAD
           if (i2 >= diff3.length - 2 && lines.length <= options.context) {
-=======
-          if (i2 >= diff2.length - 2 && lines.length <= options.context) {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
             var oldEOFNewline = /\n$/.test(oldStr);
             var newEOFNewline = /\n$/.test(newStr);
             var noNlBeforeAdds = lines.length == 0 && curRange.length > hunk.oldLines;
@@ -32281,11 +31212,7 @@ function structuredPatch(oldFileName, newFileName, oldStr, newStr, oldHeader, ne
       newLine += lines.length;
     }
   };
-<<<<<<< HEAD
   for (var i = 0; i < diff3.length; i++) {
-=======
-  for (var i = 0; i < diff2.length; i++) {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     _loop(i);
   }
   return {
@@ -32296,7 +31223,6 @@ function structuredPatch(oldFileName, newFileName, oldStr, newStr, oldHeader, ne
     hunks
   };
 }
-<<<<<<< HEAD
 function formatPatch(diff3) {
   if (Array.isArray(diff3)) {
     return diff3.map(formatPatch).join("\n");
@@ -32310,18 +31236,6 @@ function formatPatch(diff3) {
   ret.push("+++ " + diff3.newFileName + (typeof diff3.newHeader === "undefined" ? "" : "	" + diff3.newHeader));
   for (var i = 0; i < diff3.hunks.length; i++) {
     var hunk = diff3.hunks[i];
-=======
-function formatPatch(diff2) {
-  var ret = [];
-  if (diff2.oldFileName == diff2.newFileName) {
-    ret.push("Index: " + diff2.oldFileName);
-  }
-  ret.push("===================================================================");
-  ret.push("--- " + diff2.oldFileName + (typeof diff2.oldHeader === "undefined" ? "" : "	" + diff2.oldHeader));
-  ret.push("+++ " + diff2.newFileName + (typeof diff2.newHeader === "undefined" ? "" : "	" + diff2.newHeader));
-  for (var i = 0; i < diff2.hunks.length; i++) {
-    var hunk = diff2.hunks[i];
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     if (hunk.oldLines === 0) {
       hunk.oldStart -= 1;
     }
@@ -32574,13 +31488,9 @@ var MyAdapter = class {
   async saveAndClear() {
     if (this.index !== void 0) {
       await this.adapter.writeBinary(
-<<<<<<< HEAD
         this.plugin.gitManager.getRelativeVaultPath(
           this.gitDir + "/index"
         ),
-=======
-        this.plugin.gitManager.getVaultPath(this.gitDir + "/index"),
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
         this.index,
         {
           ctime: this.indexctime,
@@ -32728,11 +31638,7 @@ var IsomorphicGit = class extends GitManager {
       const conflicted = [];
       window.clearTimeout(timeout);
       notice == null ? void 0 : notice.hide();
-<<<<<<< HEAD
       return { all: status2, changed, staged, conflicted };
-=======
-      return { changed, staged, conflicted };
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     } catch (error) {
       window.clearTimeout(timeout);
       notice == null ? void 0 : notice.hide();
@@ -32748,32 +31654,20 @@ var IsomorphicGit = class extends GitManager {
     try {
       await this.checkAuthorInfo();
       await this.stageAll({ status: status2, unstagedFiles });
-<<<<<<< HEAD
       return this.commit({ message });
-=======
-      return this.commit(message);
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     } catch (error) {
       this.plugin.displayError(error);
       throw error;
     }
   }
-<<<<<<< HEAD
   async commit({
     message
   }) {
-=======
-  async commit(message) {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     try {
       await this.checkAuthorInfo();
       this.plugin.setState(4 /* commit */);
       const formatMessage = await this.formatCommitMessage(message);
-<<<<<<< HEAD
       const hadConflict = this.plugin.localStorage.getConflict();
-=======
-      const hadConflict = this.plugin.localStorage.getConflict() === "true";
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
       let parent = void 0;
       if (hadConflict) {
         const branchInfo = await this.branchInfo();
@@ -32786,11 +31680,7 @@ var IsomorphicGit = class extends GitManager {
           parent
         })
       );
-<<<<<<< HEAD
       this.plugin.localStorage.setConflict(false);
-=======
-      this.plugin.localStorage.setConflict("false");
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
       return;
     } catch (error) {
       this.plugin.displayError(error);
@@ -32798,23 +31688,12 @@ var IsomorphicGit = class extends GitManager {
     }
   }
   async stage(filepath, relativeToVault) {
-<<<<<<< HEAD
     const gitPath = this.getRelativeRepoPath(filepath, relativeToVault);
-=======
-    const gitPath = this.asRepositoryRelativePath(
-      filepath,
-      relativeToVault
-    );
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     let vaultPath;
     if (relativeToVault) {
       vaultPath = filepath;
     } else {
-<<<<<<< HEAD
       vaultPath = this.getRelativeVaultPath(filepath);
-=======
-      vaultPath = this.getVaultPath(filepath);
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     }
     try {
       this.plugin.setState(3 /* add */);
@@ -32870,11 +31749,7 @@ var IsomorphicGit = class extends GitManager {
   async unstage(filepath, relativeToVault) {
     try {
       this.plugin.setState(3 /* add */);
-<<<<<<< HEAD
       filepath = this.getRelativeRepoPath(filepath, relativeToVault);
-=======
-      filepath = this.asRepositoryRelativePath(filepath, relativeToVault);
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
       await this.wrapFS(
         isomorphic_git_default.resetIndex({ ...this.getRepo(), filepath })
       );
@@ -33008,23 +31883,15 @@ var IsomorphicGit = class extends GitManager {
         path: file.path,
         working_dir: "P",
         index: "P",
-<<<<<<< HEAD
         vault_path: this.getRelativeVaultPath(file.path)
-=======
-        vault_path: this.getVaultPath(file.path)
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
       }));
     } catch (error) {
       progressNotice == null ? void 0 : progressNotice.hide();
       if (error instanceof Errors.MergeConflictError) {
         this.plugin.handleConflict(
-<<<<<<< HEAD
           error.data.filepaths.map(
             (file) => this.getRelativeVaultPath(file)
           )
-=======
-          error.data.filepaths.map((file) => this.getVaultPath(file))
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
         );
       }
       this.plugin.displayError(error);
@@ -33150,11 +32017,7 @@ var IsomorphicGit = class extends GitManager {
       throw error;
     }
   }
-<<<<<<< HEAD
   async branchIsMerged(_) {
-=======
-  async branchIsMerged(branch2) {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     return true;
   }
   async init() {
@@ -33284,13 +32147,10 @@ var IsomorphicGit = class extends GitManager {
         const completeMessage = log2.commit.message.split("\n\n");
         return {
           message: completeMessage[0],
-<<<<<<< HEAD
           author: {
             name: log2.commit.author.name,
             email: log2.commit.author.email
           },
-=======
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
           body: completeMessage.slice(1).join("\n\n"),
           date: new Date(
             log2.commit.committer.timestamp
@@ -33304,13 +32164,9 @@ var IsomorphicGit = class extends GitManager {
               return {
                 path: item.path,
                 status: item.type,
-<<<<<<< HEAD
                 vault_path: this.getRelativeVaultPath(
                   item.path
                 ),
-=======
-                vault_path: this.getVaultPath(item.path),
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
                 hash: log2.oid,
                 binary: void 0
               };
@@ -33334,11 +32190,7 @@ var IsomorphicGit = class extends GitManager {
     );
     await this.setConfig(`branch.${branch2}.remote`, remote);
   }
-<<<<<<< HEAD
   updateGitPath(_) {
-=======
-  updateGitPath(gitPath) {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     return;
   }
   async getFileChangesCount(commitHash1, commitHash2) {
@@ -33400,11 +32252,7 @@ var IsomorphicGit = class extends GitManager {
     });
     return res.map((file) => {
       return {
-<<<<<<< HEAD
         vault_path: this.getRelativeVaultPath(file.path),
-=======
-        vault_path: this.getVaultPath(file.path),
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
         filepath: file.path
       };
     });
@@ -33484,11 +32332,7 @@ var IsomorphicGit = class extends GitManager {
     }
   }
   async getDiffString(filePath, stagedChanges = false, hash2) {
-<<<<<<< HEAD
     const vaultPath = this.getRelativeVaultPath(filePath);
-=======
-    const vaultPath = this.getVaultPath(filePath);
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     const map = async (file, [A]) => {
       if (filePath == file) {
         const oid = await A.oid();
@@ -33522,20 +32366,12 @@ var IsomorphicGit = class extends GitManager {
           return void 0;
         throw err;
       });
-<<<<<<< HEAD
       const diff3 = createPatch(
-=======
-      const diff2 = createPatch(
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
         vaultPath,
         previousContent != null ? previousContent : "",
         commitContent != null ? commitContent : ""
       );
-<<<<<<< HEAD
       return diff3;
-=======
-      return diff2;
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     }
     const stagedBlob = (await isomorphic_git_default.walk({
       ...this.getRepo(),
@@ -33555,16 +32391,11 @@ var IsomorphicGit = class extends GitManager {
           return void 0;
         throw err;
       });
-<<<<<<< HEAD
       const diff3 = createPatch(
-=======
-      const diff2 = createPatch(
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
         vaultPath,
         headContent != null ? headContent : "",
         stagedContent
       );
-<<<<<<< HEAD
       return diff3;
     } else {
       let workdirContent;
@@ -33575,18 +32406,6 @@ var IsomorphicGit = class extends GitManager {
       }
       const diff3 = createPatch(vaultPath, stagedContent, workdirContent);
       return diff3;
-=======
-      return diff2;
-    } else {
-      let workdirContent;
-      if (await app.vault.adapter.exists(vaultPath)) {
-        workdirContent = await app.vault.adapter.read(vaultPath);
-      } else {
-        workdirContent = "";
-      }
-      const diff2 = createPatch(vaultPath, stagedContent, workdirContent);
-      return diff2;
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     }
   }
   async getLastCommitTime() {
@@ -33602,11 +32421,7 @@ var IsomorphicGit = class extends GitManager {
       index: status2[0] == "?" ? "U" : status2[0],
       working_dir: status2[1] == "?" ? "U" : status2[1],
       path: row[this.FILE],
-<<<<<<< HEAD
       vault_path: this.getRelativeVaultPath(row[this.FILE])
-=======
-      vault_path: this.getVaultPath(row[this.FILE])
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     };
   }
   async checkAuthorInfo() {
@@ -33744,13 +32559,9 @@ var ObsidianGitSettingsTab = class extends import_obsidian8.PluginSettingTab {
                 plugin.settings.autoSaveInterval
               );
               new import_obsidian8.Notice(
-<<<<<<< HEAD
                 `Automatic ${commitOrBackup} enabled! Every ${formatMinutes(
                   plugin.settings.autoSaveInterval
                 )}.`
-=======
-                `Automatic ${commitOrBackup} enabled! Every ${plugin.settings.autoSaveInterval} minutes.`
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
               );
             } else if (plugin.settings.autoSaveInterval <= 0) {
               plugin.clearAutoBackup() && new import_obsidian8.Notice(
@@ -33763,17 +32574,12 @@ var ObsidianGitSettingsTab = class extends import_obsidian8.PluginSettingTab {
         })
       );
       if (!plugin.settings.setLastSaveToLastCommit)
-<<<<<<< HEAD
         new import_obsidian8.Setting(containerEl).setName(`Auto Backup after stopping file edits`).setDesc(
           `Requires the ${commitOrBackup} interval not to be 0.
                         If turned on, do auto ${commitOrBackup} every ${formatMinutes(
             plugin.settings.autoSaveInterval
           )} after stopping file edits.
                         This also prevents auto ${commitOrBackup} while editing a file. If turned off, it's independent from the last change.`
-=======
-        new import_obsidian8.Setting(containerEl).setName(`Auto Backup after stop editing any file`).setDesc(
-          `Requires the ${commitOrBackup} interval not to be 0. If turned on, do auto ${commitOrBackup} every ${plugin.settings.autoSaveInterval} minutes after stop editing any file. This also prevents auto ${commitOrBackup} while editing a file. If turned off, it's independent from the last change.`
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
         ).addToggle(
           (toggle) => toggle.setValue(plugin.settings.autoBackupAfterFileChange).onChange((value) => {
             plugin.settings.autoBackupAfterFileChange = value;
@@ -33813,13 +32619,9 @@ var ObsidianGitSettingsTab = class extends import_obsidian8.PluginSettingTab {
                   plugin.settings.autoPushInterval
                 );
                 new import_obsidian8.Notice(
-<<<<<<< HEAD
                   `Automatic push enabled! Every ${formatMinutes(
                     plugin.settings.autoPushInterval
                   )}.`
-=======
-                  `Automatic push enabled! Every ${plugin.settings.autoPushInterval} minutes.`
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
                 );
               } else if (plugin.settings.autoPushInterval <= 0) {
                 plugin.clearAutoPush() && new import_obsidian8.Notice(
@@ -33847,13 +32649,9 @@ var ObsidianGitSettingsTab = class extends import_obsidian8.PluginSettingTab {
                 plugin.settings.autoPullInterval
               );
               new import_obsidian8.Notice(
-<<<<<<< HEAD
                 `Automatic pull enabled! Every ${formatMinutes(
                   plugin.settings.autoPullInterval
                 )}.`
-=======
-                `Automatic pull enabled! Every ${plugin.settings.autoPullInterval} minutes.`
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
               );
             } else if (plugin.settings.autoPullInterval <= 0) {
               plugin.clearAutoPull() && new import_obsidian8.Notice("Automatic pull disabled!");
@@ -33889,23 +32687,14 @@ var ObsidianGitSettingsTab = class extends import_obsidian8.PluginSettingTab {
           plugin.saveSettings();
         })
       );
-<<<<<<< HEAD
       const datePlaceholderSetting = new import_obsidian8.Setting(containerEl).setName("{{date}} placeholder format").addText(
-=======
-      new import_obsidian8.Setting(containerEl).setName("{{date}} placeholder format").setDesc(
-        `Specify custom date format. E.g. "${DATE_TIME_FORMAT_SECONDS}"`
-      ).addText(
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
         (text2) => text2.setPlaceholder(plugin.settings.commitDateFormat).setValue(plugin.settings.commitDateFormat).onChange(async (value) => {
           plugin.settings.commitDateFormat = value;
           await plugin.saveSettings();
         })
       );
-<<<<<<< HEAD
       datePlaceholderSetting.descEl.innerHTML = `
             Specify custom date format. E.g. "${DATE_TIME_FORMAT_SECONDS}. See <a href="https://momentjs.com">Moment.js</a> for more formats.`;
-=======
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
       new import_obsidian8.Setting(containerEl).setName("{{hostname}} placeholder replacement").setDesc("Specify custom hostname for every device.").addText(
         (text2) => {
           var _a2;
@@ -33971,7 +32760,6 @@ var ObsidianGitSettingsTab = class extends import_obsidian8.PluginSettingTab {
       }
     }
     containerEl.createEl("br");
-<<<<<<< HEAD
     containerEl.createEl("h3", { text: "History View" });
     new import_obsidian8.Setting(containerEl).setName("Show Author").setDesc("Show the author of the commit in the history view").addDropdown((dropdown) => {
       const options = {
@@ -33998,9 +32786,6 @@ var ObsidianGitSettingsTab = class extends import_obsidian8.PluginSettingTab {
     );
     containerEl.createEl("br");
     containerEl.createEl("h3", { text: "Source Control View" });
-=======
-    containerEl.createEl("h3", { text: "Miscellaneous" });
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     new import_obsidian8.Setting(containerEl).setName(
       "Automatically refresh Source Control View on file changes"
     ).setDesc(
@@ -34025,17 +32810,13 @@ var ObsidianGitSettingsTab = class extends import_obsidian8.PluginSettingTab {
         plugin.setRefreshDebouncer();
       })
     );
-<<<<<<< HEAD
     containerEl.createEl("br");
     containerEl.createEl("h3", { text: "Miscellaneous" });
-=======
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     new import_obsidian8.Setting(containerEl).setName("Disable notifications").setDesc(
       "Disable notifications for git operations to minimize distraction (refer to status bar for updates). Errors are still shown as notifications even if you enable this setting"
     ).addToggle(
       (toggle) => toggle.setValue(plugin.settings.disablePopups).onChange((value) => {
         plugin.settings.disablePopups = value;
-<<<<<<< HEAD
         this.display();
         plugin.saveSettings();
       })
@@ -34049,11 +32830,6 @@ var ObsidianGitSettingsTab = class extends import_obsidian8.PluginSettingTab {
           plugin.saveSettings();
         })
       );
-=======
-        plugin.saveSettings();
-      })
-    );
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     new import_obsidian8.Setting(containerEl).setName("Show status bar").setDesc(
       "Obsidian must be restarted for the changes to take affect"
     ).addToggle(
@@ -34076,11 +32852,7 @@ var ObsidianGitSettingsTab = class extends import_obsidian8.PluginSettingTab {
         plugin.saveSettings();
       })
     );
-<<<<<<< HEAD
     new import_obsidian8.Setting(containerEl).setName("Show the count of modified files in the status bar").addToggle(
-=======
-    new import_obsidian8.Setting(containerEl).setName("Show changes files count in status bar").addToggle(
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
       (toggle) => toggle.setValue(plugin.settings.changedFilesInStatusBar).onChange((value) => {
         plugin.settings.changedFilesInStatusBar = value;
         plugin.saveSettings();
@@ -34220,13 +32992,9 @@ var ObsidianGitSettingsTab = class extends import_obsidian8.PluginSettingTab {
         plugin.saveSettings();
       });
     });
-<<<<<<< HEAD
     new import_obsidian8.Setting(containerEl).setName("Disable on this device").setDesc(
       "Disables the plugin on this device. This setting is not synced."
     ).addToggle(
-=======
-    new import_obsidian8.Setting(containerEl).setName("Disable on this device").addToggle(
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
       (toggle) => toggle.setValue(plugin.localStorage.getPluginDisabled()).onChange((value) => {
         plugin.localStorage.setPluginDisabled(value);
         if (value) {
@@ -34650,11 +33418,7 @@ var LineAuthoringSubscriber = class {
   async notifyLineAuthoring(id, la) {
     if (this.view === void 0) {
       console.warn(
-<<<<<<< HEAD
         `Git: View is not defined for editor cache key. Unforeseen situation. id: ${id}`
-=======
-        `Obsidian Git: View is not defined for editor cache key. Unforeseen situation. id: ${id}`
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
       );
       return;
     }
@@ -35097,15 +33861,9 @@ var LineAuthoringGutter = class extends import_view.GutterMarker {
         break;
       case "natural language":
         dateTimeFormatting = (time) => {
-<<<<<<< HEAD
           const diff3 = time.diff((0, import_obsidian10.moment)());
           const addFluentSuffix = true;
           return import_obsidian10.moment.duration(diff3).humanize(addFluentSuffix);
-=======
-          const diff2 = time.diff((0, import_obsidian10.moment)());
-          const addFluentSuffix = true;
-          return import_obsidian10.moment.duration(diff2).humanize(addFluentSuffix);
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
         };
         break;
       default:
@@ -35410,11 +34168,7 @@ var LineAuthorProvider = class {
   }
   async trackChanged(file) {
     this.trackChangedHelper(file).catch((reason) => {
-<<<<<<< HEAD
       console.warn("Git: Error in trackChanged." + reason);
-=======
-      console.warn("Obsidian Git: Error in trackChanged." + reason);
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
       return Promise.reject(reason);
     });
   }
@@ -35423,11 +34177,7 @@ var LineAuthorProvider = class {
       return;
     if (file.path === void 0) {
       console.warn(
-<<<<<<< HEAD
         "Git: Attempted to track change of undefined filepath. Unforeseen situation."
-=======
-        "Obsidian Git: Attempted to track change of undefined filepath. Unforeseen situation."
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
       );
       return;
     }
@@ -35484,11 +34234,7 @@ var LineAuthoringFeature = class {
       const file = obsView == null ? void 0 : obsView.file;
       if (!this.lineAuthorInfoProvider) {
         console.warn(
-<<<<<<< HEAD
           "Git: undefined lineAuthorInfoProvider. Unexpected situation."
-=======
-          "Obsidian Git: undefined lineAuthorInfoProvider. Unexpected situation."
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
         );
         return;
       }
@@ -35515,11 +34261,7 @@ var LineAuthoringFeature = class {
   }
   activateFeature() {
     try {
-<<<<<<< HEAD
       if (!this.isAvailableOnCurrentPlatform().available)
-=======
-      if (!this.isAvailableOnCurrentPlatform())
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
         return;
       setTextColorCssBasedOnSetting(this.plg.settings.lineAuthor);
       this.lineAuthorInfoProvider = new LineAuthorProvider(this.plg);
@@ -35527,14 +34269,7 @@ var LineAuthoringFeature = class {
       this.activateCodeMirrorExtensions();
       console.log(this.plg.manifest.name + ": Enabled line authoring.");
     } catch (e) {
-<<<<<<< HEAD
       console.warn("Git: Error while loading line authoring feature.", e);
-=======
-      console.warn(
-        "Obsidian Git: Error while loading line authoring feature.",
-        e
-      );
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
       this.deactivateFeature();
     }
   }
@@ -35674,11 +34409,7 @@ var StatusBar = class {
     this.plugin = plugin;
     this.messages = [];
     this.base = "obsidian-git-statusbar-";
-<<<<<<< HEAD
     this.statusBarEl.setAttribute("data-tooltip-position", "top");
-=======
-    this.statusBarEl.setAttribute("aria-label-position", "top");
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     addEventListener("git-refresh", this.refreshCommitTimestamp.bind(this));
   }
   displayMessage(message, timeout) {
@@ -35759,13 +34490,8 @@ var StatusBar = class {
     var _a2;
     const timestamp = this.lastCommitTimestamp;
     if (timestamp) {
-<<<<<<< HEAD
       const moment6 = window.moment;
       const fromNow = moment6(timestamp).fromNow();
-=======
-      const moment5 = window.moment;
-      const fromNow = moment5(timestamp).fromNow();
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
       this.statusBarEl.ariaLabel = `${this.plugin.offlineMode ? "Offline: " : ""}Last Commit: ${fromNow}`;
       if ((_a2 = this.unPushedCommits) != null ? _a2 : 0 > 0) {
         this.statusBarEl.ariaLabel += `
@@ -35814,11 +34540,7 @@ var ChangedFilesModal = class extends import_obsidian14.FuzzySuggestModal {
     let working_dir = "";
     let index2 = "";
     if (item.working_dir != " ")
-<<<<<<< HEAD
       working_dir = `Working Dir: ${item.working_dir} `;
-=======
-      working_dir = `Working dir: ${item.working_dir} `;
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     if (item.index != " ")
       index2 = `Index: ${item.index}`;
     return `${working_dir}${index2} | ${item.vault_path}`;
@@ -35887,11 +34609,7 @@ async function openLineInGitHub(editor, file, manager) {
   }
   const { isGitHub, branch: branch2, repo, user } = data;
   if (isGitHub) {
-<<<<<<< HEAD
     const path2 = manager.getRelativeRepoPath(file.path);
-=======
-    const path2 = manager.asRepositoryRelativePath(file.path, true);
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     const from = editor.getCursor("from").line + 1;
     const to = editor.getCursor("to").line + 1;
     if (from === to) {
@@ -35914,11 +34632,7 @@ async function openHistoryInGitHub(file, manager) {
     return;
   }
   const { isGitHub, branch: branch2, repo, user } = data;
-<<<<<<< HEAD
   const path2 = manager.getRelativeRepoPath(file.path);
-=======
-  const path2 = manager.asRepositoryRelativePath(file.path, true);
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
   if (isGitHub) {
     window.open(
       `https://github.com/${user}/${repo}/commits/${branch2}/${path2}`
@@ -35948,11 +34662,7 @@ async function getData(manager) {
     `remote.${remote}.url`
   );
   const [isGitHub, httpsUser, httpsRepo, sshUser, sshRepo] = remoteUrl.match(
-<<<<<<< HEAD
     /(?:^https:\/\/github\.com\/(.*)\/(.*)\.git$)|(?:^[a-zA-Z]+@github\.com:(.*)\/(.*)\.git$)/
-=======
-    /(?:^https:\/\/github\.com\/(.*)\/(.*)\.git$)|(?:^git@github\.com:(.*)\/(.*)\.git$)/
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
   );
   return {
     result: "success",
@@ -36010,17 +34720,10 @@ var LocalStorageSettings = class {
     return app.saveLocalStorage(this.prefix + "hostname", value);
   }
   getConflict() {
-<<<<<<< HEAD
     return app.loadLocalStorage(this.prefix + "conflict") == "true";
   }
   setConflict(value) {
     return app.saveLocalStorage(this.prefix + "conflict", `${value}`);
-=======
-    return app.loadLocalStorage(this.prefix + "conflict");
-  }
-  setConflict(value) {
-    return app.saveLocalStorage(this.prefix + "conflict", value);
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
   }
   getLastAutoPull() {
     return app.loadLocalStorage(this.prefix + "lastAutoPull");
@@ -36076,7 +34779,6 @@ var LocalStorageSettings = class {
 // src/ui/diff/diffView.ts
 init_polyfill_buffer();
 
-<<<<<<< HEAD
 // node_modules/.pnpm/diff2html@3.4.47/node_modules/diff2html/lib-esm/diff2html.js
 init_polyfill_buffer();
 
@@ -36084,15 +34786,6 @@ init_polyfill_buffer();
 init_polyfill_buffer();
 
 // node_modules/.pnpm/diff2html@3.4.47/node_modules/diff2html/lib-esm/types.js
-=======
-// node_modules/.pnpm/diff2html@3.4.41/node_modules/diff2html/lib-esm/diff2html.js
-init_polyfill_buffer();
-
-// node_modules/.pnpm/diff2html@3.4.41/node_modules/diff2html/lib-esm/diff-parser.js
-init_polyfill_buffer();
-
-// node_modules/.pnpm/diff2html@3.4.41/node_modules/diff2html/lib-esm/types.js
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
 init_polyfill_buffer();
 var LineType;
 (function(LineType2) {
@@ -36113,7 +34806,6 @@ var DiffStyleType = {
   WORD: "word",
   CHAR: "char"
 };
-<<<<<<< HEAD
 var ColorSchemeType;
 (function(ColorSchemeType2) {
   ColorSchemeType2["AUTO"] = "auto";
@@ -36122,10 +34814,6 @@ var ColorSchemeType;
 })(ColorSchemeType || (ColorSchemeType = {}));
 
 // node_modules/.pnpm/diff2html@3.4.47/node_modules/diff2html/lib-esm/utils.js
-=======
-
-// node_modules/.pnpm/diff2html@3.4.41/node_modules/diff2html/lib-esm/utils.js
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
 init_polyfill_buffer();
 var specials = [
   "-",
@@ -36163,11 +34851,7 @@ function hashCode(text2) {
   return hash2;
 }
 
-<<<<<<< HEAD
 // node_modules/.pnpm/diff2html@3.4.47/node_modules/diff2html/lib-esm/diff-parser.js
-=======
-// node_modules/.pnpm/diff2html@3.4.41/node_modules/diff2html/lib-esm/diff-parser.js
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
 function getExtension(filename, language) {
   const filenameParts = filename.split(".");
   return filenameParts.length > 1 ? filenameParts[filenameParts.length - 1] : language;
@@ -36458,7 +35142,6 @@ function parse(diffInput, config = {}) {
   return files;
 }
 
-<<<<<<< HEAD
 // node_modules/.pnpm/diff2html@3.4.47/node_modules/diff2html/lib-esm/file-list-renderer.js
 init_polyfill_buffer();
 
@@ -36797,15 +35480,6 @@ arrayDiff2.join = arrayDiff2.removeEmpty = function(value) {
 };
 
 // node_modules/.pnpm/diff2html@3.4.47/node_modules/diff2html/lib-esm/rematch.js
-=======
-// node_modules/.pnpm/diff2html@3.4.41/node_modules/diff2html/lib-esm/file-list-renderer.js
-init_polyfill_buffer();
-
-// node_modules/.pnpm/diff2html@3.4.41/node_modules/diff2html/lib-esm/render-utils.js
-init_polyfill_buffer();
-
-// node_modules/.pnpm/diff2html@3.4.41/node_modules/diff2html/lib-esm/rematch.js
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
 init_polyfill_buffer();
 function levenshtein(a, b) {
   if (a.length === 0) {
@@ -36890,11 +35564,7 @@ function newMatcherFn(distance2) {
   return group;
 }
 
-<<<<<<< HEAD
 // node_modules/.pnpm/diff2html@3.4.47/node_modules/diff2html/lib-esm/render-utils.js
-=======
-// node_modules/.pnpm/diff2html@3.4.41/node_modules/diff2html/lib-esm/render-utils.js
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
 var CSSLineClass = {
   INSERTS: "d2h-ins",
   DELETES: "d2h-del",
@@ -36907,12 +35577,8 @@ var defaultRenderConfig = {
   matching: LineMatchingType.NONE,
   matchWordsThreshold: 0.25,
   maxLineLengthHighlight: 1e4,
-<<<<<<< HEAD
   diffStyle: DiffStyleType.WORD,
   colorScheme: ColorSchemeType.LIGHT
-=======
-  diffStyle: DiffStyleType.WORD
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
 };
 var separator = "/";
 var distance = newDistanceFn((change) => change.value);
@@ -36936,7 +35602,6 @@ function toCSSClass(lineType) {
       return CSSLineClass.DELETES;
   }
 }
-<<<<<<< HEAD
 function colorSchemeToCss(colorScheme) {
   switch (colorScheme) {
     case ColorSchemeType.DARK:
@@ -36948,8 +35613,6 @@ function colorSchemeToCss(colorScheme) {
       return "d2h-light-color-scheme";
   }
 }
-=======
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
 function prefixLength(isCombined) {
   return isCombined ? 2 : 1;
 }
@@ -37045,19 +35708,11 @@ function diffHighlight(diffLine1, diffLine2, isCombined, config = {}) {
       }
     };
   }
-<<<<<<< HEAD
   const diff3 = diffStyle === "char" ? diffChars(line1.content, line2.content) : diffWordsWithSpace(line1.content, line2.content);
   const changedWords = [];
   if (diffStyle === "word" && matching === "words") {
     const removed = diff3.filter((element2) => element2.removed);
     const added = diff3.filter((element2) => element2.added);
-=======
-  const diff2 = diffStyle === "char" ? diffChars(line1.content, line2.content) : diffWordsWithSpace(line1.content, line2.content);
-  const changedWords = [];
-  if (diffStyle === "word" && matching === "words") {
-    const removed = diff2.filter((element2) => element2.removed);
-    const added = diff2.filter((element2) => element2.added);
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     const chunks = matcher(added, removed);
     chunks.forEach((chunk) => {
       if (chunk[0].length === 1 && chunk[1].length === 1) {
@@ -37069,11 +35724,7 @@ function diffHighlight(diffLine1, diffLine2, isCombined, config = {}) {
       }
     });
   }
-<<<<<<< HEAD
   const highlightedLine = diff3.reduce((highlightedLine2, part) => {
-=======
-  const highlightedLine = diff2.reduce((highlightedLine2, part) => {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     const elemType = part.added ? "ins" : part.removed ? "del" : null;
     const addClass = changedWords.indexOf(part) > -1 ? ' class="d2h-change"' : "";
     const escapedValue = escapeForHtml(part.value);
@@ -37091,7 +35742,6 @@ function diffHighlight(diffLine1, diffLine2, isCombined, config = {}) {
   };
 }
 
-<<<<<<< HEAD
 // node_modules/.pnpm/diff2html@3.4.47/node_modules/diff2html/lib-esm/file-list-renderer.js
 var baseTemplatesPath = "file-summary";
 var iconsBaseTemplatesPath = "icon";
@@ -37123,29 +35773,6 @@ var FileListRenderer = class {
 };
 
 // node_modules/.pnpm/diff2html@3.4.47/node_modules/diff2html/lib-esm/line-by-line-renderer.js
-=======
-// node_modules/.pnpm/diff2html@3.4.41/node_modules/diff2html/lib-esm/file-list-renderer.js
-var baseTemplatesPath = "file-summary";
-var iconsBaseTemplatesPath = "icon";
-function render(diffFiles, hoganUtils) {
-  const files = diffFiles.map((file) => hoganUtils.render(baseTemplatesPath, "line", {
-    fileHtmlId: getHtmlId(file),
-    oldName: file.oldName,
-    newName: file.newName,
-    fileName: filenameDiff(file),
-    deletedLines: "-" + file.deletedLines,
-    addedLines: "+" + file.addedLines
-  }, {
-    fileIcon: hoganUtils.template(iconsBaseTemplatesPath, getFileIcon(file))
-  })).join("\n");
-  return hoganUtils.render(baseTemplatesPath, "wrapper", {
-    filesNumber: diffFiles.length,
-    files
-  });
-}
-
-// node_modules/.pnpm/diff2html@3.4.41/node_modules/diff2html/lib-esm/line-by-line-renderer.js
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
 init_polyfill_buffer();
 var defaultLineByLineRendererConfig = Object.assign(Object.assign({}, defaultRenderConfig), { renderNothingWhenEmpty: false, matchingMaxComparisons: 2500, maxLineSizeInBlockForComparison: 200 });
 var genericTemplatesPath = "generic";
@@ -37167,14 +35794,10 @@ var LineByLineRenderer = class {
       }
       return this.makeFileDiffHtml(file, diffs);
     }).join("\n");
-<<<<<<< HEAD
     return this.hoganUtils.render(genericTemplatesPath, "wrapper", {
       colorScheme: colorSchemeToCss(this.config.colorScheme),
       content: diffsHtml
     });
-=======
-    return this.hoganUtils.render(genericTemplatesPath, "wrapper", { content: diffsHtml });
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
   }
   makeFileDiffHtml(file, diffs) {
     if (this.config.renderNothingWhenEmpty && Array.isArray(file.blocks) && file.blocks.length === 0)
@@ -37282,7 +35905,6 @@ var LineByLineRenderer = class {
     for (let i = 0; i < maxLinesNumber; i++) {
       const oldLine = oldLines[i];
       const newLine = newLines[i];
-<<<<<<< HEAD
       const diff3 = oldLine !== void 0 && newLine !== void 0 ? diffHighlight(oldLine.content, newLine.content, isCombined, this.config) : void 0;
       const preparedOldLine = oldLine !== void 0 && oldLine.oldNumber !== void 0 ? Object.assign(Object.assign({}, diff3 !== void 0 ? {
         prefix: diff3.oldLine.prefix,
@@ -37292,17 +35914,6 @@ var LineByLineRenderer = class {
       const preparedNewLine = newLine !== void 0 && newLine.newNumber !== void 0 ? Object.assign(Object.assign({}, diff3 !== void 0 ? {
         prefix: diff3.newLine.prefix,
         content: diff3.newLine.content,
-=======
-      const diff2 = oldLine !== void 0 && newLine !== void 0 ? diffHighlight(oldLine.content, newLine.content, isCombined, this.config) : void 0;
-      const preparedOldLine = oldLine !== void 0 && oldLine.oldNumber !== void 0 ? Object.assign(Object.assign({}, diff2 !== void 0 ? {
-        prefix: diff2.oldLine.prefix,
-        content: diff2.oldLine.content,
-        type: CSSLineClass.DELETE_CHANGES
-      } : Object.assign(Object.assign({}, deconstructLine(oldLine.content, isCombined)), { type: toCSSClass(oldLine.type) })), { oldNumber: oldLine.oldNumber, newNumber: oldLine.newNumber }) : void 0;
-      const preparedNewLine = newLine !== void 0 && newLine.newNumber !== void 0 ? Object.assign(Object.assign({}, diff2 !== void 0 ? {
-        prefix: diff2.newLine.prefix,
-        content: diff2.newLine.content,
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
         type: CSSLineClass.INSERT_CHANGES
       } : Object.assign(Object.assign({}, deconstructLine(newLine.content, isCombined)), { type: toCSSClass(newLine.type) })), { oldNumber: newLine.oldNumber, newNumber: newLine.newNumber }) : void 0;
       const { left, right } = this.generateLineHtml(file, preparedOldLine, preparedNewLine);
@@ -37337,11 +35948,7 @@ var LineByLineRenderer = class {
   }
 };
 
-<<<<<<< HEAD
 // node_modules/.pnpm/diff2html@3.4.47/node_modules/diff2html/lib-esm/side-by-side-renderer.js
-=======
-// node_modules/.pnpm/diff2html@3.4.41/node_modules/diff2html/lib-esm/side-by-side-renderer.js
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
 init_polyfill_buffer();
 var defaultSideBySideRendererConfig = Object.assign(Object.assign({}, defaultRenderConfig), { renderNothingWhenEmpty: false, matchingMaxComparisons: 2500, maxLineSizeInBlockForComparison: 200 });
 var genericTemplatesPath2 = "generic";
@@ -37363,14 +35970,10 @@ var SideBySideRenderer = class {
       }
       return this.makeFileDiffHtml(file, diffs);
     }).join("\n");
-<<<<<<< HEAD
     return this.hoganUtils.render(genericTemplatesPath2, "wrapper", {
       colorScheme: colorSchemeToCss(this.config.colorScheme),
       content: diffsHtml
     });
-=======
-    return this.hoganUtils.render(genericTemplatesPath2, "wrapper", { content: diffsHtml });
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
   }
   makeFileDiffHtml(file, diffs) {
     if (this.config.renderNothingWhenEmpty && Array.isArray(file.blocks) && file.blocks.length === 0)
@@ -37495,7 +36098,6 @@ var SideBySideRenderer = class {
     for (let i = 0; i < maxLinesNumber; i++) {
       const oldLine = oldLines[i];
       const newLine = newLines[i];
-<<<<<<< HEAD
       const diff3 = oldLine !== void 0 && newLine !== void 0 ? diffHighlight(oldLine.content, newLine.content, isCombined, this.config) : void 0;
       const preparedOldLine = oldLine !== void 0 && oldLine.oldNumber !== void 0 ? Object.assign(Object.assign({}, diff3 !== void 0 ? {
         prefix: diff3.oldLine.prefix,
@@ -37505,17 +36107,6 @@ var SideBySideRenderer = class {
       const preparedNewLine = newLine !== void 0 && newLine.newNumber !== void 0 ? Object.assign(Object.assign({}, diff3 !== void 0 ? {
         prefix: diff3.newLine.prefix,
         content: diff3.newLine.content,
-=======
-      const diff2 = oldLine !== void 0 && newLine !== void 0 ? diffHighlight(oldLine.content, newLine.content, isCombined, this.config) : void 0;
-      const preparedOldLine = oldLine !== void 0 && oldLine.oldNumber !== void 0 ? Object.assign(Object.assign({}, diff2 !== void 0 ? {
-        prefix: diff2.oldLine.prefix,
-        content: diff2.oldLine.content,
-        type: CSSLineClass.DELETE_CHANGES
-      } : Object.assign(Object.assign({}, deconstructLine(oldLine.content, isCombined)), { type: toCSSClass(oldLine.type) })), { number: oldLine.oldNumber }) : void 0;
-      const preparedNewLine = newLine !== void 0 && newLine.newNumber !== void 0 ? Object.assign(Object.assign({}, diff2 !== void 0 ? {
-        prefix: diff2.newLine.prefix,
-        content: diff2.newLine.content,
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
         type: CSSLineClass.INSERT_CHANGES
       } : Object.assign(Object.assign({}, deconstructLine(newLine.content, isCombined)), { type: toCSSClass(newLine.type) })), { number: newLine.newNumber }) : void 0;
       const { left, right } = this.generateLineHtml(preparedOldLine, preparedNewLine);
@@ -37544,19 +36135,11 @@ var SideBySideRenderer = class {
   }
 };
 
-<<<<<<< HEAD
 // node_modules/.pnpm/diff2html@3.4.47/node_modules/diff2html/lib-esm/hoganjs-utils.js
 init_polyfill_buffer();
 var Hogan3 = __toESM(require_hogan());
 
 // node_modules/.pnpm/diff2html@3.4.47/node_modules/diff2html/lib-esm/diff2html-templates.js
-=======
-// node_modules/.pnpm/diff2html@3.4.41/node_modules/diff2html/lib-esm/hoganjs-utils.js
-init_polyfill_buffer();
-var Hogan3 = __toESM(require_hogan());
-
-// node_modules/.pnpm/diff2html@3.4.41/node_modules/diff2html/lib-esm/diff2html-templates.js
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
 init_polyfill_buffer();
 var Hogan2 = __toESM(require_hogan());
 var defaultTemplates = {};
@@ -37594,13 +36177,9 @@ defaultTemplates["file-summary-line"] = new Hogan2.Template({ code: function(c, 
 defaultTemplates["file-summary-wrapper"] = new Hogan2.Template({ code: function(c, p, i) {
   var t = this;
   t.b(i = i || "");
-<<<<<<< HEAD
   t.b('<div class="d2h-file-list-wrapper ');
   t.b(t.v(t.f("colorScheme", c, p, 0)));
   t.b('">');
-=======
-  t.b('<div class="d2h-file-list-wrapper">');
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
   t.b("\n" + i);
   t.b('    <div class="d2h-file-list-header">');
   t.b("\n" + i);
@@ -37765,13 +36344,9 @@ defaultTemplates["generic-line"] = new Hogan2.Template({ code: function(c, p, i)
 defaultTemplates["generic-wrapper"] = new Hogan2.Template({ code: function(c, p, i) {
   var t = this;
   t.b(i = i || "");
-<<<<<<< HEAD
   t.b('<div class="d2h-wrapper ');
   t.b(t.v(t.f("colorScheme", c, p, 0)));
   t.b('">');
-=======
-  t.b('<div class="d2h-wrapper">');
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
   t.b("\n" + i);
   t.b("    ");
   t.b(t.t(t.f("content", c, p, 0)));
@@ -37973,11 +36548,7 @@ defaultTemplates["tag-file-renamed"] = new Hogan2.Template({ code: function(c, p
   return t.fl();
 }, partials: {}, subs: {} });
 
-<<<<<<< HEAD
 // node_modules/.pnpm/diff2html@3.4.47/node_modules/diff2html/lib-esm/hoganjs-utils.js
-=======
-// node_modules/.pnpm/diff2html@3.4.41/node_modules/diff2html/lib-esm/hoganjs-utils.js
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
 var HoganJsUtils = class {
   constructor({ compiledTemplates = {}, rawTemplates = {} }) {
     const compiledRawTemplates = Object.entries(rawTemplates).reduce((previousTemplates, [name, templateString]) => {
@@ -38006,23 +36577,15 @@ var HoganJsUtils = class {
   }
 };
 
-<<<<<<< HEAD
 // node_modules/.pnpm/diff2html@3.4.47/node_modules/diff2html/lib-esm/diff2html.js
-=======
-// node_modules/.pnpm/diff2html@3.4.41/node_modules/diff2html/lib-esm/diff2html.js
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
 var defaultDiff2HtmlConfig = Object.assign(Object.assign(Object.assign({}, defaultLineByLineRendererConfig), defaultSideBySideRendererConfig), { outputFormat: OutputFormatType.LINE_BY_LINE, drawFileList: true });
 function html(diffInput, configuration = {}) {
   const config = Object.assign(Object.assign({}, defaultDiff2HtmlConfig), configuration);
   const diffJson = typeof diffInput === "string" ? parse(diffInput, config) : diffInput;
   const hoganUtils = new HoganJsUtils(config);
-<<<<<<< HEAD
   const { colorScheme } = config;
   const fileListRendererConfig = { colorScheme };
   const fileList = config.drawFileList ? new FileListRenderer(hoganUtils, fileListRendererConfig).render(diffJson) : "";
-=======
-  const fileList = config.drawFileList ? render(diffJson, hoganUtils) : "";
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
   const diffOutput = config.outputFormat === "side-by-side" ? new SideBySideRenderer(hoganUtils, config).render(diffJson) : new LineByLineRenderer(hoganUtils, config).render(diffJson);
   return fileList + diffOutput;
 }
@@ -38081,61 +36644,37 @@ var DiffView = class extends import_obsidian17.ItemView {
     if (((_a2 = this.state) == null ? void 0 : _a2.file) && !this.gettingDiff && this.plugin.gitManager) {
       this.gettingDiff = true;
       try {
-<<<<<<< HEAD
         let diff3 = await this.plugin.gitManager.getDiffString(
-=======
-        let diff2 = await this.plugin.gitManager.getDiffString(
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
           this.state.file,
           this.state.staged,
           this.state.hash
         );
         this.contentEl.empty();
-<<<<<<< HEAD
         if (!diff3) {
           if (this.plugin.gitManager instanceof SimpleGit && await this.plugin.gitManager.isTracked(
             this.state.file
           )) {
             diff3 = [
-=======
-        if (!diff2) {
-          if (this.plugin.gitManager instanceof SimpleGit && await this.plugin.gitManager.isTracked(
-            this.state.file
-          )) {
-            diff2 = [
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
               `--- ${this.state.file}`,
               `+++ ${this.state.file}`,
               ""
             ].join("\n");
           } else {
             const content = await this.app.vault.adapter.read(
-<<<<<<< HEAD
               this.plugin.gitManager.getRelativeVaultPath(
                 this.state.file
               )
-=======
-              this.plugin.gitManager.getVaultPath(this.state.file)
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
             );
             const header = `--- /dev/null
 +++ ${this.state.file}
 @@ -0,0 +1,${content.split("\n").length} @@`;
-<<<<<<< HEAD
             diff3 = [
-=======
-            diff2 = [
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
               ...header.split("\n"),
               ...content.split("\n").map((line) => `+${line}`)
             ].join("\n");
           }
         }
-<<<<<<< HEAD
         const diffEl = this.parser.parseFromString(html(diff3), "text/html").querySelector(".d2h-file-diff");
-=======
-        const diffEl = this.parser.parseFromString(html(diff2), "text/html").querySelector(".d2h-file-diff");
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
         this.contentEl.append(diffEl);
       } finally {
         this.gettingDiff = false;
@@ -38146,16 +36685,11 @@ var DiffView = class extends import_obsidian17.ItemView {
 
 // src/ui/history/historyView.ts
 init_polyfill_buffer();
-<<<<<<< HEAD
 var import_obsidian21 = require("obsidian");
-=======
-var import_obsidian20 = require("obsidian");
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
 
 // src/ui/history/historyView.svelte
 init_polyfill_buffer();
 
-<<<<<<< HEAD
 // node_modules/.pnpm/svelte@4.2.10/node_modules/svelte/src/runtime/internal/index.js
 init_polyfill_buffer();
 
@@ -38163,15 +36697,6 @@ init_polyfill_buffer();
 init_polyfill_buffer();
 
 // node_modules/.pnpm/svelte@4.2.10/node_modules/svelte/src/runtime/internal/utils.js
-=======
-// node_modules/.pnpm/svelte@4.2.0/node_modules/svelte/src/runtime/internal/index.js
-init_polyfill_buffer();
-
-// node_modules/.pnpm/svelte@4.2.0/node_modules/svelte/src/runtime/internal/animations.js
-init_polyfill_buffer();
-
-// node_modules/.pnpm/svelte@4.2.0/node_modules/svelte/src/runtime/internal/utils.js
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
 init_polyfill_buffer();
 function noop() {
 }
@@ -38195,21 +36720,13 @@ function is_empty(obj) {
   return Object.keys(obj).length === 0;
 }
 
-<<<<<<< HEAD
 // node_modules/.pnpm/svelte@4.2.10/node_modules/svelte/src/runtime/internal/environment.js
-=======
-// node_modules/.pnpm/svelte@4.2.0/node_modules/svelte/src/runtime/internal/environment.js
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
 init_polyfill_buffer();
 var is_client = typeof window !== "undefined";
 var now = is_client ? () => window.performance.now() : () => Date.now();
 var raf = is_client ? (cb) => requestAnimationFrame(cb) : noop;
 
-<<<<<<< HEAD
 // node_modules/.pnpm/svelte@4.2.10/node_modules/svelte/src/runtime/internal/loop.js
-=======
-// node_modules/.pnpm/svelte@4.2.0/node_modules/svelte/src/runtime/internal/loop.js
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
 init_polyfill_buffer();
 var tasks = /* @__PURE__ */ new Set();
 function run_tasks(now2) {
@@ -38236,7 +36753,6 @@ function loop(callback) {
   };
 }
 
-<<<<<<< HEAD
 // node_modules/.pnpm/svelte@4.2.10/node_modules/svelte/src/runtime/internal/style_manager.js
 init_polyfill_buffer();
 
@@ -38247,29 +36763,13 @@ init_polyfill_buffer();
 init_polyfill_buffer();
 
 // node_modules/.pnpm/svelte@4.2.10/node_modules/svelte/src/runtime/internal/globals.js
-=======
-// node_modules/.pnpm/svelte@4.2.0/node_modules/svelte/src/runtime/internal/style_manager.js
-init_polyfill_buffer();
-
-// node_modules/.pnpm/svelte@4.2.0/node_modules/svelte/src/runtime/internal/dom.js
-init_polyfill_buffer();
-
-// node_modules/.pnpm/svelte@4.2.0/node_modules/svelte/src/runtime/internal/ResizeObserverSingleton.js
-init_polyfill_buffer();
-
-// node_modules/.pnpm/svelte@4.2.0/node_modules/svelte/src/runtime/internal/globals.js
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
 init_polyfill_buffer();
 var globals = typeof window !== "undefined" ? window : typeof globalThis !== "undefined" ? globalThis : (
   // @ts-ignore Node typings have this
   global
 );
 
-<<<<<<< HEAD
 // node_modules/.pnpm/svelte@4.2.10/node_modules/svelte/src/runtime/internal/ResizeObserverSingleton.js
-=======
-// node_modules/.pnpm/svelte@4.2.0/node_modules/svelte/src/runtime/internal/ResizeObserverSingleton.js
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
 var ResizeObserverSingleton = class _ResizeObserverSingleton {
   /** @param {ResizeObserverOptions} options */
   constructor(options) {
@@ -38317,11 +36817,7 @@ var ResizeObserverSingleton = class _ResizeObserverSingleton {
 };
 ResizeObserverSingleton.entries = "WeakMap" in globals ? /* @__PURE__ */ new WeakMap() : void 0;
 
-<<<<<<< HEAD
 // node_modules/.pnpm/svelte@4.2.10/node_modules/svelte/src/runtime/internal/dom.js
-=======
-// node_modules/.pnpm/svelte@4.2.0/node_modules/svelte/src/runtime/internal/dom.js
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
 var is_hydrating = false;
 function start_hydrating() {
   is_hydrating = true;
@@ -38447,11 +36943,7 @@ function get_custom_elements_slots(element2) {
   return result;
 }
 
-<<<<<<< HEAD
 // node_modules/.pnpm/svelte@4.2.10/node_modules/svelte/src/runtime/internal/style_manager.js
-=======
-// node_modules/.pnpm/svelte@4.2.0/node_modules/svelte/src/runtime/internal/style_manager.js
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
 var managed_styles = /* @__PURE__ */ new Map();
 var active = 0;
 function hash(str) {
@@ -38515,7 +37007,6 @@ function clear_rules() {
   });
 }
 
-<<<<<<< HEAD
 // node_modules/.pnpm/svelte@4.2.10/node_modules/svelte/src/runtime/internal/await_block.js
 init_polyfill_buffer();
 
@@ -38526,18 +37017,6 @@ init_polyfill_buffer();
 init_polyfill_buffer();
 
 // node_modules/.pnpm/svelte@4.2.10/node_modules/svelte/src/runtime/internal/lifecycle.js
-=======
-// node_modules/.pnpm/svelte@4.2.0/node_modules/svelte/src/runtime/internal/await_block.js
-init_polyfill_buffer();
-
-// node_modules/.pnpm/svelte@4.2.0/node_modules/svelte/src/runtime/internal/transitions.js
-init_polyfill_buffer();
-
-// node_modules/.pnpm/svelte@4.2.0/node_modules/svelte/src/runtime/internal/scheduler.js
-init_polyfill_buffer();
-
-// node_modules/.pnpm/svelte@4.2.0/node_modules/svelte/src/runtime/internal/lifecycle.js
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
 init_polyfill_buffer();
 var current_component;
 function set_current_component(component) {
@@ -38558,11 +37037,7 @@ function bubble(component, event) {
   }
 }
 
-<<<<<<< HEAD
 // node_modules/.pnpm/svelte@4.2.10/node_modules/svelte/src/runtime/internal/scheduler.js
-=======
-// node_modules/.pnpm/svelte@4.2.0/node_modules/svelte/src/runtime/internal/scheduler.js
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
 var dirty_components = [];
 var binding_callbacks = [];
 var render_callbacks = [];
@@ -38637,11 +37112,7 @@ function flush_render_callbacks(fns) {
   render_callbacks = filtered;
 }
 
-<<<<<<< HEAD
 // node_modules/.pnpm/svelte@4.2.10/node_modules/svelte/src/runtime/internal/transitions.js
-=======
-// node_modules/.pnpm/svelte@4.2.0/node_modules/svelte/src/runtime/internal/transitions.js
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
 var promise;
 function wait() {
   if (!promise) {
@@ -38822,17 +37293,12 @@ function create_bidirectional_transition(node, fn, params, intro) {
   };
 }
 
-<<<<<<< HEAD
 // node_modules/.pnpm/svelte@4.2.10/node_modules/svelte/src/runtime/internal/each.js
-=======
-// node_modules/.pnpm/svelte@4.2.0/node_modules/svelte/src/runtime/internal/each.js
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
 init_polyfill_buffer();
 function ensure_array_like(array_like_or_iterator) {
   return (array_like_or_iterator == null ? void 0 : array_like_or_iterator.length) !== void 0 ? array_like_or_iterator : Array.from(array_like_or_iterator);
 }
 
-<<<<<<< HEAD
 // node_modules/.pnpm/svelte@4.2.10/node_modules/svelte/src/runtime/internal/spread.js
 init_polyfill_buffer();
 
@@ -38840,15 +37306,6 @@ init_polyfill_buffer();
 init_polyfill_buffer();
 
 // node_modules/.pnpm/svelte@4.2.10/node_modules/svelte/src/shared/boolean_attributes.js
-=======
-// node_modules/.pnpm/svelte@4.2.0/node_modules/svelte/src/runtime/internal/spread.js
-init_polyfill_buffer();
-
-// node_modules/.pnpm/svelte@4.2.0/node_modules/svelte/src/runtime/internal/ssr.js
-init_polyfill_buffer();
-
-// node_modules/.pnpm/svelte@4.2.0/node_modules/svelte/src/shared/boolean_attributes.js
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
 init_polyfill_buffer();
 var _boolean_attributes = (
   /** @type {const} */
@@ -38882,17 +37339,10 @@ var _boolean_attributes = (
 );
 var boolean_attributes = /* @__PURE__ */ new Set([..._boolean_attributes]);
 
-<<<<<<< HEAD
 // node_modules/.pnpm/svelte@4.2.10/node_modules/svelte/src/shared/utils/names.js
 init_polyfill_buffer();
 
 // node_modules/.pnpm/svelte@4.2.10/node_modules/svelte/src/runtime/internal/Component.js
-=======
-// node_modules/.pnpm/svelte@4.2.0/node_modules/svelte/src/shared/utils/names.js
-init_polyfill_buffer();
-
-// node_modules/.pnpm/svelte@4.2.0/node_modules/svelte/src/runtime/internal/Component.js
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
 init_polyfill_buffer();
 function create_component(block) {
   block && block.c();
@@ -38929,11 +37379,7 @@ function make_dirty(component, i) {
   }
   component.$$.dirty[i / 31 | 0] |= 1 << i % 31;
 }
-<<<<<<< HEAD
 function init2(component, options, instance10, create_fragment10, not_equal, props, append_styles2 = null, dirty = [-1]) {
-=======
-function init2(component, options, instance10, create_fragment10, not_equal, props, append_styles2, dirty = [-1]) {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
   const parent_component = current_component;
   set_current_component(component);
   const $$ = component.$$ = {
@@ -39084,15 +37530,12 @@ if (typeof HTMLElement === "function") {
             this.$$d[name] = get_custom_element_value(name, attribute.value, this.$$p_d, "toProp");
           }
         }
-<<<<<<< HEAD
         for (const key2 in this.$$p_d) {
           if (!(key2 in this.$$d) && this[key2] !== void 0) {
             this.$$d[key2] = this[key2];
             delete this[key2];
           }
         }
-=======
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
         this.$$c = new this.$$ctor({
           target: this.shadowRoot || this,
           props: {
@@ -39115,11 +37558,7 @@ if (typeof HTMLElement === "function") {
                 "toAttribute"
               );
               if (attribute_value == null) {
-<<<<<<< HEAD
                 this.removeAttribute(this.$$p_d[key2].attribute || key2);
-=======
-                this.removeAttribute(key2);
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
               } else {
                 this.setAttribute(this.$$p_d[key2].attribute || key2, attribute_value);
               }
@@ -39251,7 +37690,6 @@ var SvelteComponent = class {
   }
 };
 
-<<<<<<< HEAD
 // node_modules/.pnpm/svelte@4.2.10/node_modules/svelte/src/runtime/internal/dev.js
 init_polyfill_buffer();
 
@@ -39260,16 +37698,6 @@ init_polyfill_buffer();
 var PUBLIC_VERSION = "4";
 
 // node_modules/.pnpm/svelte@4.2.10/node_modules/svelte/src/runtime/internal/disclose-version/index.js
-=======
-// node_modules/.pnpm/svelte@4.2.0/node_modules/svelte/src/runtime/internal/dev.js
-init_polyfill_buffer();
-
-// node_modules/.pnpm/svelte@4.2.0/node_modules/svelte/src/shared/version.js
-init_polyfill_buffer();
-var PUBLIC_VERSION = "4";
-
-// node_modules/.pnpm/svelte@4.2.0/node_modules/svelte/src/runtime/internal/disclose-version/index.js
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
 init_polyfill_buffer();
 if (typeof window !== "undefined")
   (window.__svelte || (window.__svelte = { v: /* @__PURE__ */ new Set() })).v.add(PUBLIC_VERSION);
@@ -39305,44 +37733,26 @@ function __awaiter(thisArg, _arguments, P, generator) {
 }
 
 // src/ui/history/historyView.svelte
-<<<<<<< HEAD
 var import_obsidian20 = require("obsidian");
 
 // node_modules/.pnpm/svelte@4.2.10/node_modules/svelte/src/runtime/index.js
-=======
-var import_obsidian19 = require("obsidian");
-
-// node_modules/.pnpm/svelte@4.2.0/node_modules/svelte/src/runtime/index.js
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
 init_polyfill_buffer();
 
 // src/ui/history/components/logComponent.svelte
 init_polyfill_buffer();
-<<<<<<< HEAD
 var import_obsidian19 = require("obsidian");
 
 // node_modules/.pnpm/svelte@4.2.10/node_modules/svelte/src/runtime/transition/index.js
 init_polyfill_buffer();
 
 // node_modules/.pnpm/svelte@4.2.10/node_modules/svelte/src/runtime/easing/index.js
-=======
-
-// node_modules/.pnpm/svelte@4.2.0/node_modules/svelte/src/runtime/transition/index.js
-init_polyfill_buffer();
-
-// node_modules/.pnpm/svelte@4.2.0/node_modules/svelte/src/runtime/easing/index.js
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
 init_polyfill_buffer();
 function cubicOut(t) {
   const f = t - 1;
   return f * f * f + 1;
 }
 
-<<<<<<< HEAD
 // node_modules/.pnpm/svelte@4.2.10/node_modules/svelte/src/runtime/transition/index.js
-=======
-// node_modules/.pnpm/svelte@4.2.0/node_modules/svelte/src/runtime/transition/index.js
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
 function slide(node, { delay: delay2 = 0, duration = 400, easing = cubicOut, axis = "y" } = {}) {
   const style = getComputedStyle(node);
   const opacity = +style.opacity;
@@ -39473,11 +37883,7 @@ function create_fragment(ctx) {
       ctx[0].vault_path);
       attr(
         div3,
-<<<<<<< HEAD
         "data-tooltip-position",
-=======
-        "aria-label-position",
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
         /*side*/
         ctx[3]
       );
@@ -39571,11 +37977,7 @@ function create_fragment(ctx) {
       8) {
         attr(
           div3,
-<<<<<<< HEAD
           "data-tooltip-position",
-=======
-          "aria-label-position",
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
           /*side*/
           ctx2[3]
         );
@@ -39612,21 +38014,13 @@ function create_fragment(ctx) {
 }
 function instance($$self, $$props, $$invalidate) {
   let side;
-<<<<<<< HEAD
   let { diff: diff3 } = $$props;
-=======
-  let { diff: diff2 } = $$props;
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
   let { view } = $$props;
   let buttons = [];
   window.setTimeout(() => buttons.forEach((b) => (0, import_obsidian18.setIcon)(b, b.getAttr("data-icon"))), 0);
   function open(event) {
     var _a2;
-<<<<<<< HEAD
     const file = view.app.vault.getAbstractFileByPath(diff3.vault_path);
-=======
-    const file = view.app.vault.getAbstractFileByPath(diff2.vault_path);
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     if (file instanceof import_obsidian18.TFile) {
       (_a2 = getNewLeaf(event)) === null || _a2 === void 0 ? void 0 : _a2.openFile(file);
     }
@@ -39637,15 +38031,9 @@ function instance($$self, $$props, $$invalidate) {
       type: DIFF_VIEW_CONFIG.type,
       active: true,
       state: {
-<<<<<<< HEAD
         file: diff3.path,
         staged: false,
         hash: diff3.hash
-=======
-        file: diff2.path,
-        staged: false,
-        hash: diff2.hash
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
       }
     });
   }
@@ -39660,11 +38048,7 @@ function instance($$self, $$props, $$invalidate) {
   }
   $$self.$$set = ($$props2) => {
     if ("diff" in $$props2)
-<<<<<<< HEAD
       $$invalidate(0, diff3 = $$props2.diff);
-=======
-      $$invalidate(0, diff2 = $$props2.diff);
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     if ("view" in $$props2)
       $$invalidate(1, view = $$props2.view);
   };
@@ -39675,11 +38059,7 @@ function instance($$self, $$props, $$invalidate) {
         $$invalidate(3, side = view.leaf.getRoot().side == "left" ? "right" : "left");
     }
   };
-<<<<<<< HEAD
   return [diff3, view, buttons, side, open, showDiff, focus_handler, div_binding];
-=======
-  return [diff2, view, buttons, side, open, showDiff, focus_handler, div_binding];
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
 }
 var LogFileComponent = class extends SvelteComponent {
   constructor(options) {
@@ -39764,11 +38144,7 @@ function create_else_block(ctx) {
       attr(div3, "class", "tree-item-self is-clickable nav-folder-title");
       attr(
         div3,
-<<<<<<< HEAD
         "data-tooltip-position",
-=======
-        "aria-label-position",
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
         /*side*/
         ctx[5]
       );
@@ -39826,11 +38202,7 @@ function create_else_block(ctx) {
       32) {
         attr(
           div3,
-<<<<<<< HEAD
           "data-tooltip-position",
-=======
-          "aria-label-position",
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
           /*side*/
           ctx[5]
         );
@@ -40254,24 +38626,12 @@ var LogTreeComponent = class extends SvelteComponent {
 var logTreeComponent_default = LogTreeComponent;
 
 // src/ui/history/components/logComponent.svelte
-<<<<<<< HEAD
 function get_each_context2(ctx, list, i) {
   const child_ctx = ctx.slice();
   child_ctx[9] = list[i];
   return child_ctx;
 }
 function create_if_block_4(ctx) {
-=======
-function add_css3(target) {
-  append_styles(target, "svelte-1t6egnt", ".git-ref.svelte-1t6egnt{color:var(--text-accent)}");
-}
-function get_each_context2(ctx, list, i) {
-  const child_ctx = ctx.slice();
-  child_ctx[8] = list[i];
-  return child_ctx;
-}
-function create_if_block_2(ctx) {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
   let div;
   let t_value = (
     /*log*/
@@ -40282,11 +38642,7 @@ function create_if_block_2(ctx) {
     c() {
       div = element("div");
       t = text(t_value);
-<<<<<<< HEAD
       attr(div, "class", "git-ref");
-=======
-      attr(div, "class", "git-ref svelte-1t6egnt");
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     },
     m(target, anchor) {
       insert(target, div, anchor);
@@ -40305,7 +38661,6 @@ function create_if_block_2(ctx) {
     }
   };
 }
-<<<<<<< HEAD
 function create_if_block_3(ctx) {
   let div;
   let t_value = (
@@ -40380,8 +38735,6 @@ function create_if_block_2(ctx) {
     }
   };
 }
-=======
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
 function create_if_block3(ctx) {
   let div;
   let current_block_type_index;
@@ -40617,11 +38970,7 @@ function create_each_block2(ctx) {
       ),
       diff: (
         /*file*/
-<<<<<<< HEAD
         ctx[9]
-=======
-        ctx[8]
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
       )
     }
   });
@@ -40642,11 +38991,7 @@ function create_each_block2(ctx) {
       if (dirty & /*log*/
       1)
         logfilecomponent_changes.diff = /*file*/
-<<<<<<< HEAD
         ctx2[9];
-=======
-        ctx2[8];
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
       logfilecomponent.$set(logfilecomponent_changes);
     },
     i(local) {
@@ -40665,10 +39010,7 @@ function create_each_block2(ctx) {
   };
 }
 function create_fragment3(ctx) {
-<<<<<<< HEAD
   var _a2;
-=======
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
   let main;
   let div4;
   let div3;
@@ -40676,7 +39018,6 @@ function create_fragment3(ctx) {
   let t0;
   let div2;
   let t1;
-<<<<<<< HEAD
   let t2;
   let t3;
   let div1;
@@ -40687,22 +39028,11 @@ function create_fragment3(ctx) {
   let t4;
   let div3_aria_label_value;
   let t5;
-=======
-  let div1;
-  let t2_value = (
-    /*log*/
-    ctx[0].message + ""
-  );
-  let t2;
-  let div1_aria_label_value;
-  let t3;
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
   let current;
   let mounted;
   let dispose;
   let if_block0 = (
     /*log*/
-<<<<<<< HEAD
     ctx[0].refs.length > 0 && create_if_block_4(ctx)
   );
   let if_block1 = (
@@ -40719,14 +39049,6 @@ function create_fragment3(ctx) {
   return {
     c() {
       var _a3;
-=======
-    ctx[0].refs.length > 0 && create_if_block_2(ctx)
-  );
-  let if_block1 = !/*isCollapsed*/
-  ctx[4] && create_if_block3(ctx);
-  return {
-    c() {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
       main = element("main");
       div4 = element("div");
       div3 = element("div");
@@ -40737,7 +39059,6 @@ function create_fragment3(ctx) {
       if (if_block0)
         if_block0.c();
       t1 = space();
-<<<<<<< HEAD
       if (if_block1)
         if_block1.c();
       t2 = space();
@@ -40749,13 +39070,6 @@ function create_fragment3(ctx) {
       t5 = space();
       if (if_block3)
         if_block3.c();
-=======
-      div1 = element("div");
-      t2 = text(t2_value);
-      t3 = space();
-      if (if_block1)
-        if_block1.c();
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
       attr(div0, "class", "tree-item-icon nav-folder-collapse-indicator collapse-icon");
       toggle_class(
         div0,
@@ -40764,7 +39078,6 @@ function create_fragment3(ctx) {
         ctx[4]
       );
       attr(div1, "class", "tree-item-inner nav-folder-title-content");
-<<<<<<< HEAD
       attr(div3, "class", "tree-item-self is-clickable nav-folder-title");
       attr(div3, "aria-label", div3_aria_label_value = `${/*log*/
       ctx[0].refs.length > 0 ? (
@@ -40787,17 +39100,6 @@ ${/*log*/
         /*side*/
         ctx[5]
       );
-=======
-      attr(div1, "aria-label", div1_aria_label_value = /*log*/
-      ctx[0].message);
-      attr(
-        div1,
-        "aria-label-position",
-        /*side*/
-        ctx[5]
-      );
-      attr(div3, "class", "tree-item-self is-clickable nav-folder-title");
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
       attr(div4, "class", "tree-item nav-folder");
       toggle_class(
         div4,
@@ -40816,7 +39118,6 @@ ${/*log*/
       if (if_block0)
         if_block0.m(div2, null);
       append2(div2, t1);
-<<<<<<< HEAD
       if (if_block1)
         if_block1.m(div2, null);
       append2(div2, t2);
@@ -40828,33 +39129,19 @@ ${/*log*/
       append2(div4, t5);
       if (if_block3)
         if_block3.m(div4, null);
-=======
-      append2(div2, div1);
-      append2(div1, t2);
-      append2(div4, t3);
-      if (if_block1)
-        if_block1.m(div4, null);
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
       current = true;
       if (!mounted) {
         dispose = listen(
           div3,
           "click",
           /*click_handler*/
-<<<<<<< HEAD
           ctx[8]
-=======
-          ctx[7]
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
         );
         mounted = true;
       }
     },
     p(ctx2, [dirty]) {
-<<<<<<< HEAD
       var _a3, _b;
-=======
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
       if (!current || dirty & /*isCollapsed*/
       16) {
         toggle_class(
@@ -40871,11 +39158,7 @@ ${/*log*/
         if (if_block0) {
           if_block0.p(ctx2, dirty);
         } else {
-<<<<<<< HEAD
           if_block0 = create_if_block_4(ctx2);
-=======
-          if_block0 = create_if_block_2(ctx2);
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
           if_block0.c();
           if_block0.m(div2, t1);
         }
@@ -40883,7 +39166,6 @@ ${/*log*/
         if_block0.d(1);
         if_block0 = null;
       }
-<<<<<<< HEAD
       if (
         /*plugin*/
         ctx2[3].settings.authorInHistoryView != "hide" && /*log*/
@@ -40936,34 +39218,18 @@ ${(0, import_obsidian19.moment)(
 ${/*log*/
       ctx2[0].message}`)) {
         attr(div3, "aria-label", div3_aria_label_value);
-=======
-      if ((!current || dirty & /*log*/
-      1) && t2_value !== (t2_value = /*log*/
-      ctx2[0].message + ""))
-        set_data(t2, t2_value);
-      if (!current || dirty & /*log*/
-      1 && div1_aria_label_value !== (div1_aria_label_value = /*log*/
-      ctx2[0].message)) {
-        attr(div1, "aria-label", div1_aria_label_value);
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
       }
       if (!current || dirty & /*side*/
       32) {
         attr(
-<<<<<<< HEAD
           div3,
           "data-tooltip-position",
-=======
-          div1,
-          "aria-label-position",
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
           /*side*/
           ctx2[5]
         );
       }
       if (!/*isCollapsed*/
       ctx2[4]) {
-<<<<<<< HEAD
         if (if_block3) {
           if_block3.p(ctx2, dirty);
           if (dirty & /*isCollapsed*/
@@ -40980,24 +39246,6 @@ ${/*log*/
         group_outros();
         transition_out(if_block3, 1, 1, () => {
           if_block3 = null;
-=======
-        if (if_block1) {
-          if_block1.p(ctx2, dirty);
-          if (dirty & /*isCollapsed*/
-          16) {
-            transition_in(if_block1, 1);
-          }
-        } else {
-          if_block1 = create_if_block3(ctx2);
-          if_block1.c();
-          transition_in(if_block1, 1);
-          if_block1.m(div4, null);
-        }
-      } else if (if_block1) {
-        group_outros();
-        transition_out(if_block1, 1, 1, () => {
-          if_block1 = null;
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
         });
         check_outros();
       }
@@ -41014,19 +39262,11 @@ ${/*log*/
     i(local) {
       if (current)
         return;
-<<<<<<< HEAD
       transition_in(if_block3);
       current = true;
     },
     o(local) {
       transition_out(if_block3);
-=======
-      transition_in(if_block1);
-      current = true;
-    },
-    o(local) {
-      transition_out(if_block1);
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
       current = false;
     },
     d(detaching) {
@@ -41037,13 +39277,10 @@ ${/*log*/
         if_block0.d();
       if (if_block1)
         if_block1.d();
-<<<<<<< HEAD
       if (if_block2)
         if_block2.d();
       if (if_block3)
         if_block3.d();
-=======
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
       mounted = false;
       dispose();
     }
@@ -41057,7 +39294,6 @@ function instance3($$self, $$props, $$invalidate) {
   let { showTree } = $$props;
   let { plugin } = $$props;
   let isCollapsed = true;
-<<<<<<< HEAD
   function authorToString(log3) {
     const name = log3.author.name;
     if (plugin.settings.authorInHistoryView == "full") {
@@ -41067,8 +39303,6 @@ function instance3($$self, $$props, $$invalidate) {
       return words.map((word) => word[0].toUpperCase()).join("");
     }
   }
-=======
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
   const click_handler = () => $$invalidate(4, isCollapsed = !isCollapsed);
   $$self.$$set = ($$props2) => {
     if ("log" in $$props2)
@@ -41097,7 +39331,6 @@ function instance3($$self, $$props, $$invalidate) {
         $$invalidate(5, side = view.leaf.getRoot().side == "left" ? "right" : "left");
     }
   };
-<<<<<<< HEAD
   return [
     log2,
     view,
@@ -41109,18 +39342,11 @@ function instance3($$self, $$props, $$invalidate) {
     authorToString,
     click_handler
   ];
-=======
-  return [log2, view, showTree, plugin, isCollapsed, side, logsHierarchy, click_handler];
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
 }
 var LogComponent = class extends SvelteComponent {
   constructor(options) {
     super();
-<<<<<<< HEAD
     init2(this, options, instance3, create_fragment3, safe_not_equal, { log: 0, view: 1, showTree: 2, plugin: 3 });
-=======
-    init2(this, options, instance3, create_fragment3, safe_not_equal, { log: 0, view: 1, showTree: 2, plugin: 3 }, add_css3);
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
   }
 };
 var logComponent_default = LogComponent;
@@ -41428,13 +39654,8 @@ function instance4($$self, $$props, $$invalidate) {
   plugin.app.workspace.onLayoutReady(() => {
     window.setTimeout(
       () => {
-<<<<<<< HEAD
         buttons.forEach((btn) => (0, import_obsidian20.setIcon)(btn, btn.getAttr("data-icon")));
         (0, import_obsidian20.setIcon)(layoutBtn, showTree ? "list" : "folder");
-=======
-        buttons.forEach((btn) => (0, import_obsidian19.setIcon)(btn, btn.getAttr("data-icon"), 16));
-        (0, import_obsidian19.setIcon)(layoutBtn, showTree ? "list" : "folder", 16);
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
       },
       0
     );
@@ -41479,11 +39700,7 @@ function instance4($$self, $$props, $$invalidate) {
       $: {
         if (layoutBtn) {
           layoutBtn.empty();
-<<<<<<< HEAD
           (0, import_obsidian20.setIcon)(layoutBtn, showTree ? "list" : "folder");
-=======
-          (0, import_obsidian19.setIcon)(layoutBtn, showTree ? "list" : "folder", 16);
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
         }
       }
     }
@@ -41510,11 +39727,7 @@ var HistoryView = class extends SvelteComponent {
 var historyView_default = HistoryView;
 
 // src/ui/history/historyView.ts
-<<<<<<< HEAD
 var HistoryView2 = class extends import_obsidian21.ItemView {
-=======
-var HistoryView2 = class extends import_obsidian20.ItemView {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
   constructor(leaf, plugin) {
     super(leaf);
     this.plugin = plugin;
@@ -41546,13 +39759,8 @@ var HistoryView2 = class extends import_obsidian20.ItemView {
 
 // src/ui/modals/branchModal.ts
 init_polyfill_buffer();
-<<<<<<< HEAD
 var import_obsidian22 = require("obsidian");
 var BranchModal = class extends import_obsidian22.FuzzySuggestModal {
-=======
-var import_obsidian21 = require("obsidian");
-var BranchModal = class extends import_obsidian21.FuzzySuggestModal {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
   constructor(branches) {
     super(app);
     this.branches = branches;
@@ -41582,13 +39790,8 @@ var BranchModal = class extends import_obsidian21.FuzzySuggestModal {
 
 // src/ui/modals/ignoreModal.ts
 init_polyfill_buffer();
-<<<<<<< HEAD
 var import_obsidian23 = require("obsidian");
 var IgnoreModal = class extends import_obsidian23.Modal {
-=======
-var import_obsidian22 = require("obsidian");
-var IgnoreModal = class extends import_obsidian22.Modal {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
   constructor(app2, content) {
     super(app2);
     this.content = content;
@@ -41626,7 +39829,6 @@ var IgnoreModal = class extends import_obsidian22.Modal {
 
 // src/ui/sourceControl/sourceControl.ts
 init_polyfill_buffer();
-<<<<<<< HEAD
 var import_obsidian30 = require("obsidian");
 
 // src/ui/sourceControl/sourceControl.svelte
@@ -41637,18 +39839,6 @@ var import_obsidian29 = require("obsidian");
 init_polyfill_buffer();
 var import_obsidian24 = require("obsidian");
 var DiscardModal = class extends import_obsidian24.Modal {
-=======
-var import_obsidian29 = require("obsidian");
-
-// src/ui/sourceControl/sourceControl.svelte
-init_polyfill_buffer();
-var import_obsidian28 = require("obsidian");
-
-// src/ui/modals/discardModal.ts
-init_polyfill_buffer();
-var import_obsidian23 = require("obsidian");
-var DiscardModal = class extends import_obsidian23.Modal {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
   constructor(app2, deletion, filename) {
     super(app2);
     this.deletion = deletion;
@@ -41704,7 +39894,6 @@ var DiscardModal = class extends import_obsidian23.Modal {
 
 // src/ui/sourceControl/components/fileComponent.svelte
 init_polyfill_buffer();
-<<<<<<< HEAD
 var import_obsidian26 = require("obsidian");
 
 // node_modules/.pnpm/github.com+Vinzent03+obsidian-community-lib@e663de4f95c879b40613090da78ea599ff621d24_@codemir_xyncsguozhhawq25qkwtwp76my/node_modules/obsidian-community-lib/dist/index.js
@@ -41714,17 +39903,6 @@ init_polyfill_buffer();
 init_polyfill_buffer();
 var feather = __toESM(require_feather());
 var import_obsidian25 = require("obsidian");
-=======
-var import_obsidian25 = require("obsidian");
-
-// node_modules/.pnpm/github.com+Vinzent03+obsidian-community-lib@e663de4f95c879b40613090da78ea599ff621d24_@codemir_kbfcpig3uak7df3ohthcqq53p4/node_modules/obsidian-community-lib/dist/index.js
-init_polyfill_buffer();
-
-// node_modules/.pnpm/github.com+Vinzent03+obsidian-community-lib@e663de4f95c879b40613090da78ea599ff621d24_@codemir_kbfcpig3uak7df3ohthcqq53p4/node_modules/obsidian-community-lib/dist/utils.js
-init_polyfill_buffer();
-var feather = __toESM(require_feather());
-var import_obsidian24 = require("obsidian");
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
 function hoverPreview(event, view, to) {
   const targetEl = event.target;
   app.workspace.trigger("hover-link", {
@@ -41737,11 +39915,7 @@ function hoverPreview(event, view, to) {
 }
 
 // src/ui/sourceControl/components/fileComponent.svelte
-<<<<<<< HEAD
 function add_css3(target) {
-=======
-function add_css4(target) {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
   append_styles(target, "svelte-1wbh8tp", "main.svelte-1wbh8tp .nav-file-title.svelte-1wbh8tp{align-items:center}");
 }
 function create_if_block5(ctx) {
@@ -41855,11 +40029,7 @@ function create_fragment5(ctx) {
       ctx[0].vault_path);
       attr(
         div6,
-<<<<<<< HEAD
         "data-tooltip-position",
-=======
-        "aria-label-position",
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
         /*side*/
         ctx[3]
       );
@@ -41974,11 +40144,7 @@ function create_fragment5(ctx) {
       8) {
         attr(
           div6,
-<<<<<<< HEAD
           "data-tooltip-position",
-=======
-          "aria-label-position",
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
           /*side*/
           ctx2[3]
         );
@@ -42022,11 +40188,7 @@ function instance5($$self, $$props, $$invalidate) {
   let { view } = $$props;
   let { manager } = $$props;
   let buttons = [];
-<<<<<<< HEAD
   window.setTimeout(() => buttons.forEach((b) => (0, import_obsidian26.setIcon)(b, b.getAttr("data-icon"))), 0);
-=======
-  window.setTimeout(() => buttons.forEach((b) => (0, import_obsidian25.setIcon)(b, b.getAttr("data-icon"))), 0);
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
   function hover(event) {
     if (app.vault.getAbstractFileByPath(change.vault_path)) {
       hoverPreview(event, view, change.vault_path);
@@ -42036,11 +40198,7 @@ function instance5($$self, $$props, $$invalidate) {
     var _a2;
     const file = view.app.vault.getAbstractFileByPath(change.vault_path);
     console.log(event);
-<<<<<<< HEAD
     if (file instanceof import_obsidian26.TFile) {
-=======
-    if (file instanceof import_obsidian25.TFile) {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
       (_a2 = getNewLeaf(event)) === null || _a2 === void 0 ? void 0 : _a2.openFile(file);
     }
   }
@@ -42129,24 +40287,15 @@ function instance5($$self, $$props, $$invalidate) {
 var FileComponent = class extends SvelteComponent {
   constructor(options) {
     super();
-<<<<<<< HEAD
     init2(this, options, instance5, create_fragment5, safe_not_equal, { change: 0, view: 1, manager: 9 }, add_css3);
-=======
-    init2(this, options, instance5, create_fragment5, safe_not_equal, { change: 0, view: 1, manager: 9 }, add_css4);
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
   }
 };
 var fileComponent_default = FileComponent;
 
 // src/ui/sourceControl/components/pulledFileComponent.svelte
 init_polyfill_buffer();
-<<<<<<< HEAD
 var import_obsidian27 = require("obsidian");
 function add_css4(target) {
-=======
-var import_obsidian26 = require("obsidian");
-function add_css5(target) {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
   append_styles(target, "svelte-1wbh8tp", "main.svelte-1wbh8tp .nav-file-title.svelte-1wbh8tp{align-items:center}");
 }
 function create_fragment6(ctx) {
@@ -42191,11 +40340,7 @@ function create_fragment6(ctx) {
       ctx[0].vault_path);
       attr(
         div2,
-<<<<<<< HEAD
         "data-tooltip-position",
-=======
-        "aria-label-position",
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
         /*side*/
         ctx[1]
       );
@@ -42263,11 +40408,7 @@ function create_fragment6(ctx) {
       2) {
         attr(
           div2,
-<<<<<<< HEAD
           "data-tooltip-position",
-=======
-          "aria-label-position",
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
           /*side*/
           ctx2[1]
         );
@@ -42301,11 +40442,7 @@ function instance6($$self, $$props, $$invalidate) {
   function open(event) {
     var _a2;
     const file = view.app.vault.getAbstractFileByPath(change.vault_path);
-<<<<<<< HEAD
     if (file instanceof import_obsidian27.TFile) {
-=======
-    if (file instanceof import_obsidian26.TFile) {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
       (_a2 = getNewLeaf(event)) === null || _a2 === void 0 ? void 0 : _a2.openFile(file);
     }
   }
@@ -42330,24 +40467,15 @@ function instance6($$self, $$props, $$invalidate) {
 var PulledFileComponent = class extends SvelteComponent {
   constructor(options) {
     super();
-<<<<<<< HEAD
     init2(this, options, instance6, create_fragment6, safe_not_equal, { change: 0, view: 4 }, add_css4);
-=======
-    init2(this, options, instance6, create_fragment6, safe_not_equal, { change: 0, view: 4 }, add_css5);
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
   }
 };
 var pulledFileComponent_default = PulledFileComponent;
 
 // src/ui/sourceControl/components/stagedFileComponent.svelte
 init_polyfill_buffer();
-<<<<<<< HEAD
 var import_obsidian28 = require("obsidian");
 function add_css5(target) {
-=======
-var import_obsidian27 = require("obsidian");
-function add_css6(target) {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
   append_styles(target, "svelte-1wbh8tp", "main.svelte-1wbh8tp .nav-file-title.svelte-1wbh8tp{align-items:center}");
 }
 function create_if_block6(ctx) {
@@ -42448,11 +40576,7 @@ function create_fragment7(ctx) {
       ctx[0].vault_path);
       attr(
         div5,
-<<<<<<< HEAD
         "data-tooltip-position",
-=======
-        "aria-label-position",
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
         /*side*/
         ctx[3]
       );
@@ -42560,11 +40684,7 @@ function create_fragment7(ctx) {
       8) {
         attr(
           div5,
-<<<<<<< HEAD
           "data-tooltip-position",
-=======
-          "aria-label-position",
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
           /*side*/
           ctx2[3]
         );
@@ -42602,20 +40722,12 @@ function create_fragment7(ctx) {
   };
 }
 function instance7($$self, $$props, $$invalidate) {
-<<<<<<< HEAD
-=======
-  let formattedPath;
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
   let side;
   let { change } = $$props;
   let { view } = $$props;
   let { manager } = $$props;
   let buttons = [];
-<<<<<<< HEAD
   window.setTimeout(() => buttons.forEach((b) => (0, import_obsidian28.setIcon)(b, b.getAttr("data-icon"))), 0);
-=======
-  window.setTimeout(() => buttons.forEach((b) => (0, import_obsidian27.setIcon)(b, b.getAttr("data-icon"), 16)), 0);
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
   function hover(event) {
     if (app.vault.getAbstractFileByPath(change.vault_path)) {
       hoverPreview(event, view, change.vault_path);
@@ -42624,11 +40736,7 @@ function instance7($$self, $$props, $$invalidate) {
   function open(event) {
     var _a2;
     const file = view.app.vault.getAbstractFileByPath(change.vault_path);
-<<<<<<< HEAD
     if (file instanceof import_obsidian28.TFile) {
-=======
-    if (file instanceof import_obsidian27.TFile) {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
       (_a2 = getNewLeaf(event)) === null || _a2 === void 0 ? void 0 : _a2.openFile(file);
     }
   }
@@ -42669,14 +40777,6 @@ function instance7($$self, $$props, $$invalidate) {
       $$invalidate(8, manager = $$props2.manager);
   };
   $$self.$$.update = () => {
-<<<<<<< HEAD
-=======
-    if ($$self.$$.dirty & /*change*/
-    1) {
-      $:
-        formattedPath = change.vault_path;
-    }
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     if ($$self.$$.dirty & /*view*/
     2) {
       $:
@@ -42701,22 +40801,14 @@ function instance7($$self, $$props, $$invalidate) {
 var StagedFileComponent = class extends SvelteComponent {
   constructor(options) {
     super();
-<<<<<<< HEAD
     init2(this, options, instance7, create_fragment7, safe_not_equal, { change: 0, view: 1, manager: 8 }, add_css5);
-=======
-    init2(this, options, instance7, create_fragment7, safe_not_equal, { change: 0, view: 1, manager: 8 }, add_css6);
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
   }
 };
 var stagedFileComponent_default = StagedFileComponent;
 
 // src/ui/sourceControl/components/treeComponent.svelte
 init_polyfill_buffer();
-<<<<<<< HEAD
 function add_css6(target) {
-=======
-function add_css7(target) {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
   append_styles(target, "svelte-hup5mn", "main.svelte-hup5mn .nav-folder-title.svelte-hup5mn{align-items:center}");
 }
 function get_each_context4(ctx, list, i) {
@@ -42762,11 +40854,7 @@ function create_else_block3(ctx) {
   ctx[5][
     /*entity*/
     ctx[15].title
-<<<<<<< HEAD
   ] && create_if_block_42(ctx);
-=======
-  ] && create_if_block_4(ctx);
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
   function click_handler_3() {
     return (
       /*click_handler_3*/
@@ -42817,11 +40905,7 @@ function create_else_block3(ctx) {
       attr(div6, "class", "tree-item-self is-clickable nav-folder-title svelte-hup5mn");
       attr(
         div6,
-<<<<<<< HEAD
         "data-tooltip-position",
-=======
-        "aria-label-position",
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
         /*side*/
         ctx[6]
       );
@@ -42859,11 +40943,7 @@ function create_else_block3(ctx) {
       append2(div7, t6);
       current = true;
       if (!mounted) {
-<<<<<<< HEAD
         dispose = listen(div7, "click", stop_propagation(click_handler_3));
-=======
-        dispose = listen(div7, "click", click_handler_3);
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
         mounted = true;
       }
     },
@@ -42899,11 +40979,7 @@ function create_else_block3(ctx) {
       64) {
         attr(
           div6,
-<<<<<<< HEAD
           "data-tooltip-position",
-=======
-          "aria-label-position",
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
           /*side*/
           ctx[6]
         );
@@ -42925,11 +41001,7 @@ function create_else_block3(ctx) {
             transition_in(if_block1, 1);
           }
         } else {
-<<<<<<< HEAD
           if_block1 = create_if_block_42(ctx);
-=======
-          if_block1 = create_if_block_4(ctx);
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
           if_block1.c();
           transition_in(if_block1, 1);
           if_block1.m(div7, t6);
@@ -42982,11 +41054,7 @@ function create_if_block7(ctx) {
   let if_block;
   let t;
   let current;
-<<<<<<< HEAD
   const if_block_creators = [create_if_block_13, create_if_block_22, create_if_block_32];
-=======
-  const if_block_creators = [create_if_block_13, create_if_block_22, create_if_block_3];
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
   const if_blocks = [];
   function select_block_type_1(ctx2, dirty) {
     if (
@@ -43178,11 +41246,7 @@ function create_if_block_5(ctx) {
     }
   };
 }
-<<<<<<< HEAD
 function create_if_block_42(ctx) {
-=======
-function create_if_block_4(ctx) {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
   let div;
   let treecomponent;
   let div_transition;
@@ -43272,11 +41336,7 @@ function create_if_block_4(ctx) {
     }
   };
 }
-<<<<<<< HEAD
 function create_if_block_32(ctx) {
-=======
-function create_if_block_3(ctx) {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
   let pulledfilecomponent;
   let current;
   pulledfilecomponent = new pulledFileComponent_default({
@@ -43695,24 +41755,15 @@ var TreeComponent = class extends SvelteComponent {
         fileType: 3,
         topLevel: 4
       },
-<<<<<<< HEAD
       add_css6
-=======
-      add_css7
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     );
   }
 };
 var treeComponent_default = TreeComponent;
 
 // src/ui/sourceControl/sourceControl.svelte
-<<<<<<< HEAD
 function add_css7(target) {
   append_styles(target, "svelte-11adhly", `.commit-msg-input.svelte-11adhly.svelte-11adhly{width:100%;overflow:hidden;resize:none;padding:7px 5px;background-color:var(--background-modifier-form-field)}.git-commit-msg.svelte-11adhly.svelte-11adhly{position:relative;padding:0;width:calc(100% - var(--size-4-8));margin:4px auto}main.svelte-11adhly .git-tools .files-count.svelte-11adhly{padding-left:var(--size-2-1);width:11px;display:flex;align-items:center;justify-content:center}.nav-folder-title.svelte-11adhly.svelte-11adhly{align-items:center}.git-commit-msg-clear-button.svelte-11adhly.svelte-11adhly{position:absolute;background:transparent;border-radius:50%;color:var(--search-clear-button-color);cursor:var(--cursor);top:-4px;right:2px;bottom:0px;line-height:0;height:var(--input-height);width:28px;margin:auto;padding:0 0;text-align:center;display:flex;justify-content:center;align-items:center;transition:color 0.15s ease-in-out}.git-commit-msg-clear-button.svelte-11adhly.svelte-11adhly:after{content:"";height:var(--search-clear-button-size);width:var(--search-clear-button-size);display:block;background-color:currentColor;mask-image:url("data:image/svg+xml,<svg viewBox='0 0 12 12' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M6 12C9.31371 12 12 9.31371 12 6C12 2.68629 9.31371 0 6 0C2.68629 0 0 2.68629 0 6C0 9.31371 2.68629 12 6 12ZM3.8705 3.09766L6.00003 5.22718L8.12955 3.09766L8.9024 3.8705L6.77287 6.00003L8.9024 8.12955L8.12955 8.9024L6.00003 6.77287L3.8705 8.9024L3.09766 8.12955L5.22718 6.00003L3.09766 3.8705L3.8705 3.09766Z' fill='currentColor'/></svg>");mask-repeat:no-repeat;-webkit-mask-image:url("data:image/svg+xml,<svg viewBox='0 0 12 12' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M6 12C9.31371 12 12 9.31371 12 6C12 2.68629 9.31371 0 6 0C2.68629 0 0 2.68629 0 6C0 9.31371 2.68629 12 6 12ZM3.8705 3.09766L6.00003 5.22718L8.12955 3.09766L8.9024 3.8705L6.77287 6.00003L8.9024 8.12955L8.12955 8.9024L6.00003 6.77287L3.8705 8.9024L3.09766 8.12955L5.22718 6.00003L3.09766 3.8705L3.8705 3.09766Z' fill='currentColor'/></svg>");-webkit-mask-repeat:no-repeat}`);
-=======
-function add_css8(target) {
-  append_styles(target, "svelte-1bvmxec", `.commit-msg-input.svelte-1bvmxec.svelte-1bvmxec{width:100%;overflow:hidden;resize:none;padding:7px 5px;background-color:var(--background-modifier-form-field)}.git-commit-msg.svelte-1bvmxec.svelte-1bvmxec{position:relative;padding:0;width:calc(100% - var(--size-4-8));margin:4px auto}main.svelte-1bvmxec .git-tools .files-count.svelte-1bvmxec{padding-left:var(--size-2-1);width:11px;display:flex;align-items:center;justify-content:center}.nav-folder-title.svelte-1bvmxec.svelte-1bvmxec{align-items:center}.git-commit-msg-clear-button.svelte-1bvmxec.svelte-1bvmxec{position:absolute;background:transparent;border-radius:50%;color:var(--search-clear-button-color);cursor:var(--cursor);top:-4px;right:2px;bottom:0px;line-height:0;height:var(--input-height);width:28px;margin:auto;padding:0 0;text-align:center;display:flex;justify-content:center;align-items:center;transition:color 0.15s ease-in-out}.git-commit-msg-clear-button.svelte-1bvmxec.svelte-1bvmxec:after{content:"";height:var(--search-clear-button-size);width:var(--search-clear-button-size);display:block;background-color:currentColor;-webkit-mask-image:url("data:image/svg+xml,<svg viewBox='0 0 12 12' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M6 12C9.31371 12 12 9.31371 12 6C12 2.68629 9.31371 0 6 0C2.68629 0 0 2.68629 0 6C0 9.31371 2.68629 12 6 12ZM3.8705 3.09766L6.00003 5.22718L8.12955 3.09766L8.9024 3.8705L6.77287 6.00003L8.9024 8.12955L8.12955 8.9024L6.00003 6.77287L3.8705 8.9024L3.09766 8.12955L5.22718 6.00003L3.09766 3.8705L3.8705 3.09766Z' fill='currentColor'/></svg>");-webkit-mask-repeat:no-repeat}`);
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
 }
 function get_each_context5(ctx, list, i) {
   const child_ctx = ctx.slice();
@@ -43737,11 +41788,7 @@ function create_if_block_8(ctx) {
   return {
     c() {
       div = element("div");
-<<<<<<< HEAD
       attr(div, "class", "git-commit-msg-clear-button svelte-11adhly");
-=======
-      attr(div, "class", "git-commit-msg-clear-button svelte-1bvmxec");
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
       attr(div, "aria-label", div_aria_label_value = "Clear");
     },
     m(target, anchor) {
@@ -43816,11 +41863,7 @@ function create_if_block8(ctx) {
   );
   let if_block1 = (
     /*changesOpen*/
-<<<<<<< HEAD
     ctx[12] && create_if_block_43(ctx)
-=======
-    ctx[12] && create_if_block_42(ctx)
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
   );
   let if_block2 = (
     /*lastPulledFiles*/
@@ -43881,15 +41924,9 @@ function create_if_block8(ctx) {
       attr(div2, "aria-label", "Unstage");
       attr(div2, "class", "clickable-icon");
       attr(div3, "class", "buttons");
-<<<<<<< HEAD
       attr(div4, "class", "files-count svelte-11adhly");
       attr(div5, "class", "git-tools");
       attr(div6, "class", "tree-item-self is-clickable nav-folder-title svelte-11adhly");
-=======
-      attr(div4, "class", "files-count svelte-1bvmxec");
-      attr(div5, "class", "git-tools");
-      attr(div6, "class", "tree-item-self is-clickable nav-folder-title svelte-1bvmxec");
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
       attr(div7, "class", "staged tree-item nav-folder");
       toggle_class(div7, "is-collapsed", !/*stagedOpen*/
       ctx[13]);
@@ -43904,15 +41941,9 @@ function create_if_block8(ctx) {
       attr(div11, "aria-label", "Stage");
       attr(div11, "class", "clickable-icon");
       attr(div12, "class", "buttons");
-<<<<<<< HEAD
       attr(div13, "class", "files-count svelte-11adhly");
       attr(div14, "class", "git-tools");
       attr(div15, "class", "tree-item-self is-clickable nav-folder-title svelte-11adhly");
-=======
-      attr(div13, "class", "files-count svelte-1bvmxec");
-      attr(div14, "class", "git-tools");
-      attr(div15, "class", "tree-item-self is-clickable nav-folder-title svelte-1bvmxec");
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
       attr(div16, "class", "changes tree-item nav-folder");
       toggle_class(div16, "is-collapsed", !/*changesOpen*/
       ctx[12]);
@@ -44049,11 +42080,7 @@ function create_if_block8(ctx) {
             transition_in(if_block1, 1);
           }
         } else {
-<<<<<<< HEAD
           if_block1 = create_if_block_43(ctx2);
-=======
-          if_block1 = create_if_block_42(ctx2);
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
           if_block1.c();
           transition_in(if_block1, 1);
           if_block1.m(div16, null);
@@ -44408,11 +42435,7 @@ function create_each_block_2(ctx) {
     }
   };
 }
-<<<<<<< HEAD
 function create_if_block_43(ctx) {
-=======
-function create_if_block_42(ctx) {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
   let div;
   let current_block_type_index;
   let if_block;
@@ -44735,11 +42758,7 @@ function create_if_block_14(ctx) {
       attr(div0, "class", "tree-item-icon nav-folder-collapse-indicator collapse-icon");
       attr(div1, "class", "tree-item-inner nav-folder-title-content");
       attr(span, "class", "tree-item-flair");
-<<<<<<< HEAD
       attr(div2, "class", "tree-item-self is-clickable nav-folder-title svelte-11adhly");
-=======
-      attr(div2, "class", "tree-item-self is-clickable nav-folder-title svelte-1bvmxec");
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
       attr(div3, "class", "pulled nav-folder");
       toggle_class(div3, "is-collapsed", !/*lastPulledFilesOpen*/
       ctx[14]);
@@ -44828,11 +42847,7 @@ function create_if_block_23(ctx) {
   let if_block;
   let div_transition;
   let current;
-<<<<<<< HEAD
   const if_block_creators = [create_if_block_33, create_else_block4];
-=======
-  const if_block_creators = [create_if_block_32, create_else_block4];
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
   const if_blocks = [];
   function select_block_type_2(ctx2, dirty) {
     if (
@@ -44991,11 +43006,7 @@ function create_else_block4(ctx) {
     }
   };
 }
-<<<<<<< HEAD
 function create_if_block_33(ctx) {
-=======
-function create_if_block_32(ctx) {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
   let treecomponent;
   let current;
   treecomponent = new treeComponent_default({
@@ -45221,7 +43232,6 @@ function create_fragment9(ctx) {
         /*rows*/
         ctx[15]
       );
-<<<<<<< HEAD
       attr(textarea, "class", "commit-msg-input svelte-11adhly");
       attr(textarea, "spellcheck", "true");
       attr(textarea, "placeholder", "Commit Message");
@@ -45230,16 +43240,6 @@ function create_fragment9(ctx) {
       set_style(div11, "position", "relative");
       attr(main, "data-type", main_data_type_value = SOURCE_CONTROL_VIEW_CONFIG.type);
       attr(main, "class", "svelte-11adhly");
-=======
-      attr(textarea, "class", "commit-msg-input svelte-1bvmxec");
-      attr(textarea, "spellcheck", "true");
-      attr(textarea, "placeholder", "Commit Message");
-      attr(div10, "class", "git-commit-msg svelte-1bvmxec");
-      attr(div11, "class", "nav-files-container");
-      set_style(div11, "position", "relative");
-      attr(main, "data-type", main_data_type_value = SOURCE_CONTROL_VIEW_CONFIG.type);
-      attr(main, "class", "svelte-1bvmxec");
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     },
     m(target, anchor) {
       insert(target, main, anchor);
@@ -45462,13 +43462,8 @@ function instance9($$self, $$props, $$invalidate) {
   plugin.app.workspace.onLayoutReady(() => {
     window.setTimeout(
       () => {
-<<<<<<< HEAD
         buttons.forEach((btn) => (0, import_obsidian29.setIcon)(btn, btn.getAttr("data-icon")));
         (0, import_obsidian29.setIcon)(layoutBtn, showTree ? "list" : "folder");
-=======
-        buttons.forEach((btn) => (0, import_obsidian28.setIcon)(btn, btn.getAttr("data-icon")));
-        (0, import_obsidian28.setIcon)(layoutBtn, showTree ? "list" : "folder");
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
       },
       0
     );
@@ -45484,11 +43479,7 @@ function instance9($$self, $$props, $$invalidate) {
           plugin.setState(0 /* idle */);
           return false;
         }
-<<<<<<< HEAD
         plugin.promiseQueue.addTask(() => plugin.gitManager.commit({ message: commitMessage }).then(() => {
-=======
-        plugin.promiseQueue.addTask(() => plugin.gitManager.commit(commitMessage).then(() => {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
           if (commitMessage !== plugin.settings.commitMessage) {
             $$invalidate(2, commitMessage = "");
           }
@@ -45518,11 +43509,7 @@ function instance9($$self, $$props, $$invalidate) {
       const unPushedCommits = yield plugin.gitManager.getUnpushedCommits();
       buttons.forEach((btn) => {
         var _a2, _b;
-<<<<<<< HEAD
         if (import_obsidian29.Platform.isMobile) {
-=======
-        if (import_obsidian28.Platform.isMobile) {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
           btn.removeClass("button-border");
           if (btn.id == "push" && unPushedCommits > 0) {
             btn.addClass("button-border");
@@ -45593,11 +43580,7 @@ function instance9($$self, $$props, $$invalidate) {
     plugin.promiseQueue.addTask(() => plugin.pullChangesFromRemote().finally(triggerRefresh2));
   }
   function discard() {
-<<<<<<< HEAD
     new DiscardModal(view.app, false, plugin.gitManager.getRelativeVaultPath("/")).myOpen().then((shouldDiscard) => {
-=======
-    new DiscardModal(view.app, false, plugin.gitManager.getVaultPath("/")).myOpen().then((shouldDiscard) => {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
       if (shouldDiscard === true) {
         plugin.promiseQueue.addTask(() => plugin.gitManager.discardAll({ status: plugin.cachedStatus }).finally(() => {
           dispatchEvent(new CustomEvent("git-refresh"));
@@ -45690,11 +43673,7 @@ function instance9($$self, $$props, $$invalidate) {
       $: {
         if (layoutBtn) {
           layoutBtn.empty();
-<<<<<<< HEAD
           (0, import_obsidian29.setIcon)(layoutBtn, showTree ? "list" : "folder");
-=======
-          (0, import_obsidian28.setIcon)(layoutBtn, showTree ? "list" : "folder");
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
         }
       }
     }
@@ -45749,21 +43728,13 @@ function instance9($$self, $$props, $$invalidate) {
 var SourceControl = class extends SvelteComponent {
   constructor(options) {
     super();
-<<<<<<< HEAD
     init2(this, options, instance9, create_fragment9, safe_not_equal, { plugin: 0, view: 1 }, add_css7, [-1, -1]);
-=======
-    init2(this, options, instance9, create_fragment9, safe_not_equal, { plugin: 0, view: 1 }, add_css8, [-1, -1]);
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
   }
 };
 var sourceControl_default = SourceControl;
 
 // src/ui/sourceControl/sourceControl.ts
-<<<<<<< HEAD
 var GitView = class extends import_obsidian30.ItemView {
-=======
-var GitView = class extends import_obsidian29.ItemView {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
   constructor(leaf, plugin) {
     super(leaf);
     this.plugin = plugin;
@@ -45819,11 +43790,7 @@ var BranchStatusBar = class {
 };
 
 // src/main.ts
-<<<<<<< HEAD
 var ObsidianGit = class extends import_obsidian31.Plugin {
-=======
-var ObsidianGit = class extends import_obsidian30.Plugin {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
   constructor() {
     super(...arguments);
     this.gitReady = false;
@@ -45898,11 +43865,7 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
       id: "edit-gitignore",
       name: "Edit .gitignore",
       callback: async () => {
-<<<<<<< HEAD
         const path2 = this.gitManager.getRelativeVaultPath(".gitignore");
-=======
-        const path2 = this.gitManager.getVaultPath(".gitignore");
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
         if (!await this.app.vault.adapter.exists(path2)) {
           this.app.vault.adapter.write(path2, "");
         }
@@ -45969,11 +43932,7 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
             active: true,
             state: {
               staged: false,
-<<<<<<< HEAD
               file: this.gitManager.getRelativeRepoPath(
-=======
-              file: this.gitManager.asRepositoryRelativePath(
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
                 file.path,
                 true
               )
@@ -46017,7 +43976,6 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
       id: "add-to-gitignore",
       name: "Add file to gitignore",
       checkCallback: (checking) => {
-<<<<<<< HEAD
         const file = this.app.workspace.getActiveFile();
         if (checking) {
           return file !== null;
@@ -46025,15 +43983,6 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
           this.app.vault.adapter.append(
             this.gitManager.getRelativeVaultPath(".gitignore"),
             "\n" + this.gitManager.getRelativeRepoPath(
-=======
-        const file = app.workspace.getActiveFile();
-        if (checking) {
-          return file !== null;
-        } else {
-          app.vault.adapter.append(
-            this.gitManager.getVaultPath(".gitignore"),
-            "\n" + this.gitManager.asRepositoryRelativePath(
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
               file.path,
               true
             )
@@ -46089,7 +44038,6 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
         })
       )
     });
-<<<<<<< HEAD
     if (import_obsidian31.Platform.isDesktopApp) {
       this.addCommand({
         id: "commit-amend-staged-specified-message",
@@ -46104,8 +44052,6 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
         )
       });
     }
-=======
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     this.addCommand({
       id: "commit-staged-specified-message",
       name: "Commit staged with specific message",
@@ -46157,14 +44103,11 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
       callback: async () => this.removeRemote()
     });
     this.addCommand({
-<<<<<<< HEAD
       id: "set-upstream-branch",
       name: "Set upstream branch",
       callback: async () => this.setUpsreamBranch()
     });
     this.addCommand({
-=======
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
       id: "delete-repo",
       name: "CAUTION: Delete repository",
       callback: async () => {
@@ -46183,22 +44126,14 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
               `${this.settings.basePath}/.git`,
               true
             );
-<<<<<<< HEAD
             new import_obsidian31.Notice(
-=======
-            new import_obsidian30.Notice(
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
               "Successfully deleted repository. Reloading plugin..."
             );
             this.unloadPlugin();
             this.init();
           }
         } else {
-<<<<<<< HEAD
           new import_obsidian31.Notice("No repository found");
-=======
-          new import_obsidian30.Notice("No repository found");
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
         }
       }
     });
@@ -46219,20 +44154,13 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
         if (!await this.isAllInitialized())
           return;
         const status2 = await this.gitManager.status();
-<<<<<<< HEAD
         console.log(status2);
-=======
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
         this.setState(0 /* idle */);
         if (status2.changed.length + status2.staged.length > 500) {
           this.displayError("Too many changes to display");
           return;
         }
-<<<<<<< HEAD
         new ChangedFilesModal(this, status2.all).open();
-=======
-        new ChangedFilesModal(this, status2.changed).open();
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
       }
     });
     this.addCommand({
@@ -46298,11 +44226,7 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
         }, 1e3)
       );
     }
-<<<<<<< HEAD
     if (import_obsidian31.Platform.isDesktop && this.settings.showBranchStatusBar) {
-=======
-    if (import_obsidian30.Platform.isDesktop && this.settings.showBranchStatusBar) {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
       const branchStatusBarEl = this.addStatusBarItem();
       this.branchBar = new BranchStatusBar(branchStatusBarEl, this);
       this.registerInterval(
@@ -46317,11 +44241,7 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
   setRefreshDebouncer() {
     var _a2;
     (_a2 = this.debRefresh) == null ? void 0 : _a2.cancel();
-<<<<<<< HEAD
     this.debRefresh = (0, import_obsidian31.debounce)(
-=======
-    this.debRefresh = (0, import_obsidian30.debounce)(
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
       () => {
         if (this.settings.refreshSourceControl) {
           this.refresh();
@@ -46333,28 +44253,17 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
   }
   async showNotices() {
     const length = 1e4;
-<<<<<<< HEAD
     if (this.manifest.id === "obsidian-git" && import_obsidian31.Platform.isDesktopApp && !this.settings.showedMobileNotice) {
       new import_obsidian31.Notice(
         "Git is now available on mobile! Please read the plugin's README for more information.",
-=======
-    if (this.manifest.id === "obsidian-git" && import_obsidian30.Platform.isDesktopApp && !this.settings.showedMobileNotice) {
-      new import_obsidian30.Notice(
-        "Obsidian Git is now available on mobile! Please read the plugin's README for more information.",
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
         length
       );
       this.settings.showedMobileNotice = true;
       await this.saveSettings();
     }
     if (this.manifest.id === "obsidian-git-isomorphic") {
-<<<<<<< HEAD
       new import_obsidian31.Notice(
         "Git Mobile is now deprecated. Please uninstall it and install Git instead.",
-=======
-      new import_obsidian30.Notice(
-        "Obsidian Git Mobile is now deprecated. Please uninstall it and install Obsidian Git instead.",
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
         length
       );
     }
@@ -46373,19 +44282,11 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
     menu.addItem((item) => {
       item.setTitle(`Git: Stage`).setIcon("plus-circle").setSection("action").onClick((_) => {
         this.promiseQueue.addTask(async () => {
-<<<<<<< HEAD
           if (file instanceof import_obsidian31.TFile) {
             await this.gitManager.stage(file.path, true);
           } else {
             await this.gitManager.stageAll({
               dir: this.gitManager.getRelativeRepoPath(
-=======
-          if (file instanceof import_obsidian30.TFile) {
-            await this.gitManager.stage(file.path, true);
-          } else {
-            await this.gitManager.stageAll({
-              dir: this.gitManager.asRepositoryRelativePath(
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
                 file.path,
                 true
               )
@@ -46398,19 +44299,11 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
     menu.addItem((item) => {
       item.setTitle(`Git: Unstage`).setIcon("minus-circle").setSection("action").onClick((_) => {
         this.promiseQueue.addTask(async () => {
-<<<<<<< HEAD
           if (file instanceof import_obsidian31.TFile) {
             await this.gitManager.unstage(file.path, true);
           } else {
             await this.gitManager.unstageAll({
               dir: this.gitManager.getRelativeRepoPath(
-=======
-          if (file instanceof import_obsidian30.TFile) {
-            await this.gitManager.unstage(file.path, true);
-          } else {
-            await this.gitManager.unstageAll({
-              dir: this.gitManager.asRepositoryRelativePath(
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
                 file.path,
                 true
               )
@@ -46498,11 +44391,7 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
     };
   }
   get useSimpleGit() {
-<<<<<<< HEAD
     return import_obsidian31.Platform.isDesktopApp;
-=======
-    return import_obsidian30.Platform.isDesktopApp;
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
   }
   async init() {
     var _a2;
@@ -46520,11 +44409,7 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
           this.displayError("Cannot run git command");
           break;
         case "missing-repo":
-<<<<<<< HEAD
           new import_obsidian31.Notice(
-=======
-          new import_obsidian30.Notice(
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
             "Can't find a valid git repository. Please create one via the given command or clone an existing repo.",
             1e4
           );
@@ -46574,11 +44459,7 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
   }
   async createNewRepo() {
     await this.gitManager.init();
-<<<<<<< HEAD
     new import_obsidian31.Notice("Initialized new repo");
-=======
-    new import_obsidian30.Notice("Initialized new repo");
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     await this.init();
   }
   async cloneNewRepo() {
@@ -46595,11 +44476,7 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
         if (dir === confirmOption) {
           dir = ".";
         }
-<<<<<<< HEAD
         dir = (0, import_obsidian31.normalizePath)(dir);
-=======
-        dir = (0, import_obsidian30.normalizePath)(dir);
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
         if (dir === "/") {
           dir = ".";
         }
@@ -46611,11 +44488,7 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
           });
           const containsConflictDir = await modal2.open();
           if (containsConflictDir === void 0) {
-<<<<<<< HEAD
             new import_obsidian31.Notice("Aborted clone");
-=======
-            new import_obsidian30.Notice("Aborted clone");
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
             return;
           } else if (containsConflictDir === "YES") {
             const confirmOption2 = "DELETE ALL YOUR LOCAL CONFIG AND PLUGINS";
@@ -46631,11 +44504,7 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
                 true
               );
             } else {
-<<<<<<< HEAD
               new import_obsidian31.Notice("Aborted clone");
-=======
-              new import_obsidian30.Notice("Aborted clone");
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
               return;
             }
           }
@@ -46648,19 +44517,11 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
         if (depth !== "") {
           depthInt = parseInt(depth);
           if (isNaN(depthInt)) {
-<<<<<<< HEAD
             new import_obsidian31.Notice("Invalid depth. Aborting clone.");
             return;
           }
         }
         new import_obsidian31.Notice(`Cloning new repo into "${dir}"`);
-=======
-            new import_obsidian30.Notice("Invalid depth. Aborting clone.");
-            return;
-          }
-        }
-        new import_obsidian30.Notice(`Cloning new repo into "${dir}"`);
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
         const oldBase = this.settings.basePath;
         const customDir = dir && dir !== ".";
         if (customDir) {
@@ -46673,13 +44534,8 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
           this.saveSettings();
           throw error;
         }
-<<<<<<< HEAD
         new import_obsidian31.Notice("Cloned new repo.");
         new import_obsidian31.Notice("Please restart Obsidian");
-=======
-        new import_obsidian30.Notice("Cloned new repo.");
-        new import_obsidian30.Notice("Please restart Obsidian");
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
         if (customDir) {
           this.saveSettings();
         }
@@ -46702,12 +44558,9 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
       return;
     const filesUpdated = await this.pull();
     this.setUpAutoBackup();
-<<<<<<< HEAD
     if (filesUpdated === false) {
       return;
     }
-=======
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     if (!filesUpdated) {
       this.displayMessage("Everything is up-to-date");
     }
@@ -46752,20 +44605,12 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
     fromAutoBackup,
     requestCustomMessage = false,
     onlyStaged = false,
-<<<<<<< HEAD
     commitMessage,
     amend = false
   }) {
     if (!await this.isAllInitialized())
       return false;
     let hadConflict = this.localStorage.getConflict();
-=======
-    commitMessage
-  }) {
-    if (!await this.isAllInitialized())
-      return false;
-    let hadConflict = this.localStorage.getConflict() === "true";
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     let changedFiles;
     let status2;
     let unstagedFiles;
@@ -46773,11 +44618,7 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
       this.mayDeleteConflictFile();
       status2 = await this.updateCachedStatus();
       if (status2.conflicted.length == 0) {
-<<<<<<< HEAD
         this.localStorage.setConflict(false);
-=======
-        this.localStorage.setConflict("false");
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
         hadConflict = false;
       }
       if (fromAutoBackup && status2.conflicted.length > 0) {
@@ -46804,11 +44645,7 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
       } else {
         unstagedFiles = await this.gitManager.getUnstagedFiles();
         changedFiles = unstagedFiles.map(({ filepath }) => ({
-<<<<<<< HEAD
           vault_path: this.gitManager.getRelativeVaultPath(filepath)
-=======
-          vault_path: this.gitManager.getVaultPath(filepath)
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
         }));
       }
     }
@@ -46820,11 +44657,7 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
       let cmtMessage = commitMessage != null ? commitMessage : commitMessage = fromAutoBackup ? this.settings.autoCommitMessage : this.settings.commitMessage;
       if (fromAutoBackup && this.settings.customMessageOnAutoBackup || requestCustomMessage) {
         if (!this.settings.disablePopups && fromAutoBackup) {
-<<<<<<< HEAD
           new import_obsidian31.Notice(
-=======
-          new import_obsidian30.Notice(
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
             "Auto backup: Please enter a custom commit message. Leave empty to abort"
           );
         }
@@ -46841,33 +44674,21 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
       }
       let committedFiles;
       if (onlyStaged) {
-<<<<<<< HEAD
         committedFiles = await this.gitManager.commit({
           message: cmtMessage,
           amend
         });
-=======
-        committedFiles = await this.gitManager.commit(cmtMessage);
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
       } else {
         committedFiles = await this.gitManager.commitAll({
           message: cmtMessage,
           status: status2,
-<<<<<<< HEAD
           unstagedFiles,
           amend
-=======
-          unstagedFiles
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
         });
       }
       if (this.gitManager instanceof SimpleGit) {
         if ((await this.updateCachedStatus()).conflicted.length == 0) {
-<<<<<<< HEAD
           this.localStorage.setConflict(false);
-=======
-          this.localStorage.setConflict("false");
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
         }
       }
       let roughly = false;
@@ -46896,11 +44717,7 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
           const file = this.app.vault.getAbstractFileByPath(
             f.vault_path
           );
-<<<<<<< HEAD
           if (file instanceof import_obsidian31.TFile) {
-=======
-          if (file instanceof import_obsidian30.TFile) {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
             return file.stat.size >= 1e8;
           }
           return false;
@@ -46923,11 +44740,7 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
     if (!await this.remotesAreSet()) {
       return false;
     }
-<<<<<<< HEAD
     const hadConflict = this.localStorage.getConflict();
-=======
-    const hadConflict = this.localStorage.getConflict() === "true";
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     if (this.gitManager instanceof SimpleGit)
       await this.mayDeleteConflictFile();
     let status2;
@@ -46942,15 +44755,9 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
       this.setState(6 /* conflicted */);
       return false;
     }
-<<<<<<< HEAD
     console.log("Pushing....");
     const pushedFiles = await this.gitManager.push();
     if (pushedFiles !== void 0) {
-=======
-    {
-      console.log("Pushing....");
-      const pushedFiles = await this.gitManager.push();
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
       console.log("Pushed!", pushedFiles);
       if (pushedFiles > 0) {
         this.displayMessage(
@@ -46959,7 +44766,6 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
       } else {
         this.displayMessage(`No changes to push`);
       }
-<<<<<<< HEAD
     }
     this.offlineMode = false;
     this.setState(0 /* idle */);
@@ -46970,16 +44776,6 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
       Returns whether the pull added a commit or not.
   
       See {@link pullChangesFromRemote} for the command version. */
-=======
-      this.offlineMode = false;
-      this.setState(0 /* idle */);
-      dispatchEvent(new CustomEvent("git-refresh"));
-      return true;
-    }
-  }
-  /// Used for internals
-  /// Returns whether the pull added a commit or not.
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
   async pull() {
     if (!await this.remotesAreSet()) {
       return false;
@@ -46992,11 +44788,7 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
       );
       this.lastPulledFiles = pulledFiles;
     }
-<<<<<<< HEAD
     return pulledFiles.length;
-=======
-    return pulledFiles.length != 0;
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
   }
   async fetch() {
     if (!await this.remotesAreSet()) {
@@ -47013,12 +44805,8 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
     );
     if (file) {
       this.app.workspace.iterateAllLeaves((leaf) => {
-<<<<<<< HEAD
         var _a2;
         if (leaf.view instanceof import_obsidian31.MarkdownView && ((_a2 = leaf.view.file) == null ? void 0 : _a2.path) == file.path) {
-=======
-        if (leaf.view instanceof import_obsidian30.MarkdownView && leaf.view.file.path == file.path) {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
           leaf.detach();
         }
       });
@@ -47117,7 +44905,6 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
       return branch2;
     }
   }
-<<<<<<< HEAD
   // Ensures that the upstream branch is set.
   // If not, it will prompt the user to set it.
   //
@@ -47147,23 +44934,6 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
       return true;
     }
   }
-=======
-  async remotesAreSet() {
-    if (!(await this.gitManager.branchInfo()).tracking) {
-      new import_obsidian30.Notice("No upstream branch is set. Please select one.");
-      const remoteBranch = await this.selectRemoteBranch();
-      if (remoteBranch == void 0) {
-        this.displayError("Aborted. No upstream-branch is set!", 1e4);
-        this.setState(0 /* idle */);
-        return false;
-      } else {
-        await this.gitManager.updateUpstreamBranch(remoteBranch);
-        return true;
-      }
-    }
-    return true;
-  }
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
   async setUpAutoBackup() {
     if (this.settings.setLastSaveToLastCommit) {
       this.clearAutoBackup();
@@ -47173,7 +44943,6 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
       }
     }
     if (!this.timeoutIDBackup && !this.onFileModifyEventRef) {
-<<<<<<< HEAD
       const lastAutos = this.loadLastAuto();
       if (this.settings.autoSaveInterval > 0) {
         const now2 = /* @__PURE__ */ new Date();
@@ -47181,21 +44950,11 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
           (now2.getTime() - lastAutos.backup.getTime()) / 1e3 / 60
         );
         this.startAutoBackup(diff3 <= 0 ? 0 : diff3);
-=======
-      const lastAutos = await this.loadLastAuto();
-      if (this.settings.autoSaveInterval > 0) {
-        const now2 = /* @__PURE__ */ new Date();
-        const diff2 = this.settings.autoSaveInterval - Math.round(
-          (now2.getTime() - lastAutos.backup.getTime()) / 1e3 / 60
-        );
-        this.startAutoBackup(diff2 <= 0 ? 0 : diff2);
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
       }
     }
   }
   async setUpAutos() {
     this.setUpAutoBackup();
-<<<<<<< HEAD
     const lastAutos = this.loadLastAuto();
     if (this.settings.differentIntervalCommitAndPush && this.settings.autoPushInterval > 0) {
       const now2 = /* @__PURE__ */ new Date();
@@ -47210,33 +44969,13 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
         (now2.getTime() - lastAutos.pull.getTime()) / 1e3 / 60
       );
       this.startAutoPull(diff3 <= 0 ? 0 : diff3);
-=======
-    const lastAutos = await this.loadLastAuto();
-    if (this.settings.differentIntervalCommitAndPush && this.settings.autoPushInterval > 0) {
-      const now2 = /* @__PURE__ */ new Date();
-      const diff2 = this.settings.autoPushInterval - Math.round(
-        (now2.getTime() - lastAutos.push.getTime()) / 1e3 / 60
-      );
-      this.startAutoPush(diff2 <= 0 ? 0 : diff2);
-    }
-    if (this.settings.autoPullInterval > 0) {
-      const now2 = /* @__PURE__ */ new Date();
-      const diff2 = this.settings.autoPullInterval - Math.round(
-        (now2.getTime() - lastAutos.pull.getTime()) / 1e3 / 60
-      );
-      this.startAutoPull(diff2 <= 0 ? 0 : diff2);
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     }
   }
   async discardAll() {
     await this.gitManager.discardAll({
       status: this.cachedStatus
     });
-<<<<<<< HEAD
     new import_obsidian31.Notice(
-=======
-    new import_obsidian30.Notice(
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
       "All local changes have been discarded. New files remain untouched."
     );
   }
@@ -47255,11 +44994,7 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
           "modify",
           () => this.autoBackupDebouncer()
         );
-<<<<<<< HEAD
         this.autoBackupDebouncer = (0, import_obsidian31.debounce)(
-=======
-        this.autoBackupDebouncer = (0, import_obsidian30.debounce)(
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
           () => this.doAutoBackup(),
           time,
           true
@@ -47343,30 +45078,18 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
   }
   async handleConflict(conflicted) {
     this.setState(6 /* conflicted */);
-<<<<<<< HEAD
     this.localStorage.setConflict(true);
-=======
-    this.localStorage.setConflict("true");
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     let lines;
     if (conflicted !== void 0) {
       lines = [
         "# Conflicts",
-<<<<<<< HEAD
         "Please resolve them and commit them using the commands `Git: Commit all changes` followed by `Git: Push`",
-=======
-        "Please resolve them and commit them using the commands `Obsidian Git: Commit all changes` followed by `Obsidian Git: Push`",
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
         "(This file will automatically be deleted before commit)",
         "[[#Additional Instructions]] available below file list",
         "",
         ...conflicted.map((e) => {
           const file = this.app.vault.getAbstractFileByPath(e);
-<<<<<<< HEAD
           if (file instanceof import_obsidian31.TFile) {
-=======
-          if (file instanceof import_obsidian30.TFile) {
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
             const link = this.app.metadataCache.fileToLinktext(
               file,
               "/"
@@ -47427,13 +45150,7 @@ I strongly recommend to use "Source mode" for viewing the conflicted files. For 
     if (remoteName) {
       this.displayMessage("Fetching remote branches");
       await this.gitManager.fetch(remoteName);
-<<<<<<< HEAD
       const branches = await this.gitManager.getRemoteBranches(remoteName);
-=======
-      const branches = await this.gitManager.getRemoteBranches(
-        remoteName
-      );
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
       const branchModal = new GeneralModal({
         options: branches,
         placeholder: "Select or create a new remote branch by typing its name and selecting it"
@@ -47503,22 +45220,15 @@ I strongly recommend to use "Source mode" for viewing the conflicted files. For 
     var _a2;
     (_a2 = this.statusBar) == null ? void 0 : _a2.displayMessage(message.toLowerCase(), timeout);
     if (!this.settings.disablePopups) {
-<<<<<<< HEAD
       if (!this.settings.disablePopupsForNoChanges || !message.startsWith("No changes")) {
         new import_obsidian31.Notice(message, 5 * 1e3);
       }
     }
     this.log(message);
-=======
-      new import_obsidian30.Notice(message, 5 * 1e3);
-    }
-    console.log(`git obsidian message: ${message}`);
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
   }
   displayError(message, timeout = 10 * 1e3) {
     var _a2;
     if (message instanceof Errors.UserCanceledError) {
-<<<<<<< HEAD
       new import_obsidian31.Notice("Aborted");
       return;
     }
@@ -47530,16 +45240,6 @@ I strongly recommend to use "Source mode" for viewing the conflicted files. For 
   log(message) {
     console.log(`${this.manifest.id}: ` + message);
   }
-=======
-      new import_obsidian30.Notice("Aborted");
-      return;
-    }
-    message = message.toString();
-    new import_obsidian30.Notice(message, timeout);
-    console.log(`git obsidian error: ${message}`);
-    (_a2 = this.statusBar) == null ? void 0 : _a2.displayMessage(message.toLowerCase(), timeout);
-  }
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
 };
 /*! Bundled license information:
 

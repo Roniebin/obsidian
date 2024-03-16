@@ -1,17 +1,9 @@
 {
     "id": "obsidian-git",
-<<<<<<< HEAD
     "name": "Git",
-=======
-    "name": "Obsidian Git",
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
     "description": "Backup your vault with Git.",
     "isDesktopOnly": false,
     "fundingUrl": "https://ko-fi.com/vinzent",
     "js": "main.js",
-<<<<<<< HEAD
     "version": "2.24.1"
-=======
-    "version": "2.22.0"
->>>>>>> e820eee7138ce9dd7940b8dbdaad5cd060692d3d
 }

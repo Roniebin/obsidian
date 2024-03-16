@@ -3,5 +3,7 @@
   "dataview",
   "table-editor-obsidian",
   "obsidian-tasks-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "tag-wrangler",
+  "obsidian-outliner"
 ]

@@ -5,5 +5,10 @@
   "obsidian-tasks-plugin",
   "obsidian-git",
   "tag-wrangler",
-  "obsidian-outliner"
+  "obsidian-outliner",
+  "calendar",
+  "colored-tags",
+  "highlightr-plugin",
+  "make-md",
+  "obsidian-plugin-tagged-documents-viewer"
 ]

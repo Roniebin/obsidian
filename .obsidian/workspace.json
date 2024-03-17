@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/3. 코딩애플/3. 코딩애플.md",
+                "file": "obsidian/1. Computer science/react/CSS/styling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "938545a2983e5dc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian/1. Computer science/멀티미디어/SGML,HTML,XML.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -64,8 +77,17 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "24f4b5ac04cb7059",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -85,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian/3. 코딩애플/3. 코딩애플.md",
+                "file": "obsidian/1. Computer science/멀티미디어/SGML,HTML,XML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian/3. 코딩애플/3. 코딩애플.md",
+                "file": "obsidian/1. Computer science/멀티미디어/SGML,HTML,XML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian/3. 코딩애플/3. 코딩애플.md"
+                "file": "obsidian/1. Computer science/멀티미디어/SGML,HTML,XML.md"
               }
             }
           },
@@ -153,17 +175,27 @@
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-plugin-tagged-documents-viewer:Tagged Documents Viewer": false
     }
   },
-  "active": "47844cb618b566cf",
+  "active": "938545a2983e5dc7",
   "lastOpenFiles": [
+    "obsidian/1. Computer science/멀티미디어/DCT.md",
+    "obsidian/1. Computer science/react/CSS/styled-components.md",
+    "obsidian/1. Computer science/react/CSS/font.md",
+    "obsidian/1. Computer science/멀티미디어/JPEG,GIF,PNG.md",
+    "Spaces/Home",
+    "Spaces",
+    "obsidian/1. Computer science/react/CSS/styling.md",
+    "obsidian/1. Computer science/멀티미디어/학교수업/이미지와 그래픽.md",
+    "obsidian/1. Computer science/멀티미디어/학교수업/비디오압축.md",
+    "0. Index/To-do list.md",
+    "obsidian/3. 코딩애플/3. 코딩애플.md",
     "obsidian/3. 코딩애플/React/Redux.md",
     "obsidian/3. 코딩애플/html,css/sticky.md",
-    "obsidian/1. Computer science/멀티미디어/JPEG,GIF,PNG.md",
     "2. English Notes/Grammar/To verb.md",
     "2. English Notes/Grammar/목적어로 to 부정사.md",
-    "0. Index/To-do list.md",
     "2. English Notes/words/resilient.md",
     "2. English Notes/words/phrasel_verb2.md",
     "2. English Notes/words/phrasal_verb.md",
@@ -177,13 +209,6 @@
     "2. English Notes/Simple_Expression/by all means.md",
     "2. English Notes/English news/news URL.md",
     "2. English Notes/Simple_Expression/better yet.md",
-    "2. English Notes/Grammar/목적어로 동명사.md",
-    "2. English Notes/diffrence between similar words/Suggest , propose.md",
-    "2. English Notes/diffrence between similar words/start, begin.md",
-    "2. English Notes/diffrence between similar words/specially, especially.md",
-    "2. English Notes/diffrence between similar words/readiness, willingness.md",
-    "2. English Notes/diffrence between similar words/keep,continue.md",
-    "2. English Notes/diffrence between similar words/go over , go through.md",
     "2. English Notes/words",
     "2. English Notes/Simple_Expression",
     "2. English Notes/English news",
@@ -202,8 +227,6 @@
     "Images/Pasted image 20240208175037.png",
     "Images/Pasted image 20240208172024.png",
     "Images/Pasted image 20240208171958.png",
-    "Images",
-    "Excalidraw",
-    "Context/spacesLastSync.log"
+    "Images"
   ]
 }

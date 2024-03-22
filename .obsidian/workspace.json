@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4f6db87aaf842d64",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -179,7 +189,7 @@
       "obsidian-plugin-tagged-documents-viewer:Tagged Documents Viewer": false
     }
   },
-  "active": "938545a2983e5dc7",
+  "active": "4f6db87aaf842d64",
   "lastOpenFiles": [
     "obsidian/Context/무제 파일.md",
     "obsidian/1. Computer science/멀티미디어/SGML,HTML,XML.md",

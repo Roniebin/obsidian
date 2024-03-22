@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/1. Computer science/react/CSS/styling.md",
+                "file": "0. Index/To-do list.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,19 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4f6db87aaf842d64",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.11"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,8 +85,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -189,8 +177,10 @@
       "obsidian-plugin-tagged-documents-viewer:Tagged Documents Viewer": false
     }
   },
-  "active": "4f6db87aaf842d64",
+  "active": "47844cb618b566cf",
   "lastOpenFiles": [
+    "obsidian/1. Computer science/react/CSS/styling.md",
+    "0. Index/To-do list.md",
     "obsidian/Context/무제 파일.md",
     "obsidian/1. Computer science/멀티미디어/SGML,HTML,XML.md",
     "obsidian/1. Computer science/멀티미디어/DCT.md",
@@ -199,10 +189,8 @@
     "obsidian/1. Computer science/멀티미디어/JPEG,GIF,PNG.md",
     "Spaces/Home",
     "Spaces",
-    "obsidian/1. Computer science/react/CSS/styling.md",
     "obsidian/1. Computer science/멀티미디어/학교수업/이미지와 그래픽.md",
     "obsidian/1. Computer science/멀티미디어/학교수업/비디오압축.md",
-    "0. Index/To-do list.md",
     "obsidian/3. 코딩애플/3. 코딩애플.md",
     "obsidian/3. 코딩애플/React/Redux.md",
     "obsidian/3. 코딩애플/html,css/sticky.md",

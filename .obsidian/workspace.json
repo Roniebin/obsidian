@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Index/To-do list.md",
+                "file": "0. Index/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Index/To-do list.md",
+                "file": "0. Index/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Index/To-do list.md",
+                "file": "0. Index/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Index/To-do list.md"
+                "file": "0. Index/무제 파일.md"
               }
             }
           },
@@ -179,9 +179,14 @@
   },
   "active": "47844cb618b566cf",
   "lastOpenFiles": [
-    "1. Computer science/알고리즘/Sort/External Sort.md",
     "0. Index/멘토 멘티활동.md",
+    "0. Index/무제 파일.md",
+    "1. Computer science/강화학습/gymnasium.md",
     "0. Index/To-do list.md",
+    "1. Computer science/강화학습",
+    "1. Computer science/머신러닝/강화학습/무제 파일.md",
+    "1. Computer science/머신러닝/강화학습",
+    "1. Computer science/알고리즘/Sort/External Sort.md",
     "1. Computer science/멀티미디어/저작도구.md",
     "1. Computer science/알고리즘/트리/다엑스트라 알고리즘.md",
     "1. Computer science/머신러닝/Basecode_Simplified_VGG_CIFAR10.md",
@@ -204,16 +209,12 @@
     "obsidian/3. 코딩애플/React/Redux.md",
     "obsidian/3. 코딩애플/html,css/sticky.md",
     "2. English Notes/Grammar/To verb.md",
-    "2. English Notes/Grammar/목적어로 to 부정사.md",
-    "2. English Notes/words/resilient.md",
-    "2. English Notes/words/phrasel_verb2.md",
     "2. English Notes/words",
     "2. English Notes/Simple_Expression",
     "2. English Notes/English news",
     "2. English Notes/Grammar",
     "2. English Notes/diffrence between similar words",
     "2. English Notes",
-    "0. Index",
     "Images/무제 파일.canvas",
     "Images/Pasted image 20240228155043.png",
     "Images/Pasted image 20240228155012.png",
@@ -224,7 +225,6 @@
     "Images/Pasted image 20240209152449.png",
     "Images/Pasted image 20240208175037.png",
     "Images/Pasted image 20240208172024.png",
-    "Images/Pasted image 20240208171958.png",
-    "Images"
+    "Images/Pasted image 20240208171958.png"
   ]
 }

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. 코딩애플/Git/2. add,commit.md",
+                "file": "3. 코딩애플/Git/7. github 사용법.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. 코딩애플/Git/2. add,commit.md",
+                "file": "3. 코딩애플/Git/7. github 사용법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. 코딩애플/Git/2. add,commit.md",
+                "file": "3. 코딩애플/Git/7. github 사용법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. 코딩애플/Git/2. add,commit.md"
+                "file": "3. 코딩애플/Git/7. github 사용법.md"
               }
             }
           },
@@ -167,6 +168,9 @@
   },
   "active": "938545a2983e5dc7",
   "lastOpenFiles": [
+    "3. 코딩애플/Git/3. add,commit 쉽게.md",
+    "3. 코딩애플/Git/4. git branch.md",
+    "3. 코딩애플/Git/2. add,commit.md",
     "3. 코딩애플/Git/1. git 설치법.md",
     "obsidian/3. 코딩애플/Git/1. git 설치법.md",
     "obsidian/1. Computer science/알고리즘/유클리드 최대공약수.md",
@@ -192,9 +196,6 @@
     "obsidian/1. Computer science/react/CSS/styling.md",
     "obsidian/Context/무제 파일.md",
     "obsidian/1. Computer science/멀티미디어/SGML,HTML,XML.md",
-    "obsidian/1. Computer science/멀티미디어/DCT.md",
-    "obsidian/1. Computer science/react/CSS/styled-components.md",
-    "obsidian/1. Computer science/react/CSS/font.md",
     "Spaces/Home",
     "Spaces",
     "2. English Notes/words",

@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "47844cb618b566cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. Index/무제 파일.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "938545a2983e5dc7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Index/To-do list.md",
+                "file": "3. 코딩애플/Git/2. add,commit.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#알고리즘",
+                "query": "git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Index/무제 파일.md",
+                "file": "3. 코딩애플/Git/2. add,commit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Index/무제 파일.md",
+                "file": "3. 코딩애플/Git/2. add,commit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Index/무제 파일.md"
+                "file": "3. 코딩애플/Git/2. add,commit.md"
               }
             }
           },
@@ -177,12 +165,19 @@
       "obsidian-plugin-tagged-documents-viewer:Tagged Documents Viewer": false
     }
   },
-  "active": "47844cb618b566cf",
+  "active": "938545a2983e5dc7",
   "lastOpenFiles": [
-    "0. Index/멘토 멘티활동.md",
+    "3. 코딩애플/Git/1. git 설치법.md",
+    "obsidian/3. 코딩애플/Git/1. git 설치법.md",
+    "obsidian/1. Computer science/알고리즘/유클리드 최대공약수.md",
     "0. Index/무제 파일.md",
-    "1. Computer science/강화학습/gymnasium.md",
+    "1. Computer science/알고리즘/유클리드 최대공약수.md",
     "0. Index/To-do list.md",
+    "1. Computer science/알고리즘/그리디알고리즘/부분 배낭 문제.md",
+    "1. Computer science/알고리즘/그리디알고리즘/그리디정의.md",
+    "1. Computer science/node.js/무제 파일.md",
+    "0. Index/멘토 멘티활동.md",
+    "1. Computer science/강화학습/gymnasium.md",
     "1. Computer science/강화학습",
     "1. Computer science/머신러닝/강화학습/무제 파일.md",
     "1. Computer science/머신러닝/강화학습",
@@ -200,15 +195,8 @@
     "obsidian/1. Computer science/멀티미디어/DCT.md",
     "obsidian/1. Computer science/react/CSS/styled-components.md",
     "obsidian/1. Computer science/react/CSS/font.md",
-    "obsidian/1. Computer science/멀티미디어/JPEG,GIF,PNG.md",
     "Spaces/Home",
     "Spaces",
-    "obsidian/1. Computer science/멀티미디어/학교수업/이미지와 그래픽.md",
-    "obsidian/1. Computer science/멀티미디어/학교수업/비디오압축.md",
-    "obsidian/3. 코딩애플/3. 코딩애플.md",
-    "obsidian/3. 코딩애플/React/Redux.md",
-    "obsidian/3. 코딩애플/html,css/sticky.md",
-    "2. English Notes/Grammar/To verb.md",
     "2. English Notes/words",
     "2. English Notes/Simple_Expression",
     "2. English Notes/English news",

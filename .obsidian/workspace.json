@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. 코딩애플/Git/7. github 사용법.md",
+                "file": "1. Computer science/문제해결기법/세그먼트 트리.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,12 +73,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ed3ada640fd6a8fa",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. 코딩애플/Git/7. github 사용법.md",
+                "file": "1. Computer science/문제해결기법/세그먼트 트리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. 코딩애플/Git/7. github 사용법.md",
+                "file": "1. Computer science/문제해결기법/세그먼트 트리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. 코딩애플/Git/7. github 사용법.md"
+                "file": "1. Computer science/문제해결기법/세그먼트 트리.md"
               }
             }
           },
@@ -168,6 +168,10 @@
   },
   "active": "938545a2983e5dc7",
   "lastOpenFiles": [
+    "1. Computer science/문제해결기법/무제 파일 1.md",
+    "1. Computer science/문제해결기법/세그먼트 트리.md",
+    "3. 코딩애플/Git/7. github 사용법.md",
+    "1. Computer science/문제해결기법",
     "3. 코딩애플/Git/3. add,commit 쉽게.md",
     "3. 코딩애플/Git/4. git branch.md",
     "3. 코딩애플/Git/2. add,commit.md",
@@ -193,9 +197,6 @@
     "1. Computer science/머신러닝/skip,dense,channel attention.md",
     "1. Computer science/머신러닝/KNN.md",
     "1. Computer science/머신러닝/MLP.md",
-    "obsidian/1. Computer science/react/CSS/styling.md",
-    "obsidian/Context/무제 파일.md",
-    "obsidian/1. Computer science/멀티미디어/SGML,HTML,XML.md",
     "Spaces/Home",
     "Spaces",
     "2. English Notes/words",
@@ -203,7 +204,6 @@
     "2. English Notes/English news",
     "2. English Notes/Grammar",
     "2. English Notes/diffrence between similar words",
-    "2. English Notes",
     "Images/무제 파일.canvas",
     "Images/Pasted image 20240228155043.png",
     "Images/Pasted image 20240228155012.png",

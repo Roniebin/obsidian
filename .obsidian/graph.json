@@ -11,41 +11,41 @@
       "query": "tag:#ComputerScience  ",
       "color": {
         "a": 1,
-        "rgb": 14048348
+        "rgb": 7600068
       }
     },
     {
       "query": "tag:#코딩애플  ",
       "color": {
         "a": 1,
-        "rgb": 14069084
+        "rgb": 11548912
       }
     },
     {
       "query": "tag:#English  ",
       "color": {
         "a": 1,
-        "rgb": 11392604
+        "rgb": 1533928
       }
     },
     {
-      "query": "",
+      "query": "path:",
       "color": {
         "a": 1,
-        "rgb": 6084188
+        "rgb": 14620182
       }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 1.4,
+  "textFadeMultiplier": -0.5,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "centerStrength": 0.5,
+  "repelStrength": 9.89583333333333,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.0078125,
+  "linkDistance": 143,
+  "scale": 0.14929427954467192,
   "close": false
 }

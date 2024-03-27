@@ -11,12 +11,8 @@
             "id": "938545a2983e5dc7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. Index/To-do list.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git",
+                "query": "tag:#ComputerScience",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +69,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Index/To-do list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Index/To-do list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "0. Index/To-do list.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,8 +159,26 @@
   },
   "active": "938545a2983e5dc7",
   "lastOpenFiles": [
+    "1. Computer science/알고리즘/np complete.md",
+    "Images/Images.md",
+    "Images/Pasted image 20231011154606.png",
+    "Images/Pasted image 20231011155421.png",
+    "Images/무제 파일.canvas",
+    "Images/i][j.md",
+    "Images/Pasted image 20231010202827.png",
+    "obsidian/Images/i][j.md",
+    "obsidian/Images/Images.md",
+    "Pasted image 20240327133829.png",
+    "Pasted image 20240327132342.png",
+    "Pasted image 20240327132318.png",
+    "obsidian/Images/Pasted image 20231203161215.png",
+    "Images/Pasted image 20240203160827.png",
     "1. Computer science/문제해결기법/세그먼트 트리.md",
+    "Pasted image 20240327135650.png",
     "1. Computer science/문제해결기법/무제 파일 1.md",
+    "0. Index/To-do list.md",
+    "1. Computer science/Jquery/기초.md",
+    "0. Index/무제 파일.md",
     "3. 코딩애플/Git/7. github 사용법.md",
     "1. Computer science/문제해결기법",
     "3. 코딩애플/Git/3. add,commit 쉽게.md",
@@ -178,9 +187,7 @@
     "3. 코딩애플/Git/1. git 설치법.md",
     "obsidian/3. 코딩애플/Git/1. git 설치법.md",
     "obsidian/1. Computer science/알고리즘/유클리드 최대공약수.md",
-    "0. Index/무제 파일.md",
     "1. Computer science/알고리즘/유클리드 최대공약수.md",
-    "0. Index/To-do list.md",
     "1. Computer science/알고리즘/그리디알고리즘/부분 배낭 문제.md",
     "1. Computer science/알고리즘/그리디알고리즘/그리디정의.md",
     "1. Computer science/node.js/무제 파일.md",
@@ -191,12 +198,6 @@
     "1. Computer science/머신러닝/강화학습",
     "1. Computer science/알고리즘/Sort/External Sort.md",
     "1. Computer science/멀티미디어/저작도구.md",
-    "1. Computer science/알고리즘/트리/다엑스트라 알고리즘.md",
-    "1. Computer science/머신러닝/Basecode_Simplified_VGG_CIFAR10.md",
-    "1. Computer science/머신러닝/SVM 실습.md",
-    "1. Computer science/머신러닝/skip,dense,channel attention.md",
-    "1. Computer science/머신러닝/KNN.md",
-    "1. Computer science/머신러닝/MLP.md",
     "Spaces/Home",
     "Spaces",
     "2. English Notes/words",
@@ -204,16 +205,6 @@
     "2. English Notes/English news",
     "2. English Notes/Grammar",
     "2. English Notes/diffrence between similar words",
-    "Images/무제 파일.canvas",
-    "Images/Pasted image 20240228155043.png",
-    "Images/Pasted image 20240228155012.png",
-    "Images/Pasted image 20240226154329.png",
-    "Images/Pasted image 20240226154317.png",
-    "Images/Pasted image 20240225172948.png",
-    "Images/Pasted image 20240209152513.png",
-    "Images/Pasted image 20240209152449.png",
-    "Images/Pasted image 20240208175037.png",
-    "Images/Pasted image 20240208172024.png",
-    "Images/Pasted image 20240208171958.png"
+    "Images/Pasted image 20240228155043.png"
   ]
 }

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Index/To-do list.md",
+                "file": "1. Computer science/문제해결기법/무제 파일 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Index/To-do list.md",
+                "file": "1. Computer science/문제해결기법/무제 파일 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Index/To-do list.md",
+                "file": "1. Computer science/문제해결기법/무제 파일 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Index/To-do list.md"
+                "file": "1. Computer science/문제해결기법/무제 파일 1.md"
               }
             }
           },
@@ -167,6 +167,8 @@
   },
   "active": "938545a2983e5dc7",
   "lastOpenFiles": [
+    "1. Computer science/문제해결기법/세그먼트 트리.md",
+    "0. Index/To-do list.md",
     "1. Computer science/알고리즘/np complete.md",
     "Images/Images.md",
     "Images/Pasted image 20231011154606.png",
@@ -181,10 +183,8 @@
     "Pasted image 20240327132318.png",
     "obsidian/Images/Pasted image 20231203161215.png",
     "Images/Pasted image 20240203160827.png",
-    "1. Computer science/문제해결기법/세그먼트 트리.md",
     "Pasted image 20240327135650.png",
     "1. Computer science/문제해결기법/무제 파일 1.md",
-    "0. Index/To-do list.md",
     "1. Computer science/Jquery/기초.md",
     "0. Index/무제 파일.md",
     "3. 코딩애플/Git/7. github 사용법.md",

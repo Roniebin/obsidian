@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Index/To-do list.md",
+                "file": "1. Computer science/문제해결기법/convex hull.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Index/To-do list.md",
+                "file": "1. Computer science/문제해결기법/convex hull.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Index/To-do list.md",
+                "file": "1. Computer science/문제해결기법/convex hull.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Index/To-do list.md"
+                "file": "1. Computer science/문제해결기법/convex hull.md"
               }
             }
           },
@@ -168,8 +168,9 @@
   "active": "938545a2983e5dc7",
   "lastOpenFiles": [
     "1. Computer science/문제해결기법/무제 파일 1.md",
-    "1. Computer science/문제해결기법/세그먼트 트리.md",
+    "1. Computer science/문제해결기법/convex hull.md",
     "0. Index/To-do list.md",
+    "1. Computer science/문제해결기법/세그먼트 트리.md",
     "1. Computer science/알고리즘/np complete.md",
     "Images/Images.md",
     "Images/Pasted image 20231011154606.png",
@@ -205,7 +206,6 @@
     "1. Computer science/머신러닝/강화학습/무제 파일.md",
     "1. Computer science/머신러닝/강화학습",
     "1. Computer science/알고리즘/Sort/External Sort.md",
-    "1. Computer science/멀티미디어/저작도구.md",
     "Spaces/Home",
     "Spaces",
     "2. English Notes/words",

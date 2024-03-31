@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Java/0. 단축키 강좌.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Java/0. 단축키 강좌.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Java/0. 단축키 강좌.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Java/0. 단축키 강좌.md"
+                "file": "README.md"
               }
             }
           },
@@ -165,11 +165,16 @@
       "obsidian-plugin-tagged-documents-viewer:Tagged Documents Viewer": false
     }
   },
-  "active": "5bf4790e9cc28b25",
+  "active": "938545a2983e5dc7",
   "lastOpenFiles": [
-    "4. Java/2.comparable.md",
+    "Images/Pasted image 20240331143246.png",
+    "Images/Pasted image 20240327135650.png",
+    "Images/Pasted image 20240327133829.png",
+    "Images/Pasted image 20240327132342.png",
+    "Images/Pasted image 20240327132318.png",
     "4. Java/0. 단축키 강좌.md",
     "4. Java/1. package.md",
+    "4. Java/2. comparable.md",
     "Pasted image 20240331143246.png",
     "0. Index/To-do list.md",
     "4. Java",
@@ -188,10 +193,6 @@
     "obsidian/Images/Images.md",
     "Pasted image 20240327133829.png",
     "Pasted image 20240327132342.png",
-    "Pasted image 20240327132318.png",
-    "obsidian/Images/Pasted image 20231203161215.png",
-    "Images/Pasted image 20240203160827.png",
-    "Pasted image 20240327135650.png",
     "1. Computer science/Jquery/기초.md",
     "3. 코딩애플/Git/7. github 사용법.md",
     "1. Computer science/문제해결기법",
@@ -205,7 +206,6 @@
     "1. Computer science/알고리즘/그리디알고리즘/부분 배낭 문제.md",
     "1. Computer science/알고리즘/그리디알고리즘/그리디정의.md",
     "1. Computer science/node.js/무제 파일.md",
-    "0. Index/멘토 멘티활동.md",
     "1. Computer science/강화학습",
     "1. Computer science/머신러닝/강화학습",
     "Spaces/Home",

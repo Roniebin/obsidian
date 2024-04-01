@@ -27,3 +27,12 @@ pip install -e
 이후에는 pip install -e .[all] 을 실행하여 모든 환경에 대한 내용을 담은 [전체 버전 설치](https://github.com/openai/gym#installing-everything)를 할 수 있습니다. 이를 위해서는 cmake나 최신 [pip](https://github.com/openai/gym#pip-version) 버전 등 관련된 몇 가지를 더 설치해야 합니다.
 
 --------------
+
+
+  
+
+1. 아나콘다에서 가상환경 생성
+
+gym 이라는 이름을 가지는 새로운 파이썬3 버전의 가상환경을 만들어 줍니다.
+
+$ conda create -n gym python=3.5 anaconda

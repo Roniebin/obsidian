@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Index/To-do list.md",
+                "file": "1. Computer science/강화학습/gymnasium.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Index/To-do list.md",
+                "file": "1. Computer science/강화학습/gymnasium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Index/To-do list.md",
+                "file": "1. Computer science/강화학습/gymnasium.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Index/To-do list.md"
+                "file": "1. Computer science/강화학습/gymnasium.md"
               }
             }
           },
@@ -167,9 +167,10 @@
   },
   "active": "938545a2983e5dc7",
   "lastOpenFiles": [
+    "0. Index/To-do list.md",
+    "5. 강화학습",
     "3. 코딩애플/Git/7. github 사용법.md",
     "4. Java/2. comparable.md",
-    "0. Index/To-do list.md",
     "README.md",
     "Images/Pasted image 20240331143246.png",
     "Images/Pasted image 20240327135650.png",
@@ -205,14 +206,12 @@
     "1. Computer science/알고리즘/유클리드 최대공약수.md",
     "1. Computer science/알고리즘/그리디알고리즘/부분 배낭 문제.md",
     "1. Computer science/알고리즘/그리디알고리즘/그리디정의.md",
-    "1. Computer science/node.js/무제 파일.md",
     "1. Computer science/강화학습",
     "1. Computer science/머신러닝/강화학습",
     "Spaces/Home",
     "Spaces",
     "2. English Notes/words",
     "2. English Notes/Simple_Expression",
-    "2. English Notes/English news",
-    "2. English Notes/Grammar"
+    "2. English Notes/English news"
   ]
 }

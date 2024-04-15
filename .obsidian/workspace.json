@@ -19,8 +19,12 @@
             "id": "31f203e5bf035f9f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1. Computer science/머신러닝/시험 실습코드연습/MLP.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -53,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ComputerScience",
+                "query": "skip",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +82,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1. Computer science/머신러닝/시험 실습코드연습/MLP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1. Computer science/머신러닝/시험 실습코드연습/MLP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1. Computer science/머신러닝/시험 실습코드연습/MLP.md"
+              }
             }
           },
           {
@@ -169,6 +176,10 @@
   },
   "active": "31f203e5bf035f9f",
   "lastOpenFiles": [
+    "1. Computer science/머신러닝/MLP.md",
+    "1. Computer science/머신러닝/gradient descent.md",
+    "1. Computer science/머신러닝/CNN.md",
+    "1. Computer science/머신러닝/Basecode_Simplified_VGG_CIFAR10.md",
     "0. Index/무제 파일.md",
     "0. Index/To-do list.md",
     "obsidian/1. Computer science/기본개념/무제 파일.md",
@@ -199,10 +210,6 @@
     "obsidian/2. English Notes/Grammar/목적어로 동명사.md",
     "obsidian/2. English Notes/Grammar/목적어로 to 부정사.md",
     "obsidian/2. English Notes/Grammar/To verb.md",
-    "obsidian/2. English Notes/English news/news URL.md",
-    "obsidian/2. English Notes/diffrence between similar words/start, begin.md",
-    "obsidian/2. English Notes/diffrence between similar words/Suggest , propose.md",
-    "obsidian/2. English Notes/diffrence between similar words/readiness, willingness.md",
     "obsidian/2. English Notes/words",
     "obsidian/2. English Notes/Simple_Expression",
     "obsidian/2. English Notes/Grammar",

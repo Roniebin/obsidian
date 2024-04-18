@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Index/To-do list.md",
+                "file": "3. 코딩애플/Git/7. github 사용법.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -102,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Index/To-do list.md",
+                "file": "3. 코딩애플/Git/7. github 사용법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Index/To-do list.md",
+                "file": "3. 코딩애플/Git/7. github 사용법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Index/To-do list.md"
+                "file": "3. 코딩애플/Git/7. github 사용법.md"
               }
             }
           },
@@ -176,13 +177,20 @@
   },
   "active": "31f203e5bf035f9f",
   "lastOpenFiles": [
+    "3. 코딩애플/Git/8. 타인과 협업하기.md",
+    "3. 코딩애플/Git/9. 브랜치로 협업하기.md",
+    "3. 코딩애플/Git/3. add,commit 쉽게.md",
+    "3. 코딩애플/Git/2. add,commit.md",
+    "3. 코딩애플/Git/4. git branch.md",
+    "3. 코딩애플/Git/10. git flow,trunk-based.md",
+    "3. 코딩애플/Git/7. github 사용법.md",
+    "0. Index/To-do list.md",
     "1. Computer science/머신러닝/시험 실습코드연습/MLP.md",
     "1. Computer science/머신러닝/MLP.md",
     "1. Computer science/머신러닝/gradient descent.md",
     "1. Computer science/머신러닝/CNN.md",
     "1. Computer science/머신러닝/Basecode_Simplified_VGG_CIFAR10.md",
     "0. Index/무제 파일.md",
-    "0. Index/To-do list.md",
     "obsidian/1. Computer science/기본개념/무제 파일.md",
     "obsidian/1. Computer science/기본개념/동기와 비동기.md",
     "obsidian/1. Computer science/기본개념/기본개념.md",
@@ -203,13 +211,6 @@
     "obsidian/2. English Notes/words/hold something back.md",
     "obsidian/2. English Notes/words/Ivy+Bean.md",
     "obsidian/2. English Notes/words/gym words.md",
-    "obsidian/2. English Notes/words/fed up with.md",
-    "obsidian/2. English Notes/Simple_Expression/that's not my bag.md",
-    "obsidian/2. English Notes/Simple_Expression/is it just me.md",
-    "obsidian/2. English Notes/Simple_Expression/by all means.md",
-    "obsidian/2. English Notes/Simple_Expression/better yet.md",
-    "obsidian/2. English Notes/Grammar/목적어로 동명사.md",
-    "obsidian/2. English Notes/Grammar/목적어로 to 부정사.md",
     "obsidian/2. English Notes/words",
     "obsidian/2. English Notes/Simple_Expression",
     "obsidian/2. English Notes/Grammar",
@@ -223,6 +224,4 @@
     "obsidian/Images/Pasted image 20240228155043.png",
     "obsidian/Images/Pasted image 20240228155012.png",
     "obsidian/Images/Pasted image 20240226154329.png",
-    "Images/무제 파일.canvas"
-  ]
-}
+    "Images/�

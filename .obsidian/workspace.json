@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. 코딩애플/Git/7. github 사용법.md",
+                "file": "0. Index/To-do list.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -103,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. 코딩애플/Git/7. github 사용법.md",
+                "file": "0. Index/To-do list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. 코딩애플/Git/7. github 사용법.md",
+                "file": "0. Index/To-do list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. 코딩애플/Git/7. github 사용법.md"
+                "file": "0. Index/To-do list.md"
               }
             }
           },
@@ -177,13 +176,13 @@
   },
   "active": "31f203e5bf035f9f",
   "lastOpenFiles": [
+    "3. 코딩애플/Git/7. github 사용법.md",
     "3. 코딩애플/Git/8. 타인과 협업하기.md",
     "3. 코딩애플/Git/9. 브랜치로 협업하기.md",
     "3. 코딩애플/Git/3. add,commit 쉽게.md",
     "3. 코딩애플/Git/2. add,commit.md",
     "3. 코딩애플/Git/4. git branch.md",
     "3. 코딩애플/Git/10. git flow,trunk-based.md",
-    "3. 코딩애플/Git/7. github 사용법.md",
     "0. Index/To-do list.md",
     "1. Computer science/머신러닝/시험 실습코드연습/MLP.md",
     "1. Computer science/머신러닝/MLP.md",
@@ -224,4 +223,6 @@
     "obsidian/Images/Pasted image 20240228155043.png",
     "obsidian/Images/Pasted image 20240228155012.png",
     "obsidian/Images/Pasted image 20240226154329.png",
-    "Images/�
+    "Images/무제 파일.canvas"
+  ]
+}

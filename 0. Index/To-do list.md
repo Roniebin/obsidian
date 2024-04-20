@@ -40,8 +40,10 @@
 화요일 
 그래픽스 시험까지 끝나고 영어 1시간정도 여유있음 그때 복습
 
-https://github.com/qgallouedec/panda-gym/
+갓다와서
+그래픽스 실습 보기 8시부터 10시
 
+집에 10시 40분에 출발
 
 알고리즘
 
@@ -55,3 +57,4 @@ https://github.com/qgallouedec/panda-gym/
 카탈란수, 교란순열 문제어떤식으로?
 룸메이트 문제?
 옆에서 건물볼때 경우의수
+''

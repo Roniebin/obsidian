@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Index/무제 파일 1.md",
+                "file": "0. Index/To-do list.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Index/무제 파일 1.md",
+                "file": "0. Index/To-do list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Index/무제 파일 1.md",
+                "file": "0. Index/To-do list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Index/무제 파일 1.md"
+                "file": "0. Index/To-do list.md"
               }
             }
           },
@@ -176,6 +176,8 @@
   },
   "active": "31f203e5bf035f9f",
   "lastOpenFiles": [
+    "0. Index/무제 파일.md",
+    "0. Index/무제 파일 1.md",
     "0. Index/To-do list.md",
     "3. 코딩애플/Git/7. github 사용법.md",
     "3. 코딩애플/Git/8. 타인과 협업하기.md",
@@ -189,7 +191,6 @@
     "1. Computer science/머신러닝/gradient descent.md",
     "1. Computer science/머신러닝/CNN.md",
     "1. Computer science/머신러닝/Basecode_Simplified_VGG_CIFAR10.md",
-    "0. Index/무제 파일.md",
     "obsidian/1. Computer science/기본개념/무제 파일.md",
     "obsidian/1. Computer science/기본개념/동기와 비동기.md",
     "obsidian/1. Computer science/기본개념/기본개념.md",
@@ -209,7 +210,6 @@
     "obsidian/2. English Notes/words/Low-key.md",
     "obsidian/2. English Notes/words/hold something back.md",
     "obsidian/2. English Notes/words/Ivy+Bean.md",
-    "obsidian/2. English Notes/words/gym words.md",
     "obsidian/2. English Notes/words",
     "obsidian/2. English Notes/Simple_Expression",
     "obsidian/2. English Notes/Grammar",

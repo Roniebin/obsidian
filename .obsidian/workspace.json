@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Index/무제 파일.md",
+                "file": "0. Index/To-do list.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -102,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Index/무제 파일.md",
+                "file": "0. Index/To-do list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Index/무제 파일.md",
+                "file": "0. Index/To-do list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Index/무제 파일.md"
+                "file": "0. Index/To-do list.md"
               }
             }
           },
@@ -176,8 +177,9 @@
   },
   "active": "31f203e5bf035f9f",
   "lastOpenFiles": [
-    "0. Index/멘토 멘티활동.md",
     "0. Index/무제 파일 1.md",
+    "1. Computer science/강화학습/혁펜하임/무제 파일 1.md",
+    "0. Index/멘토 멘티활동.md",
     "0. Index/무제 파일.md",
     "0. Index/To-do list.md",
     "3. 코딩애플/Git/7. github 사용법.md",
@@ -209,7 +211,6 @@
     "obsidian/2. English Notes/words/phrasel_verb2.md",
     "obsidian/2. English Notes/words/phrasal_verb.md",
     "obsidian/2. English Notes/words/Low-key.md",
-    "obsidian/2. English Notes/words/hold something back.md",
     "obsidian/2. English Notes/words",
     "obsidian/2. English Notes/Simple_Expression",
     "obsidian/2. English Notes/Grammar",
@@ -223,6 +224,4 @@
     "obsidian/Images/Pasted image 20240228155043.png",
     "obsidian/Images/Pasted image 20240228155012.png",
     "obsidian/Images/Pasted image 20240226154329.png",
-    "Images/무제 파일.canvas"
-  ]
-}
+    "Images/�

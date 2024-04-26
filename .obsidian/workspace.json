@@ -87,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ed3ada640fd6a8fa",
@@ -224,4 +225,6 @@
     "obsidian/Images/Pasted image 20240228155043.png",
     "obsidian/Images/Pasted image 20240228155012.png",
     "obsidian/Images/Pasted image 20240226154329.png",
-    "Images/�
+    "Images/무제 파일.canvas"
+  ]
+}

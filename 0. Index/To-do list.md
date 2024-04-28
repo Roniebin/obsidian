@@ -9,28 +9,15 @@
 
 -----
 
-영어 2시간
+##### 일일 하루
 
-1시간 듣기
-
-1시간 졸작 모델 다른모델해보기
-
-오늘의 문장
-when i work out in the morning , it puts me in a good mood
-and it is easier to stay focused at work too
-
-i hate winter , it is quite a hassle to put on layers every time i go outside
-
-going to the store is no hassle at all for me
-
-i wish i had a nice balance between work and home life , but that is not 
-how it works in most Korean companies
-
-
-
-하루
 영어 2시간 
 백준 1문제
-코딩애플 강의 2개
+코딩애플 강의 
 
------------
+-----
+시험은
+영어, 그래픽스는 평소에 매주 복습하자
+영어, 그래픽스는 그날수업한거 그날 밤 다시 복습
+
+문해기는 과제를 최대한빨리끝내고 시험은,,,,,,좀 내려놓자

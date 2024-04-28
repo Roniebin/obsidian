@@ -28,3 +28,9 @@ how it works in most Korean companies
 
 
 
+하루
+영어 2시간 
+백준 1문제
+코딩애플 강의 2개
+
+-----------

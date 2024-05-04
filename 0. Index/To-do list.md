@@ -29,3 +29,9 @@ if you dare to take the initiative in self-revealation, the other person is much
 
 the man took the article , examined it ,turned it over, weighed it, and took up a a=magnifying glass to look at it more closely
 그 남자는 그 물건을 집더니, 자세히 살펴보고, 뒤집어 보고, 무게를 재 보고 , 그것을 더 자세히 들여다보기위해 확대경을 집어 들었다.
+
+he showed them three line segments, and asked each one in turn which line was the longest
+그는 그들에게 세개의 선분을 보여주고서, 어느 선이 가장긴지를 차례대로각자에게 물어보았다.
+
+he is an eloquent and persuasive politician
+그는 달변이고 설득력있는 정치가이다

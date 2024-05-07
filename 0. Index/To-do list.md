@@ -11,9 +11,6 @@
 
 오늘 할일 
 
-투표결과 알리기
-영어 단어 5강
-
 ------------
 
 
@@ -27,7 +24,7 @@ cherished and painful memories
 if you dare to take the initiative in self-revealation, the other person is much more likely to reveal secrets to you
 당신이 감히 솔선하여 자기 자신을 드러내면, 상대방도 당신에게 비밀을 들어낼 가능성이 훨씬 더높다
 
-the man took the article , examined it ,turned it over, weighed it, and took up a a=magnifying glass to look at it more closely
+the man took the article , examined it ,turned it over, weighed it, and took up a magnifying glass to look at it more closely
 그 남자는 그 물건을 집더니, 자세히 살펴보고, 뒤집어 보고, 무게를 재 보고 , 그것을 더 자세히 들여다보기위해 확대경을 집어 들었다.
 
 he showed them three line segments, and asked each one in turn which line was the longest

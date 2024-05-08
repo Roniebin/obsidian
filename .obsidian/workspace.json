@@ -11,12 +11,8 @@
             "id": "938545a2983e5dc7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. 코딩애플/Javascript/4. 이벤트리스너.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. 코딩애플/Javascript/4. 이벤트리스너.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. 코딩애플/Javascript/4. 이벤트리스너.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "3. 코딩애플/Javascript/4. 이벤트리스너.md"
-              }
+              "state": {}
             }
           },
           {
@@ -165,35 +157,35 @@
       "obsidian-plugin-tagged-documents-viewer:Tagged Documents Viewer": false
     }
   },
-  "active": "5bf4790e9cc28b25",
+  "active": "938545a2983e5dc7",
   "lastOpenFiles": [
-    "3. 코딩애플/Javascript/3. function 파라미터.md",
+    "1. Computer science/코틀린/데이터베이스.md",
+    "1. Computer science/코틀린/널 안정성.md",
+    "1. Computer science/코틀린/이벤트/intent.md",
+    "1. Computer science/코틀린/이벤트/객체 불러오기.md",
+    "1. Computer science/코틀린/이벤트/이벤트처리.md",
+    "1. Computer science/코틀린/안드로이드/컴포넌트.md",
+    "1. Computer science/코틀린/안드로이드/gradle설명.md",
+    "1. Computer science/코틀린/액티비티/브로드캐스트 리시버.md",
+    "1. Computer science/코틀린/액티비티/manifest.md",
+    "1. Computer science/코틀린/액티비티/startActivityForResult.md",
+    "1. Computer science/문제해결기법/세그먼트 트리.md",
+    "1. Computer science/머신러닝/시험 실습코드연습/svm.md",
+    "1. Computer science/머신러닝/시험 실습코드연습/skip,dense,attention.md",
+    "1. Computer science/머신러닝/시험 실습코드연습/LeNet_MNIST.md",
+    "1. Computer science/머신러닝/시험 실습코드연습/KNN.md",
+    "1. Computer science/멀티미디어/플래시 메모리.md",
+    "1. Computer science/멀티미디어/DCT.md",
+    "1. Computer science/멀티미디어/그래픽 카드.md",
+    "1. Computer science/멀티미디어/인터페이스카드.md",
+    "1. Computer science/멀티미디어/저작도구.md",
+    "1. Computer science/알고리즘/복잡도(Complexity)/공간 복잡도.md",
     "3. 코딩애플/Javascript/4. 이벤트리스너.md",
+    "3. 코딩애플/Javascript/3. function 파라미터.md",
     "3. 코딩애플/Javascript/2. function 문법.md",
     "3. 코딩애플/Javascript/1. 동적 UI만드는 스텝.md",
     "3. 코딩애플/Javascript/0. 자바스크립트란.md",
-    "0. Index/To-do list.md",
     "3. 코딩애플/Javascript",
-    "3. 코딩애플/무제 파일.md",
-    "1. Computer science/머신러닝/MLP.md",
-    "1. Computer science/머신러닝/gradient descent.md",
-    "0. Index/무제 파일 1.md",
-    "1. Computer science/강화학습/혁펜하임/무제 파일 1.md",
-    "0. Index/멘토 멘티활동.md",
-    "0. Index/무제 파일.md",
-    "3. 코딩애플/Git/7. github 사용법.md",
-    "3. 코딩애플/Git/8. 타인과 협업하기.md",
-    "3. 코딩애플/Git/9. 브랜치로 협업하기.md",
-    "3. 코딩애플/Git/3. add,commit 쉽게.md",
-    "3. 코딩애플/Git/2. add,commit.md",
-    "3. 코딩애플/Git/4. git branch.md",
-    "3. 코딩애플/Git/10. git flow,trunk-based.md",
-    "1. Computer science/머신러닝/시험 실습코드연습/MLP.md",
-    "1. Computer science/머신러닝/CNN.md",
-    "1. Computer science/머신러닝/Basecode_Simplified_VGG_CIFAR10.md",
-    "obsidian/1. Computer science/기본개념/무제 파일.md",
-    "obsidian/1. Computer science/기본개념/동기와 비동기.md",
-    "obsidian/1. Computer science/기본개념/기본개념.md",
     "obsidian/1. Computer science/기본개념",
     "obsidian/Pasted image 20240308185316.png",
     "obsidian/Pasted image 20240308185419.png",

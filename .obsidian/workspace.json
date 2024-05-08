@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. 코딩애플/javascript/6. jQuery.md",
+                "file": "3. 코딩애플/javascript/5. classList.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. 코딩애플/javascript/6. jQuery.md",
+                "file": "3. 코딩애플/javascript/5. classList.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. 코딩애플/javascript/6. jQuery.md",
+                "file": "3. 코딩애플/javascript/5. classList.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. 코딩애플/javascript/6. jQuery.md"
+                "file": "3. 코딩애플/javascript/5. classList.md"
               }
             }
           },
@@ -165,10 +165,11 @@
       "obsidian-plugin-tagged-documents-viewer:Tagged Documents Viewer": false
     }
   },
-  "active": "5bf4790e9cc28b25",
+  "active": "938545a2983e5dc7",
   "lastOpenFiles": [
-    "3. 코딩애플/javascript/5. classList.md",
     "3. 코딩애플/javascript/6. jQuery.md",
+    "3. 코딩애플/javascript/7. UI 애니메이션.md",
+    "3. 코딩애플/javascript/5. classList.md",
     "0. Index/To-do list.md",
     "1. Computer science/코틀린/데이터베이스.md",
     "1. Computer science/코틀린/널 안정성.md",
@@ -192,7 +193,6 @@
     "1. Computer science/멀티미디어/저작도구.md",
     "1. Computer science/알고리즘/복잡도(Complexity)/공간 복잡도.md",
     "3. 코딩애플/javascript/4. 이벤트리스너.md",
-    "3. 코딩애플/javascript/3. function 파라미터.md",
     "3. 코딩애플/javascript",
     "obsidian/1. Computer science/기본개념",
     "obsidian/Pasted image 20240308185316.png",

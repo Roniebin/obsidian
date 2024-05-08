@@ -36,3 +36,12 @@ he showed them three line segments, and asked each one in turn which line was th
 
 he is an eloquent and persuasive politician
 그는 달변이고 설득력있는 정치가이다
+
+
+코딩애플 1위크 끝
+
+영어 김재우 5강
+
+남는시간
+영어발음, 그래픽스 복습 
+

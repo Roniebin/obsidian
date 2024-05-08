@@ -11,8 +11,12 @@
             "id": "938545a2983e5dc7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "3. 코딩애플/javascript/6. jQuery.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3. 코딩애플/javascript/6. jQuery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "3. 코딩애플/javascript/6. jQuery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "3. 코딩애플/javascript/6. jQuery.md"
+              }
             }
           },
           {
@@ -157,8 +165,11 @@
       "obsidian-plugin-tagged-documents-viewer:Tagged Documents Viewer": false
     }
   },
-  "active": "938545a2983e5dc7",
+  "active": "5bf4790e9cc28b25",
   "lastOpenFiles": [
+    "3. 코딩애플/javascript/5. classList.md",
+    "3. 코딩애플/javascript/6. jQuery.md",
+    "0. Index/To-do list.md",
     "1. Computer science/코틀린/데이터베이스.md",
     "1. Computer science/코틀린/널 안정성.md",
     "1. Computer science/코틀린/이벤트/intent.md",
@@ -180,12 +191,9 @@
     "1. Computer science/멀티미디어/인터페이스카드.md",
     "1. Computer science/멀티미디어/저작도구.md",
     "1. Computer science/알고리즘/복잡도(Complexity)/공간 복잡도.md",
-    "3. 코딩애플/Javascript/4. 이벤트리스너.md",
-    "3. 코딩애플/Javascript/3. function 파라미터.md",
-    "3. 코딩애플/Javascript/2. function 문법.md",
-    "3. 코딩애플/Javascript/1. 동적 UI만드는 스텝.md",
-    "3. 코딩애플/Javascript/0. 자바스크립트란.md",
-    "3. 코딩애플/Javascript",
+    "3. 코딩애플/javascript/4. 이벤트리스너.md",
+    "3. 코딩애플/javascript/3. function 파라미터.md",
+    "3. 코딩애플/javascript",
     "obsidian/1. Computer science/기본개념",
     "obsidian/Pasted image 20240308185316.png",
     "obsidian/Pasted image 20240308185419.png",

@@ -40,14 +40,11 @@ he is an eloquent and persuasive politician
 
 김재우 5강
 
-코딩애플 강의 4개
-
 문해기 수업듣기
 
 영어발음 이랑 그래픽스 복습
 
 -----
-
 금요일
 문해기 과제 1개
 코딩애플

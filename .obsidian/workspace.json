@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Index/무제 파일.md",
+                "file": "3. 코딩애플/javascript/step1/0. 자바스크립트란.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Index/무제 파일.md",
+                "file": "3. 코딩애플/javascript/step1/0. 자바스크립트란.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Index/무제 파일.md",
+                "file": "3. 코딩애플/javascript/step1/0. 자바스크립트란.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Index/무제 파일.md"
+                "file": "3. 코딩애플/javascript/step1/0. 자바스크립트란.md"
               }
             }
           },
@@ -149,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,9 +167,9 @@
   },
   "active": "938545a2983e5dc7",
   "lastOpenFiles": [
+    "0. Index/To-do list.md",
     "0. Index/무제 파일 1.md",
     "0. Index/무제 파일.md",
-    "0. Index/To-do list.md",
     "obsidian/1. Computer science/react/생명주기.md",
     "obsidian/1. Computer science/1. Computer science.md",
     "3. 코딩애플/javascript/step1/8. input 이벤트.md",

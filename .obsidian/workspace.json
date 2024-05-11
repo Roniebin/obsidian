@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Index/To-do list.md",
+                "file": "0. Index/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Index/To-do list.md",
+                "file": "0. Index/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Index/To-do list.md",
+                "file": "0. Index/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Index/To-do list.md"
+                "file": "0. Index/무제 파일.md"
               }
             }
           },
@@ -168,6 +168,7 @@
   "active": "938545a2983e5dc7",
   "lastOpenFiles": [
     "0. Index/무제 파일 1.md",
+    "0. Index/무제 파일.md",
     "0. Index/To-do list.md",
     "obsidian/1. Computer science/react/생명주기.md",
     "obsidian/1. Computer science/1. Computer science.md",
@@ -194,7 +195,6 @@
     "1. Computer science/머신러닝/시험 실습코드연습/skip,dense,attention.md",
     "1. Computer science/머신러닝/시험 실습코드연습/LeNet_MNIST.md",
     "1. Computer science/머신러닝/시험 실습코드연습/KNN.md",
-    "1. Computer science/멀티미디어/플래시 메모리.md",
     "3. 코딩애플/javascript",
     "obsidian/1. Computer science/기본개념",
     "obsidian/Pasted image 20240308185316.png",

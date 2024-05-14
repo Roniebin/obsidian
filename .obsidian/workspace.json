@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. 코딩애플/javascript/step2/6. 이벤트버블링.md",
+                "file": "3. 코딩애플/javascript/step3/3. select인풋 다루기.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. 코딩애플/javascript/step2/6. 이벤트버블링.md",
+                "file": "3. 코딩애플/javascript/step3/3. select인풋 다루기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. 코딩애플/javascript/step2/6. 이벤트버블링.md",
+                "file": "3. 코딩애플/javascript/step3/3. select인풋 다루기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. 코딩애플/javascript/step2/6. 이벤트버블링.md"
+                "file": "3. 코딩애플/javascript/step3/3. select인풋 다루기.md"
               }
             }
           },
@@ -167,13 +167,20 @@
   },
   "active": "938545a2983e5dc7",
   "lastOpenFiles": [
-    "1. Computer science/javascript/객체.md",
+    "3. 코딩애플/javascript/step3/2. 데이터바인딩.md",
+    "3. 코딩애플/javascript/step3/3. select인풋 다루기.md",
+    "Pasted image 20240514183204.png",
+    "Pasted image 20240514183136.png",
+    "3. 코딩애플/javascript/step3/1. array,object.md",
+    "0. Index/To-do list.md",
+    "3. 코딩애플/javascript/step3",
+    "0. Index/무제 파일 1.md",
     "3. 코딩애플/javascript/step2/6. 이벤트버블링.md",
+    "1. Computer science/javascript/객체.md",
     "3. 코딩애플/javascript/step2/5. 탭기능.md",
     "3. 코딩애플/javascript/step2/4. 스크롤바 이벤트.md",
     "3. 코딩애플/javascript/step2/3. 이미지슬라이드.md",
     "3. 코딩애플/javascript/step2/4. 이미지슬라이드2.md",
-    "0. Index/To-do list.md",
     "3. 코딩애플/javascript/step2/2. 정규식.md",
     "3. 코딩애플/javascript/step1/4. 이벤트리스너.md",
     "3. 코딩애플/javascript/step2/1. setTimeout.md",
@@ -182,7 +189,6 @@
     "3. 코딩애플/javascript/step2",
     "3. 코딩애플/javascript/step1/8. input 이벤트.md",
     "3. 코딩애플/javascript/step1/0. 자바스크립트란.md",
-    "0. Index/무제 파일 1.md",
     "0. Index/무제 파일.md",
     "obsidian/1. Computer science/react/생명주기.md",
     "obsidian/1. Computer science/1. Computer science.md",
@@ -194,9 +200,6 @@
     "1. Computer science/코틀린/데이터베이스.md",
     "1. Computer science/코틀린/널 안정성.md",
     "1. Computer science/코틀린/이벤트/intent.md",
-    "1. Computer science/코틀린/이벤트/객체 불러오기.md",
-    "1. Computer science/코틀린/이벤트/이벤트처리.md",
-    "1. Computer science/코틀린/안드로이드/컴포넌트.md",
     "3. 코딩애플/javascript",
     "obsidian/1. Computer science/기본개념",
     "obsidian/Pasted image 20240308185316.png",
@@ -205,15 +208,12 @@
     "obsidian/Pasted image 20240308190831.png",
     "obsidian/Pasted image 20240308191045.png",
     "obsidian/Pasted image 20240308191241.png",
-    "obsidian/Pasted image 20240308191242.png",
     "obsidian/2. English Notes/words",
     "obsidian/2. English Notes/Simple_Expression",
     "obsidian/2. English Notes/Grammar",
     "obsidian/2. English Notes/English news",
     "obsidian/2. English Notes/diffrence between similar words",
-    "obsidian/2. English Notes",
     "obsidian/Images/무제 파일.canvas",
-    "obsidian/Images/Pasted image 20240228155043.png",
     "Images/무제 파일.canvas"
   ]
 }

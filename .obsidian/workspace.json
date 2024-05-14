@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. 코딩애플/javascript/step3/3. select인풋 다루기.md",
+                "file": "3. 코딩애플/javascript/step3/5.forEach.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. 코딩애플/javascript/step3/3. select인풋 다루기.md",
+                "file": "3. 코딩애플/javascript/step3/5.forEach.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. 코딩애플/javascript/step3/3. select인풋 다루기.md",
+                "file": "3. 코딩애플/javascript/step3/5.forEach.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. 코딩애플/javascript/step3/3. select인풋 다루기.md"
+                "file": "3. 코딩애플/javascript/step3/5.forEach.md"
               }
             }
           },
@@ -167,8 +168,10 @@
   },
   "active": "938545a2983e5dc7",
   "lastOpenFiles": [
-    "3. 코딩애플/javascript/step3/2. 데이터바인딩.md",
+    "3. 코딩애플/javascript/step3/4. 템플릿만들기.md",
+    "3. 코딩애플/javascript/step3/5.forEach.md",
     "3. 코딩애플/javascript/step3/3. select인풋 다루기.md",
+    "3. 코딩애플/javascript/step3/2. 데이터바인딩.md",
     "Pasted image 20240514183204.png",
     "Pasted image 20240514183136.png",
     "3. 코딩애플/javascript/step3/1. array,object.md",
@@ -198,8 +201,6 @@
     "3. 코딩애플/javascript/step1/6. jQuery.md",
     "3. 코딩애플/javascript/step1/5. classList.md",
     "1. Computer science/코틀린/데이터베이스.md",
-    "1. Computer science/코틀린/널 안정성.md",
-    "1. Computer science/코틀린/이벤트/intent.md",
     "3. 코딩애플/javascript",
     "obsidian/1. Computer science/기본개념",
     "obsidian/Pasted image 20240308185316.png",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. 코딩애플/javascript/step3/8. DOM.md",
+                "file": "3. 코딩애플/javascript/step3/9. localStorage.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. 코딩애플/javascript/step3/8. DOM.md",
+                "file": "3. 코딩애플/javascript/step3/9. localStorage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. 코딩애플/javascript/step3/8. DOM.md",
+                "file": "3. 코딩애플/javascript/step3/9. localStorage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. 코딩애플/javascript/step3/8. DOM.md"
+                "file": "3. 코딩애플/javascript/step3/9. localStorage.md"
               }
             }
           },
@@ -167,8 +167,9 @@
   },
   "active": "938545a2983e5dc7",
   "lastOpenFiles": [
-    "3. 코딩애플/javascript/step3/7. sort,map,fliter.md",
     "3. 코딩애플/javascript/step3/8. DOM.md",
+    "3. 코딩애플/javascript/step3/9. localStorage.md",
+    "3. 코딩애플/javascript/step3/7. sort,map,fliter.md",
     "3. 코딩애플/javascript/step3/2. 데이터바인딩.md",
     "3. 코딩애플/javascript/step3/3. select인풋 다루기.md",
     "3. 코딩애플/javascript/step3/4. 템플릿만들기.md",
@@ -199,7 +200,6 @@
     "obsidian/1. Computer science/1. Computer science.md",
     "Pasted image 20240509141545.png",
     "3. 코딩애플/javascript/step1",
-    "3. 코딩애플/javascript/step1/7. UI 애니메이션.md",
     "3. 코딩애플/javascript",
     "obsidian/1. Computer science/기본개념",
     "obsidian/Pasted image 20240308185316.png",

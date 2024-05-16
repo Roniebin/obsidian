@@ -43,6 +43,3 @@ he is an eloquent and persuasive politician
 -----
 
 
-그래픽스 인강 2개
-
-문해기 maxflow 이해아직못함

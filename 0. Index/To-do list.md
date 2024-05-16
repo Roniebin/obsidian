@@ -42,4 +42,14 @@ he is an eloquent and persuasive politician
 
 -----
 
+영어 5문장외우기
+
+코딩애플 자바스크립트 기초 마무리
+
+3시까지
+
+4시부터 7시까지 
+
+제리엔탐 해보기
+
 

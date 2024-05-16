@@ -53,3 +53,9 @@ he is an eloquent and persuasive politician
 제리엔탐 해보기
 
 
+
+주말동안 할 것
+
+포트폴리오 수정
+마이 블로그 깃허브로 베포
+자기소개서 

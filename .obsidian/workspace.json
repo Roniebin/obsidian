@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -168,9 +167,11 @@
   },
   "active": "938545a2983e5dc7",
   "lastOpenFiles": [
+    "0. Index/무제 파일.md",
+    "0. Index/무제 파일 1.md",
+    "0. Index/To-do list.md",
     "3. 코딩애플/javascript/step3/12. 캐러셀스와이프.md",
     "3. 코딩애플/javascript/step3/11. applemusic 카드.md",
-    "0. Index/To-do list.md",
     "3. 코딩애플/javascript/step3/10. sticky.md",
     "Pasted image 20240516142622.png",
     "Pasted image 20240516142609.png",
@@ -187,7 +188,6 @@
     "Pasted image 20240514183136.png",
     "3. 코딩애플/javascript/step3/1. array,object.md",
     "3. 코딩애플/javascript/step3",
-    "0. Index/무제 파일 1.md",
     "3. 코딩애플/javascript/step2/6. 이벤트버블링.md",
     "1. Computer science/javascript/객체.md",
     "3. 코딩애플/javascript/step2/5. 탭기능.md",
@@ -201,7 +201,6 @@
     "3. 코딩애플/javascript/step1/9. var,let,const.md",
     "3. 코딩애플/javascript/step2",
     "3. 코딩애플/javascript/step1/8. input 이벤트.md",
-    "3. 코딩애플/javascript/step1/0. 자바스크립트란.md",
     "Pasted image 20240509141545.png",
     "3. 코딩애플/javascript/step1",
     "3. 코딩애플/javascript",

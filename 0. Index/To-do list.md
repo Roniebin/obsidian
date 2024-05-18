@@ -64,3 +64,12 @@ he is an eloquent and persuasive politician
 
 생활편의 증진 -커뮤니티
 교통편의 - 길찾기
+
+
+그래픽스 3시까지 그래픽스 총복습
+
+영상보고
+
+영어 발음 공부
+
+시간남으면 위상정렬 영상

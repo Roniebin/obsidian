@@ -42,24 +42,6 @@ he is an eloquent and persuasive politician
 
 -----
 
-영어 5문장외우기
-
-코딩애플 자바스크립트 기초 마무리
-
-3시까지
-
-4시부터 7시까지 
-
-제리엔탐 해보기
-
-
-
-주말동안 할 것
-
-포트폴리오 수정
-마이 블로그 깃허브로 베포
-자기소개서 
-
 
 
 생활편의 증진 -커뮤니티
@@ -67,9 +49,7 @@ he is an eloquent and persuasive politician
 
 
 
-영상보고
-
-영어 발음 공부 (빠싹)
+집가서 위상정렬 이해
 
 내일
 위상정렬 복습

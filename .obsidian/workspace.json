@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Index/To-do list.md",
+                "file": "1. Computer science/알고리즘/탐색기법/DFS.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ed3ada640fd6a8fa",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Index/To-do list.md",
+                "file": "1. Computer science/알고리즘/탐색기법/DFS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Index/To-do list.md",
+                "file": "1. Computer science/알고리즘/탐색기법/DFS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Index/To-do list.md"
+                "file": "1. Computer science/알고리즘/탐색기법/DFS.md"
               }
             }
           },
@@ -167,9 +168,17 @@
   },
   "active": "938545a2983e5dc7",
   "lastOpenFiles": [
+    "Pasted image 20240519145735.png",
+    "Pasted image 20240519145720.png",
+    "Pasted image 20240519144431.png",
+    "Pasted image 20240519144341.png",
+    "Pasted image 20240519144240.png",
+    "1. Computer science/알고리즘/탐색기법/무제 파일 1.md",
+    "1. Computer science/알고리즘/탐색기법/DFS.md",
+    "0. Index/To-do list.md",
+    "1. Computer science/알고리즘/탐색기법",
     "0. Index/무제 파일.md",
     "0. Index/무제 파일 1.md",
-    "0. Index/To-do list.md",
     "3. 코딩애플/javascript/step3/12. 캐러셀스와이프.md",
     "3. 코딩애플/javascript/step3/11. applemusic 카드.md",
     "3. 코딩애플/javascript/step3/10. sticky.md",
@@ -196,23 +205,15 @@
     "3. 코딩애플/javascript/step2/4. 이미지슬라이드2.md",
     "3. 코딩애플/javascript/step2/2. 정규식.md",
     "3. 코딩애플/javascript/step1/4. 이벤트리스너.md",
-    "3. 코딩애플/javascript/step2/1. setTimeout.md",
     "Pasted image 20240511175204.png",
-    "3. 코딩애플/javascript/step1/9. var,let,const.md",
     "3. 코딩애플/javascript/step2",
-    "3. 코딩애플/javascript/step1/8. input 이벤트.md",
-    "Pasted image 20240509141545.png",
     "3. 코딩애플/javascript/step1",
     "3. 코딩애플/javascript",
     "obsidian/1. Computer science/기본개념",
-    "obsidian/Pasted image 20240308185316.png",
-    "obsidian/Pasted image 20240308185419.png",
-    "obsidian/Pasted image 20240308190159.png",
     "obsidian/2. English Notes/words",
     "obsidian/2. English Notes/Simple_Expression",
     "obsidian/2. English Notes/Grammar",
     "obsidian/2. English Notes/English news",
-    "obsidian/2. English Notes/diffrence between similar words",
     "obsidian/Images/무제 파일.canvas",
     "Images/무제 파일.canvas"
   ]

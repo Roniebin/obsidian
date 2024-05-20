@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. 코딩애플/javascript/step3/11. applemusic 카드.md",
+                "file": "0. Index/To-do list.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ed3ada640fd6a8fa",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. 코딩애플/javascript/step3/11. applemusic 카드.md",
+                "file": "0. Index/To-do list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. 코딩애플/javascript/step3/11. applemusic 카드.md",
+                "file": "0. Index/To-do list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. 코딩애플/javascript/step3/11. applemusic 카드.md"
+                "file": "0. Index/To-do list.md"
               }
             }
           },
@@ -168,6 +167,12 @@
   },
   "active": "938545a2983e5dc7",
   "lastOpenFiles": [
+    "3. 코딩애플/Next js/part3/1. OAuth+session.md",
+    "3. 코딩애플/Next js/part3/9.middleware.md",
+    "3. 코딩애플/Next js/part3/5. loading,error,not-found.md",
+    "3. 코딩애플/Next js/part3/4. 댓글 조회.md",
+    "3. 코딩애플/Next js/part3/6. AWS 배포.md",
+    "3. 코딩애플/javascript/step3/11. applemusic 카드.md",
     "1. Computer science/알고리즘/탐색기법/DFS.md",
     "Pasted image 20240519145735.png",
     "Pasted image 20240519145720.png",
@@ -180,7 +185,6 @@
     "0. Index/무제 파일.md",
     "0. Index/무제 파일 1.md",
     "3. 코딩애플/javascript/step3/12. 캐러셀스와이프.md",
-    "3. 코딩애플/javascript/step3/11. applemusic 카드.md",
     "3. 코딩애플/javascript/step3/10. sticky.md",
     "Pasted image 20240516142622.png",
     "Pasted image 20240516142609.png",
@@ -201,10 +205,6 @@
     "1. Computer science/javascript/객체.md",
     "3. 코딩애플/javascript/step2/5. 탭기능.md",
     "3. 코딩애플/javascript/step2/4. 스크롤바 이벤트.md",
-    "3. 코딩애플/javascript/step2/3. 이미지슬라이드.md",
-    "3. 코딩애플/javascript/step2/4. 이미지슬라이드2.md",
-    "3. 코딩애플/javascript/step2/2. 정규식.md",
-    "3. 코딩애플/javascript/step1/4. 이벤트리스너.md",
     "3. 코딩애플/javascript/step2",
     "3. 코딩애플/javascript/step1",
     "3. 코딩애플/javascript",

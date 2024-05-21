@@ -11,12 +11,8 @@
             "id": "938545a2983e5dc7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. Index/To-do list.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -73,8 +69,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Index/To-do list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Index/To-do list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "0. Index/To-do list.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,6 +159,14 @@
   },
   "active": "938545a2983e5dc7",
   "lastOpenFiles": [
+    "3. 코딩애플/Next js/part1/2.페이지 레이아웃 만들기.md",
+    "1. Computer science/문제해결기법/세그먼트 트리.md",
+    "1. Computer science/문제해결기법/convex hull.md",
+    "1. Computer science/머신러닝/시험 실습코드연습/svm.md",
+    "1. Computer science/머신러닝/시험 실습코드연습/MLP.md",
+    "1. Computer science/머신러닝/시험 실습코드연습/LeNet_MNIST.md",
+    "1. Computer science/기본개념/무제 파일.md",
+    "0. Index/To-do list.md",
     "3. 코딩애플/Next js/part3/1. OAuth+session.md",
     "3. 코딩애플/Next js/part3/9.middleware.md",
     "3. 코딩애플/Next js/part3/5. loading,error,not-found.md",
@@ -181,7 +180,6 @@
     "Pasted image 20240519144341.png",
     "Pasted image 20240519144240.png",
     "1. Computer science/알고리즘/탐색기법/무제 파일 1.md",
-    "0. Index/To-do list.md",
     "1. Computer science/알고리즘/탐색기법",
     "0. Index/무제 파일.md",
     "0. Index/무제 파일 1.md",
@@ -196,16 +194,9 @@
     "3. 코딩애플/javascript/step3/2. 데이터바인딩.md",
     "3. 코딩애플/javascript/step3/3. select인풋 다루기.md",
     "3. 코딩애플/javascript/step3/4. 템플릿만들기.md",
-    "3. 코딩애플/javascript/step3/5.forEach.md",
-    "3. 코딩애플/javascript/step3/6. ajax.md",
     "Pasted image 20240514183204.png",
     "Pasted image 20240514183136.png",
-    "3. 코딩애플/javascript/step3/1. array,object.md",
     "3. 코딩애플/javascript/step3",
-    "3. 코딩애플/javascript/step2/6. 이벤트버블링.md",
-    "1. Computer science/javascript/객체.md",
-    "3. 코딩애플/javascript/step2/5. 탭기능.md",
-    "3. 코딩애플/javascript/step2/4. 스크롤바 이벤트.md",
     "3. 코딩애플/javascript/step2",
     "3. 코딩애플/javascript/step1",
     "3. 코딩애플/javascript",

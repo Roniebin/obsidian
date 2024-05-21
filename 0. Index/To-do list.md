@@ -52,3 +52,7 @@ he is an eloquent and persuasive politician
 그래픽스 보고서
 멘토링보고서
 
+
+에스파 마지막문제
+유티멘티 마지막 멘토링 보고서 제출
+포트폴리오 자기소개서 작성

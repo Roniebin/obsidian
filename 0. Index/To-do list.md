@@ -55,7 +55,7 @@ he is an eloquent and persuasive politician
 다풀면 오늘학교에서 배운거랑 컴퓨터그래픽스 매쉬공부
 영어발음 복습
 
-맥스플로우 위상정렬과 2sat을 공부하자
+2sat을 공부하자
 
 5시까지
 이후  5시 30분까지 영어발음 복습하고
@@ -63,3 +63,5 @@ he is an eloquent and persuasive politician
 헬스 끝나고 
 8시30분부터 11시까지 
 컴퓨터그래픽스 pmp라이브러리 복습
+포트폴리오 만들기
+

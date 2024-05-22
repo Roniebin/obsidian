@@ -55,3 +55,6 @@ he is an eloquent and persuasive politician
 다풀면 오늘학교에서 배운거랑 컴퓨터그래픽스 매쉬공부
 영어발음 복습
 
+위상정렬과 2sat을 공부하자
+이후 영어발음 복습하고
+컴퓨터그래픽스 pmp라이브러리 복습

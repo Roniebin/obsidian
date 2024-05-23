@@ -49,7 +49,6 @@ he is an eloquent and persuasive politician
 
 에스파 마지막문제
 
-그래픽스 인강 + mesh.property 공부
 
 포트폴리오 작성 (노션)
 포트폴리오사이트

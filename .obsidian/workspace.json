@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. 코딩애플/Next js/part1/1.설치 및 개발환경.md",
+                "file": "0. Index/To-do list.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. 코딩애플/Next js/part1/1.설치 및 개발환경.md",
+                "file": "0. Index/To-do list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. 코딩애플/Next js/part1/1.설치 및 개발환경.md",
+                "file": "0. Index/To-do list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. 코딩애플/Next js/part1/1.설치 및 개발환경.md"
+                "file": "0. Index/To-do list.md"
               }
             }
           },
@@ -166,6 +166,7 @@
   },
   "active": "938545a2983e5dc7",
   "lastOpenFiles": [
+    "3. 코딩애플/Next js/part1/1.설치 및 개발환경.md",
     "3. 코딩애플/Next js/part1/5. 이미지넣는법.md",
     "3. 코딩애플/Next js/part1/4. 반복문 map.md",
     "1. Computer science/알고리즘/유클리드 최대공약수.md",
@@ -200,7 +201,6 @@
     "Pasted image 20240516142622.png",
     "Pasted image 20240516142609.png",
     "Pasted image 20240516142600.png",
-    "3. 코딩애플/javascript/step3/9. localStorage.md",
     "Pasted image 20240514183204.png",
     "Pasted image 20240514183136.png",
     "3. 코딩애플/javascript/step3",

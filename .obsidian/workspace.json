@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Index/무제 파일.md",
+                "file": "0. Index/To-do list.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Index/무제 파일.md",
+                "file": "0. Index/To-do list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Index/무제 파일.md",
+                "file": "0. Index/To-do list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Index/무제 파일.md"
+                "file": "0. Index/To-do list.md"
               }
             }
           },
@@ -165,9 +165,10 @@
       "obsidian-plugin-tagged-documents-viewer:Tagged Documents Viewer": false
     }
   },
-  "active": "938545a2983e5dc7",
+  "active": "5bf4790e9cc28b25",
   "lastOpenFiles": [
     "0. Index/무제 파일 1.md",
+    "0. Index/무제 파일.md",
     "0. Index/To-do list.md",
     "1. Computer science/javascript/자료형.md",
     "1. Computer science/javascript/이벤트.md",
@@ -192,7 +193,6 @@
     "3. 코딩애플/Next js/part3/1. OAuth+session.md",
     "3. 코딩애플/Next js/part3/9.middleware.md",
     "3. 코딩애플/Next js/part3/5. loading,error,not-found.md",
-    "3. 코딩애플/Next js/part3/4. 댓글 조회.md",
     "Pasted image 20240519145735.png",
     "Pasted image 20240519145720.png",
     "Pasted image 20240519144431.png",

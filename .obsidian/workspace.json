@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ed3ada640fd6a8fa",
@@ -150,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,7 +167,7 @@
       "obsidian-plugin-tagged-documents-viewer:Tagged Documents Viewer": false
     }
   },
-  "active": "5bf4790e9cc28b25",
+  "active": "938545a2983e5dc7",
   "lastOpenFiles": [
     "0. Index/무제 파일 1.md",
     "0. Index/무제 파일.md",

@@ -44,10 +44,8 @@ he is an eloquent and persuasive politician
 
 해야할일
 
-
-영어 리뷰 과제
-2sat문제 어제문제 코드 분석
 컴퓨터 그래픽스 어제 영상본거 복습
+2sat문제 어제문제 코드 분석
 자기소개서 남은거 하나 끝내기
 
 

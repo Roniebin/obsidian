@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Index/To-do list.md",
+                "file": "2. English Notes/아주좋은 표현.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Index/To-do list.md",
+                "file": "2. English Notes/아주좋은 표현.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Index/To-do list.md",
+                "file": "2. English Notes/아주좋은 표현.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Index/To-do list.md"
+                "file": "2. English Notes/아주좋은 표현.md"
               }
             }
           },
@@ -165,8 +165,10 @@
       "obsidian-plugin-tagged-documents-viewer:Tagged Documents Viewer": false
     }
   },
-  "active": "938545a2983e5dc7",
+  "active": "5bf4790e9cc28b25",
   "lastOpenFiles": [
+    "2. English Notes/꿀문장들.md",
+    "2. English Notes/아주좋은 표현.md",
     "0. Index/무제 파일.md",
     "0. Index/To-do list.md",
     "0. Index/무제 파일 1.md",
@@ -191,8 +193,6 @@
     "1. Computer science/머신러닝/시험 실습코드연습/LeNet_MNIST.md",
     "1. Computer science/기본개념/무제 파일.md",
     "3. 코딩애플/Next js/part3/1. OAuth+session.md",
-    "3. 코딩애플/Next js/part3/9.middleware.md",
-    "3. 코딩애플/Next js/part3/5. loading,error,not-found.md",
     "Pasted image 20240519145735.png",
     "Pasted image 20240519145720.png",
     "Pasted image 20240519144431.png",

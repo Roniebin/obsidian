@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. English Notes/아주좋은 표현.md",
+                "file": "0. Index/To-do list.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. English Notes/아주좋은 표현.md",
+                "file": "0. Index/To-do list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. English Notes/아주좋은 표현.md",
+                "file": "0. Index/To-do list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. English Notes/아주좋은 표현.md"
+                "file": "0. Index/To-do list.md"
               }
             }
           },
@@ -165,10 +165,10 @@
       "obsidian-plugin-tagged-documents-viewer:Tagged Documents Viewer": false
     }
   },
-  "active": "5bf4790e9cc28b25",
+  "active": "938545a2983e5dc7",
   "lastOpenFiles": [
-    "2. English Notes/꿀문장들.md",
     "2. English Notes/아주좋은 표현.md",
+    "2. English Notes/꿀문장들.md",
     "0. Index/무제 파일.md",
     "0. Index/To-do list.md",
     "0. Index/무제 파일 1.md",

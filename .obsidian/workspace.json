@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Index/To-do list.md",
+                "file": "2. English Notes/아주좋은 표현.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Index/To-do list.md",
+                "file": "2. English Notes/아주좋은 표현.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Index/To-do list.md",
+                "file": "2. English Notes/아주좋은 표현.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Index/To-do list.md"
+                "file": "2. English Notes/아주좋은 표현.md"
               }
             }
           },
@@ -167,10 +167,10 @@
   },
   "active": "938545a2983e5dc7",
   "lastOpenFiles": [
-    "0. Index/무제 파일 1.md",
-    "0. Index/To-do list.md",
-    "2. English Notes/아주좋은 표현.md",
     "2. English Notes/꿀문장들.md",
+    "2. English Notes/아주좋은 표현.md",
+    "0. Index/To-do list.md",
+    "0. Index/무제 파일 1.md",
     "0. Index/무제 파일.md",
     "1. Computer science/javascript/자료형.md",
     "1. Computer science/javascript/이벤트.md",

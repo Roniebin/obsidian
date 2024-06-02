@@ -11,8 +11,12 @@
             "id": "0292aac2b7b69ad6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2. English Notes/아주좋은 표현.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2. English Notes/아주좋은 표현.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2. English Notes/아주좋은 표현.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2. English Notes/아주좋은 표현.md"
+              }
             }
           },
           {
@@ -159,6 +167,7 @@
   },
   "active": "0292aac2b7b69ad6",
   "lastOpenFiles": [
+    "0. Index/To-do list.md",
     "3. 코딩애플/html,css/html이란.md",
     "3. 코딩애플/html,css/css.md",
     "3. 코딩애플/html,css/bootstrap.md",
@@ -169,7 +178,6 @@
     "3. 코딩애플/html,css/가운데정렬.md",
     "obsidian/3. 코딩애플/Next js/part1/0. 사용하는 이유.md",
     "3. 코딩애플/javascript/step2/4. 스크롤바 이벤트.md",
-    "0. Index/To-do list.md",
     "0. Index/무제 파일 1.md",
     "2. English Notes/아주좋은 표현.md",
     "2. English Notes/꿀문장들.md",

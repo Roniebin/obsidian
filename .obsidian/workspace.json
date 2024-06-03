@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. English Notes/꿀문장들.md",
+                "file": "0. Index/To-do list.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. English Notes/꿀문장들.md",
+                "file": "0. Index/To-do list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. English Notes/꿀문장들.md",
+                "file": "0. Index/To-do list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. English Notes/꿀문장들.md"
+                "file": "0. Index/To-do list.md"
               }
             }
           },
@@ -168,8 +167,10 @@
   },
   "active": "0292aac2b7b69ad6",
   "lastOpenFiles": [
-    "2. English Notes/아주좋은 표현.md",
+    "0. Index/무제 파일.md",
+    "0. Index/무제 파일 1.md",
     "2. English Notes/꿀문장들.md",
+    "2. English Notes/아주좋은 표현.md",
     "0. Index/To-do list.md",
     "3. 코딩애플/html,css/html이란.md",
     "3. 코딩애플/html,css/css.md",
@@ -181,8 +182,6 @@
     "3. 코딩애플/html,css/가운데정렬.md",
     "obsidian/3. 코딩애플/Next js/part1/0. 사용하는 이유.md",
     "3. 코딩애플/javascript/step2/4. 스크롤바 이벤트.md",
-    "0. Index/무제 파일 1.md",
-    "0. Index/무제 파일.md",
     "1. Computer science/javascript/자료형.md",
     "1. Computer science/javascript/이벤트.md",
     "1. Computer science/알고리즘/분할 정복 알고리즘.md",

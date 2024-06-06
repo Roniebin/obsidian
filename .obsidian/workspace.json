@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. English Notes/아주좋은 표현.md",
+                "file": "2. English Notes/통역/샤론최.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ed3ada640fd6a8fa",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. English Notes/아주좋은 표현.md",
+                "file": "2. English Notes/통역/샤론최.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. English Notes/아주좋은 표현.md",
+                "file": "2. English Notes/통역/샤론최.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. English Notes/아주좋은 표현.md"
+                "file": "2. English Notes/통역/샤론최.md"
               }
             }
           },
@@ -169,6 +170,9 @@
   "lastOpenFiles": [
     "2. English Notes/꿀문장들.md",
     "2. English Notes/아주좋은 표현.md",
+    "2. English Notes/Simple_Expression/by all means.md",
+    "2. English Notes/통역/샤론최.md",
+    "2. English Notes/통역",
     "0. Index/To-do list.md",
     "0. Index/무제 파일.md",
     "0. Index/무제 파일 1.md",
@@ -191,8 +195,6 @@
     "1. Computer science/머신러닝/시험 실습코드연습/MLP.md",
     "1. Computer science/머신러닝/시험 실습코드연습/KNN.md",
     "3. 코딩애플/Next js/part1/1.설치 및 개발환경.md",
-    "3. 코딩애플/Next js/part1/5. 이미지넣는법.md",
-    "3. 코딩애플/Next js/part1/4. 반복문 map.md",
     "Pasted image 20240519145735.png",
     "Pasted image 20240519145720.png",
     "Pasted image 20240519144431.png",
@@ -212,7 +214,6 @@
     "obsidian/2. English Notes/words",
     "obsidian/2. English Notes/Simple_Expression",
     "obsidian/2. English Notes/Grammar",
-    "obsidian/2. English Notes/English news",
     "obsidian/Images/무제 파일.canvas",
     "Images/무제 파일.canvas"
   ]

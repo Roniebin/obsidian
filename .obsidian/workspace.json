@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Index/무제 파일 3.md",
+                "file": "0. Index/무제 파일 5.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Index/무제 파일 3.md",
+                "file": "0. Index/무제 파일 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Index/무제 파일 3.md",
+                "file": "0. Index/무제 파일 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Index/무제 파일 3.md"
+                "file": "0. Index/무제 파일 5.md"
               }
             }
           },
@@ -167,10 +167,12 @@
   },
   "active": "0292aac2b7b69ad6",
   "lastOpenFiles": [
+    "0. Index/무제 파일.md",
+    "0. Index/무제 파일 5.md",
+    "0. Index/무제 파일 3.md",
     "0. Index/무제 파일 1.md",
     "0. Index/무제 파일 4.md",
     "0. Index/무제 파일 2.md",
-    "0. Index/무제 파일.md",
     "0. Index/To-do list.md",
     "1. Computer science/머신러닝/시험 실습코드연습/선형회귀.md",
     "1. Computer science/머신러닝/시험 실습코드연습/KNN.md",
@@ -178,7 +180,6 @@
     "1. Computer science/머신러닝/시험 실습코드연습/svm.md",
     "1. Computer science/머신러닝/시험 실습코드연습/skip,dense,attention.md",
     "1. Computer science/머신러닝/skip,dense,channel attention.md",
-    "0. Index/무제 파일 3.md",
     "2. English Notes/통역/샤론최.md",
     "2. English Notes/아주좋은 표현.md",
     "2. English Notes/꿀문장들.md",
@@ -195,7 +196,6 @@
     "3. 코딩애플/html,css/반응형 레이아웃.md",
     "3. 코딩애플/html,css/가운데정렬.md",
     "obsidian/3. 코딩애플/Next js/part1/0. 사용하는 이유.md",
-    "3. 코딩애플/javascript/step2/4. 스크롤바 이벤트.md",
     "Pasted image 20240519145735.png",
     "Pasted image 20240519145720.png",
     "Pasted image 20240519144431.png",

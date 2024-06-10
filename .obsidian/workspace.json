@@ -23,9 +23,11 @@
             "id": "1131e55f968ca2a9",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.3"
+                "file": "0. Index/무제 파일 2.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,8 +86,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Index/무제 파일 5.md",
+                "file": "0. Index/무제 파일 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Index/무제 파일 5.md",
+                "file": "0. Index/무제 파일 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Index/무제 파일 5.md"
+                "file": "0. Index/무제 파일 2.md"
               }
             }
           },
@@ -179,35 +180,35 @@
   },
   "active": "1131e55f968ca2a9",
   "lastOpenFiles": [
-    "0. Index/무제 파일.md",
-    "0. Index/무제 파일 5.md",
-    "0. Index/무제 파일 3.md",
     "0. Index/무제 파일 1.md",
+    "0. Index/무제 파일 3.md",
     "0. Index/무제 파일 4.md",
-    "0. Index/무제 파일 2.md",
+    "0. Index/무제 파일 5.md",
     "0. Index/To-do list.md",
-    "1. Computer science/머신러닝/시험 실습코드연습/선형회귀.md",
+    "2. English Notes/Grammar/To verb.md",
+    "2. English Notes/Simple_Expression/by all means.md",
+    "1. Computer science/react/form.md",
+    "1. Computer science/react/이벤트.md",
+    "1. Computer science/react/조건부 랜더링.md",
+    "1. Computer science/react/컴포넌트.md",
+    "1. Computer science/강화학습/혁펜하임/0. start.md",
+    "1. Computer science/알고리즘/유클리드 최대공약수.md",
+    "1. Computer science/알고리즘/np complete.md",
+    "1. Computer science/알고리즘/분할 정복 알고리즘.md",
+    "1. Computer science/javascript/객체.md",
+    "1. Computer science/javascript/이벤트.md",
+    "1. Computer science/javascript/자료형.md",
+    "1. Computer science/기본개념/동기와 비동기.md",
+    "1. Computer science/기본개념/무제 파일.md",
     "1. Computer science/머신러닝/시험 실습코드연습/KNN.md",
-    "1. Computer science/머신러닝/시험 실습코드연습/LeNet_MNIST.md",
+    "3. 코딩애플/React/8. map.md",
+    "3. 코딩애플/Next js/part1/4. 반복문 map.md",
     "1. Computer science/머신러닝/시험 실습코드연습/svm.md",
     "1. Computer science/머신러닝/시험 실습코드연습/skip,dense,attention.md",
-    "1. Computer science/머신러닝/skip,dense,channel attention.md",
-    "2. English Notes/통역/샤론최.md",
-    "2. English Notes/아주좋은 표현.md",
-    "2. English Notes/꿀문장들.md",
+    "1. Computer science/머신러닝/시험 실습코드연습/LeNet_MNIST.md",
     "Pasted image 20240607162518.png",
     "Pasted image 20240607153959.png",
-    "2. English Notes/Simple_Expression/by all means.md",
     "2. English Notes/통역",
-    "3. 코딩애플/html,css/html이란.md",
-    "3. 코딩애플/html,css/css.md",
-    "3. 코딩애플/html,css/bootstrap.md",
-    "3. 코딩애플/html,css/background.md",
-    "3. 코딩애플/html,css/폰트첨부.md",
-    "3. 코딩애플/html,css/아이콘 넣기.md",
-    "3. 코딩애플/html,css/반응형 레이아웃.md",
-    "3. 코딩애플/html,css/가운데정렬.md",
-    "obsidian/3. 코딩애플/Next js/part1/0. 사용하는 이유.md",
     "Pasted image 20240519145735.png",
     "Pasted image 20240519145720.png",
     "Pasted image 20240519144431.png",

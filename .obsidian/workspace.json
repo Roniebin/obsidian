@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Index/To-do list.md",
+                "file": "1. Computer science/컴퓨터그래픽스/법선벡터.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Index/To-do list.md",
+                "file": "1. Computer science/컴퓨터그래픽스/법선벡터.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Index/To-do list.md",
+                "file": "1. Computer science/컴퓨터그래픽스/법선벡터.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Index/To-do list.md"
+                "file": "1. Computer science/컴퓨터그래픽스/법선벡터.md"
               }
             }
           },
@@ -178,15 +178,17 @@
       "obsidian-plugin-tagged-documents-viewer:Tagged Documents Viewer": false
     }
   },
-  "active": "1131e55f968ca2a9",
+  "active": "5bf4790e9cc28b25",
   "lastOpenFiles": [
+    "0. Index/To-do list.md",
+    "1. Computer science/컴퓨터그래픽스/법선벡터.md",
+    "1. Computer science/컴퓨터그래픽스",
     "0. Index/무제 파일 3.md",
     "0. Index/무제 파일 5.md",
     "0. Index/무제 파일 4.md",
     "0. Index/gpt 프롬프트.md",
     "0. Index/무제 파일 1.md",
     "0. Index/무제 파일.md",
-    "0. Index/To-do list.md",
     "2. English Notes/Grammar/To verb.md",
     "2. English Notes/Simple_Expression/by all means.md",
     "1. Computer science/react/form.md",
@@ -205,7 +207,6 @@
     "1. Computer science/머신러닝/시험 실습코드연습/KNN.md",
     "3. 코딩애플/React/8. map.md",
     "3. 코딩애플/Next js/part1/4. 반복문 map.md",
-    "1. Computer science/머신러닝/시험 실습코드연습/svm.md",
     "Pasted image 20240607162518.png",
     "Pasted image 20240607153959.png",
     "2. English Notes/통역",
@@ -225,7 +226,6 @@
     "obsidian/1. Computer science/기본개념",
     "obsidian/2. English Notes/words",
     "obsidian/2. English Notes/Simple_Expression",
-    "obsidian/2. English Notes/Grammar",
     "obsidian/Images/무제 파일.canvas",
     "Images/무제 파일.canvas"
   ]

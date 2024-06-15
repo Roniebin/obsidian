@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. English Notes/get관련한 동사들.md",
+                "file": "1. Computer science/컴퓨터그래픽스/법선벡터.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,8 +86,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Index/무제 파일 5.md",
+                "file": "1. Computer science/컴퓨터그래픽스/법선벡터.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Index/무제 파일 5.md",
+                "file": "1. Computer science/컴퓨터그래픽스/법선벡터.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Index/무제 파일 5.md"
+                "file": "1. Computer science/컴퓨터그래픽스/법선벡터.md"
               }
             }
           },
@@ -179,8 +178,9 @@
       "obsidian-plugin-tagged-documents-viewer:Tagged Documents Viewer": false
     }
   },
-  "active": "5bf4790e9cc28b25",
+  "active": "1131e55f968ca2a9",
   "lastOpenFiles": [
+    "0. Index/무제 파일 5.md",
     "2. English Notes/아주좋은 표현.md",
     "2. English Notes/get관련한 동사들.md",
     "2. English Notes/치우다를 영어로.md",
@@ -199,7 +199,6 @@
     "1. Computer science/컴퓨터그래픽스/법선벡터.md",
     "1. Computer science/컴퓨터그래픽스",
     "0. Index/무제 파일 3.md",
-    "0. Index/무제 파일 5.md",
     "0. Index/무제 파일 4.md",
     "0. Index/무제 파일.md",
     "2. English Notes/Grammar/To verb.md",

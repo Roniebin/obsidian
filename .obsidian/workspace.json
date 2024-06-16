@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Index/To-do list.md",
+                "file": "2. English Notes/words/immaculate.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Index/To-do list.md",
+                "file": "2. English Notes/words/immaculate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Index/To-do list.md",
+                "file": "2. English Notes/words/immaculate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Index/To-do list.md"
+                "file": "2. English Notes/words/immaculate.md"
               }
             }
           },
@@ -178,14 +178,15 @@
       "obsidian-plugin-tagged-documents-viewer:Tagged Documents Viewer": false
     }
   },
-  "active": "1131e55f968ca2a9",
+  "active": "5bf4790e9cc28b25",
   "lastOpenFiles": [
+    "0. Index/To-do list.md",
+    "2. English Notes/words/immaculate.md",
     "0. Index/gpt 프롬프트.md",
     "2. English Notes/두려움 표현하기.md",
     "2. English Notes/꿀문장들.md",
     "2. English Notes/치우다를 영어로.md",
     "2. English Notes/아주좋은 표현.md",
-    "0. Index/To-do list.md",
     "1. Computer science/컴퓨터그래픽스/Halfedge.md",
     "1. Computer science/컴퓨터그래픽스/shading.md",
     "1. Computer science/컴퓨터그래픽스/법선벡터.md",
@@ -210,7 +211,6 @@
     "1. Computer science/react/조건부 랜더링.md",
     "1. Computer science/react/컴포넌트.md",
     "1. Computer science/강화학습/혁펜하임/0. start.md",
-    "1. Computer science/알고리즘/유클리드 최대공약수.md",
     "Pasted image 20240607162518.png",
     "Pasted image 20240607153959.png",
     "2. English Notes/통역",

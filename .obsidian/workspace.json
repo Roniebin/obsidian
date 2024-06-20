@@ -86,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -178,7 +179,7 @@
       "obsidian-plugin-tagged-documents-viewer:Tagged Documents Viewer": false
     }
   },
-  "active": "5bf4790e9cc28b25",
+  "active": "1131e55f968ca2a9",
   "lastOpenFiles": [
     "0. Index/무제 파일 5.md",
     "0. Index/무제 파일 3.md",

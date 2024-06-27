@@ -2,7 +2,7 @@
 tags:
   - English
 ---
-## revitalizing는 어떻게 사용할 수 있을까요?
+3## revitalizing는 어떻게 사용할 수 있을까요?
 
 아래 예문들을 통해 다양한 상황에서 "revitalizing"가 어떻게 쓰일 수 있는지 알아보세요!
 
@@ -20,11 +20,9 @@ tags:
 
 
 The government plans to revitalize the economy.
-
 정부는 경제에 새로운 활력을 불어넣을 계획입니다.
 
 The initiative aims to revitalize the downtown area.
-
 그 계획은 도심 지역을 재활성화하는 것을 목표로 합니다.
 
 ### revitalize
@@ -34,18 +32,14 @@ The initiative aims to revitalize the downtown area.
 ###### 동사
 
 The government plans to revitalize the economy.
-
 정부는 경제에 새로운 활력을 불어넣을 계획입니다.
 
 The initiative aims to revitalize the downtown area.
-
 그 계획은 도심 지역을 재활성화하는 것을 목표로 합니다.
 
 ▫ 패러프레이징 단어 - rejuvenate(재활성화하다), invigorate(원기를 회복하다)
 
-### revitalize
-
- 
+### revitalize 
 
 ### 재활성화하다
 

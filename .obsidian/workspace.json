@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. English Notes/일일 단어장/1일차.md",
+                "file": "정보처리기사/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,8 +98,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -119,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. English Notes/일일 단어장/1일차.md",
+                "file": "정보처리기사/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. English Notes/일일 단어장/1일차.md",
+                "file": "정보처리기사/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. English Notes/일일 단어장/1일차.md"
+                "file": "정보처리기사/무제 파일.md"
               }
             }
           },
@@ -191,10 +190,12 @@
       "obsidian-plugin-tagged-documents-viewer:Tagged Documents Viewer": false
     }
   },
-  "active": "9ff2757b5901294d",
+  "active": "5bf4790e9cc28b25",
   "lastOpenFiles": [
-    "2. English Notes/words/resilient.md",
     "2. English Notes/일일 단어장/1일차.md",
+    "정보처리기사/무제 파일.md",
+    "정보처리기사",
+    "2. English Notes/words/resilient.md",
     "2. English Notes/일일 단어장",
     "0. Index/무제 파일 1.md",
     "0. Index/무제 파일 3.md",
@@ -224,7 +225,6 @@
     "2. English Notes/Grammar/To verb.md",
     "2. English Notes/Simple_Expression/by all means.md",
     "1. Computer science/react/form.md",
-    "1. Computer science/react/이벤트.md",
     "Pasted image 20240607162518.png",
     "Pasted image 20240607153959.png",
     "2. English Notes/통역",
@@ -238,7 +238,6 @@
     "3. 코딩애플/javascript/step1",
     "3. 코딩애플/javascript",
     "obsidian/1. Computer science/기본개념",
-    "obsidian/2. English Notes/words",
     "obsidian/Images/무제 파일.canvas",
     "Images/무제 파일.canvas"
   ]

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Index/To-do list.md",
+                "file": "2. English Notes/일일 단어장/1일차.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,15 +91,14 @@
             }
           },
           {
-            "id": "24f4b5ac04cb7059",
+            "id": "06b962516eb5890d",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -119,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Index/To-do list.md",
+                "file": "2. English Notes/일일 단어장/1일차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Index/To-do list.md",
+                "file": "2. English Notes/일일 단어장/1일차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Index/To-do list.md"
+                "file": "2. English Notes/일일 단어장/1일차.md"
               }
             }
           },
@@ -193,19 +192,21 @@
   },
   "active": "9ff2757b5901294d",
   "lastOpenFiles": [
+    "2. English Notes/words/resilient.md",
+    "2. English Notes/일일 단어장/1일차.md",
+    "2. English Notes/일일 단어장",
+    "0. Index/무제 파일 1.md",
+    "0. Index/무제 파일 3.md",
+    "0. Index/무제 파일 5.md",
+    "0. Index/To-do list.md",
     "0. Index/gpt 프롬프트.md",
     "2. English Notes/치우다를 영어로.md",
     "2. English Notes/get관련한 동사들.md",
     "2. English Notes/무제 파일.md",
     "2. English Notes/words/revitalizing.md",
-    "2. English Notes/words/resilient.md",
     "2. English Notes/꿀문장들.md",
     "2. English Notes/두려움 표현하기.md",
     "2. English Notes/아주좋은 표현.md",
-    "0. Index/To-do list.md",
-    "0. Index/무제 파일 5.md",
-    "0. Index/무제 파일 3.md",
-    "0. Index/무제 파일 1.md",
     "1. Computer science/머신러닝/SGD(확률적 경사하강법).md",
     "2. English Notes/words/immaculate.md",
     "1. Computer science/컴퓨터그래픽스/Halfedge.md",
@@ -223,7 +224,6 @@
     "2. English Notes/Simple_Expression/by all means.md",
     "1. Computer science/react/form.md",
     "1. Computer science/react/이벤트.md",
-    "1. Computer science/react/조건부 랜더링.md",
     "Pasted image 20240607162518.png",
     "Pasted image 20240607153959.png",
     "2. English Notes/통역",
@@ -238,7 +238,6 @@
     "3. 코딩애플/javascript",
     "obsidian/1. Computer science/기본개념",
     "obsidian/2. English Notes/words",
-    "obsidian/2. English Notes/Simple_Expression",
     "obsidian/Images/무제 파일.canvas",
     "Images/무제 파일.canvas"
   ]

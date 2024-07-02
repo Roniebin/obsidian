@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "정보처리기사/무제 파일.md",
+                "file": "2. English Notes/일일 단어장/1일차.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,8 +98,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -119,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Index/무제 파일 5.md",
+                "file": "2. English Notes/일일 단어장/1일차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Index/무제 파일 5.md",
+                "file": "2. English Notes/일일 단어장/1일차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Index/무제 파일 5.md"
+                "file": "2. English Notes/일일 단어장/1일차.md"
               }
             }
           },
@@ -191,8 +190,9 @@
       "obsidian-plugin-tagged-documents-viewer:Tagged Documents Viewer": false
     }
   },
-  "active": "5bf4790e9cc28b25",
+  "active": "9ff2757b5901294d",
   "lastOpenFiles": [
+    "0. Index/무제 파일 5.md",
     "2. English Notes/일일 단어장/1일차.md",
     "정보처리기사/무제 파일.md",
     "정보처리기사",
@@ -200,7 +200,6 @@
     "2. English Notes/일일 단어장",
     "0. Index/무제 파일 1.md",
     "0. Index/무제 파일 3.md",
-    "0. Index/무제 파일 5.md",
     "0. Index/To-do list.md",
     "0. Index/gpt 프롬프트.md",
     "2. English Notes/치우다를 영어로.md",

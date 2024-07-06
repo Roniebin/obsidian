@@ -7,4 +7,4 @@ tags:
 3. doze off 졸다
 4. is talented to 명사
 5. is an expert on
-6. 
+

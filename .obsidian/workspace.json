@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. English Notes/일일 단어장/6일차.md",
+                "file": "정보처리기사/인터페이스.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. English Notes/일일 단어장/6일차.md",
+                "file": "정보처리기사/인터페이스.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. English Notes/일일 단어장/6일차.md",
+                "file": "정보처리기사/인터페이스.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. English Notes/일일 단어장/6일차.md"
+                "file": "정보처리기사/인터페이스.md"
               }
             }
           },
@@ -190,10 +190,14 @@
       "obsidian-plugin-tagged-documents-viewer:Tagged Documents Viewer": false
     }
   },
-  "active": "9ff2757b5901294d",
+  "active": "5bf4790e9cc28b25",
   "lastOpenFiles": [
-    "2. English Notes/일일 단어장/5일차.md",
+    "정보처리기사/Gof.md",
+    "정보처리기사/인터페이스.md",
+    "Pasted image 20240708173642.png",
+    "정보처리기사/CASE.md",
     "2. English Notes/일일 단어장/6일차.md",
+    "2. English Notes/일일 단어장/5일차.md",
     "2. English Notes/일일 단어장/4일차.md",
     "0. Index/To-do list.md",
     "2. English Notes/opic/opic study.md",
@@ -201,7 +205,6 @@
     "2. English Notes/일일 단어장/3일차.md",
     "2. English Notes/일일 단어장/2일차.md",
     "2. English Notes/일일 단어장/1일차.md",
-    "정보처리기사/무제 파일.md",
     "2. English Notes/아주좋은 표현.md",
     "2. English Notes/꿀문장들.md",
     "2. English Notes/get관련한 동사들.md",
@@ -219,8 +222,6 @@
     "1. Computer science/머신러닝/SGD(확률적 경사하강법).md",
     "2. English Notes/words/immaculate.md",
     "1. Computer science/컴퓨터그래픽스/Halfedge.md",
-    "1. Computer science/컴퓨터그래픽스/shading.md",
-    "1. Computer science/컴퓨터그래픽스/법선벡터.md",
     "Pasted image 20240613153209.png",
     "Pasted image 20240613153139.png",
     "Pasted image 20240613153017.png",
@@ -232,7 +233,6 @@
     "Pasted image 20240519145735.png",
     "Pasted image 20240519145720.png",
     "Pasted image 20240519144431.png",
-    "Pasted image 20240519144341.png",
     "1. Computer science/알고리즘/탐색기법",
     "3. 코딩애플/javascript/step3",
     "3. 코딩애플/javascript/step2",

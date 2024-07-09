@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Computer science/머신러닝/시험 실습코드연습/KNN.md",
+                "file": "정보처리기사/결합도,응집도.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Computer science/머신러닝/시험 실습코드연습/KNN.md",
+                "file": "정보처리기사/결합도,응집도.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Computer science/머신러닝/시험 실습코드연습/KNN.md",
+                "file": "정보처리기사/결합도,응집도.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Computer science/머신러닝/시험 실습코드연습/KNN.md"
+                "file": "정보처리기사/결합도,응집도.md"
               }
             }
           },
@@ -192,21 +192,29 @@
   },
   "active": "9ff2757b5901294d",
   "lastOpenFiles": [
+    "정보처리기사/차트.md",
+    "정보처리기사/TCP,UDP.md",
+    "정보처리기사/스케쥴링.md",
+    "정보처리기사/IPv6.md",
+    "Pasted image 20240709203318.png",
+    "정보처리기사/관계대수.md",
+    "정보처리기사/데이터베이스설계.md",
+    "정보처리기사/분산데이터베이스.md",
+    "정보처리기사/병행제어.md",
+    "정보처리기사/객체지향.md",
+    "정보처리기사/접근통제 정책.md",
+    "정보처리기사/인터페이스.md",
+    "1. Computer science/머신러닝/시험 실습코드연습/KNN.md",
     "1. Computer science/머신러닝/시험 실습코드연습/LeNet_MNIST.md",
     "1. Computer science/머신러닝/시험 실습코드연습/MLP.md",
     "1. Computer science/머신러닝/시험 실습코드연습/skip,dense,attention.md",
     "1. Computer science/머신러닝/시험 실습코드연습/svm.md",
-    "정보처리기사/차트.md",
     "Pasted image 20240709175708.png",
     "Pasted image 20240709175651.png",
-    "정보처리기사/접근통제 정책.md",
     "정보처리기사/XP.md",
     "정보처리기사/결합도,응집도.md",
-    "정보처리기사/병행제어.md",
-    "정보처리기사/관계대수.md",
     "정보처리기사/블랙화이트박스테스트.md",
     "정보처리기사/디지털저작권.md",
-    "정보처리기사/인터페이스.md",
     "정보처리기사/EAI.md",
     "Pasted image 20240709162847.png",
     "정보처리기사/요구사항명세기법.md",
@@ -214,23 +222,15 @@
     "정보처리기사/럼바우.md",
     "정보처리기사/데이터흐름도DFD.md",
     "Pasted image 20240709161624.png",
-    "정보처리기사/객체지향.md",
     "정보처리기사/CASE.md",
-    "정보처리기사/TCP,UDP.md",
     "Pasted image 20240709154413.png",
-    "정보처리기사/트랜젝션.md",
-    "정보처리기사/데이터베이스설계.md",
     "Pasted image 20240709145601.png",
-    "0. Index/무제 파일 5.md",
-    "2. English Notes/일일 단어장/5일차.md",
-    "2. English Notes/일일 단어장/7일차.md",
     "Pasted image 20240708183920.png",
     "Pasted image 20240708183906.png",
     "Pasted image 20240708173642.png",
     "2. English Notes/opic",
     "정보처리기사",
     "2. English Notes/일일 단어장",
-    "Pasted image 20240613153209.png",
     "1. Computer science/컴퓨터그래픽스",
     "2. English Notes/통역",
     "1. Computer science/알고리즘/탐색기법",

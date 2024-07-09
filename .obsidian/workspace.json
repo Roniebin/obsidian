@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "정보처리기사/차트.md",
+                "file": "1. Computer science/머신러닝/시험 실습코드연습/KNN.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "정보처리기사/차트.md",
+                "file": "1. Computer science/머신러닝/시험 실습코드연습/KNN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "정보처리기사/차트.md",
+                "file": "1. Computer science/머신러닝/시험 실습코드연습/KNN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "정보처리기사/차트.md"
+                "file": "1. Computer science/머신러닝/시험 실습코드연습/KNN.md"
               }
             }
           },
@@ -192,10 +192,14 @@
   },
   "active": "9ff2757b5901294d",
   "lastOpenFiles": [
+    "1. Computer science/머신러닝/시험 실습코드연습/LeNet_MNIST.md",
+    "1. Computer science/머신러닝/시험 실습코드연습/MLP.md",
+    "1. Computer science/머신러닝/시험 실습코드연습/skip,dense,attention.md",
+    "1. Computer science/머신러닝/시험 실습코드연습/svm.md",
+    "정보처리기사/차트.md",
     "Pasted image 20240709175708.png",
     "Pasted image 20240709175651.png",
     "정보처리기사/접근통제 정책.md",
-    "정보처리기사/차트.md",
     "정보처리기사/XP.md",
     "정보처리기사/결합도,응집도.md",
     "정보처리기사/병행제어.md",
@@ -220,17 +224,13 @@
     "0. Index/무제 파일 5.md",
     "2. English Notes/일일 단어장/5일차.md",
     "2. English Notes/일일 단어장/7일차.md",
-    "2. English Notes/일일 단어장/6일차.md",
     "Pasted image 20240708183920.png",
     "Pasted image 20240708183906.png",
-    "4. Java/무제 파일.md",
-    "정보처리기사/Gof.md",
     "Pasted image 20240708173642.png",
     "2. English Notes/opic",
     "정보처리기사",
     "2. English Notes/일일 단어장",
     "Pasted image 20240613153209.png",
-    "Pasted image 20240613153139.png",
     "1. Computer science/컴퓨터그래픽스",
     "2. English Notes/통역",
     "1. Computer science/알고리즘/탐색기법",

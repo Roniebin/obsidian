@@ -36,10 +36,10 @@
       }
     },
     {
-      "query": "",
+      "query": "tag:#정보처리기사  ",
       "color": {
         "a": 1,
-        "rgb": 6084269
+        "rgb": 7637730
       }
     }
   ],
@@ -53,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.22920135941749345,
-  "close": true
+  "scale": 0.16348370567220558,
+  "close": false
 }

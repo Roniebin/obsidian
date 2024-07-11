@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "정보처리기사/XP.md",
+                "file": "2. English Notes/일일 단어장/8일차.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "정보처리기사/XP.md",
+                "file": "2. English Notes/일일 단어장/8일차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "정보처리기사/XP.md",
+                "file": "2. English Notes/일일 단어장/8일차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "정보처리기사/XP.md"
+                "file": "2. English Notes/일일 단어장/8일차.md"
               }
             }
           },
@@ -190,8 +190,13 @@
       "obsidian-plugin-tagged-documents-viewer:Tagged Documents Viewer": false
     }
   },
-  "active": "9ff2757b5901294d",
+  "active": "5bf4790e9cc28b25",
   "lastOpenFiles": [
+    "2. English Notes/일일 단어장/7일차.md",
+    "2. English Notes/일일 단어장/8일차.md",
+    "0. Index/무제 파일 1.md",
+    "정보처리기사/디지털저작권.md",
+    "정보처리기사/XP.md",
     "정보처리기사/UML.md",
     "정보처리기사/TCP,UDP.md",
     "정보처리기사/RIP.md",
@@ -213,11 +218,6 @@
     "정보처리기사/요구사항명세기법.md",
     "정보처리기사/암호화.md",
     "정보처리기사/스케쥴링.md",
-    "정보처리기사/블랙화이트박스테스트.md",
-    "정보처리기사/분산데이터베이스.md",
-    "정보처리기사/병행제어.md",
-    "정보처리기사/럼바우.md",
-    "정보처리기사/디지털저작권.md",
     "Pasted image 20240709203318.png",
     "Pasted image 20240709175708.png",
     "Pasted image 20240709175651.png",

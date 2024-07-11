@@ -1,3 +1,7 @@
+---
+tags:
+  - 정보처리기사
+---
 CASE(Computer Aided Software Engineering)
 
 CASE 분류

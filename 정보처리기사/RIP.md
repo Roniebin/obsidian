@@ -1,3 +1,7 @@
+---
+tags:
+  - 정보처리기사
+---
 ## #. 거리 벡터 알고리즘
 
 (Distance Vector Algorithm)

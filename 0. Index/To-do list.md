@@ -16,9 +16,9 @@
 
 ---
 
-stable 회의 6시 반
-영어 듣기
+내일까지 stable-diffusion 끝
 
+목요일부터 yolo알고리즘 공부
 
 -----
 

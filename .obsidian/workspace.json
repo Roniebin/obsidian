@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Index/무제 파일 5.md",
+                "file": "0. Index/To-do list.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +37,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Computer science/Stable-diffusion/용어.md",
+                "file": "2. English Notes/일일 단어장/8일차.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Computer science/Stable-diffusion/용어.md",
+                "file": "0. Index/To-do list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Computer science/Stable-diffusion/용어.md",
+                "file": "0. Index/To-do list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Computer science/Stable-diffusion/용어.md"
+                "file": "0. Index/To-do list.md"
               }
             }
           },
@@ -190,19 +189,19 @@
       "obsidian-plugin-tagged-documents-viewer:Tagged Documents Viewer": false
     }
   },
-  "active": "5bf4790e9cc28b25",
+  "active": "0292aac2b7b69ad6",
   "lastOpenFiles": [
+    "2. English Notes/일일 단어장/11일차.md",
     "0. Index/무제 파일 5.md",
+    "2. English Notes/일일 단어장/8일차.md",
+    "2. English Notes/일일 단어장/9일차.md",
+    "2. English Notes/일일 단어장/10일차.md",
+    "2. English Notes/일일 단어장/12일차.md",
     "1. Computer science/Stable-diffusion/용어.md",
     "1. Computer science/Stable-diffusion",
-    "2. English Notes/일일 단어장/11일차.md",
-    "2. English Notes/일일 단어장/12일차.md",
-    "2. English Notes/일일 단어장/10일차.md",
     "0. Index/To-do list.md",
-    "2. English Notes/일일 단어장/9일차.md",
     "2. English Notes/일일 단어장/6일차.md",
     "2. English Notes/일일 단어장/7일차.md",
-    "2. English Notes/일일 단어장/8일차.md",
     "2. English Notes/opic/2일차.md",
     "0. Index/gpt 프롬프트.md",
     "2. English Notes/일일 단어장/5일차.md",

@@ -11,8 +11,12 @@
             "id": "0292aac2b7b69ad6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2. English Notes/일일 단어장/14일차.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -113,6 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2. English Notes/일일 단어장/14일차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2. English Notes/일일 단어장/14일차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +156,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2. English Notes/일일 단어장/14일차.md"
+              }
             }
           },
           {

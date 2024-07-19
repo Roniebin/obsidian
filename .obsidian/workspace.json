@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "550c0d89cb17667d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. English Notes/일일 단어장/14일차.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "664b1019a344e4f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. English Notes/words/Ivy+Bean.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1131e55f968ca2a9",
             "type": "leaf",
             "state": {
@@ -43,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -117,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. English Notes/일일 단어장/14일차.md",
+                "file": "2. English Notes/words/Ivy+Bean.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. English Notes/일일 단어장/14일차.md",
+                "file": "2. English Notes/words/Ivy+Bean.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. English Notes/일일 단어장/14일차.md"
+                "file": "2. English Notes/words/Ivy+Bean.md"
               }
             }
           },
@@ -189,10 +214,24 @@
       "obsidian-plugin-tagged-documents-viewer:Tagged Documents Viewer": false
     }
   },
-  "active": "0292aac2b7b69ad6",
+  "active": "664b1019a344e4f7",
   "lastOpenFiles": [
-    "2. English Notes/일일 단어장/13일차.md",
+    "2. English Notes/words/immaculate.md",
+    "2. English Notes/opic/opic study.md",
+    "2. English Notes/Grammar/To verb.md",
+    "2. English Notes/Grammar/목적어로 to 부정사.md",
+    "2. English Notes/English news/news URL.md",
+    "2. English Notes/diffrence between similar words/specially, especially.md",
+    "2. English Notes/diffrence between similar words/go over , go through.md",
+    "2. English Notes/통역/샤론최.md",
+    "2. English Notes/일일 단어장/무제 파일.md",
+    "2. English Notes/일일 단어장/1일차.md",
     "2. English Notes/일일 단어장/14일차.md",
+    "2. English Notes/diffrence between similar words/keep,continue.md",
+    "2. English Notes/diffrence between similar words/start, begin.md",
+    "2. English Notes/일일 단어장/13일차.md",
+    "0. Index/To-do list.md",
+    "0. Index/gpt 프롬프트.md",
     "2. English Notes/일일 단어장/12일차.md",
     "2. English Notes/일일 단어장/11일차.md",
     "2. English Notes/일일 단어장/10일차.md",
@@ -200,26 +239,12 @@
     "2. English Notes/일일 단어장/8일차.md",
     "2. English Notes/일일 단어장/7일차.md",
     "2. English Notes/일일 단어장/6일차.md",
-    "0. Index/To-do list.md",
     "0. Index/무제 파일 5.md",
     "1. Computer science/Stable-diffusion/용어.md",
     "1. Computer science/Stable-diffusion",
     "2. English Notes/opic/2일차.md",
-    "0. Index/gpt 프롬프트.md",
-    "2. English Notes/일일 단어장/5일차.md",
-    "2. English Notes/일일 단어장/4일차.md",
-    "2. English Notes/일일 단어장/3일차.md",
-    "2. English Notes/일일 단어장/2일차.md",
-    "2. English Notes/일일 단어장/1일차.md",
-    "2. English Notes/두려움 표현하기.md",
-    "2. English Notes/아주좋은 표현.md",
-    "2. English Notes/치우다를 영어로.md",
-    "2. English Notes/get관련한 동사들.md",
     "Pasted image 20240711165302.png",
     "Pasted image 20240711165257.png",
-    "0. Index/무제 파일 1.md",
-    "정보처리기사/디지털저작권.md",
-    "정보처리기사/XP.md",
     "Pasted image 20240709203318.png",
     "Pasted image 20240709175708.png",
     "Pasted image 20240709175651.png",

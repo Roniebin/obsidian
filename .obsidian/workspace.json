@@ -126,8 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ed3ada640fd6a8fa",
@@ -211,15 +210,18 @@
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-plugin-tagged-documents-viewer:Tagged Documents Viewer": false
+      "obsidian-plugin-tagged-documents-viewer:Tagged Documents Viewer": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "664b1019a344e4f7",
   "lastOpenFiles": [
     "2. English Notes/opic/opic study.md",
-    "2. English Notes/opic/무제 파일.md",
+    "2. English Notes/일일 단어장/14일차.md",
     "2. English Notes/일일 단어장/무제 파일.md",
+    "2. English Notes/Simple_Expression/that's not my bag.md",
+    "2. English Notes/아주좋은 표현.md",
+    "2. English Notes/opic/무제 파일.md",
     "2. English Notes/words/Ivy+Bean.md",
     "2. English Notes/words/immaculate.md",
     "2. English Notes/Grammar/To verb.md",
@@ -229,7 +231,6 @@
     "2. English Notes/diffrence between similar words/go over , go through.md",
     "2. English Notes/통역/샤론최.md",
     "2. English Notes/일일 단어장/1일차.md",
-    "2. English Notes/일일 단어장/14일차.md",
     "2. English Notes/diffrence between similar words/keep,continue.md",
     "2. English Notes/diffrence between similar words/start, begin.md",
     "2. English Notes/일일 단어장/13일차.md",
@@ -241,8 +242,6 @@
     "2. English Notes/일일 단어장/9일차.md",
     "2. English Notes/일일 단어장/8일차.md",
     "2. English Notes/일일 단어장/7일차.md",
-    "2. English Notes/일일 단어장/6일차.md",
-    "0. Index/무제 파일 5.md",
     "1. Computer science/Stable-diffusion",
     "Pasted image 20240711165302.png",
     "Pasted image 20240711165257.png",

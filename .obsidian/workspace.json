@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. English Notes/일일 단어장/19일차.md",
+                "file": "0. Index/To-do list.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. English Notes/일일 단어장/19일차.md",
+                "file": "0. Index/To-do list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. English Notes/일일 단어장/19일차.md",
+                "file": "0. Index/To-do list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. English Notes/일일 단어장/19일차.md"
+                "file": "0. Index/To-do list.md"
               }
             }
           },
@@ -216,8 +216,8 @@
   },
   "active": "664b1019a344e4f7",
   "lastOpenFiles": [
-    "0. Index/현수티칭.md",
     "2. English Notes/일일 단어장/19일차.md",
+    "0. Index/현수티칭.md",
     "0. Index/gpt 프롬프트.md",
     "0. Index/무제 파일 5.md",
     "0. Index/무제 파일 3.md",

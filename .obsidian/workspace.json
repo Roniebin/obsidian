@@ -37,9 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. English Notes/일일 단어장/20일차.md",
+                "file": "2. English Notes/고득점 단어들.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "bef4da169e2b2ff9",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20240727192854.png"
               }
             }
           },
@@ -68,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -142,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. English Notes/일일 단어장/20일차.md",
+                "file": "Pasted image 20240727192854.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. English Notes/일일 단어장/20일차.md",
+                "file": "Pasted image 20240727192854.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. English Notes/일일 단어장/20일차.md"
+                "file": "Pasted image 20240727192854.png"
               }
             }
           },
@@ -214,10 +224,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "664b1019a344e4f7",
+  "active": "bef4da169e2b2ff9",
   "lastOpenFiles": [
-    "1. Computer science/머신러닝/VGG-16.md",
+    "Pasted image 20240727192859.png",
+    "2. English Notes/고득점 단어들.md",
+    "Pasted image 20240727192854.png",
     "2. English Notes/일일 단어장/20일차.md",
+    "1. Computer science/머신러닝/VGG-16.md",
     "1. Computer science/머신러닝/SVM 실습.md",
     "1. Computer science/머신러닝/skip,dense,channel attention.md",
     "1. Computer science/머신러닝/SGD(확률적 경사하강법).md",
@@ -240,8 +253,6 @@
     "1. Computer science/알고리즘/유클리드 최대공약수.md",
     "1. Computer science/알고리즘/분할 정복 알고리즘.md",
     "1. Computer science/알고리즘/Sort/Sorting Algorithm.md",
-    "1. Computer science/알고리즘/Sort/Quick sort.md",
-    "1. Computer science/알고리즘/Sort/Merge Sort.md",
     "1. Computer science/Stable-diffusion",
     "Pasted image 20240711165302.png",
     "Pasted image 20240711165257.png",
@@ -252,7 +263,6 @@
     "Pasted image 20240709161624.png",
     "Pasted image 20240709154413.png",
     "Pasted image 20240709145601.png",
-    "Pasted image 20240708183920.png",
     "2. English Notes/opic",
     "정보처리기사",
     "2. English Notes/일일 단어장",

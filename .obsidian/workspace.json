@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. English Notes/일일 단어장/20일차.md",
+                "file": "2. English Notes/일일 단어장/21일차.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -154,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. English Notes/일일 단어장/20일차.md",
+                "file": "2. English Notes/일일 단어장/21일차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. English Notes/일일 단어장/20일차.md",
+                "file": "2. English Notes/일일 단어장/21일차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. English Notes/일일 단어장/20일차.md"
+                "file": "2. English Notes/일일 단어장/21일차.md"
               }
             }
           },
@@ -228,13 +229,23 @@
   },
   "active": "bef4da169e2b2ff9",
   "lastOpenFiles": [
+    "Pasted image 20240729165233.png",
+    "2. English Notes/일일 단어장/21일차.md",
+    "2. English Notes/일일 단어장/20일차.md",
+    "2. English Notes/일일 단어장/19일차.md",
+    "2. English Notes/일일 단어장/18일차.md",
+    "2. English Notes/일일 단어장/17일차.md",
+    "2. English Notes/일일 단어장/16일차.md",
+    "2. English Notes/일일 단어장/15일차.md",
+    "2. English Notes/일일 단어장/14일차.md",
+    "2. English Notes/일일 단어장/13일차.md",
+    "2. English Notes/일일 단어장/10일차.md",
     "2. English Notes/고득점 단어들.md",
     "Pasted image 20240727193056.png",
     "Pasted image 20240727192924.png",
     "2. English Notes/꿀문장들.md",
     "Pasted image 20240727192854.png",
     "Pasted image 20240727192859.png",
-    "2. English Notes/일일 단어장/20일차.md",
     "1. Computer science/머신러닝/VGG-16.md",
     "1. Computer science/머신러닝/SVM 실습.md",
     "1. Computer science/머신러닝/skip,dense,channel attention.md",
@@ -248,15 +259,6 @@
     "1. Computer science/멀티미디어/학교수업/이미지와 그래픽.md",
     "1. Computer science/멀티미디어/SGML,HTML,XML.md",
     "1. Computer science/멀티미디어/JPEG,GIF,PNG.md",
-    "1. Computer science/멀티미디어/DCT.md",
-    "1. Computer science/멀티미디어/인터페이스카드.md",
-    "1. Computer science/멀티미디어/저작도구.md",
-    "1. Computer science/멀티미디어/학교수업/비디오압축.md",
-    "1. Computer science/컴퓨터그래픽스/Halfedge.md",
-    "1. Computer science/컴퓨터그래픽스/shading.md",
-    "1. Computer science/알고리즘/np complete.md",
-    "1. Computer science/알고리즘/유클리드 최대공약수.md",
-    "1. Computer science/알고리즘/분할 정복 알고리즘.md",
     "1. Computer science/Stable-diffusion",
     "Pasted image 20240711165302.png",
     "Pasted image 20240711165257.png",

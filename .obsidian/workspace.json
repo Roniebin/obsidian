@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. English Notes/일일 단어장/20일차.md",
+                "file": "3. 코딩애플/javascriptES6/this란.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. English Notes/일일 단어장/20일차.md",
+                "file": "3. 코딩애플/javascriptES6/this란.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. English Notes/일일 단어장/20일차.md",
+                "file": "3. 코딩애플/javascriptES6/this란.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. English Notes/일일 단어장/20일차.md"
+                "file": "3. 코딩애플/javascriptES6/this란.md"
               }
             }
           },
@@ -226,14 +226,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bef4da169e2b2ff9",
+  "active": "5bf4790e9cc28b25",
   "lastOpenFiles": [
+    "0. Index/To-do list.md",
+    "3. 코딩애플/javascriptES6/this란.md",
+    "3. 코딩애플/javascriptES6",
+    "2. English Notes/일일 단어장/20일차.md",
     "2. English Notes/일일 단어장/19일차.md",
     "2. English Notes/일일 단어장/21일차.md",
-    "0. Index/To-do list.md",
     "Pasted image 20240730172627.png",
     "Pasted image 20240729165233.png",
-    "2. English Notes/일일 단어장/20일차.md",
     "2. English Notes/일일 단어장/18일차.md",
     "2. English Notes/일일 단어장/17일차.md",
     "2. English Notes/일일 단어장/16일차.md",
@@ -259,7 +261,6 @@
     "1. Computer science/멀티미디어/학교수업/시험 메모.md",
     "1. Computer science/멀티미디어/학교수업/이미지와 그래픽.md",
     "1. Computer science/멀티미디어/SGML,HTML,XML.md",
-    "1. Computer science/멀티미디어/JPEG,GIF,PNG.md",
     "1. Computer science/Stable-diffusion",
     "Pasted image 20240711165302.png",
     "Pasted image 20240711165257.png",
@@ -273,7 +274,6 @@
     "1. Computer science/알고리즘/탐색기법",
     "3. 코딩애플/javascript/step3",
     "3. 코딩애플/javascript/step2",
-    "3. 코딩애플/javascript/step1",
     "obsidian/Images/무제 파일.canvas",
     "Images/무제 파일.canvas"
   ]

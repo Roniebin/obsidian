@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. 코딩애플/javascriptES6/this란.md",
+                "file": "3. 코딩애플/javascriptES6/this2.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. 코딩애플/javascriptES6/this란.md",
+                "file": "3. 코딩애플/javascriptES6/this2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. 코딩애플/javascriptES6/this란.md",
+                "file": "3. 코딩애플/javascriptES6/this2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. 코딩애플/javascriptES6/this란.md"
+                "file": "3. 코딩애플/javascriptES6/this2.md"
               }
             }
           },
@@ -226,10 +226,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5bf4790e9cc28b25",
+  "active": "bef4da169e2b2ff9",
   "lastOpenFiles": [
+    "3. 코딩애플/javascriptES6/this1.md",
+    "3. 코딩애플/javascriptES6/this2.md",
     "0. Index/To-do list.md",
-    "3. 코딩애플/javascriptES6/this란.md",
     "3. 코딩애플/javascriptES6",
     "2. English Notes/일일 단어장/20일차.md",
     "2. English Notes/일일 단어장/19일차.md",
@@ -260,7 +261,6 @@
     "1. Computer science/머신러닝/KNN.md",
     "1. Computer science/멀티미디어/학교수업/시험 메모.md",
     "1. Computer science/멀티미디어/학교수업/이미지와 그래픽.md",
-    "1. Computer science/멀티미디어/SGML,HTML,XML.md",
     "1. Computer science/Stable-diffusion",
     "Pasted image 20240711165302.png",
     "Pasted image 20240711165257.png",

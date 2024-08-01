@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. English Notes/일일 단어장/14일차.md",
+                "file": "1. Computer science/강화학습/혁펜하임/0. start.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. English Notes/일일 단어장/14일차.md",
+                "file": "1. Computer science/강화학습/혁펜하임/0. start.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. English Notes/일일 단어장/14일차.md",
+                "file": "1. Computer science/강화학습/혁펜하임/0. start.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. English Notes/일일 단어장/14일차.md"
+                "file": "1. Computer science/강화학습/혁펜하임/0. start.md"
               }
             }
           },
@@ -180,6 +180,11 @@
   },
   "active": "550c0d89cb17667d",
   "lastOpenFiles": [
+    "1. Computer science/강화학습/gymnasium.md",
+    "1. Computer science/강화학습/혁펜하임/0. start.md",
+    "1. Computer science/기본개념/동기와 비동기.md",
+    "0. Index/현수티칭.md",
+    "2. English Notes/일일 단어장/14일차.md",
     "2. English Notes/고득점 단어들.md",
     "3. 코딩애플/javascriptES6/this2.md",
     "3. 코딩애플/javascriptES6/this1.md",
@@ -194,7 +199,6 @@
     "2. English Notes/일일 단어장/17일차.md",
     "2. English Notes/일일 단어장/16일차.md",
     "2. English Notes/일일 단어장/15일차.md",
-    "2. English Notes/일일 단어장/14일차.md",
     "2. English Notes/일일 단어장/13일차.md",
     "2. English Notes/일일 단어장/10일차.md",
     "Pasted image 20240727193056.png",
@@ -209,10 +213,6 @@
     "1. Computer science/머신러닝/MLP.md",
     "1. Computer science/머신러닝/Basecode_Simplified_VGG_CIFAR10.md",
     "1. Computer science/머신러닝/CNN.md",
-    "1. Computer science/머신러닝/gradient descent.md",
-    "1. Computer science/머신러닝/KNN.md",
-    "1. Computer science/멀티미디어/학교수업/시험 메모.md",
-    "1. Computer science/멀티미디어/학교수업/이미지와 그래픽.md",
     "1. Computer science/Stable-diffusion",
     "Pasted image 20240711165302.png",
     "Pasted image 20240711165257.png",

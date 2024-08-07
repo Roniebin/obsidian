@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. English Notes/일일 단어장/1일차.md",
+                "file": "0. Index/현수티칭.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. English Notes/일일 단어장/1일차.md",
+                "file": "0. Index/현수티칭.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. English Notes/일일 단어장/1일차.md",
+                "file": "0. Index/현수티칭.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. English Notes/일일 단어장/1일차.md"
+                "file": "0. Index/현수티칭.md"
               }
             }
           },
@@ -180,10 +180,11 @@
   },
   "active": "550c0d89cb17667d",
   "lastOpenFiles": [
+    "0. Index/gpt 프롬프트.md",
+    "0. Index/To-do list.md",
+    "2. English Notes/일일 단어장/1일차.md",
     "2. English Notes/일일 단어장/21일차.md",
     "2. English Notes/일일 단어장/20일차.md",
-    "0. Index/To-do list.md",
-    "0. Index/gpt 프롬프트.md",
     "0. Index/현수티칭.md",
     "0. Index/무제 파일 1.md",
     "0. Index/무제 파일 3.md",
@@ -212,7 +213,6 @@
     "Pasted image 20240727192859.png",
     "1. Computer science/머신러닝/VGG-16.md",
     "1. Computer science/머신러닝/SVM 실습.md",
-    "1. Computer science/머신러닝/skip,dense,channel attention.md",
     "1. Computer science/Stable-diffusion",
     "Pasted image 20240711165302.png",
     "Pasted image 20240711165257.png",

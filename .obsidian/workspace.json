@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Index/현수티칭.md",
+                "file": "0. Index/To-do list.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Index/현수티칭.md",
+                "file": "0. Index/To-do list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Index/현수티칭.md",
+                "file": "0. Index/To-do list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Index/현수티칭.md"
+                "file": "0. Index/To-do list.md"
               }
             }
           },
@@ -180,12 +180,12 @@
   },
   "active": "550c0d89cb17667d",
   "lastOpenFiles": [
+    "0. Index/현수티칭.md",
     "0. Index/gpt 프롬프트.md",
     "0. Index/To-do list.md",
     "2. English Notes/일일 단어장/1일차.md",
     "2. English Notes/일일 단어장/21일차.md",
     "2. English Notes/일일 단어장/20일차.md",
-    "0. Index/현수티칭.md",
     "0. Index/무제 파일 1.md",
     "0. Index/무제 파일 3.md",
     "0. Index/무제 파일 5.md",

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. English Notes/아주좋은 표현.md",
+                "file": "2. English Notes/일일 단어장/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. English Notes/아주좋은 표현.md",
+                "file": "2. English Notes/일일 단어장/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. English Notes/아주좋은 표현.md",
+                "file": "2. English Notes/일일 단어장/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. English Notes/아주좋은 표현.md"
+                "file": "2. English Notes/일일 단어장/무제 파일.md"
               }
             }
           },
@@ -180,6 +181,8 @@
   },
   "active": "550c0d89cb17667d",
   "lastOpenFiles": [
+    "2. English Notes/아주좋은 표현.md",
+    "2. English Notes/일일 단어장/무제 파일.md",
     "2. English Notes/무제 파일.md",
     "2. English Notes/꿀문장들.md",
     "2. English Notes/고득점 단어들.md",
@@ -207,12 +210,10 @@
     "2. English Notes/일일 단어장/16일차.md",
     "2. English Notes/일일 단어장/15일차.md",
     "2. English Notes/일일 단어장/13일차.md",
-    "2. English Notes/일일 단어장/10일차.md",
     "Pasted image 20240727193056.png",
     "Pasted image 20240727192924.png",
     "Pasted image 20240727192854.png",
     "Pasted image 20240727192859.png",
-    "1. Computer science/머신러닝/VGG-16.md",
     "1. Computer science/Stable-diffusion",
     "Pasted image 20240711165302.png",
     "Pasted image 20240711165257.png",

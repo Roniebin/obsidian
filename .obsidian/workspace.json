@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. 코딩애플/Git/7. github 사용법.md",
+                "file": "3. 코딩애플/html,css/가운데정렬.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. 코딩애플/Git/7. github 사용법.md",
+                "file": "3. 코딩애플/html,css/가운데정렬.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. 코딩애플/Git/7. github 사용법.md",
+                "file": "3. 코딩애플/html,css/가운데정렬.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. 코딩애플/Git/7. github 사용법.md"
+                "file": "3. 코딩애플/html,css/가운데정렬.md"
               }
             }
           },
@@ -180,6 +180,7 @@
   },
   "active": "550c0d89cb17667d",
   "lastOpenFiles": [
+    "3. 코딩애플/Git/7. github 사용법.md",
     "3. 코딩애플/Git/1. git 설치법.md",
     "3. 코딩애플/Git/2. add,commit.md",
     "3. 코딩애플/Git/4. git branch.md",
@@ -208,7 +209,6 @@
     "2. English Notes/일일 단어장/19일차.md",
     "Pasted image 20240730172627.png",
     "Pasted image 20240729165233.png",
-    "2. English Notes/일일 단어장/18일차.md",
     "Pasted image 20240727193056.png",
     "Pasted image 20240727192924.png",
     "Pasted image 20240727192854.png",

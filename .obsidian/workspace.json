@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. 코딩애플/html,css/가운데정렬.md",
+                "file": "2. English Notes/diffrence between similar words/go over , go through.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. 코딩애플/html,css/가운데정렬.md",
+                "file": "2. English Notes/diffrence between similar words/go over , go through.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. 코딩애플/html,css/가운데정렬.md",
+                "file": "2. English Notes/diffrence between similar words/go over , go through.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. 코딩애플/html,css/가운데정렬.md"
+                "file": "2. English Notes/diffrence between similar words/go over , go through.md"
               }
             }
           },
@@ -180,14 +181,17 @@
   },
   "active": "550c0d89cb17667d",
   "lastOpenFiles": [
+    "2. English Notes/diffrence between similar words/keep,continue.md",
+    "2. English Notes/일일 단어장/무제 파일.md",
+    "1. Computer science/머신러닝/CNN.md",
+    "0. Index/To-do list.md",
+    "3. 코딩애플/html,css/가운데정렬.md",
     "3. 코딩애플/Git/7. github 사용법.md",
     "3. 코딩애플/Git/1. git 설치법.md",
     "3. 코딩애플/Git/2. add,commit.md",
     "3. 코딩애플/Git/4. git branch.md",
     "3. 코딩애플/Git/3. add,commit 쉽게.md",
-    "0. Index/To-do list.md",
     "0. Index/현수티칭.md",
-    "2. English Notes/일일 단어장/무제 파일.md",
     "2. English Notes/아주좋은 표현.md",
     "2. English Notes/무제 파일.md",
     "2. English Notes/꿀문장들.md",
@@ -203,10 +207,7 @@
     "1. Computer science/강화학습/gymnasium.md",
     "1. Computer science/기본개념/동기와 비동기.md",
     "2. English Notes/일일 단어장/14일차.md",
-    "3. 코딩애플/javascriptES6/this2.md",
-    "3. 코딩애플/javascriptES6/this1.md",
     "3. 코딩애플/javascriptES6",
-    "2. English Notes/일일 단어장/19일차.md",
     "Pasted image 20240730172627.png",
     "Pasted image 20240729165233.png",
     "Pasted image 20240727193056.png",

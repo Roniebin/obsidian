@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. English Notes/일일 단어장/병원.md",
+                "file": "0. Index/현수티칭.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. English Notes/일일 단어장/병원.md",
+                "file": "0. Index/현수티칭.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. English Notes/일일 단어장/병원.md",
+                "file": "0. Index/현수티칭.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. English Notes/일일 단어장/병원.md"
+                "file": "0. Index/현수티칭.md"
               }
             }
           },
@@ -180,17 +180,19 @@
   },
   "active": "550c0d89cb17667d",
   "lastOpenFiles": [
-    "2. English Notes/일일 단어장/무제 파일 1.md",
+    "0. Index/gpt 프롬프트.md",
+    "0. Index/To-do list.md",
+    "0. Index/현수티칭.md",
+    "1. Computer science/Stable-diffusion/용어.md",
+    "2. English Notes/일일 단어장/3일차.md",
     "2. English Notes/일일 단어장/병원.md",
+    "2. English Notes/일일 단어장/무제 파일 1.md",
     "Pasted image 20240822174651.png",
     "2. English Notes/일일 단어장/11일차.md",
     "1. Computer science/머신러닝/CNN.md",
-    "0. Index/현수티칭.md",
-    "0. Index/gpt 프롬프트.md",
     "0. Index/무제 파일 1.md",
     "0. Index/무제 파일 5.md",
     "0. Index/무제 파일 3.md",
-    "0. Index/To-do list.md",
     "3. 코딩애플/React/애니메이션.md",
     "obsidian/3. 코딩애플/React/애니메이션.md",
     "2. English Notes/diffrence between similar words/go over , go through.md",
@@ -205,7 +207,6 @@
     "2. English Notes/무제 파일.md",
     "2. English Notes/꿀문장들.md",
     "2. English Notes/고득점 단어들.md",
-    "2. English Notes/일일 단어장/1일차.md",
     "3. 코딩애플/javascriptES6",
     "Pasted image 20240730172627.png",
     "Pasted image 20240729165233.png",

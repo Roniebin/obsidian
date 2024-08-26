@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. English Notes/일일 단어장/1일차.md",
+                "file": "3. 코딩애플/javascript/step1/1. 동적 UI만드는 스텝.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fade",
+                "query": "css",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. English Notes/일일 단어장/1일차.md",
+                "file": "3. 코딩애플/javascript/step1/1. 동적 UI만드는 스텝.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. English Notes/일일 단어장/1일차.md",
+                "file": "3. 코딩애플/javascript/step1/1. 동적 UI만드는 스텝.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. English Notes/일일 단어장/1일차.md"
+                "file": "3. 코딩애플/javascript/step1/1. 동적 UI만드는 스텝.md"
               }
             }
           },
@@ -180,6 +181,15 @@
   },
   "active": "550c0d89cb17667d",
   "lastOpenFiles": [
+    "3. 코딩애플/Next js/part3/9.middleware.md",
+    "3. 코딩애플/Next js/part3/10. server actions.md",
+    "3. 코딩애플/Next js/part3/4. 댓글 조회.md",
+    "3. 코딩애플/Next js/part3/6. AWS 배포.md",
+    "3. 코딩애플/Next js/part3/7. 다크모드1.md",
+    "3. 코딩애플/Next js/part3/5. loading,error,not-found.md",
+    "3. 코딩애플/Next js/part3/8. 다크모드2.md",
+    "3. 코딩애플/Next js/part1/7. props.md",
+    "2. English Notes/일일 단어장/1일차.md",
     "0. Index/To-do list.md",
     "0. Index/현수티칭.md",
     "0. Index/gpt 프롬프트.md",
@@ -198,15 +208,6 @@
     "2. English Notes/diffrence between similar words/go over , go through.md",
     "2. English Notes/diffrence between similar words/keep,continue.md",
     "3. 코딩애플/html,css/가운데정렬.md",
-    "3. 코딩애플/Git/7. github 사용법.md",
-    "3. 코딩애플/Git/1. git 설치법.md",
-    "3. 코딩애플/Git/2. add,commit.md",
-    "3. 코딩애플/Git/4. git branch.md",
-    "3. 코딩애플/Git/3. add,commit 쉽게.md",
-    "2. English Notes/아주좋은 표현.md",
-    "2. English Notes/무제 파일.md",
-    "2. English Notes/꿀문장들.md",
-    "2. English Notes/고득점 단어들.md",
     "3. 코딩애플/javascriptES6",
     "Pasted image 20240730172627.png",
     "Pasted image 20240729165233.png",

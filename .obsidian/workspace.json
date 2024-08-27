@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. English Notes/일일 단어장/1일차.md",
+                "file": "2. English Notes/일일 단어장/병원.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,12 +86,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 201.5
   },
   "right": {
     "id": "ed3ada640fd6a8fa",
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. English Notes/일일 단어장/1일차.md",
+                "file": "2. English Notes/일일 단어장/병원.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. English Notes/일일 단어장/1일차.md",
+                "file": "2. English Notes/일일 단어장/병원.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. English Notes/일일 단어장/1일차.md"
+                "file": "2. English Notes/일일 단어장/병원.md"
               }
             }
           },
@@ -181,6 +180,18 @@
   },
   "active": "550c0d89cb17667d",
   "lastOpenFiles": [
+    "2. English Notes/구동사/2. blow away.md",
+    "Pasted image 20240827175557.png",
+    "2. English Notes/구동사/1. add up.md",
+    "Pasted image 20240827163625.png",
+    "2. English Notes/치우다를 영어로.md",
+    "2. English Notes/구동사",
+    "2. English Notes/아주좋은 표현.md",
+    "2. English Notes/무제 파일.md",
+    "2. English Notes/두려움 표현하기.md",
+    "2. English Notes/꿀문장들.md",
+    "2. English Notes/고득점 단어들.md",
+    "2. English Notes/일일 단어장/1일차.md",
     "3. 코딩애플/javascript/step1/1. 동적 UI만드는 스텝.md",
     "3. 코딩애플/Next js/part3/9.middleware.md",
     "3. 코딩애플/Next js/part3/10. server actions.md",
@@ -190,7 +201,6 @@
     "3. 코딩애플/Next js/part3/5. loading,error,not-found.md",
     "3. 코딩애플/Next js/part3/8. 다크모드2.md",
     "3. 코딩애플/Next js/part1/7. props.md",
-    "2. English Notes/일일 단어장/1일차.md",
     "0. Index/To-do list.md",
     "0. Index/현수티칭.md",
     "0. Index/gpt 프롬프트.md",
@@ -199,15 +209,6 @@
     "2. English Notes/일일 단어장/병원.md",
     "2. English Notes/일일 단어장/무제 파일 1.md",
     "Pasted image 20240822174651.png",
-    "2. English Notes/일일 단어장/11일차.md",
-    "1. Computer science/머신러닝/CNN.md",
-    "0. Index/무제 파일 1.md",
-    "0. Index/무제 파일 5.md",
-    "0. Index/무제 파일 3.md",
-    "3. 코딩애플/React/애니메이션.md",
-    "obsidian/3. 코딩애플/React/애니메이션.md",
-    "2. English Notes/diffrence between similar words/go over , go through.md",
-    "2. English Notes/diffrence between similar words/keep,continue.md",
     "3. 코딩애플/javascriptES6",
     "Pasted image 20240730172627.png",
     "Pasted image 20240729165233.png",
@@ -217,8 +218,6 @@
     "Pasted image 20240727192859.png",
     "1. Computer science/Stable-diffusion",
     "Pasted image 20240711165302.png",
-    "Pasted image 20240711165257.png",
-    "Pasted image 20240709203318.png",
     "2. English Notes/opic",
     "정보처리기사",
     "2. English Notes/일일 단어장",
@@ -226,7 +225,6 @@
     "2. English Notes/통역",
     "1. Computer science/알고리즘/탐색기법",
     "3. 코딩애플/javascript/step3",
-    "3. 코딩애플/javascript/step2",
     "obsidian/Images/무제 파일.canvas",
     "Images/무제 파일.canvas"
   ]

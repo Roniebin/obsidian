@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. English Notes/구동사/무제 파일.md",
+                "file": "2. English Notes/고득점 단어들.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. English Notes/구동사/무제 파일.md",
+                "file": "2. English Notes/고득점 단어들.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. English Notes/구동사/무제 파일.md",
+                "file": "2. English Notes/고득점 단어들.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. English Notes/구동사/무제 파일.md"
+                "file": "2. English Notes/고득점 단어들.md"
               }
             }
           },
@@ -180,15 +180,16 @@
   },
   "active": "550c0d89cb17667d",
   "lastOpenFiles": [
-    "2. English Notes/구동사/1. add up.md",
-    "2. English Notes/구동사/무제 파일.md",
+    "2. English Notes/꿀문장들.md",
+    "2. English Notes/두려움 표현하기.md",
     "2. English Notes/구동사/2. blow away.md",
+    "2. English Notes/구동사/in terms of.md",
+    "2. English Notes/구동사/1. add up.md",
     "2. English Notes/일일 단어장/20일차.md",
     "2. English Notes/일일 단어장/21일차.md",
     "2. English Notes/일일 단어장/병원.md",
     "2. English Notes/일일 단어장/1일차.md",
     "0. Index/To-do list.md",
-    "2. English Notes/두려움 표현하기.md",
     "0. Index/현수티칭.md",
     "0. Index/gpt 프롬프트.md",
     "2. English Notes/일일 단어장/10일차.md",
@@ -200,7 +201,6 @@
     "2. English Notes/구동사",
     "2. English Notes/아주좋은 표현.md",
     "2. English Notes/무제 파일.md",
-    "2. English Notes/꿀문장들.md",
     "3. 코딩애플/javascript/step1/1. 동적 UI만드는 스텝.md",
     "3. 코딩애플/Next js/part3/9.middleware.md",
     "3. 코딩애플/Next js/part3/10. server actions.md",

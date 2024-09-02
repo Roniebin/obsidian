@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. English Notes/일일 단어장/14일차.md",
+                "file": "2. English Notes/listening/14일차.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Index/현수티칭.md",
+                "file": "2. English Notes/reading/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Index/현수티칭.md",
+                "file": "2. English Notes/reading/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Index/현수티칭.md",
+                "file": "2. English Notes/reading/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Index/현수티칭.md"
+                "file": "2. English Notes/reading/무제 파일.md"
               }
             }
           },
@@ -162,7 +162,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,12 +180,16 @@
   },
   "active": "550c0d89cb17667d",
   "lastOpenFiles": [
+    "2. English Notes/무제 파일 1.md",
+    "2. English Notes/reading/무제 파일.md",
+    "2. English Notes/reading",
+    "0. Index/현수티칭.md",
     "0. Index/To-do list.md",
     "0. Index/무제 파일.md",
     "2. English Notes/구동사/in terms of.md",
     "2. English Notes/구동사/2. blow away.md",
-    "2. English Notes/일일 단어장/병원.md",
-    "2. English Notes/일일 단어장/21일차.md",
+    "2. English Notes/listening/병원.md",
+    "2. English Notes/listening/21일차.md",
     "2. English Notes/opic/opic study.md",
     "2. English Notes/opic/무제 파일 1.md",
     "2. English Notes/opic/무제 파일.md",
@@ -202,9 +207,6 @@
     "1. Computer science/멀티미디어/학교수업/이미지와 그래픽.md",
     "1. Computer science/멀티미디어/학교수업/시험 메모.md",
     "1. Computer science/강화학습/gymnasium.md",
-    "2. English Notes/꿀문장들.md",
-    "2. English Notes/무제 파일.md",
-    "2. English Notes/치우다를 영어로.md",
     "Pasted image 20240827175557.png",
     "Pasted image 20240827163625.png",
     "2. English Notes/구동사",
@@ -220,11 +222,10 @@
     "Pasted image 20240711165302.png",
     "2. English Notes/opic",
     "정보처리기사",
-    "2. English Notes/일일 단어장",
+    "2. English Notes/listening",
     "1. Computer science/컴퓨터그래픽스",
     "2. English Notes/통역",
     "1. Computer science/알고리즘/탐색기법",
-    "3. 코딩애플/javascript/step3",
     "obsidian/Images/무제 파일.canvas",
     "Images/무제 파일.canvas"
   ]

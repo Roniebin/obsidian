@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. English Notes/reading/1일차.md",
+                "file": "2. English Notes/reading/2일차.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. English Notes/reading/1일차.md",
+                "file": "2. English Notes/reading/2일차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. English Notes/reading/1일차.md",
+                "file": "2. English Notes/reading/2일차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. English Notes/reading/1일차.md"
+                "file": "2. English Notes/reading/2일차.md"
               }
             }
           },
@@ -180,18 +180,19 @@
   },
   "active": "550c0d89cb17667d",
   "lastOpenFiles": [
+    "0. Index/현수티칭.md",
+    "2. English Notes/reading/2일차.md",
+    "2. English Notes/reading/1일차.md",
     "0. Index/To-do list.md",
     "2. English Notes/아주좋은 표현.md",
     "2. English Notes/치우다를 영어로.md",
     "2. English Notes/꿀문장들.md",
     "2. English Notes/두려움 표현하기.md",
     "2. English Notes/고득점 단어들.md",
-    "2. English Notes/reading/1일차.md",
     "2. English Notes/English news/news URL.md",
     "2. English Notes/listening/1일차.md",
     "2. English Notes/무제 파일 1.md",
     "2. English Notes/reading",
-    "0. Index/현수티칭.md",
     "0. Index/무제 파일.md",
     "2. English Notes/구동사/in terms of.md",
     "2. English Notes/구동사/2. blow away.md",
@@ -206,7 +207,6 @@
     "1. Computer science/javascript/객체.md",
     "1. Computer science/임배디드 시스템/아두이노/센서/조이스틱.md",
     "1. Computer science/임배디드 시스템/아두이노/센서/마이크로폰 모듈.md",
-    "1. Computer science/머신러닝/MLP.md",
     "Pasted image 20240827175557.png",
     "Pasted image 20240827163625.png",
     "2. English Notes/구동사",

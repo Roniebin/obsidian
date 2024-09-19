@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Index/To-do list.md",
+                "file": "2. English Notes/reading/13일차.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,8 +86,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Index/To-do list.md",
+                "file": "2. English Notes/reading/13일차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Index/To-do list.md",
+                "file": "2. English Notes/reading/13일차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Index/To-do list.md"
+                "file": "2. English Notes/reading/13일차.md"
               }
             }
           },
@@ -181,9 +180,11 @@
   },
   "active": "550c0d89cb17667d",
   "lastOpenFiles": [
+    "2. English Notes/reading/12일차.md",
+    "2. English Notes/reading/13일차.md",
+    "0. Index/To-do list.md",
     "0. Index/현수티칭.md",
     "0. Index/무제 파일.md",
-    "2. English Notes/reading/12일차.md",
     "2. English Notes/reading/11일차.md",
     "2. English Notes/reading/9일차.md",
     "2. English Notes/reading/8일차.md",
@@ -196,7 +197,6 @@
     "2. English Notes/reading/1일차.md",
     "2. English Notes/listening/21일차.md",
     "2. English Notes/listening/16일차.md",
-    "0. Index/To-do list.md",
     "0. Index/gpt 프롬프트.md",
     "1. Computer science/무제 파일.md",
     "1. Computer science/머신러닝/CNN.md",
@@ -206,7 +206,6 @@
     "1. Computer science/머신러닝/skip,dense,channel attention.md",
     "1. Computer science/머신러닝/SGD(확률적 경사하강법).md",
     "1. Computer science/머신러닝/gradient descent.md",
-    "1. Computer science/머신러닝/Basecode_Simplified_VGG_CIFAR10.md",
     "2. English Notes/reading",
     "Pasted image 20240827175557.png",
     "Pasted image 20240827163625.png",

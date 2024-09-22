@@ -86,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -180,8 +181,9 @@
   },
   "active": "550c0d89cb17667d",
   "lastOpenFiles": [
-    "2. English Notes/reading/13일차.md",
+    "0. Index/gpt 프롬프트.md",
     "2. English Notes/reading/12일차.md",
+    "2. English Notes/reading/13일차.md",
     "0. Index/To-do list.md",
     "0. Index/현수티칭.md",
     "0. Index/무제 파일.md",
@@ -197,7 +199,6 @@
     "2. English Notes/reading/1일차.md",
     "2. English Notes/listening/21일차.md",
     "2. English Notes/listening/16일차.md",
-    "0. Index/gpt 프롬프트.md",
     "1. Computer science/무제 파일.md",
     "1. Computer science/머신러닝/CNN.md",
     "1. Computer science/머신러닝/MLP.md",

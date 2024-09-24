@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. English Notes/reading/무제 파일.md",
+                "file": "0. Index/To-do list.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. English Notes/reading/무제 파일.md",
+                "file": "0. Index/To-do list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. English Notes/reading/무제 파일.md",
+                "file": "0. Index/To-do list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. English Notes/reading/무제 파일.md"
+                "file": "0. Index/To-do list.md"
               }
             }
           },
@@ -180,9 +181,9 @@
   },
   "active": "550c0d89cb17667d",
   "lastOpenFiles": [
+    "2. English Notes/reading/무제 파일.md",
     "KakaoTalk_20240924_111505108 2.jpg",
     "KakaoTalk_20240924_111505108 1.jpg",
-    "2. English Notes/reading/무제 파일.md",
     "KakaoTalk_20240924_111505108.jpg",
     "0. Index/To-do list.md",
     "2. English Notes/reading/7일차.md",
@@ -218,7 +219,6 @@
     "Pasted image 20240729165233.png",
     "Pasted image 20240727193056.png",
     "Pasted image 20240727192924.png",
-    "Pasted image 20240727192854.png",
     "1. Computer science/Stable-diffusion",
     "2. English Notes/opic",
     "정보처리기사",

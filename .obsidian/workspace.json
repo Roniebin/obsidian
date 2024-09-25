@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Index/To-do list.md",
+                "file": "2. English Notes/reading/17일차.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ed3ada640fd6a8fa",
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. English Notes/listening/14일차.md",
+                "file": "2. English Notes/reading/17일차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. English Notes/listening/14일차.md",
+                "file": "2. English Notes/reading/17일차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. English Notes/listening/14일차.md"
+                "file": "2. English Notes/reading/17일차.md"
               }
             }
           },
@@ -179,9 +178,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5bf4790e9cc28b25",
+  "active": "550c0d89cb17667d",
   "lastOpenFiles": [
-    "2. English Notes/reading/무제 파일.md",
+    "2. English Notes/reading/16일차.md",
+    "2. English Notes/reading/17일차.md",
+    "2. English Notes/listening/14일차.md",
     "KakaoTalk_20240924_111505108 2.jpg",
     "KakaoTalk_20240924_111505108 1.jpg",
     "KakaoTalk_20240924_111505108.jpg",
@@ -208,7 +209,6 @@
     "1. Computer science/무제 파일.md",
     "1. Computer science/머신러닝/CNN.md",
     "1. Computer science/머신러닝/MLP.md",
-    "1. Computer science/머신러닝/KNN.md",
     "2. English Notes/reading",
     "Pasted image 20240827175557.png",
     "Pasted image 20240827163625.png",

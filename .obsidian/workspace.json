@@ -25,14 +25,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. English Notes/reading/17일차.md",
+                "file": "2. English Notes/reading/16일차.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "279f2a86c435ba8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 파일.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. English Notes/reading/17일차.md",
+                "file": "2. English Notes/listening/14일차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. English Notes/reading/17일차.md",
+                "file": "2. English Notes/listening/14일차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. English Notes/reading/17일차.md"
+                "file": "2. English Notes/listening/14일차.md"
               }
             }
           },
@@ -178,37 +189,39 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "550c0d89cb17667d",
+  "active": "5bf4790e9cc28b25",
   "lastOpenFiles": [
+    "무제 폴더 2",
+    "무제 폴더 1",
+    "무제 파일.md",
     "2. English Notes/reading/16일차.md",
+    "무제 폴더",
+    "2. English Notes/reading/15일차.md",
+    "2. English Notes/reading/14일차.md",
+    "2. English Notes/reading/13일차.md",
+    "2. English Notes/reading/12일차.md",
+    "2. English Notes/reading/11일차.md",
+    "2. English Notes/reading/9일차.md",
+    "2. English Notes/reading/8일차.md",
+    "2. English Notes/reading/7일차.md",
+    "2. English Notes/reading/6일차.md",
+    "2. English Notes/reading/5일차.md",
+    "2. English Notes/reading/4일차.md",
     "2. English Notes/reading/17일차.md",
     "2. English Notes/listening/14일차.md",
     "KakaoTalk_20240924_111505108 2.jpg",
     "KakaoTalk_20240924_111505108 1.jpg",
     "KakaoTalk_20240924_111505108.jpg",
     "0. Index/To-do list.md",
-    "2. English Notes/reading/7일차.md",
-    "2. English Notes/reading/6일차.md",
-    "2. English Notes/reading/5일차.md",
-    "2. English Notes/reading/4일차.md",
     "2. English Notes/reading/3일차.md",
     "2. English Notes/reading/2일차.md",
     "2. English Notes/reading/1일차.md",
-    "2. English Notes/reading/11일차.md",
-    "2. English Notes/reading/12일차.md",
-    "2. English Notes/reading/14일차.md",
-    "2. English Notes/reading/15일차.md",
-    "2. English Notes/reading/13일차.md",
     "0. Index/현수티칭.md",
     "0. Index/gpt 프롬프트.md",
     "0. Index/무제 파일.md",
-    "2. English Notes/reading/9일차.md",
-    "2. English Notes/reading/8일차.md",
     "2. English Notes/listening/21일차.md",
     "2. English Notes/listening/16일차.md",
     "1. Computer science/무제 파일.md",
-    "1. Computer science/머신러닝/CNN.md",
-    "1. Computer science/머신러닝/MLP.md",
     "2. English Notes/reading",
     "Pasted image 20240827175557.png",
     "Pasted image 20240827163625.png",
@@ -224,8 +237,6 @@
     "정보처리기사",
     "2. English Notes/listening",
     "1. Computer science/컴퓨터그래픽스",
-    "2. English Notes/통역",
-    "1. Computer science/알고리즘/탐색기법",
     "obsidian/Images/무제 파일.canvas",
     "Images/무제 파일.canvas"
   ]

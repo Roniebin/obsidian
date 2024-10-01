@@ -97,8 +97,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -189,7 +188,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0292aac2b7b69ad6",
+  "active": "5bf4790e9cc28b25",
   "lastOpenFiles": [
     "0. Index/To-do list.md",
     "0. Index/gpt 프롬프트.md",

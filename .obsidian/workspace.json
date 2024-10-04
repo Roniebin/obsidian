@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. English Notes/reading/23일차.md",
+                "file": "0. Index/To-do list.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -117,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. English Notes/reading/23일차.md",
+                "file": "0. Index/To-do list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. English Notes/reading/23일차.md",
+                "file": "0. Index/To-do list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. English Notes/reading/23일차.md"
+                "file": "0. Index/To-do list.md"
               }
             }
           },
@@ -190,13 +191,13 @@
   },
   "active": "0292aac2b7b69ad6",
   "lastOpenFiles": [
-    "2. English Notes/reading/19일차!.md",
+    "0. Index/gpt 프롬프트.md",
     "2. English Notes/reading/23일차.md",
+    "2. English Notes/reading/19일차!.md",
     "2. English Notes/reading/20일차.md",
     "2. English Notes/reading/21일차.md",
     "2. English Notes/reading/22일차.md",
     "0. Index/To-do list.md",
-    "0. Index/gpt 프롬프트.md",
     "2. English Notes/Simple_Expression/that's not my bag.md",
     "2. English Notes/Simple_Expression/better yet.md",
     "2. English Notes/Simple_Expression/by all means.md",

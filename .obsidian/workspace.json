@@ -11,8 +11,12 @@
             "id": "0292aac2b7b69ad6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "0. Index/To-do list.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -113,6 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0. Index/To-do list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "0. Index/To-do list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +156,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "0. Index/To-do list.md"
+              }
             }
           },
           {
@@ -183,6 +191,7 @@
   },
   "active": "0292aac2b7b69ad6",
   "lastOpenFiles": [
+    "2. English Notes/reading/25일차.md",
     "2. English Notes/통역/샤론최.md",
     "obsidian/1. Computer science/알고리즘/트리/플로이드 알고리즘.md",
     "1. Computer science/react/조건부 랜더링.md",
@@ -211,7 +220,6 @@
     "2. English Notes/listening/14일차.md",
     "무제 폴더 2",
     "무제 폴더 1",
-    "무제 파일.md",
     "무제 폴더",
     "KakaoTalk_20240924_111505108 2.jpg",
     "KakaoTalk_20240924_111505108 1.jpg",

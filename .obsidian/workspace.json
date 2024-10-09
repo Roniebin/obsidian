@@ -11,12 +11,8 @@
             "id": "0292aac2b7b69ad6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. Index/To-do list.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -97,8 +93,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -118,7 +113,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Index/To-do list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +129,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Index/To-do list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +150,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "0. Index/To-do list.md"
-              }
+              "state": {}
             }
           },
           {
@@ -192,32 +183,32 @@
   },
   "active": "0292aac2b7b69ad6",
   "lastOpenFiles": [
-    "2. English Notes/reading/무제 파일.md",
-    "2. English Notes/opic/opic study.md",
-    "0. Index/To-do list.md",
-    "2. English Notes/reading/26일차.md",
-    "2. English Notes/reading/22일차.md",
-    "2. English Notes/reading/15일차.md",
-    "2. English Notes/reading/25일차.md",
-    "2. English Notes/통역/샤론최.md",
-    "obsidian/1. Computer science/알고리즘/트리/플로이드 알고리즘.md",
-    "1. Computer science/react/조건부 랜더링.md",
-    "정보처리기사/IPv6.md",
-    "정보처리기사/EAI.md",
-    "2. English Notes/reading/24일차.md",
-    "0. Index/gpt 프롬프트.md",
-    "2. English Notes/reading/23일차.md",
-    "2. English Notes/reading/19일차!.md",
-    "2. English Notes/reading/20일차.md",
-    "2. English Notes/reading/21일차.md",
-    "2. English Notes/Simple_Expression/that's not my bag.md",
-    "2. English Notes/Simple_Expression/better yet.md",
-    "2. English Notes/Simple_Expression/by all means.md",
+    "2. English Notes/opic/무제 파일 1.md",
     "2. English Notes/Simple_Expression/is it just me.md",
-    "2. English Notes/reading/18일차.md",
-    "2. English Notes/reading/17일차.md",
-    "2. English Notes/reading/16일차.md",
-    "2. English Notes/reading/14일차.md",
+    "2. English Notes/Simple_Expression/by all means.md",
+    "2. English Notes/Simple_Expression/better yet.md",
+    "2. English Notes/고득점 단어들.md",
+    "2. English Notes/opic/무제 파일.md",
+    "2. English Notes/opic/2일차.md",
+    "2. English Notes/English news/news URL.md",
+    "2. English Notes/통역/샤론최.md",
+    "1. Computer science/멀티미디어/JPEG,GIF,PNG.md",
+    "1. Computer science/멀티미디어/SGML,HTML,XML.md",
+    "1. Computer science/멀티미디어/DCT.md",
+    "1. Computer science/멀티미디어/플래시 메모리.md",
+    "1. Computer science/멀티미디어/인터페이스카드.md",
+    "1. Computer science/기본개념/동기와 비동기.md",
+    "1. Computer science/멀티미디어/학교수업/시험 메모.md",
+    "1. Computer science/멀티미디어/학교수업/비디오압축.md",
+    "1. Computer science/멀티미디어/저작도구.md",
+    "1. Computer science/멀티미디어/이미지처리.md",
+    "0. Index/현수티칭.md",
+    "1. Computer science/기본개념/무제 파일.md",
+    "1. Computer science/react/조건부 랜더링.md",
+    "1. Computer science/react/생명주기.md",
+    "2. English Notes/무제 파일 1.md",
+    "2. English Notes/아주좋은 표현.md",
+    "2. English Notes/치우다를 영어로.md",
     "Pasted image 20240929155102.png",
     "무제 폴더 2",
     "무제 폴더 1",

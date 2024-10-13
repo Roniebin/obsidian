@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. English Notes/reading/무제 파일.md",
+                "file": "0. Index/To-do list.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. English Notes/reading/무제 파일.md",
+                "file": "0. Index/To-do list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. English Notes/reading/무제 파일.md",
+                "file": "0. Index/To-do list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. English Notes/reading/무제 파일.md"
+                "file": "0. Index/To-do list.md"
               }
             }
           },
@@ -192,8 +192,8 @@
   },
   "active": "0292aac2b7b69ad6",
   "lastOpenFiles": [
-    "0. Index/To-do list.md",
     "2. English Notes/reading/무제 파일.md",
+    "0. Index/To-do list.md",
     "2. English Notes/reading/31일차.md",
     "2. English Notes/reading/30일차.md",
     "2. English Notes/reading/29일차.md",
@@ -239,6 +239,4 @@
     "정보처리기사",
     "2. English Notes/listening",
     "obsidian/Images/무제 파일.canvas",
-    "Images/무제 파일.canvas"
-  ]
-}
+    "Images/�

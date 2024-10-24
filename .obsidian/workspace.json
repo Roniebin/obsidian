@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. English Notes/reading/34일차.md",
+                "file": "0. Index/To-do list.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "34일차"
+              "title": "To-do list"
             }
           },
           {
@@ -120,10 +120,12 @@
             "id": "8d8cdb5144b60f13",
             "type": "leaf",
             "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Spaces"
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
             }
           }
         ]
@@ -230,8 +232,8 @@
   },
   "active": "24a8e79f96291633",
   "lastOpenFiles": [
-    "0. Index/To-do list.md",
     "2. English Notes/reading/34일차.md",
+    "0. Index/To-do list.md",
     "0. Index/gpt 프롬프트.md",
     "2. English Notes/reading/24일차.md",
     "2. English Notes/reading/2일차.md",

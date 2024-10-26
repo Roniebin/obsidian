@@ -117,15 +117,13 @@
             }
           },
           {
-            "id": "6fc6bddd021a52af",
+            "id": "a1b6beb2f290c216",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "파일 탐색기"
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Spaces"
             }
           }
         ]
@@ -230,7 +228,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "24a8e79f96291633",
+  "active": "5bf4790e9cc28b25",
   "lastOpenFiles": [
     "1. Computer science/머신러닝/시험 실습코드연습/skip,dense,attention.md",
     "1. Computer science/머신러닝/시험 실습코드연습/MLP.md",

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. English Notes/reading/36일차.md",
+                "file": "0. Index/To-do list.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "36일차"
+              "title": "To-do list"
             }
           },
           {
@@ -126,8 +126,7 @@
               "title": "Spaces"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -231,8 +230,8 @@
   },
   "active": "24a8e79f96291633",
   "lastOpenFiles": [
-    "2. English Notes/reading/35일차.md",
     "2. English Notes/reading/36일차.md",
+    "2. English Notes/reading/35일차.md",
     "0. Index/To-do list.md",
     "1. Computer science/머신러닝/시험 실습코드연습/skip,dense,attention.md",
     "1. Computer science/머신러닝/시험 실습코드연습/MLP.md",

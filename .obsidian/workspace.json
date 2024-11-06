@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Index/To-do list.md",
+                "file": "1. Computer science/머신러닝/VGG-16.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "To-do list"
+              "title": "VGG-16"
             }
           },
           {
@@ -230,8 +230,8 @@
   },
   "active": "24a8e79f96291633",
   "lastOpenFiles": [
-    "2. English Notes/reading/38일차.md",
     "0. Index/To-do list.md",
+    "2. English Notes/reading/38일차.md",
     "2. English Notes/reading/37일차.md",
     "0. Index/gpt 프롬프트.md",
     "2. English Notes/reading/36일차.md",

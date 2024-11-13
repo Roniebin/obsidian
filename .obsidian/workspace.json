@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "93faf889f0cdc332",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
+          },
+          {
             "id": "550c0d89cb17667d",
             "type": "leaf",
             "state": {
@@ -64,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -117,7 +129,7 @@
             }
           },
           {
-            "id": "8b80bcb64e30958f",
+            "id": "419a62b90a744e08",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -126,7 +138,8 @@
               "title": "Spaces"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -228,7 +241,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "24a8e79f96291633",
+  "active": "93faf889f0cdc332",
   "lastOpenFiles": [
     "0. Index/To-do list.md",
     "2. English Notes/reading/38일차.md",

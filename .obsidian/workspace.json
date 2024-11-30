@@ -159,15 +159,13 @@
             }
           },
           {
-            "id": "666c0bbf860786bf",
+            "id": "cb3f23af11355b67",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "파일 탐색기"
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Spaces"
             }
           }
         ]
@@ -272,7 +270,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "59374d252988022e",
+  "active": "5bf4790e9cc28b25",
   "lastOpenFiles": [
     "0. Index/무제 파일.md",
     "2. English Notes/Simple_Expression/is it just me.md",

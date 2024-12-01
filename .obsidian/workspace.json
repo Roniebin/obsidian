@@ -105,8 +105,7 @@
               "title": "무제 파일"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,15 +158,13 @@
             }
           },
           {
-            "id": "cb3f23af11355b67",
+            "id": "6b5f20980bbe10fa",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "파일 탐색기"
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Spaces"
             }
           }
         ]
@@ -272,34 +269,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "59374d252988022e",
+  "active": "0292aac2b7b69ad6",
   "lastOpenFiles": [
-    "2. English Notes/reading/39일차.md",
+    "0. Index/gpt 프롬프트.md",
     "0. Index/To-do list.md",
+    "2. English Notes/치우다를 영어로.md",
+    "2. English Notes/아주좋은 표현.md",
+    "2. English Notes/무제 파일.md",
+    "2. English Notes/두려움 표현하기.md",
+    "2. English Notes/고득점 단어들.md",
+    "2. English Notes/Grammar/목적어로 to 부정사.md",
+    "2. English Notes/Grammar/목적어로 동명사.md",
+    "2. English Notes/reading/18일차.md",
+    "2. English Notes/reading/11일차.md",
+    "2. English Notes/reading/3일차.md",
+    "2. English Notes/무제 파일 1.md",
+    "2. English Notes/reading/40일차.md",
+    "2. English Notes/reading/39일차.md",
     "0. Index/현수티칭.md",
-    "2. English Notes/reading/무제 파일.md",
     "0. Index/무제 파일.md",
     "2. English Notes/Simple_Expression/is it just me.md",
-    "2. English Notes/고득점 단어들.md",
     "2. English Notes/꿀문장들.md",
-    "2. English Notes/아주좋은 표현.md",
-    "2. English Notes/치우다를 영어로.md",
     "2. English Notes/get관련한 동사들.md",
     "2. English Notes/opic/무제 파일 1.md",
     "2. English Notes/opic/opic study.md",
     "2. English Notes/opic/2일차.md",
     "2. English Notes/reading/38일차.md",
     "2. English Notes/reading/37일차.md",
-    "0. Index/gpt 프롬프트.md",
     "2. English Notes/reading/36일차.md",
-    "2. English Notes/reading/35일차.md",
-    "1. Computer science/머신러닝/시험 실습코드연습/skip,dense,attention.md",
-    "1. Computer science/머신러닝/시험 실습코드연습/MLP.md",
-    "1. Computer science/머신러닝/시험 실습코드연습/KNN.md",
-    "1. Computer science/머신러닝/Basecode_Simplified_VGG_CIFAR10.md",
-    "1. Computer science/머신러닝/CNN.md",
-    "2. English Notes/Grammar/To verb.md",
-    "1. Computer science/머신러닝/skip,dense,channel attention.md",
     "Pasted image 20240929155102.png",
     "무제 폴더 2",
     "무제 폴더 1",

@@ -158,15 +158,13 @@
             }
           },
           {
-            "id": "6b5f20980bbe10fa",
+            "id": "5bf4172d4e67cf52",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "파일 탐색기"
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Spaces"
             }
           }
         ]
@@ -282,7 +280,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0292aac2b7b69ad6",
+  "active": "5bf4790e9cc28b25",
   "lastOpenFiles": [
     "2. English Notes/reading/3일차.md",
     "2. English Notes/reading/2일차.md",

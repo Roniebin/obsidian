@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Index/To-do list.md",
+                "file": "0. Index/현수티칭.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "To-do list"
+              "title": "현수티칭"
             }
           },
           {
@@ -167,8 +167,7 @@
               "title": "Spaces"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -281,15 +280,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5bf4790e9cc28b25",
+  "active": "0292aac2b7b69ad6",
   "lastOpenFiles": [
+    "0. Index/To-do list.md",
     "1. Computer science/멀티미디어/DCT.md",
     "1. Computer science/멀티미디어/플래시 메모리.md",
     "1. Computer science/멀티미디어/저작도구.md",
     "1. Computer science/멀티미디어/인터페이스카드.md",
     "1. Computer science/멀티미디어/그래픽 카드.md",
     "2. English Notes/구동사/2. blow away.md",
-    "0. Index/To-do list.md",
     "2. English Notes/맛표현.md",
     "2. English Notes/reading/1일차.md",
     "2. English Notes/reading/3일차.md",

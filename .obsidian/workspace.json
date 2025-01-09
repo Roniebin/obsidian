@@ -105,7 +105,8 @@
               "title": "무제 파일"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -281,8 +282,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0292aac2b7b69ad6",
+  "active": "279f2a86c435ba8f",
   "lastOpenFiles": [
+    "2. English Notes/고득점 단어들.md",
     "0. Index/무제 파일.md",
     "0. Index/현수티칭.md",
     "0. Index/To-do list.md",
@@ -307,7 +309,6 @@
     "2. English Notes/아주좋은 표현.md",
     "2. English Notes/무제 파일.md",
     "2. English Notes/두려움 표현하기.md",
-    "2. English Notes/고득점 단어들.md",
     "2. English Notes/Grammar/목적어로 to 부정사.md",
     "Pasted image 20240929155102.png",
     "무제 폴더 2",

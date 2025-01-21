@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/2. English Notes/Simple_Expression/by all means.md",
+                "file": "5.엑셀/무제 파일.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "by all means"
+              "title": "무제 파일"
             }
           },
           {
@@ -167,12 +167,12 @@
               "title": "Spaces"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ed3ada640fd6a8fa",
@@ -283,6 +283,11 @@
   },
   "active": "0292aac2b7b69ad6",
   "lastOpenFiles": [
+    "obsidian/2. English Notes/Simple_Expression/by all means.md",
+    "5.엑셀/무제 파일.md",
+    "5.엑셀",
+    "5. 엑셀/엑셀기능.md",
+    "5. 엑셀",
     "2. English Notes/opic/2일차.md",
     "2. English Notes/아주좋은 표현.md",
     "2. English Notes/opic/무제 파일.md",
@@ -301,20 +306,16 @@
     "1. Computer science/멀티미디어/플래시 메모리.md",
     "1. Computer science/멀티미디어/이미지처리.md",
     "obsidian/1. Computer science/임배디드 시스템/아두이노/전기전자기초/전압과 전류.md",
-    "obsidian/2. English Notes/Simple_Expression/by all means.md",
     "obsidian/2. English Notes/Simple_Expression/better yet.md",
     "obsidian/2. English Notes/Grammar/목적어로 동명사.md",
     "obsidian/2. English Notes/diffrence between similar words/specially, especially.md",
     "obsidian/2. English Notes/diffrence between similar words/readiness, willingness.md",
     "무제 파일.md",
-    "obsidian/conflict-files-obsidian-git.md",
-    "2. English Notes/고득점 단어들.md",
     "Pasted image 20250119110439.png",
     "2. English Notes/영어인터뷰",
     "Pasted image 20240929155102.png",
     "무제 폴더 2",
     "무제 폴더 1",
-    "무제 폴더",
     "KakaoTalk_20240924_111505108 2.jpg",
     "KakaoTalk_20240924_111505108 1.jpg",
     "KakaoTalk_20240924_111505108.jpg",
@@ -328,7 +329,6 @@
     "Pasted image 20240729165233.png",
     "1. Computer science/Stable-diffusion",
     "2. English Notes/opic",
-    "정보처리기사",
     "obsidian/Images/무제 파일.canvas",
     "Images/무제 파일.canvas"
   ]

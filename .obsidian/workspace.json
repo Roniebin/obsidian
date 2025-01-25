@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Index/To-do list.md",
+                "file": "2. English Notes/reading/1일차.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "To-do list"
+              "title": "1일차"
             }
           }
         ]
@@ -198,10 +198,22 @@
   },
   "active": "e1bde047b2184434",
   "lastOpenFiles": [
+    "2. English Notes/오늘의문장/무제 파일.md",
+    "2. English Notes/reading/1일차.md",
+    "2. English Notes/오늘의문장",
+    "2. English Notes/reading/3일차.md",
+    "2. English Notes/reading/2일차.md",
+    "2. English Notes/words/gym words.md",
+    "2. English Notes/words/hold something back.md",
+    "2. English Notes/words/immaculate.md",
+    "2. English Notes/무제 파일.md",
+    "2. English Notes/무제 파일 1.md",
+    "2. English Notes/무제 파일 2.md",
     "0. Index/무제 파일.md",
+    "무제 파일.md",
+    "0. Index/To-do list.md",
     "5.엑셀/엑셀 꿀 기능.md",
     "0. Index/gpt 프롬프트.md",
-    "0. Index/To-do list.md",
     "Pasted image 20250123155359.png",
     "Pasted image 20250123135849.png",
     "Pasted image 20250123135848.png",
@@ -218,17 +230,6 @@
     "5.엑셀",
     "5. 엑셀/엑셀기능.md",
     "5. 엑셀",
-    "2. English Notes/opic/2일차.md",
-    "2. English Notes/아주좋은 표현.md",
-    "2. English Notes/opic/무제 파일.md",
-    "2. English Notes/opic/무제 파일 1.md",
-    "2. English Notes/opic/opic study.md",
-    "2. English Notes/구동사/in terms of.md",
-    "2. English Notes/구동사/2. blow away.md",
-    "2. English Notes/구동사/1. add up.md",
-    "정보처리기사/인터페이스.md",
-    "정보처리기사/암호화.md",
-    "정보처리기사/블랙화이트박스테스트.md",
     "Pasted image 20250119110439.png",
     "2. English Notes/영어인터뷰",
     "Pasted image 20240929155102.png",
@@ -243,7 +244,6 @@
     "2. English Notes/구동사",
     "3. 코딩애플/javascriptES6",
     "1. Computer science/Stable-diffusion",
-    "2. English Notes/opic",
     "obsidian/Images/무제 파일.canvas",
     "Images/무제 파일.canvas"
   ]

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. English Notes/reading/1일차.md",
+                "file": "5.엑셀/엑셀 꿀 기능.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1일차"
+              "title": "엑셀 꿀 기능"
             }
           }
         ]
@@ -83,8 +83,7 @@
               "title": "Spaces"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -199,8 +198,8 @@
   },
   "active": "e1bde047b2184434",
   "lastOpenFiles": [
-    "2. English Notes/오늘의문장/무제 파일.md",
     "2. English Notes/reading/1일차.md",
+    "2. English Notes/오늘의문장/무제 파일.md",
     "2. English Notes/오늘의문장",
     "2. English Notes/reading/3일차.md",
     "2. English Notes/reading/2일차.md",
